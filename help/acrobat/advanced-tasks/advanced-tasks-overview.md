@@ -1,0 +1,111 @@
+---
+title: Überblick über erweiterte Aufgaben
+description: Mit diesen erweiterten Werkzeugen in Acrobat
+role: User
+product: adobe acrobat
+level: Experienced
+thumbnail: KT-6857.jpg
+exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
+source-git-commit: bfdfb6c9b4d3bb76d8526b0c0f8707c20cf26b5a
+workflow-type: tm+mt
+source-wordcount: '197'
+ht-degree: 3%
+
+---
+
+# Überblick über erweiterte Aufgaben
+
+![Erste Schritte mit Acrobat](../assets/Hero-AdvancedTasks.png)
+
+Mit diesen erweiterten Werkzeugen von Acrobat DC können Sie über die Grundlagen hinausgehen. Erfahren Sie, wie Sie eine Aktion erstellen, um alltägliche Aufgaben zu wiederholen, vertrauliche Informationen zu entfernen, große Dateien zu reduzieren und zu optimieren, schnell Formulardaten zu sammeln und universell zugängliche PDF-Dateien zu erstellen.
+
+## Acrobat-Tutorials
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="compare.md">
+      <img alt="Unterschiede zwischen zwei PDF-Dateien erkennen" src="../assets/Compare_1280.png" />
+    </a>
+    <div>
+    <a href="compare.md"><strong>Unterschiede zwischen zwei PDF-Dateien erkennen</strong></a>
+    </div>
+    <em>Erkennen Sie schnell und präzise die Unterschiede zwischen zwei PDF-Dateien, um die Arbeitsabläufe bei der Dokumentenüberprüfung zu verbessern</em>
+    <br>
+  </td>
+  <td>
+    <a href="action.md">
+      <img alt="Aktionsassistent" src="../assets/Action.jpg" />
+    </a>
+    <div>
+    <a href="action.md"><strong>Aktionsassistent</strong></a>
+    </div>
+    <em>Aktion erstellen, um eine Gruppe von Befehlen automatisch auf eine oder mehrere Dateien anzuwenden</em>
+    <br>
+  </td>
+  <td>
+    <a href="redact.md">
+      <img alt="Schwärzen und Bereinigen" src="../assets/Redact.jpg" />
+    </a>
+    <div>
+    <a href="redact.md"><strong>Schwärzen und Bereinigen</strong></a>
+    </div>
+    <em>Private oder sensible Informationen endgültig aus der PDF-Datei entfernen</em>
+    <br>
+  </td>  
+</tr>
+<tr>
+  <td>
+    <a href="reduce.md">
+      <img alt="Dateigröße reduzieren und optimieren" src="../assets/Reduce.jpg" />
+    </a>
+    <div>
+    <a href="reduce.md"><strong>Dateigröße reduzieren und optimieren</strong></a>
+    </div>
+    <em>Reduzieren Sie große Dateien und optimieren Sie PDF-Dateien, ohne die Qualität von Freigabe, Veröffentlichung oder Archivierung zu beeinträchtigen.</em>
+    <br>
+  </td>
+  <td>
+    <a href="formdata.md">
+      <img alt="Aktionsassistent" src="../assets/FormData.jpg" />
+    </a>
+    <div>
+    <a href="formdata.md"><strong>Arbeiten mit Formulardaten</strong></a>
+    </div>
+    <em>Formulardaten in eine einzelne Tabelle kompilieren</em>
+    <br>
+  </td>
+  <td>
+    <a href="accessibility.md">
+      <img alt="Vorbereiten barrierefreier PDF-Dateien" src="../assets/PreparingAccessible.jpg" />
+    </a>
+    <div>
+    <a href="accessibility.md"><strong>Vorbereiten von barrierefreien PDF-Dateien</strong></a>
+    </div>
+    <em>PDF-Dateien erstellen</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="accessibility-series.md">
+      <img alt="Vorbereiten barrierefreier PDF-Dateien" src="../assets/Accessibilityseries_1280.png" />
+    </a>
+    <div>
+    <a href="accessibility-series.md"><strong>Acrobat Accessibility-Serie</strong></a>
+    </div>
+    <em>In dieser sechsteiligen On-Demand-Webinarreihe können Sie von den Grundlagen der Barrierefreiheit zu einem tiefen Einstieg in das Tagging Ihrer PDF-Dateien übergehen</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Abstand" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Abstand" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
