@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat-Tutorials
-source-git-commit: e59d56662ae9325fe1bcea5f067f847b25c396c3
+source-git-commit: 315ecb65a53d4f76f5ae12a12ff4207ac1f0d01d
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 14%
+source-wordcount: '281'
+ht-degree: 13%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 14%
 + Erste Schritte {#getting-started}
    + [Übersicht](getting-started/getting-started-overview.md)
    + [Lernen Sie die Acrobat DC-Benutzeroberfläche kennen](getting-started/get-to-know-the-acrobat-dc-interface.md)
-   + [Woher kommen PDF-Dateien?](getting-started/where-do-pdfs-come-from.md)
+   + [Mit Acrobat Web arbeiten](getting-started/acrobatweb.md)
    + [Dateien zu einer PDF-Datei kombinieren](getting-started/combine-to-pdf.md)
    + [PDF-Dateien erstellen](getting-started/create-pdf.md)
    + [PDF-Dateien in Acrobat DC kommentieren](getting-started/comment-on-pdf-files.md)
@@ -33,6 +33,7 @@ ht-degree: 14%
    + [Organisieren von Seiten](getting-started/organize.md)
    + [Protect einer PDF-Datei mit einem Kennwort](getting-started/password-protect.md)
    + [PDF-Formular ausfüllen und unterschreiben](getting-started/fill-and-sign.md)
+   + [Woher kommen PDF-Dateien?](getting-started/where-do-pdfs-come-from.md)
 + Erweiterte Aufgaben {#advanced-tasks}
    + [Übersicht](advanced-tasks/advanced-tasks-overview.md)
    + [Unterschiede zwischen zwei PDF-Dateien erkennen](advanced-tasks/compare.md)
