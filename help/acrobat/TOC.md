@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat-Tutorials
-source-git-commit: 625a9e393a3326d241b7019d98252330d6bf1669
+source-git-commit: dacb0b4177dec2be1df8f2e3978f3d0a470403c6
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '288'
 ht-degree: 11%
 
 ---
@@ -65,7 +65,7 @@ ht-degree: 11%
    + [Übersicht](integrate/integrate-overview.md)
    + [PDF aus [!DNL Microsoft Word] erstellen](integrate/createfromword.md)
    + [PDF-Dateien für das Web erstellen [!DNL Office] ](integrate/createofficeweb.md)
-   + [[!DNL Microsoft Teams]](integrate/acrobatandteams.md)
+   + [PDF-Zusammenarbeit in [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
    + [Arbeiten mit SharePoint-Dateien](integrate/acrobatandsp.md)
    + [E-Mail-Nachrichten und Anhänge in Outlook in PDF konvertieren](integrate/outlook.md)
    + [PDF-Inhalt beim Durchsuchen mit Microsoft Edge erstellen](integrate/edge.md)
