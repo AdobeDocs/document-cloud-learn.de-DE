@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 85117d10744e8a2c9c18579d1f4b94c0a6516040
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '161'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 ![Acrobat Hero Image](assets/Hero_Acrobat.jpg)
 
-Adobe Acrobat, eine Adobe Document Cloud-Lösung, unterstützt Sie beim Umsetzen, Bearbeiten, Freigeben und Signieren von PDF-Dateien. Hier finden Sie ein breites Spektrum an Lernerfahrungen, die sowohl Einsteigern als auch fortgeschrittenen Anwendern auf dem Adobe Acrobat schnell auf den neuesten Stand bringen sollen.
+Adobe Acrobat, eine Adobe Document Cloud-Lösung, unterstützt Sie beim Umsetzen, Bearbeiten, Freigeben und Signieren von PDF. Hier finden Sie ein breites Spektrum an Lernerfahrungen, die sowohl Einsteigern als auch fortgeschrittenen Anwendern auf dem Adobe Acrobat schnell auf den neuesten Stand bringen sollen.
 
 ## Lernpfade
 
@@ -30,7 +30,7 @@ Adobe Acrobat, eine Adobe Document Cloud-Lösung, unterstützt Sie beim Umsetzen
     <div>
     <a href="getting-started/getting-started-overview.md"><strong>Erste Schritte</strong></a>
     </div>
-    <em>PDF-Dateien erstellen, bearbeiten, konvertieren, schützen und vieles mehr</em>
+    <em>Schnelles Erstellen, Bearbeiten, Konvertieren, Schützen und vieles mehr mit PDF</em>
     <br>
   </td>
   <td>
@@ -62,7 +62,7 @@ Adobe Acrobat, eine Adobe Document Cloud-Lösung, unterstützt Sie beim Umsetzen
     <div>
     <a href="integrate/integrate-overview.md"><strong>Integrieren</strong></a>
     </div>
-    <em>Acrobat zu vorhandenen Systemen, Prozessen und Applikationen hinzufügen</em>
+    <em>Acrobat zu bestehenden Geschäftssystemen, Prozessen und Anwendungen hinzufügen</em>
     <br>
   </td>
   <td>
@@ -104,7 +104,7 @@ Adobe Acrobat, eine Adobe Document Cloud-Lösung, unterstützt Sie beim Umsetzen
     <div>
     <a href="mobile/mobile-overview.md"><strong>Mobil</strong></a>
     </div>
-    <em>PDF-Dateien auf Ihrem Mobilgerät erstellen, ausfüllen und unterschreiben</em>
+    <em>PDF auf Ihrem Mobilgerät erstellen, ausfüllen und signieren</em>
     <br>
   </td>  
   <td>
