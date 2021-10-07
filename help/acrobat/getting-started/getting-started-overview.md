@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 3636c4fda58885d4b7ac995c077d4429c6fa727d
+source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '382'
 ht-degree: 6%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 6%
 
 ![Erste Schritte mit Acrobat](../assets/Hero-GettingStarted.png)
 
-Lernen Sie, wie Sie mit der Verwendung von Adobe Acrobat beginnen können, indem Sie diese kurzen (1-2 Min.) Schritt-für-Schritt-Tutorials aufrufen. Von der Erstellung eines Dokuments bis zum Schutz Ihrer PDF-Dateien: Dieser Inhalt soll Ihnen den Einstieg in PDF-Arbeitsabläufe erleichtern.
+Lernen Sie, wie Sie mit der Verwendung von Adobe Acrobat beginnen können, indem Sie diese kurzen (1-2 Min.) Schritt-für-Schritt-Tutorials aufrufen. Von der Dokumentenerstellung bis zum Schutz Ihrer PDF-Dateien. Diese Inhalte sollen Ihnen den Einstieg in PDF-Arbeitsabläufe erleichtern.
 
 ## Acrobat-Tutorials
 
@@ -44,6 +44,18 @@ Lernen Sie, wie Sie mit der Verwendung von Adobe Acrobat beginnen können, indem
     <br>
   </td>
   <td>
+    <a href="../integrate/integrate-overview.md#microsoft">
+      <img alt="Arbeiten mit Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
+    </a>
+    <div>
+     <a href="../integrate/integrate-overview.md#microsoft"><strong>Arbeiten mit Microsoft 365</strong></a>
+    </div>
+    <em>Produktivitätssteigerung und Arbeitsabläufe für Geschäftsdokumente mit Acrobat und [!DNL Microsoft 365]</em>
+    <br>
+  </td>
+</tr>
+<tr>
+   <td>
     <a href="collaborate.md">
       <img alt="In Echtzeit zusammenarbeiten" src="../assets/Collaborate_1280.png" />
     </a>
@@ -53,16 +65,14 @@ Lernen Sie, wie Sie mit der Verwendung von Adobe Acrobat beginnen können, indem
     <em>Sie können Ihre Projekte vorwärts verschieben, indem Sie Kommentare sammeln, an Antworten zusammenarbeiten und den Fortschritt in Ihren Dokumenten verfolgen - alles in Echtzeit, von überall aus und überall.</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="combine-to-pdf.md">
-      <img alt="Combine Files to PDF" src="../assets/Combine.jpg" />
+      <img alt="Combine Files zu PDF" src="../assets/Combine.jpg" />
     </a>
     <div>
-     <a href="combine-to-pdf.md"><strong>Dateien in PDF-Dateien zusammenführen</strong></a>
+     <a href="combine-to-pdf.md"><strong>Dateien zu PDF zusammenführen</strong></a>
     </div>
-    <em>Mehrere verschiedene Dateitypen zu einem PDF zusammenführen</em>
+    <em>Mehrere Dateitypen zu einem PDF kombinieren</em>
     <br>
   </td>
   <td>
@@ -72,9 +82,11 @@ Lernen Sie, wie Sie mit der Verwendung von Adobe Acrobat beginnen können, indem
     <div>
     <a href="create-pdf.md"><strong>PDF-Dateien erstellen</strong></a>
     </div>
-    <em>PDF-Dateien aus verschiedenen Dokumenttypen erstellen</em>
+    <em>PDF aus verschiedenen Dokumenttypen erstellen</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="comment-on-pdf-files.md">
       <img alt="PDF-Dateien in Acrobat DC kommentieren" src="../assets/Comment.jpg" />
@@ -84,9 +96,7 @@ Lernen Sie, wie Sie mit der Verwendung von Adobe Acrobat beginnen können, indem
     </div>
     <em>Kommentare zu einer PDF-Datei hinzufügen und diese dann für andere freigeben</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="edit-pdf.md">
       <img alt="PDF in Acrobat DC bearbeiten" src="../assets/Edit.jpg" />
@@ -107,6 +117,8 @@ Lernen Sie, wie Sie mit der Verwendung von Adobe Acrobat beginnen können, indem
     <em>PDF-Dateien in bearbeitbare Formate exportieren</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="create-fillable-forms.md">
       <img alt="Ausfüllbare Formulare erstellen" src="../assets/Form.jpg" />
@@ -117,8 +129,6 @@ Lernen Sie, wie Sie mit der Verwendung von Adobe Acrobat beginnen können, indem
     <em>Ein in einer anderen Anwendung erstelltes Dokument in ein ausfüllbares PDF-Formular umwandeln</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="scan-and-ocr.md">
       <img alt="Scannen und OCR" src="../assets/Scan.jpg" />
@@ -126,7 +136,7 @@ Lernen Sie, wie Sie mit der Verwendung von Adobe Acrobat beginnen können, indem
     <div>
     <a href="scan-and-ocr.md"><strong>Scannen und OCR</strong></a>
     </div>
-    <em>Reduzieren Sie große Dateien und optimieren Sie PDF-Dateien, ohne die Qualität von Freigabe, Veröffentlichung oder Archivierung zu beeinträchtigen.</em>
+    <em>Reduzieren Sie große Dateien und optimieren Sie PDF, ohne die Qualität für Freigabe, Veröffentlichung oder Archivierung zu beeinträchtigen.</em>
     <br>
   </td>
   <td>
@@ -136,21 +146,21 @@ Lernen Sie, wie Sie mit der Verwendung von Adobe Acrobat beginnen können, indem
     <div>
     <a href="organize.md"><strong>Seiten organisieren</strong></a>
     </div>
-    <em>Seiten in PDF-Dateien hinzufügen, ersetzen, extrahieren, drehen, löschen und verschieben</em>
-    <br>
-  </td>
-  <td>
-    <a href="password-protect.md">
-      <img alt="Protect einer PDF-Datei mit einem Kennwort" src="../assets/Protect.jpg" />
-    </a>
-    <div>
-    <a href="password-protect.md"><strong>Protect einer PDF-Datei mit einem Kennwort</strong></a>
-    </div>
-    <em>Fügen Sie Ihrem PDF-Dokument ein Kennwort hinzu, um andere vor dem Öffnen oder Bearbeiten der Datei zu schützen</em>
+    <em>Seiten auf Ihrem PDF hinzufügen, ersetzen, extrahieren, drehen, löschen und verschieben</em>
     <br>
   </td>
 </tr>
 <tr>
+  <td>
+    <a href="password-protect.md">
+      <img alt="PDF-Datei mit Kennwort Protect" src="../assets/Protect.jpg" />
+    </a>
+    <div>
+    <a href="password-protect.md"><strong>PDF-Datei mit Kennwort Protect</strong></a>
+    </div>
+    <em>Fügen Sie Ihrem PDF ein Kennwort hinzu, um andere vor dem Öffnen oder Bearbeiten der Datei zu schützen</em>
+    <br>
+  </td>
   <td>
     <a href="fill-and-sign.md">
       <img alt="PDF-Formular ausfüllen und unterschreiben" src="../assets/FillSign.jpg" />
@@ -161,19 +171,14 @@ Lernen Sie, wie Sie mit der Verwendung von Adobe Acrobat beginnen können, indem
     <em>PDF-Formular schnell ausfüllen und unterschreiben</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="where-do-pdfs-come-from.md">
-      <img alt="Woher kommen PDF-Dateien?" src="../assets/WherePDFs.jpg" />
+      <img alt="Woher kommen PDF?" src="../assets/WherePDFs.jpg" />
     </a>
     <div>
-    <a href="where-do-pdfs-come-from.md"><strong>Woher kommen PDF-Dateien?</strong></a>
+    <a href="where-do-pdfs-come-from.md"><strong>Woher kommen PDF?</strong></a>
     </div>
-    <em>PDF-Dateien und ihre Verwendung</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Abstand" src="../assets/Whitespacer.png" />
-    <div>
+    <em>Erfahren Sie, woher PDF kommen und wofür sie verwendet werden</em>
     <br>
   </td>
 </tr>
