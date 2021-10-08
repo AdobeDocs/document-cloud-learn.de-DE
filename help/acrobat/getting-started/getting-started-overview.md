@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
+source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
 workflow-type: tm+mt
-source-wordcount: '382'
-ht-degree: 6%
+source-wordcount: '375'
+ht-degree: 8%
 
 ---
 
@@ -80,7 +80,7 @@ Lernen Sie, wie Sie mit der Verwendung von Adobe Acrobat beginnen können, indem
       <img alt="PDF-Dateien erstellen" src="../assets/Create.jpg" />
     </a>
     <div>
-    <a href="create-pdf.md"><strong>PDF-Dateien erstellen</strong></a>
+    <a href="create-pdf.md"><strong>Erstellen einer PDF-Datei</strong></a>
     </div>
     <em>PDF aus verschiedenen Dokumenttypen erstellen</em>
     <br>
@@ -92,7 +92,7 @@ Lernen Sie, wie Sie mit der Verwendung von Adobe Acrobat beginnen können, indem
       <img alt="PDF-Dateien in Acrobat DC kommentieren" src="../assets/Comment.jpg" />
     </a>
     <div>
-    <a href="comment-on-pdf-files.md"><strong>PDF-Dateien in Acrobat DC kommentieren</strong></a>
+    <a href="comment-on-pdf-files.md"><strong>PDF kommentieren</strong></a>
     </div>
     <em>Kommentare zu einer PDF-Datei hinzufügen und diese dann für andere freigeben</em>
     <br>
@@ -102,7 +102,7 @@ Lernen Sie, wie Sie mit der Verwendung von Adobe Acrobat beginnen können, indem
       <img alt="PDF in Acrobat DC bearbeiten" src="../assets/Edit.jpg" />
     </a>
     <div>
-    <a href="edit-pdf.md"><strong>PDF in Acrobat DC bearbeiten</strong></a>
+    <a href="edit-pdf.md"><strong>Bearbeiten einer PDF-Datei</strong></a>
     </div>
     <em>Text und Bilder in PDF-Dateien bearbeiten</em>
     <br>
@@ -166,7 +166,7 @@ Lernen Sie, wie Sie mit der Verwendung von Adobe Acrobat beginnen können, indem
       <img alt="PDF-Formular ausfüllen und unterschreiben" src="../assets/FillSign.jpg" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>PDF-Formular ausfüllen und unterschreiben</strong></a>
+    <a href="fill-and-sign.md"><strong>Ausfüllen und Unterschreiben von PDF-Formularen</strong></a>
     </div>
     <em>PDF-Formular schnell ausfüllen und unterschreiben</em>
     <br>

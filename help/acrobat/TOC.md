@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat-Tutorials
-source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
+source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 12%
+source-wordcount: '295'
+ht-degree: 15%
 
 ---
 
@@ -26,15 +26,15 @@ ht-degree: 12%
    + [Arbeiten mit [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [In Echtzeit zusammenarbeiten](getting-started/collaborate.md)
    + [Dateien zu einer PDF-Datei kombinieren](getting-started/combine-to-pdf.md)
-   + [PDF-Dateien erstellen](getting-started/create-pdf.md)
-   + [PDF-Dateien in Acrobat DC kommentieren](getting-started/comment-on-pdf-files.md)
-   + [PDF in Acrobat DC bearbeiten](getting-started/edit-pdf.md)
+   + [Erstellen einer PDF-Datei](getting-started/create-pdf.md)
+   + [PDF kommentieren](getting-started/comment-on-pdf-files.md)
+   + [Bearbeiten einer PDF-Datei](getting-started/edit-pdf.md)
    + [PDF in bearbeitbare Formate exportieren](getting-started/export-pdf.md)
    + [Ausfüllbare Formulare erstellen](getting-started/create-fillable-forms.md)
    + [Scannen und OCR](getting-started/scan-and-ocr.md)
    + [Organisieren von Seiten](getting-started/organize.md)
    + [PDF-Datei mit Kennwort Protect](getting-started/password-protect.md)
-   + [PDF-Formular ausfüllen und unterschreiben](getting-started/fill-and-sign.md)
+   + [Ausfüllen und Unterschreiben von PDF-Formularen](getting-started/fill-and-sign.md)
    + [Woher kommen PDF?](getting-started/where-do-pdfs-come-from.md)
 + Erweiterte Aufgaben {#advanced-tasks}
    + [Übersicht](advanced-tasks/advanced-tasks-overview.md)
