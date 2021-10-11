@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6861.jpg
 exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29
-source-git-commit: 7d82422e442cbbed9420050c30ca70821e9a2cdd
+source-git-commit: ef4a9f39084c7803a9e277182534376298e8fc7f
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -21,8 +21,9 @@ Entwicklungssoftware, die mit JavaScript, Plug-ins oder IAC in Acrobat und Adobe
 
 ## Acrobat SDK
 
-Das [Acrobat DC SDK](https://www.adobe.io/apis/documentcloud/acrobat.html){target=&quot;_blank&quot;} ist ein Satz von Tools, mit denen Sie Software entwickeln können, die mit der Acrobat-Technologie interagiert.
+Das [Acrobat DC SDK](https://www.adobe.io/apis/documentcloud/acrobat.html){target=&quot;_blank&quot;} ist ein Satz von Tools, mit denen Sie Software entwickeln können, die mit Acrobat-Technologie interagiert.
 
 ## Adobe Document Services-APIs
 
-[APIs für die eingebettete Anzeige und Bearbeitung von PDFs](https://www.adobe.io/de/apis/documentcloud/dcsdk/){target=&quot;_blank&quot;}
+[APIs für die eingebettete Anzeige und Bearbeitung von PDF](https://www.adobe.io/de/apis/documentcloud/dcsdk/){target=&quot;_blank&quot;} 
+[Adobe Document Services-Tutorials](https://experienceleague.adobe.com/docs/document-services/tutorials/overview.html){target=&quot;_blank&quot;}
