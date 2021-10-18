@@ -1,12 +1,12 @@
 ---
 title: Scannen und OCR
-description: Scans oder Bilder von Dokumenten in durchsuchbare, bearbeitbare PDF-Dateien konvertieren und die Qualität der resultierenden Datei anpassen
+description: Konvertieren von Scans oder Dokumentbildern in durchsuchbare, bearbeitbare PDF-Dateien und Anpassen der Dateiqualität
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: fad21a78306eb79a9046747022a4c8f47304fae9
+source-git-commit: 95f9464fa0c37f53eeaaec5cccaf7124c108b500
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 1%
@@ -15,13 +15,13 @@ ht-degree: 1%
 
 # Scannen und OCR
 
-Wandeln Sie Scans oder Bilder von Dokumenten in durchsuchbare, bearbeitbare PDF-Dateien um und passen Sie die Qualität der resultierenden Datei in Acrobat DC an.
+Wandeln Sie Scans oder Dokumentbilder in durchsuchbare, bearbeitbare PDF-Dateien um und passen Sie die Qualität der erstellten Datei an.
 
 >[!TIP]
 >
->Um mehrere PDF-Dateien zu OCR zu erstellen, verwenden Sie den [Action Wizard](../advanced-tasks/action.md).
+>Um mehrere PDF-Dateien zu OCR zu erstellen, verwenden Sie die [Action Wizard](../advanced-tasks/action.md).
 
-1. Wählen Sie **[!UICONTROL Scan &amp; OCR]** in der Mitte [!UICONTROL Tools] aus.
+1. Auswählen **[!UICONTROL Scannen und OCR]** aus dem [!UICONTROL Werkzeuge] mittleren oder rechten Fensterbereich.
 
    ![Schritt 1](../assets/Scan_1.png)
 
@@ -31,20 +31,20 @@ Wandeln Sie Scans oder Bilder von Dokumenten in durchsuchbare, bearbeitbare PDF-
 
    ![Schritt 2](../assets/Scan_2.png)
 
-1. Wählen Sie **[!UICONTROL Gescanntes Dokument]** oder **[!UICONTROL Kamerabild]**, um das Dokument zu verbessern.
+1. Auswählen **[!UICONTROL Gescanntes Dokument]** oder **[!UICONTROL Kamerabild]** , um das Dokument zu verbessern.
 
-1. Klicken Sie auf **[!UICONTROL Verbessern]**, um das Bild zu bereinigen.
+1. Auswählen **[!UICONTROL Verbessern]** , um das Bild zu bereinigen.
 
    ![Schritt 3](../assets/Scan_3.png)
 
    Acrobat erkennt Text aus gescannten Dokumenten automatisch.
 
-1. Wählen Sie **[!UICONTROL Text erkennen]**, um Text in Bilddateien manuell zu erkennen.
+1. Auswählen **[!UICONTROL Text erkennen]** um Text in Bilddateien manuell zu erkennen.
 
    ![Schritt 4](../assets/Scan_4.png)
 
 Die Datei ist jetzt eine durchsuchbare, bearbeitbare PDF-Datei.
 
-Klicken Sie auf , um eine PDF-Datei des Tutorials *Scan &amp; OCR* herunterzuladen.
+Klicken Sie auf , um eine PDF des *Scannen und OCR* Tutorial.
 
 [![Tutorial zu Scan und OCR herunterladen](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCScan.pdf)
