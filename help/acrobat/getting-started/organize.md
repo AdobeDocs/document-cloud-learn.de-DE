@@ -1,46 +1,46 @@
 ---
 title: Seiten organisieren
-description: Seiten in PDF-Dateien hinzufügen, ersetzen, extrahieren, drehen, löschen und verschieben
+description: Seiten auf Ihrem PDF hinzufügen, ersetzen, extrahieren, drehen, löschen und verschieben
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 1f085348bf86e593e54d8a6851365d1c862c6610
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '164'
 ht-degree: 2%
 
 ---
 
-# Organisieren von Seiten
+# Seiten organisieren
 
-Verwenden Sie **[!UICONTROL Seiten verwalten]** in Acrobat DC, um Seiten in Ihrer PDF-Datei hinzuzufügen, zu ersetzen, zu extrahieren, zu drehen, zu löschen und zu verschieben.
+Verwenden **[!UICONTROL Seiten organisieren]** in Acrobat DC, um Seiten in Ihrem PDF hinzuzufügen, zu ersetzen, zu extrahieren, zu drehen, zu löschen und zu verschieben.
 
-1. Wählen Sie **[!UICONTROL Seiten verwalten]** in der Mitte [!UICONTROL Werkzeuge] aus.
+1. Auswählen **[!UICONTROL Seiten organisieren]** aus dem [!UICONTROL Werkzeuge] mittleren oder rechten Fensterbereich.
 
    ![Schritt 1 organisieren](../assets/Organize_1.png)
 
 1. Bewegen Sie den Mauszeiger über eine Seite, um die Seite im oder gegen den Uhrzeigersinn zu drehen oder zu löschen.
 
-   Um eine Seite zu verschieben, klicken Sie und ziehen Sie die Seite an die neue Position.
+   Um eine Seite zu verschieben, wählen Sie die Seite aus und ziehen Sie sie an die neue Position.
 
    ![Schritt 2 organisieren](../assets/Organize_2.png)
 
-1. Klicken Sie in der Werkzeugleiste auf **[!UICONTROL Extract]**, um eine neue PDF-Datei aus einer oder mehreren Seiten zu erstellen.
+1. Auswählen **[!UICONTROL Extract]** in der Symbolleiste, um eine PDF aus einer oder mehreren Seiten zu erstellen.
 
-1. Wählen Sie die Seite bzw. die Seiten aus und klicken Sie dann auf die Schaltfläche **[!UICONTROL Extract]**.
+1. Wählen Sie die Seite oder Seiten aus und wählen Sie dann **[!UICONTROL Extract]**.
 
-   Sie können auch **[!UICONTROL Seiten einfügen]** oder **[!UICONTROL Ersetzen]** und weitere Optionen anzeigen, indem Sie auf **[!UICONTROL Mehr]** klicken.
+   Sie können auch **[!UICONTROL Einfügen]** oder **[!UICONTROL Ersetzen]** Seiten und andere Optionen anzeigen, indem Sie **[!UICONTROL Mehr]**.
 
    ![Schritt 4 organisieren](../assets/Organize_3.png)
 
-1. Wählen Sie **[!UICONTROL Teilen]**, um eine oder mehrere PDF-Dateien in mehrere kleinere PDF-Dateien zu teilen.
+1. Auswählen **[!UICONTROL Teilen]** um einen oder mehrere PDF in mehrere kleinere PDF zu teilen.
 
-   Beim Teilen eines PDF-Dokuments können Sie nach Seitenanzahl, Dateigröße oder Lesezeichen der obersten Ebene unterteilen.
+   Beim Teilen einer PDF können Sie nach Seitenanzahl, Dateigröße oder Lesezeichen der obersten Ebene unterteilen.
 
    ![Schritt 5](../assets/Organize_4.png)
 
-Klicken Sie auf , um eine PDF-Datei des Tutorials *Seiten verwalten* herunterzuladen.
+Klicken Sie auf , um eine PDF des *Seiten organisieren* Tutorial.
 
 [![Tutorial zur Organisation von Seiten herunterladen](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCOrganize.pdf)
