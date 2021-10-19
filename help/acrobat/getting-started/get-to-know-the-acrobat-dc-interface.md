@@ -1,20 +1,20 @@
 ---
-title: Acrobat DC-Benutzeroberfläche kennenlernen
-description: Erfahren Sie, wie Sie mit Acrobat DC einfach auf Dateien und Werkzeuge von Desktop, Web und Mobilgeräten zugreifen können
+title: Grundlagen des Arbeitsbereichs
+description: Erfahren Sie, wie einfach der Zugriff auf Dateien und Werkzeuge von Acrobat DC auf Desktop, Web und Mobilgeräten ist
 role: User
 product: adobe acrobat
 level: Beginner
-thumbnail: 23590.jpg
+thumbnail: KT-5531.jpg
 exl-id: 4638061c-6ed7-4dc0-b865-5e0b8da9cbd4
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 12%
+source-wordcount: '46'
+ht-degree: 8%
 
 ---
 
-# Lernen Sie die Acrobat DC-Benutzeroberfläche kennen
+# Grundlagen des Arbeitsbereichs
 
-Erfahren Sie, wie einfach der Zugriff auf Dateien und Werkzeuge über die Adobe Acrobat DC-Oberfläche auf Desktop, Web und Mobilgeräte mit einer einheitlichen Startseitenansicht ist.
+Erfahren Sie, wie Sie mit der Acrobat DC-Benutzeroberfläche problemlos auf Dateien und Werkzeuge auf Desktop-, Web- und Mobilgeräten zugreifen können, ohne dass Sie einen einheitlichen Arbeitsbereich benötigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/23590?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337971?hidetitle=true)
