@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat-Tutorials
-source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
+source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 12%
+source-wordcount: '295'
+ht-degree: 10%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 12%
    + [Übersicht](getting-started/getting-started-overview.md)
    + [Arbeitsbereichsbasis](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Mit Acrobat Web arbeiten](getting-started/acrobatweb.md)
+   + [Produktivität unterwegs](getting-started/productivity.md)
    + [Arbeiten mit [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [In Echtzeit zusammenarbeiten](getting-started/collaborate.md)
    + [Combine Files zu PDF](getting-started/combine-to-pdf.md)
@@ -34,7 +35,7 @@ ht-degree: 12%
    + [Scannen und OCR](getting-started/scan-and-ocr.md)
    + [Seiten organisieren](getting-started/organize.md)
    + [PDF-Datei mit Kennwort Protect](getting-started/password-protect.md)
-   + [Ausfüllen und Unterschreiben von PDF-Formularen](getting-started/fill-and-sign.md)
+   + [Fill &amp; Sign-PDF forms](getting-started/fill-and-sign.md)
    + [Woher kommen PDF?](getting-started/where-do-pdfs-come-from.md)
 + Erweiterte Aufgaben {#advanced-tasks}
    + [Übersicht](advanced-tasks/advanced-tasks-overview.md)
@@ -63,7 +64,7 @@ ht-degree: 12%
 + Kompetenzaufbau {#skill-builders}
    + [Übersicht](skill-builder/skill-builder-overview.md)
    + [Webinare](skill-builder/skill-builder-webinars.md)
-+ Integrieren {#integrations}
++ Integrationen {#integrations}
    + [Übersicht](integrate/integrate-overview.md)
    + [PDF erstellen aus [!DNL Microsoft Word]](integrate/createfromword.md)
    + [PDF erstellen in [!DNL Office] für das Web](integrate/createofficeweb.md)
@@ -72,7 +73,7 @@ ht-degree: 12%
    + [E-Mail-Nachrichten und Anhänge in Outlook in PDF konvertieren](integrate/outlook.md)
    + [PDF-Inhalte beim Durchsuchen mit Microsoft Edge erstellen](integrate/edge.md)
    + [Adobe Acrobat für Google Drive](integrate/acrobatandgoogle.md)
-+ Industrie {#by-industry}
++ Industrie und Abteilungen {#by-industry}
    + [Übersicht](industry/industry-overview.md)
    + Regierung {#gov}
       + [Übersicht](industry/gov/gov-overview.md)
