@@ -1,5 +1,5 @@
 ---
-title: Überblick integrieren
+title: Integrationsübersicht
 description: Acrobat mit Box-, Dropbox-, Google Drive-, OneDrive- und Microsoft-Apps integrieren
 role: User
 product: adobe acrobat
@@ -7,22 +7,22 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: a6af71e2c1b20c6b3f9a899cdfecb81dfd7f6c36
+source-git-commit: d389fd51354a2ecf1a1b0e10716509c18966bc69
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '282'
 ht-degree: 1%
 
 ---
 
-# Überblick integrieren
+# Integrationen - Übersicht
 
 ![Acrobat Integrate Image](../assets/Hero-Integrate.png)
 
-Integrieren Sie Acrobat mit [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive] und [!DNL Microsoft]-Apps.
+Acrobat mit [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]und [!DNL Microsoft] Apps.
 
 ## Microsoft
 
-Erfahren Sie, wie jeder in Ihrem Team nahtlos mit PDF-Dateien arbeiten kann, direkt in [Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html).
+Erfahren Sie, wie jeder in Ihrem Team nahtlos mit PDF-Dateien arbeiten kann - direkt im [Microsoft 365](https://www.adobe.com/documentcloud/integrations/microsoft-office-365.html).
 
 <table style="table-layout:fixed">
 <tr>
@@ -31,41 +31,41 @@ Erfahren Sie, wie jeder in Ihrem Team nahtlos mit PDF-Dateien arbeiten kann, dir
       <img alt="PDF-Dateien aus Microsoft Word erstellen" src="../assets/CreateWord.png" />
     </a>
     <div>
-    <a href="createfromword.md"><strong>PDF-Dateien aus [!DNL Microsoft Word] erstellen</strong></a>
+    <a href="createfromword.md"><strong>PDF-Dateien erstellen aus [!DNL Microsoft Word]</strong></a>
     </div>
-    <em>Rich PDF-Dateien mit verknüpften Inhaltsverzeichnissen, Querverweisen, Lesezeichen und sogar Anhängen direkt aus [!DNL Microsoft Word] erstellen</em>
+    <em>Rich-PDF--Dateien mit verknüpften Inhaltsverzeichnissen, Querverweisen, Lesezeichen und sogar Anhängen direkt aus [!DNL Microsoft Word]</em>
     <br>
   </td>
   <td>
     <a href="createofficeweb.md">
-      <img alt="PDF-Dateien in [!DNL Office] für das Web erstellen" src="../assets/Officeweb_1280.png" />
+      <img alt="PDF erstellen in [!DNL Office] für das Web" src="../assets/Officeweb_1280.png" />
     </a>
     <div>
-    <a href="createofficeweb.md"><strong>PDF-Dateien in [!DNL Office] für das Web erstellen</strong></a>
+    <a href="createofficeweb.md"><strong>PDF erstellen in [!DNL Office] für das Web</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie PDF-Dateien erstellen, ohne Ihre [!DNL Microsoft Office] für Web-Applikationen zu verlassen</em>
+    <em>Erfahren Sie, wie Sie PDF-Dateien erstellen, ohne Ihre [!DNL Microsoft Office] für Webanwendungen</em>
     <br>
   </td>  
   <td>
     <a href="acrobatandsp.md">
-      <img alt="[!DNL SharePoint]-Dateien verwenden" src="../assets/SharePoint.png" />
+      <img alt="Arbeiten mit [!DNL SharePoint] Dateien" src="../assets/SharePoint.png" />
     </a>
     <div>
-    <a href="acrobatandsp.md"><strong>[!DNL SharePoint]-Dateien verwenden</strong></a>
+    <a href="acrobatandsp.md"><strong>Arbeiten mit [!DNL SharePoint] Dateien</strong></a>
     </div>
-    <em>Arbeitsabläufe mit [!DNL SharePoint] und Acrobat DC optimieren</em>
+    <em>Optimieren Sie Dokumentarbeitsabläufe mit [!DNL SharePoint] und Acrobat DC</em>
     <br>
   </td>  
 </tr>
 <tr>
   <td>
     <a href="acrobatandteams.md">
-      <img alt="PDF-Zusammenarbeit in [!DNL-Microsoft Teams]" src="../assets/MicrosoftTeams.png" />
+      <img alt="PDF-Zusammenarbeit [!DNL Microsoft Teams]" src="../assets/MicrosoftTeams.png" />
     </a>
     <div>
-    <a href="acrobatandteams.md"><strong>PDF-Zusammenarbeit in [!DNL-Microsoft Teams]</strong></a>
+    <a href="acrobatandteams.md"><strong>PDF-Zusammenarbeit [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>Arbeiten Sie mit Kollegen zusammen, indem Sie PDF-Dateien anzeigen, kommentieren und überprüfen, ohne [!DNL-Microsoft Teams] zu verlassen.</em>
+    <em>Zusammenarbeit und Zusammenarbeit mit Kollegen durch Anzeigen, Kommentieren und Überprüfen von PDF ohne je nach Abbruch [!DNL Microsoft Teams]</em>
     <br>
   </td>
   <td>
@@ -73,19 +73,19 @@ Erfahren Sie, wie jeder in Ihrem Team nahtlos mit PDF-Dateien arbeiten kann, dir
       <img alt="E-Mail-Nachrichten und Anhänge in Outlook in PDF konvertieren" src="../assets/Outlook.jpg" />
     </a>
     <div>
-    <a href="outlook.md"><strong>E-Mail-Nachrichten und Anhänge in [!DNL Outlook] in PDF konvertieren</strong></a>
+    <a href="outlook.md"><strong>E-Mail-Nachrichten und Anhänge in PDF konvertieren [!DNL Outlook]</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie Informationen in [!DNL Outlook] professioneller und sicherer bereitstellen</em>
+    <em>Erfahren Sie, wie Sie Informationen auf professionellere und sicherere Weise innerhalb von [!DNL Outlook]</em>
     <br>
   </td>
   <td>
     <a href="edge.md">
-      <img alt="PDF-Inhalt beim Durchsuchen mit [!DNL Microsoft Edge] erstellen" src="../assets/Edge_1280.png" />
+      <img alt="PDF-Inhalte beim Durchsuchen erstellen [!DNL Microsoft Edge]" src="../assets/Edge_1280.png" />
     </a>
     <div>
-    <a href="edge.md"><strong>PDF-Inhalt beim Durchsuchen mit [!DNL Microsoft Edge] erstellen</strong></a>
+    <a href="edge.md"><strong>PDF-Inhalte beim Durchsuchen erstellen [!DNL Microsoft Edge]</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie Webseiten mit der Adobe Acrobat-Erweiterung für [!DNL Microsoft Edge] im PDF-Format archivieren.</em>
+    <em>Erfahren Sie, wie Sie Webseiten mit der Adobe Acrobat-Erweiterung für das PDF im Handumdrehen archivieren [!DNL Microsoft Edge]</em>
     <br>
   </td>
 </tr>
@@ -93,7 +93,7 @@ Erfahren Sie, wie jeder in Ihrem Team nahtlos mit PDF-Dateien arbeiten kann, dir
 
 ## Google Drive
 
-Erfahren Sie, wie Sie mit den unverzichtbaren PDF- und e-Signatur-Werkzeugen von [!DNL Google Drive] mehr in kürzerer Zeit erledigen können.
+Erfahren Sie, wie Sie mit den wichtigsten PDF- und E-Signatur-Werkzeugen innerhalb weniger Zeit mehr erledigen können. [!DNL Google Drive].
 
 <table style="table-layout:fixed">
 <tr>
@@ -104,7 +104,7 @@ Erfahren Sie, wie Sie mit den unverzichtbaren PDF- und e-Signatur-Werkzeugen von
     <div>
     <a href="acrobatandgoogle.md"><strong>Adobe Acrobat für [!DNL Google Drive]</strong></a>
     </div>
-    <em>Zugriff auf zeitsparende PDF-Werkzeuge und E-Signatur-Workflows direkt in der [!DNL Google Drive]-App</em>
+    <em>Zugriff auf zeitsparende PDF-Tools und E-Signatur-Workflows direkt im [!DNL Google Drive] App</em>
     <br>
   </td>
   <td>
@@ -122,8 +122,8 @@ Erfahren Sie, wie Sie mit den unverzichtbaren PDF- und e-Signatur-Werkzeugen von
 
 ## Box
 
-Erfahren Sie, wie Acrobat DC und [Box](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;} es für alle in Ihrem Unternehmen einfacher machen, Geschäfte zu verlagern.
+Erfahren Sie mehr über Acrobat DC und [Feld](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;} erleichtert es allen in Ihrem Unternehmen, Geschäfte zu verlagern.
 
 ## Dropbox
 
-Erfahren Sie, wie einfach Sie auf PDF-Dateien zugreifen und mit ihnen arbeiten können, die in [Dropbox](https://www.adobe.com/documentcloud/integrations/dropbox.html){target=&quot;_blank&quot;} gespeichert sind.
+Erfahren Sie, wie einfach es ist, auf PDF in [Dropbox](https://www.adobe.com/documentcloud/integrations/dropbox.html){target=&quot;_blank&quot;}.
