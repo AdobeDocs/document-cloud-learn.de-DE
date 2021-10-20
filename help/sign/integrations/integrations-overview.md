@@ -1,5 +1,5 @@
 ---
-title: Überblick integrieren
+title: Integrationsübersicht
 description: Erfahren Sie, wie Sie Adobe Sign zu Ihren bestehenden Systemen, Prozessen und Applikationen hinzufügen
 role: User
 product: adobe sign
@@ -7,14 +7,14 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 9521930d29ca7e73e9658029733c5fe2c267d7ba
+source-git-commit: 34490d609f3e19d2e0100a96e6c4858831e5c22c
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
 
-# Überblick integrieren
+# Integrationen - Übersicht
 
 ![Bild integrieren signieren](../assets/Hero-Integrate.png)
 
@@ -44,15 +44,15 @@ Sie können Adobe Sign in anderen Anwendungen verwenden, die Ihr Unternehmen ber
     <div>
     <a href="send-for-signature-with-outlook.md"><strong>Zum Unterschreiben in Outlook senden</strong></a>
     </div>
-    <em>Dokument direkt in Microsoft Outlook zum Unterschreiben senden</em>
+    <em>Dokumente direkt in Microsoft Outlook zum Unterschreiben senden</em>
     <br>
   </td>
   <td>
     <a href="send-for-signature-with-sharepoint-online.md">
-      <img alt="Zum Unterschreiben in SharePoint Online senden" src="../assets/Sending-in-SP.png" />
+      <img alt="Zum Unterschreiben senden in SharePoint Online" src="../assets/Sending-in-SP.png" />
     </a>
     <div>
-    <a href="send-for-signature-with-sharepoint-online.md"><strong>Zum Unterschreiben in SharePoint Online senden</strong></a>
+    <a href="send-for-signature-with-sharepoint-online.md"><strong>Zum Unterschreiben senden in SharePoint Online</strong></a>
     </div>
     <em>Dokument direkt in SharePoint Online zum Unterschreiben senden</em>
     <br>
@@ -66,17 +66,17 @@ Sie können Adobe Sign in anderen Anwendungen verwenden, die Ihr Unternehmen ber
     <div>
     <a href="track-an-agreement-with-sharepoint-online.md"><strong>Tracking in SharePoint Online</strong></a>
     </div>
-    <em>Verfolgen Sie den Fortschritt einer Vereinbarung direkt in Microsoft SharePoint</em>
+    <em>Verfolgen Sie den Verlauf einer Vereinbarung direkt in Microsoft Sharepoint</em>
     <br>
   </td>
   <td>
     <a href="adobe-sign-teams-mortgage.md">
-      <img alt="Senden von Dokumenten zur Signatur in [!DNL-Microsoft Teams]" src="../assets/teamsmortgage.png" />
+      <img alt="Dokumente zum Unterschreiben senden in [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
     </a>
     <div>
-    <a href="adobe-sign-teams-mortgage.md"><strong>Senden von Dokumenten zur Signatur in [!DNL-Microsoft Teams]</strong></a>
+    <a href="adobe-sign-teams-mortgage.md"><strong>Dokumente zum Unterschreiben senden in [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>Dokumente direkt innerhalb von [!DNL-Microsoft Teams] zum Unterschreiben senden</em>
+    <em>Dokumente direkt innerhalb von [!DNL Microsoft Teams]</em>
     <br>
   </td>
   <td>
