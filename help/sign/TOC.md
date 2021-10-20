@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Adobe Sign-Tutorials
-source-git-commit: 626ef6a53b548c77134f9f551d9f8b05581c46db
+source-git-commit: 31f5623ae68845e137d3b0fbc9b173cfe825a7f4
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 6%
@@ -32,7 +32,7 @@ ht-degree: 6%
       + [Persönlich unterschreiben lassen](sign-beginner-tutorials/sign-in-person.md)
       + [Was ist eine digitale Signatur?](sign-beginner-tutorials/sign-with-a-digital-signature.md)
       + [Unterschreiben mit einem Stempel](sign-beginner-tutorials/sign-with-a-stamp.md)
-   + Verwalten von {#getting-started-managing}
+   + Verwalten {#getting-started-managing}
       + [Verwalten und Verfolgen von Dokumenten](sign-beginner-tutorials/manage-and-track.md)
       + [Erstellen einer Dokumentvorlage](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
       + [Ändern eines Dokuments, das bereits zum Unterschreiben gesendet wurde](sign-beginner-tutorials/modify-in-flight.md)
@@ -45,9 +45,9 @@ ht-degree: 6%
       + [Sammeln von Signaturen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Einrichten eines Webformulars](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Adobe Sign-Text-Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
-   + Verwalten von {#advanced-tasks-managing}
+   + Verwalten {#advanced-tasks-managing}
       + [Verwalten von Dokumentvorlagen](sign-advanced-users/edit-a-template.md)
-+ {#admin-set-up} verwalten
++ Verwalten {#admin-set-up}
    + [Übersicht](admin/intro-admin-overview.md)
    + Erste Schritte {#getting-started-admin}
       + [Für Administratoren laufen](admin/up-and-running-admin.md)
@@ -75,12 +75,12 @@ ht-degree: 6%
       + [Digitale ID von Intesi Group abrufen (erweitert)](digitalid/intesi-advanced.md)
       + [Digitale ID von der Intesi Group abrufen (Qualifiziert)](digitalid/intesi-qualified.md)
       + [Unterschreiben mit Intesi Group](digitalid/intesi-sign.md)
-+ {#integrations} integrieren
++ Integrationen {#integrations}
    + [Übersicht](integrations/integrations-overview.md)
    + Microsoft {#microsoft}
       + [Ausfüllen und Unterschreiben in Outlook](integrations/fill-and-sign-doc-microsoft-outlook.md)
       + [Zum Unterschreiben in Outlook senden](integrations/send-for-signature-with-outlook.md)
-      + [Zum Unterschreiben in SharePoint Online senden](integrations/send-for-signature-with-sharepoint-online.md)
+      + [Zum Unterschreiben senden in SharePoint Online](integrations/send-for-signature-with-sharepoint-online.md)
       + [Tracking in SharePoint Online](integrations/track-an-agreement-with-sharepoint-online.md)
       + [Dokumente zum Unterschreiben senden in [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
       + [Dokumentautomatisierung mit Adobe Sign für Microsoft Power Platform](integrations/documentautomation.md)
@@ -97,11 +97,11 @@ ht-degree: 6%
       + [Senden von Erinnerungen mithilfe des Konfigurationsleitfadens für Adobe Sign für Salesforce und Marketo](integrations/marketo-salesforce-reminder.md)
       + [Benachrichtigungen mit Adobe Sign für Microsoft Dynamics und Marketo senden](integrations/marketo-dynamics-sms.md)
       + [Erinnerungen mit Adobe Sign für Microsoft Dynamics 365 und Marketo senden](integrations/marketo-dynamics-reminder.md)
-+ Industrie und Abteilung {#expand}
++ Industrie und Abteilungen {#expand}
    + [Übersicht](sign-usecase/expand-inspire-overview.md)
    + Kompetenzaufbau {#innovation}
       + [Webinare](sign-usecase/innovation-series.md)
-   + Fallrezepte {#recipes} verwenden
+   + Fallrezepte verwenden {#recipes}
       + [Übersicht](sign-usecase/recipes.md)
       + Regierung {#gov}
          + [Unternehmenszuschüsse und -darlehen](sign-usecase/usecasegovgrants.md)
@@ -120,9 +120,9 @@ ht-degree: 6%
    + Benutzerdefinierte APIs {#custom}
       + [Sammeln von Dokumenten mit großen Mengen mithilfe von GigaSign](develop/gigasign.md)
       + [Erlebnisse für eingebettete E-Signaturen und Dokumente erstellen](develop/embeddedesignature.md)
-+ {#deploy} bereitstellen
++ Bereitstellen {#deploy}
    + [Übersicht](deploy-overview.md)
 + Mobil {#mobile}
    + [Übersicht](mobile/mobile-overview.md)
-   + Mobile Tutorials {#mobile-tutorials}
+   + Tutorials für Mobilgeräte {#mobile-tutorials}
       + [Liquid Mode in Adobe Sign](mobile/liquidmode.md)

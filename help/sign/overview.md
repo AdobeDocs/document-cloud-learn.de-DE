@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 9e334f9523601cf5c5bad3a80663724d7b3670de
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
@@ -67,20 +67,20 @@ Adobe Sign, eine Adobe Document Cloud-Lösung, skaliert auf die Anforderungen Ih
   </td>
   <td>
     <a href="integrations/integrations-overview.md">
-      <img alt="Integrieren" src="assets/AS_Title_Integrate.png" />
+      <img alt="Integrationen" src="assets/AS_Title_Integrate.png" />
     </a>
     <div>
-    <a href="integrations/integrations-overview.md"><strong>Integrieren</strong></a>
+    <a href="integrations/integrations-overview.md"><strong>Integrationen</strong></a>
     </div>
     <em>Fügen Sie Adobe Sign direkt in andere Anwendungen ein, die Ihr Unternehmen bereits verwendet</em>
     <br>
   </td>
   <td>
     <a href="sign-usecase/expand-inspire-overview.md">
-      <img alt="Industrie und Abteilung" src="assets/AS_Title_Industry.png" />
+      <img alt="Industrie und Abteilungen" src="assets/AS_Title_Industry.png" />
     </a>
     <div>
-    <a href="sign-usecase/expand-inspire-overview.md"><strong>Industrie und Abteilung</strong></a>
+    <a href="sign-usecase/expand-inspire-overview.md"><strong>Industrie und Abteilungen</strong></a>
     </div>
     <em>Anwendungsfälle und Rezepte für Unternehmen und Abteilungen in der ganzen Welt, um das Potenzial elektronischer Signaturen neu zu definieren</em>
     <br>
