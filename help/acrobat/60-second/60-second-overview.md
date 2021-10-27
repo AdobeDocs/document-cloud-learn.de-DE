@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
+source-git-commit: 27c2eebfcdf359a3b3cca5cc9f31ba4ed39f7652
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
@@ -76,7 +76,19 @@ Mit 60-Sekunden-Tutorials in Acrobat lernen Sie einen neuen Trick in Acrobat DC 
     <em>Erfahren Sie, wie Sie eine E-Mail-PowerPoint-Anlage auf Ihrem Smartphone in PDF konvertieren</em>
     <br>
   </td>  
- <td>
+  <td>
+    <a href="sign.md">
+      <img alt="Dokument elektronisch signieren" src="../assets/60sec_Sign_1280.jpg" />
+    </a>
+    <div>
+    <a href="sign.md"><strong>Dokument elektronisch signieren</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie mit Adobe Scan ein gedrucktes Formular signieren</em>
+    <br>
+  </td>  
+</tr>
+<tr>
+  <td>
     <a href="indesign.md">
       <img alt="PDF-Kommentare auf InDesign laden" src="../assets/60sec_InDesign_1280.jpg" />
     </a>
@@ -85,10 +97,8 @@ Mit 60-Sekunden-Tutorials in Acrobat lernen Sie einen neuen Trick in Acrobat DC 
     </div>
     <em>Erfahren Sie, wie Sie PDF-Kommentare nach einer gemeinsamen Acrobat-Überprüfung wieder auf InDesign laden</em>
     <br>
-  </td>  
-</tr>
-<tr>
-  <td>
+  </td>
+   <td>
     <a href="editphoto.md">
       <img alt="Foto auf dem PDF bearbeiten" src="../assets/60sec_Editphoto_1280.jpg" />
     </a>
@@ -107,8 +117,10 @@ Mit 60-Sekunden-Tutorials in Acrobat lernen Sie einen neuen Trick in Acrobat DC 
     </div>
     <em>Erfahren Sie, wie Sie mit Illustrator eine Grafik auf Ihrem PDF bearbeiten</em>
     <br>
-  </td>  
- <td>
+  </td> 
+</tr>
+<tr>
+  <td>
     <a href="organize.md">
       <img alt="Seiten in wenigen Schritten organisieren" src="../assets/60sec_Organize_1280.jpg" />
     </a>
@@ -116,6 +128,16 @@ Mit 60-Sekunden-Tutorials in Acrobat lernen Sie einen neuen Trick in Acrobat DC 
     <a href="organize.md"><strong>Seiten in wenigen Schritten organisieren</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie mit dem Seitenorganisieren-Werkzeug eine Vogelperspektive Ihrer PDF anzeigen</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Abstand" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Abstand" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>  
 </tr>
