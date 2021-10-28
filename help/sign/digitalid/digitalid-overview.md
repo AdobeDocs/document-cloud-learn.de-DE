@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 30917ce6eb6d682649a21d486eefa9482339410e
+source-git-commit: cacee2906e240c1164741d47b0f9e588a9fa1694
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
@@ -24,18 +24,45 @@ ht-degree: 0%
 >
 >Bevor Sie eine digitale ID mit einer Cloud-Signatur verwenden können, sollten Sie sich an den Administrator Ihres Unternehmens wenden, um zu bestätigen, dass die Lösung des Anbieters in Adobe Sign aktiviert ist.
 
+## [!DNL Aadhaar]
+
+<table style="table-layout:fixed">
+<tr>
+ <td>
+    <a href="aadhaar-sign.md">
+      <img alt="Unterschreiben mit [!DNL Aadhaar]" src="assets/Aadhaarsign_1280.png" />
+    </a>
+    <div>
+    <a href="aadhaar-sign.md"><strong>Unterschreiben mit [!DNL Aadhaar]</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie Ihre [!DNL Aadhaar] digitale ID mit Adobe Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Abstand" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Abstand" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
 ## [!DNL Digidentity]
 
 <table style="table-layout:fixed">
 <tr>
  <td>
     <a href="digidentity-reg.md">
-      <img alt="Digitale ID von [!DNL Digidentity] abrufen" src="assets/Digidentityreg_1280.png" />
+      <img alt="Digitale ID abrufen von [!DNL Digidentity]" src="assets/Digidentityreg_1280.png" />
     </a>
     <div>
-    <a href="digidentity-reg.md"><strong>Digitale ID von [!DNL Digidentity] abrufen</strong></a>
+    <a href="digidentity-reg.md"><strong>Digitale ID abrufen von [!DNL Digidentity]</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie ein digitales Signaturzertifikat von [!DNL Digidentity] erhalten</em>
+    <em>Erfahren Sie, wie Sie ein digitales Signaturzertifikat von [!DNL Digidentity]</em>
     <br>
   </td>
   <td>
@@ -45,7 +72,7 @@ ht-degree: 0%
     <div>
     <a href="digidentity-sign.md"><strong>Unterschreiben mit [!DNL Digidentity]</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie Ihre [!DNL Digidentity] digitale ID mit Adobe Sign verwenden</em>
+    <em>Erfahren Sie, wie Sie Ihre [!DNL Digidentity] digitale ID mit Adobe Sign</em>
     <br>
   </td>
   <td>
@@ -65,19 +92,19 @@ ht-degree: 0%
       <img alt="Digitale ID von Intesi Group abrufen (erweitert)" src="assets/IntesiAdvanced_1280.png" />
     </a>
     <div>
-    <a href="intesi-advanced.md"><strong>Digitale ID von [!DNL Intesi Group] (erweitert) abrufen</strong></a>
+    <a href="intesi-advanced.md"><strong>Digitale ID abrufen von [!DNL Intesi Group] (Erweitert)</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie ein erweitertes Zertifikat für digitale Signaturen von [!DNL Intesi Group] erhalten</em>
+    <em>Erfahren Sie, wie Sie ein erweitertes digitales Signaturzertifikat von [!DNL Intesi Group]</em>
     <br>
   </td>
   <td>
     <a href="intesi-qualified.md">
-      <img alt="Digitale ID von [!DNL Intesi Group] (Qualifiziert) abrufen" src="assets/IntesiQualified_1280.png" />
+      <img alt="Digitale ID abrufen von [!DNL Intesi Group] (Qualifiziert)" src="assets/IntesiQualified_1280.png" />
     </a>
     <div>
-    <a href="intesi-qualified.md"><strong>Digitale ID von [!DNL Intesi Group] (Qualifiziert) abrufen</strong></a>
+    <a href="intesi-qualified.md"><strong>Digitale ID abrufen von [!DNL Intesi Group] (Qualifiziert)</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie ein qualifiziertes digitales Signaturzertifikat von [!DNL Intesi Group] erhalten</em>
+    <em>Erfahren Sie, wie Sie ein qualifiziertes digitales Signaturzertifikat von [!DNL Intesi Group]</em>
     <br>
   </td>
   <td>
@@ -87,7 +114,7 @@ ht-degree: 0%
     <div>
     <a href="intesi-sign.md"><strong>Unterschreiben mit [!DNL Intesi Group]</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie Ihre [!DNL Intesi Group] digitale ID mit Adobe Sign verwenden</em>
+    <em>Erfahren Sie, wie Sie Ihre [!DNL Intesi Group] digitale ID mit Adobe Sign</em>
     <br>
   </td>
 </tr>
