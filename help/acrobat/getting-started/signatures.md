@@ -1,24 +1,24 @@
 ---
-title: Get Signatures
-description: Keep business moving by collecting legally binding e-signatures from others — from anywhere
+title: Signaturen abrufen
+description: Umzug von Unternehmen durch Sammlung rechtsverbindlicher elektronischer Signaturen von anderen — von überall
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-8257.jpg
 kt: 8257
-source-git-commit: 068232d665c4ea7ba706d3e18feaaf17240310bb
+source-git-commit: 7db57badff0e39d003ec39b6b8ad7b615db71fd5
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
-# Get Signatures
+# Signaturen abrufen
 
 Umzug von Unternehmen durch Sammlung rechtsverbindlicher elektronischer Signaturen von anderen — von überall aus.
 
 >[!IMPORTANT]
 >
->You must have an Adobe Sign Enterprise entitlement in addition to your Acrobat Enterprise subscription.
+>Sie müssen zusätzlich zu Ihrem Acrobat Enterprise-Abonnement über eine Adobe Sign Enterprise-Berechtigung verfügen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338359?hidetitle=true)
