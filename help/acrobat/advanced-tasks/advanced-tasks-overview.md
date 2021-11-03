@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: bfdfb6c9b4d3bb76d8526b0c0f8707c20cf26b5a
+source-git-commit: 436a3d53d7978baf7d9b74291e0ae06d6837fdfc
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 3%
+source-wordcount: '201'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 ![Erste Schritte mit Acrobat](../assets/Hero-AdvancedTasks.png)
 
-Mit diesen erweiterten Werkzeugen von Acrobat DC können Sie über die Grundlagen hinausgehen. Erfahren Sie, wie Sie eine Aktion erstellen, um alltägliche Aufgaben zu wiederholen, vertrauliche Informationen zu entfernen, große Dateien zu reduzieren und zu optimieren, schnell Formulardaten zu sammeln und universell zugängliche PDF-Dateien zu erstellen.
+Mit diesen fortschrittlichen Werkzeugen in Acrobat DC gehen Sie über die Grundlagen hinaus. Erfahren Sie, wie Sie eine Aktion erstellen, um alltägliche Aufgaben zu wiederholen, vertrauliche Informationen zu entfernen, große Dateien zu reduzieren und zu optimieren, schnell Formulardaten zu sammeln und universell zugängliche PDF-Dateien zu erstellen.
 
 ## Acrobat-Tutorials
 
@@ -25,10 +25,10 @@ Mit diesen erweiterten Werkzeugen von Acrobat DC können Sie über die Grundlage
 <tr>
   <td>
     <a href="compare.md">
-      <img alt="Unterschiede zwischen zwei PDF-Dateien erkennen" src="../assets/Compare_1280.png" />
+      <img alt="Unterschiede zwischen zwei PDF erkennen" src="../assets/Compare_1280.png" />
     </a>
     <div>
-    <a href="compare.md"><strong>Unterschiede zwischen zwei PDF-Dateien erkennen</strong></a>
+    <a href="compare.md"><strong>Unterschiede zwischen zwei PDF erkennen</strong></a>
     </div>
     <em>Erkennen Sie schnell und präzise die Unterschiede zwischen zwei PDF-Dateien, um die Arbeitsabläufe bei der Dokumentenüberprüfung zu verbessern</em>
     <br>
@@ -40,7 +40,7 @@ Mit diesen erweiterten Werkzeugen von Acrobat DC können Sie über die Grundlage
     <div>
     <a href="action.md"><strong>Aktionsassistent</strong></a>
     </div>
-    <em>Aktion erstellen, um eine Gruppe von Befehlen automatisch auf eine oder mehrere Dateien anzuwenden</em>
+    <em>Sparen Sie Zeit und Tastenanschläge, indem Sie mithilfe einer Aktion automatisch eine Gruppe von Befehlen auf ein oder mehrere Befehle anwenden</em>
     <br>
   </td>
   <td>
@@ -50,7 +50,7 @@ Mit diesen erweiterten Werkzeugen von Acrobat DC können Sie über die Grundlage
     <div>
     <a href="redact.md"><strong>Schwärzen und Bereinigen</strong></a>
     </div>
-    <em>Private oder sensible Informationen endgültig aus der PDF-Datei entfernen</em>
+    <em>Private oder sensible Informationen endgültig von Ihrem PDF entfernen</em>
     <br>
   </td>  
 </tr>
@@ -62,7 +62,7 @@ Mit diesen erweiterten Werkzeugen von Acrobat DC können Sie über die Grundlage
     <div>
     <a href="reduce.md"><strong>Dateigröße reduzieren und optimieren</strong></a>
     </div>
-    <em>Reduzieren Sie große Dateien und optimieren Sie PDF-Dateien, ohne die Qualität von Freigabe, Veröffentlichung oder Archivierung zu beeinträchtigen.</em>
+    <em>Reduzieren Sie große Dateien und optimieren Sie PDF, ohne die Qualität für Freigabe, Veröffentlichung oder Archivierung zu beeinträchtigen.</em>
     <br>
   </td>
   <td>
@@ -80,9 +80,9 @@ Mit diesen erweiterten Werkzeugen von Acrobat DC können Sie über die Grundlage
       <img alt="Vorbereiten barrierefreier PDF-Dateien" src="../assets/PreparingAccessible.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>Vorbereiten von barrierefreien PDF-Dateien</strong></a>
+    <a href="accessibility.md"><strong>Vorbereiten barrierefreier PDF-Dateien</strong></a>
     </div>
-    <em>PDF-Dateien erstellen</em>
+    <em>PDF-Dateien erstellen, auf universell zugängliche Dateien</em>
     <br>
   </td>
 </tr>
@@ -94,7 +94,7 @@ Mit diesen erweiterten Werkzeugen von Acrobat DC können Sie über die Grundlage
     <div>
     <a href="accessibility-series.md"><strong>Acrobat Accessibility-Serie</strong></a>
     </div>
-    <em>In dieser sechsteiligen On-Demand-Webinarreihe können Sie von den Grundlagen der Barrierefreiheit zu einem tiefen Einstieg in das Tagging Ihrer PDF-Dateien übergehen</em>
+    <em>In dieser sechsteiligen On-Demand-Webinar-Reihe geht es von den Grundlagen der Barrierefreiheit zu einem tiefen Einstieg in das Tagging Ihrer PDF-Dateien</em>
     <br>
   </td>
   <td>
