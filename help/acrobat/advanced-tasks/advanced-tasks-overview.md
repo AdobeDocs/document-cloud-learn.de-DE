@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 436a3d53d7978baf7d9b74291e0ae06d6837fdfc
+source-git-commit: 19eaddb4279de3cb41675714575ee451089c947c
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '209'
 ht-degree: 2%
 
 ---
@@ -40,7 +40,7 @@ Mit diesen fortschrittlichen Werkzeugen in Acrobat DC gehen Sie über die Grundl
     <div>
     <a href="action.md"><strong>Aktionsassistent</strong></a>
     </div>
-    <em>Sparen Sie Zeit und Tastenanschläge, indem Sie mithilfe einer Aktion automatisch eine Gruppe von Befehlen auf ein oder mehrere Befehle anwenden</em>
+    <em>Sparen Sie Zeit und Tastenanschläge, indem Sie mithilfe einer Aktion automatisch eine Gruppe von Befehlen auf eine oder mehrere Dateien anwenden</em>
     <br>
   </td>
   <td>
@@ -77,12 +77,12 @@ Mit diesen fortschrittlichen Werkzeugen in Acrobat DC gehen Sie über die Grundl
   </td>
   <td>
     <a href="accessibility.md">
-      <img alt="Vorbereiten barrierefreier PDF-Dateien" src="../assets/PreparingAccessible.jpg" />
+      <img alt="PDF-Barrierefreiheit überprüfen" src="../assets/PreparingAccessible.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>Vorbereiten barrierefreier PDF-Dateien</strong></a>
+    <a href="accessibility.md"><strong>PDF-Barrierefreiheit überprüfen</strong></a>
     </div>
-    <em>PDF-Dateien erstellen, auf universell zugängliche Dateien</em>
+    <em>Erfahren Sie, wie Sie überprüfen, ob Ihr PDF für Menschen mit Behinderungen allgemein zugänglich ist</em>
     <br>
   </td>
 </tr>
@@ -94,7 +94,7 @@ Mit diesen fortschrittlichen Werkzeugen in Acrobat DC gehen Sie über die Grundl
     <div>
     <a href="accessibility-series.md"><strong>Acrobat Accessibility-Serie</strong></a>
     </div>
-    <em>In dieser sechsteiligen On-Demand-Webinar-Reihe geht es von den Grundlagen der Barrierefreiheit zu einem tiefen Einstieg in das Tagging Ihrer PDF-Dateien</em>
+    <em>In dieser sechsteiligen On-Demand-Webinar-Reihe können Sie von den Grundlagen der Barrierefreiheit zu einem tiefen Einstieg in das Tagging Ihrer PDF-Dateien übergehen</em>
     <br>
   </td>
   <td>
