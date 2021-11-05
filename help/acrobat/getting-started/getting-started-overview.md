@@ -1,15 +1,15 @@
 ---
-title: Getting Started Overview
+title: Überblick über die ersten Schritte
 description: In diesen kurzen (1-2 Min.) Tutorials erfahren Sie, wie Sie mit der Verwendung von Adobe Acrobat beginnen
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 068232d665c4ea7ba706d3e18feaaf17240310bb
+source-git-commit: 1e8dc23acc3d461b5623855b348329479958baf5
 workflow-type: tm+mt
-source-wordcount: '400'
-ht-degree: 6%
+source-wordcount: '418'
+ht-degree: 5%
 
 ---
 
@@ -57,7 +57,7 @@ In diesen Tutorials erfahren Sie, wie Sie mit der Verwendung von Adobe Acrobat b
 <tr>
    <td>
     <a href="../integrate/integrate-overview.md#microsoft">
-      <img alt="Work with Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
+      <img alt="Arbeiten mit Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
     </a>
     <div>
      <a href="../integrate/integrate-overview.md#microsoft"><strong>Arbeiten mit Microsoft 365</strong></a>
@@ -80,7 +80,7 @@ In diesen Tutorials erfahren Sie, wie Sie mit der Verwendung von Adobe Acrobat b
       <img alt="Combine Files zu PDF" src="../assets/Combine.jpg" />
     </a>
     <div>
-     <a href="combine-to-pdf.md"><strong>Combine files to PDFs</strong></a>
+     <a href="combine-to-pdf.md"><strong>Dateien zu PDF zusammenführen</strong></a>
     </div>
     <em>Mehrere Dateitypen zu einem PDF kombinieren</em>
     <br>
@@ -94,15 +94,15 @@ In diesen Tutorials erfahren Sie, wie Sie mit der Verwendung von Adobe Acrobat b
     <div>
     <a href="create-pdf.md"><strong>Erstellen einer PDF-Datei</strong></a>
     </div>
-    <em>Create PDFs from all different kinds of documents</em>
+    <em>PDF aus verschiedenen Dokumenttypen erstellen</em>
     <br>
   </td>
  <td>
     <a href="comment-on-pdf-files.md">
-      <img alt="Comment on PDF files in Acrobat DC" src="../assets/Comment.jpg" />
+      <img alt="PDF-Dateien in Acrobat DC kommentieren" src="../assets/Comment.jpg" />
     </a>
     <div>
-    <a href="comment-on-pdf-files.md"><strong>Comment on a PDF</strong></a>
+    <a href="comment-on-pdf-files.md"><strong>PDF kommentieren</strong></a>
     </div>
     <em>Kommentare zu einer PDF-Datei hinzufügen und diese dann für andere freigeben</em>
     <br>
@@ -166,7 +166,7 @@ In diesen Tutorials erfahren Sie, wie Sie mit der Verwendung von Adobe Acrobat b
       <img alt="PDF-Datei mit Kennwort Protect" src="../assets/Protect.jpg" />
     </a>
     <div>
-    <a href="password-protect.md"><strong>Protect a PDF file with a password</strong></a>
+    <a href="password-protect.md"><strong>PDF-Datei mit Kennwort Protect</strong></a>
     </div>
     <em>Fügen Sie Ihrem PDF ein Kennwort hinzu, um andere vor dem Öffnen oder Bearbeiten der Datei zu schützen</em>
     <br>
@@ -194,18 +194,23 @@ In diesen Tutorials erfahren Sie, wie Sie mit der Verwendung von Adobe Acrobat b
     <br>
   </td>
   <td>
+    <a href="track.md">
+      <img alt="Dokumente verfolgen" src="../assets/Track_1280.png" />
+    </a>
+    <div>
+    <a href="track.md"><strong>Dokumente verfolgen</strong></a>
+    </div>
+    <em>Immer wissen, welche Dateien auf Signaturen warten und welche signiert wurden</em>
+    <br>
+  </td>
+   <td>
     <a href="where-do-pdfs-come-from.md">
-      <img alt="Where do PDFs come from?" src="../assets/WherePDFs.jpg" />
+      <img alt="Woher kommen PDF?" src="../assets/WherePDFs.jpg" />
     </a>
     <div>
     <a href="where-do-pdfs-come-from.md"><strong>Woher kommen PDF?</strong></a>
     </div>
     <em>Erfahren Sie, woher PDF kommen und wofür sie verwendet werden</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Abstand" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
