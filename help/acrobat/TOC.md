@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat-Tutorials
-source-git-commit: 1e8dc23acc3d461b5623855b348329479958baf5
+source-git-commit: 33e3af56d2a97c43a2f11d585c73560460f0dd62
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '332'
 ht-degree: 9%
 
 ---
@@ -103,3 +103,4 @@ ht-degree: 9%
    + [Wichtige Acrobat DC-Produktupdates für ETLA-Kunden](deploy/signentitlementchanges.md)
 + Mobil {#mobile}
    + [Übersicht](mobile/mobile-overview.md)
+   + [Produktivität unterwegs](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
