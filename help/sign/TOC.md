@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Adobe Sign-Tutorials
-source-git-commit: cacee2906e240c1164741d47b0f9e588a9fa1694
+source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 6%
@@ -33,7 +33,7 @@ ht-degree: 6%
       + [Was ist eine digitale Signatur?](sign-beginner-tutorials/sign-with-a-digital-signature.md)
       + [Unterschreiben mit einem Stempel](sign-beginner-tutorials/sign-with-a-stamp.md)
    + Verwalten {#getting-started-managing}
-      + [Verwalten und Verfolgen von Dokumenten](sign-beginner-tutorials/manage-and-track.md)
+      + [Vereinbarungen verwalten und verfolgen](sign-beginner-tutorials/manage-and-track.md)
       + [Erstellen einer Dokumentvorlage](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
       + [Ändern eines Dokuments, das bereits zum Unterschreiben gesendet wurde](sign-beginner-tutorials/modify-in-flight.md)
 + Erweiterte Aufgaben {#advanced-tasks}

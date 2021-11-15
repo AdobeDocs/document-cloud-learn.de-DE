@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 03591d0e9e5fac66b8ea083c8db98669c1b4f646
+source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -148,12 +148,12 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Dokumente 
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Verwalten und Verfolgen von Dokumenten" src="../assets/Managing.png" />
+      <img alt="Vereinbarungen verwalten und verfolgen" src="../assets/Manage_1280.png" />
     </a>
     <div>
-    <a href="manage-and-track.md"><strong>Verwalten und Verfolgen von Dokumenten</strong></a>
+    <a href="manage-and-track.md"><strong>Vereinbarungen verwalten und verfolgen</strong></a>
     </div>
-    <em>Vereinbarungen verwalten und verfolgen, die Sie zum Unterschreiben gesendet haben</em>
+    <em>Erfahren Sie, wie Sie zum Unterschreiben gesendete Vereinbarungen verwalten und verfolgen</em>
     <br>
   </td>
   <td>
