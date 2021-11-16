@@ -1,25 +1,26 @@
 ---
-title: 'PDF-Dateien für das Web erstellen [!DNL Office] '
-description: Erfahren Sie, wie Sie PDF-Dateien erstellen, ohne Ihre  [!DNL Microsoft Office] für Web-Applikationen zu verlassen
+title: Create PDFs in [!DNL Office] for the Web
+description: Learn how to create PDF files without ever leaving your [!DNL Microsoft Office] for web apps
 role: User
 product: adobe acrobat
 level: Beginner
 topic-revisit: Integrations
-thumbnail: kt-8497.jpg
+thumbnail: KT-8497.jpg
 kt: 8497
-source-git-commit: 43c14489680e482e9450a42e82d126ffa28bb977
+exl-id: 0653049b-32f3-4d78-b301-c6c3b6d85a1f
+source-git-commit: b924af71abccea63f50cf27fb7ee2eafbacc0656
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
-# PDF-Dateien in [!DNL Office] für das Web erstellen
+# PDF erstellen in [!DNL Office] für das Web
 
-Erfahren Sie, wie Sie PDF-Dateien erstellen, ohne [!DNL Microsoft Office] für Web-Applikationen zu verlassen. Dieses Add-on erfordert ein Abonnement für Acrobat DC für Teams oder Acrobat DC für Unternehmen.
+Erfahren Sie, wie Sie PDF-Dateien erstellen, ohne Ihre [!DNL Microsoft Office] für Webanwendungen. This add-on requires a subscription to Acrobat DC for teams or Acrobat DC for enterprise subscription.
 
 >[!NOTE]
 >
->Adobe Acrobat für [!DNL Microsoft 365] enthält kostenlose Funktionen (z. B. Anzeigen und Suchen in PDF-Dateien), die allen Benutzern zur Verfügung stehen. Für andere Funktionen (z. B. Erstellen und Kombinieren von PDF-Dateien) ist ein kostenpflichtiges Acrobat DC für Teams oder Acrobat DC für Unternehmen erforderlich.
+>Adobe Acrobat für [!DNL Microsoft 365] enthält kostenlose Funktionen (wie Anzeigen und Suchen innerhalb von PDF), die allen Benutzern zur Verfügung stehen. Für andere Funktionen (z. B. Erstellen und Kombinieren von PDF) ist ein kostenpflichtiges Acrobat DC für Teams oder ein Acrobat DC für Unternehmen erforderlich.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337482?hidetitle=true)
