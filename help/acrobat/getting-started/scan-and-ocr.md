@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 95f9464fa0c37f53eeaaec5cccaf7124c108b500
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '200'
 ht-degree: 1%
 
 ---
 
 # Scannen und OCR
 
-Wandeln Sie Scans oder Dokumentbilder in durchsuchbare, bearbeitbare PDF-Dateien um und passen Sie die Qualität der erstellten Datei an.
+Konvertieren Sie Scans oder Dokumentbilder in durchsuchbare, bearbeitbare PDF-Dateien und passen Sie die Qualität der erstellten Datei an.
 
 >[!TIP]
 >
@@ -48,3 +48,7 @@ Die Datei ist jetzt eine durchsuchbare, bearbeitbare PDF-Datei.
 Klicken Sie auf , um eine PDF des *Scannen und OCR* Tutorial.
 
 [![Tutorial zu Scan und OCR herunterladen](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCScan.pdf)
+
+>[!TIP]
+>
+>Dieses Video ist Teil des Kurses [Intelligenter mit Acrobat DC und Microsoft arbeiten 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) die auf der Experience League kostenlos erhältlich ist!

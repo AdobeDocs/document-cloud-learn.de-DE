@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 5d32ecf3a2a4a71eb82a0532c1d251495e99eda9
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -68,3 +68,7 @@ Erfahren Sie, wie Sie mit dem Schwärzen-Werkzeug private oder vertrauliche Info
 Wählen Sie das PDF-Symbol aus, um das *Schwärzen und Bereinigen* Tutorial.
 
 [![Tutorial zum Herunterladen und Bereinigen](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCRedact.pdf).
+
+>[!TIP]
+>
+>Dieses Video ist Teil des Kurses [Intelligenter mit Acrobat DC und Microsoft arbeiten 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) die auf der Experience League kostenlos erhältlich ist!
