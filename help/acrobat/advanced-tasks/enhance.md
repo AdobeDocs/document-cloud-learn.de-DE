@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
+source-git-commit: c27632c8a4ed98d75120062bb0ee976a3bb9fb21
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,10 @@ ht-degree: 0%
 
 In diesem Tutorial lernen Sie, wie Sie Ihre PDF transformieren, indem Sie Grafikverbesserungen und automatische Nummerierung hinzufügen.
 
-<br> 
-
-## Anforderungen
-
-[![Dateien abrufen](../assets/Getfiles.png)](../assets/Enhance.zip)
-Beispieldateien zum Üben (ZIP, 342 KB)
-
-<br> 
+>[!TIP]
+>
+>[![Dateien abrufen](../assets/Getfiles.png)](../assets/Enhance.zip)
+> Beispieldateien zum Üben (ZIP, 342 KB)
 
 ## Hintergrundgrafiken hinzufügen
 
@@ -39,7 +35,7 @@ Durch Hinzufügen von Hintergründen können Sie visuelle Elemente zu Ihrer PDF 
 1. Öffnen *Altura Technology Employee Handbook.pdf* aus den Beispieldateien.
 1. Auswählen **PDF bearbeiten** im rechten Fensterbereich.
 1. Auswählen **Mehr > Hintergrund > Hinzufügen**.
-1. Auswählen **Seitenbereichoptionen...** und wählen Sie 2 bis 26 unter dem **Seiten von:** und wählen Sie **OK**.
+1. Auswählen **Seitenbereichoptionen...** und wählen Sie 2 bis 26 unter dem **Seiten aus** und wählen Sie **OK**.
 1. Wählen Sie unter &quot;Quelle&quot;die Option **Datei** und wählen Sie **Durchsuchen** , um *Background Graphic.pdf* Beispieldatei.
 1. Auswählen **OK** , um die Hintergrundgrafik hinzuzufügen.
 
