@@ -7,9 +7,9 @@ level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: b9fa2e683c88094f1fa92628c04f5d2bd4c00b94
+source-git-commit: 912ddee4f8bb9a5f6854908aeb8f1aabd98db910
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,24 @@ ht-degree: 0%
 
 In diesem Tutorial lernen Sie, wie Sie Ihre PDF transformieren, indem Sie Grafikverbesserungen und automatische Nummerierung hinzufügen.
 
->[!TIP]
->
->[Beispieldateien herunterladen](../assets/Enhance.zip) Üben (ZIP, 342 KB)
-
-[![Dateien abrufen](../assets/Getfiles.svg)](../assets/Enhance.zip)
+<table style="table-layout:auto">
+<tr>
+  <td>
+   <img alt="Dateien abrufen" src="../assets/Getfiles.svg" />
+  </td>
+  <td>
+    Beispieldateien zum Üben (ZIP, 342 KB)
+  </td>
+</tr>
+</table>
 
 ## Hintergrundgrafiken hinzufügen
 
 Verwenden Sie das Werkzeug &quot;Bearbeiten&quot;, um Hintergrundgrafiken zum PDF hinzuzufügen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
+
+<br> 
 
 **Zusammenfassung: Um Hintergrundgrafiken mit dem Werkzeug &quot;Bearbeiten&quot;zum PDF hinzuzufügen.**
 
@@ -37,7 +44,8 @@ Durch Hinzufügen von Hintergründen können Sie visuelle Elemente zu Ihrer PDF 
 1. Öffnen *Altura Technology Employee Handbook.pdf* aus den Beispieldateien.
 1. Auswählen **PDF bearbeiten** im rechten Fensterbereich.
 1. Auswählen **Mehr > Hintergrund > Hinzufügen**.
-1. Auswählen **Seitenbereichoptionen...** und wählen Sie 2 bis 26 unter dem **Seiten aus** und wählen Sie **OK**.
+1. Auswählen **Seitenbereichoptionen...**.
+Geben Sie im Feld **Seiten aus** und wählen Sie **OK**.
 1. Wählen Sie unter &quot;Quelle&quot;die Option **Datei** und wählen Sie **Durchsuchen** , um *Background Graphic.pdf* Beispieldatei.
 1. Auswählen **OK** , um die Hintergrundgrafik hinzuzufügen.
 
@@ -47,18 +55,24 @@ Verwenden Sie das Werkzeug Bearbeiten, um eine neue Fußzeile zu Ihrer PDF hinzu
 
 >[!VIDEO](https://video.tv.adobe.com/v/338745?hidetitle=true)
 
+<br> 
+
 **Zusammenfassung: So fügen Sie Ihrer PDF eine neue Fußzeile hinzu.**
 
 Durch das Hinzufügen neuer Kopf- und Fußzeilen können Sie einheitliche PDF-Dateien erstellen, um die Anzeige zu verbessern.
 
 1. Auswählen **Kopf- und Fußzeile > Hinzufügen > Neu hinzufügen**.
-1. In der **Seitenvorschau** Feld wählen Sie 2.
-1. Under **Name** &quot;Calibri Bold&quot;auswählen, unter **Größe** Wählen Sie &quot;12&quot;und dann im Abschnitt &quot;Schrift&quot;eine weiße Farbe.
+1. Geben Sie im Feld **Seitenvorschau** Feld.
+1. Wählen Sie im Abschnitt &quot;Schrift&quot;im Dialogfeld **Name** angezeigt.
+Wählen Sie 12 im **Größe** und wählen Sie eine weiße Farbe.
 1. Geben Sie Altura Technology Confidential in der **Text in der linken Fußzeile** Feld.
 1. Auswählen **Seitenzahl einfügen** im **Fußzeilentext zentrieren** Feld.
 1. Geben Sie Revision 3.0 in der **Rechter Fußzeilentext** Feld.
-1. Auswählen **Format für Seitenzahl und Datum** und wählen Sie 2 unter **Startseitenzahl** und wählen Sie **OK**.
-1. Auswählen **Seitenbereichoptionen...** und wählen Sie 2 bis 26 unter dem **Seiten von:** und wählen Sie **OK**.
-1. Wählen Sie 0,7 im **Unten** im Abschnitt &quot;Rand&quot;angezeigt.
-1. Auswählen **Einstellungen speichern**, geben Sie Revision 3.0 in das Feld ein und wählen Sie **OK**.
+1. Auswählen **Format für Seitenzahl und Datum**.
+2 unter **Startseitenzahl** und wählen Sie **OK**.
+1. Auswählen **Seitenbereichoptionen...**.
+Geben Sie 2 bis 26 unter dem **Seiten von:** und wählen Sie **OK**.
+1. Geben Sie 0,7 in das Feld **Unten** im Abschnitt &quot;Rand&quot;angezeigt.
+1. Auswählen **Einstellungen speichern**.
+Geben Sie Revision 3.0 in das Feld ein und wählen Sie **OK**.
 1. Auswählen **OK** , um die neue Fußzeile auf die PDF anzuwenden.
