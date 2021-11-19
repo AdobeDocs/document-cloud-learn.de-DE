@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: e3a2ea5687ac123e88a051f320df2d4051cb63d7
+exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
+source-git-commit: b9fa2e683c88094f1fa92628c04f5d2bd4c00b94
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -19,9 +20,9 @@ In diesem Tutorial lernen Sie, wie Sie Ihre PDF transformieren, indem Sie Grafik
 
 >[!TIP]
 >
->Beispieldateien zum Üben (ZIP, 342 KB)
+>[Beispieldateien herunterladen](../assets/Enhance.zip) Üben (ZIP, 342 KB)
 
-[![Dateien abrufen](../assets/Getfiles.png)](../assets/Enhance.zip)
+[![Dateien abrufen](../assets/Getfiles.svg)](../assets/Enhance.zip)
 
 ## Hintergrundgrafiken hinzufügen
 
@@ -61,5 +62,3 @@ Durch das Hinzufügen neuer Kopf- und Fußzeilen können Sie einheitliche PDF-Da
 1. Wählen Sie 0,7 im **Unten** im Abschnitt &quot;Rand&quot;angezeigt.
 1. Auswählen **Einstellungen speichern**, geben Sie Revision 3.0 in das Feld ein und wählen Sie **OK**.
 1. Auswählen **OK** , um die neue Fußzeile auf die PDF anzuwenden.
-
-
