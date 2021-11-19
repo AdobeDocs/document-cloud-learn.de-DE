@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: 912ddee4f8bb9a5f6854908aeb8f1aabd98db910
+source-git-commit: fbf25815db0f441874f7afaf9ffdbdcddfad70da
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
@@ -18,16 +18,9 @@ ht-degree: 0%
 
 In diesem Tutorial lernen Sie, wie Sie Ihre PDF transformieren, indem Sie Grafikverbesserungen und automatische Nummerierung hinzufügen.
 
-<table style="table-layout:auto">
-<tr>
-  <td>
-   <img alt="Dateien abrufen" src="../assets/Getfiles.svg" />
-  </td>
-  <td>
-    Beispieldateien zum Üben (ZIP, 342 KB)
-  </td>
-</tr>
-</table>
+[![Dateien abrufen](../assets/Getfiles.svg)](../assets/Enhance.zip)   Beispieldateien zum Üben (ZIP, 342 KB)
+
+<br> 
 
 ## Hintergrundgrafiken hinzufügen
 
@@ -65,14 +58,14 @@ Durch das Hinzufügen neuer Kopf- und Fußzeilen können Sie einheitliche PDF-Da
 1. Geben Sie im Feld **Seitenvorschau** Feld.
 1. Wählen Sie im Abschnitt &quot;Schrift&quot;im Dialogfeld **Name** angezeigt.
 Wählen Sie 12 im **Größe** und wählen Sie eine weiße Farbe.
-1. Geben Sie Altura Technology Confidential in der **Text in der linken Fußzeile** Feld.
+1. Typ *Altura Technology Confidential* im **Text in der linken Fußzeile** Feld.
 1. Auswählen **Seitenzahl einfügen** im **Fußzeilentext zentrieren** Feld.
-1. Geben Sie Revision 3.0 in der **Rechter Fußzeilentext** Feld.
+1. Typ *Revision 3.0* im **Rechter Fußzeilentext** Feld.
 1. Auswählen **Format für Seitenzahl und Datum**.
 2 unter **Startseitenzahl** und wählen Sie **OK**.
 1. Auswählen **Seitenbereichoptionen...**.
 Geben Sie 2 bis 26 unter dem **Seiten von:** und wählen Sie **OK**.
 1. Geben Sie 0,7 in das Feld **Unten** im Abschnitt &quot;Rand&quot;angezeigt.
 1. Auswählen **Einstellungen speichern**.
-Geben Sie Revision 3.0 in das Feld ein und wählen Sie **OK**.
+Typ *Revision 3.0* im Feld und wählen Sie **OK**.
 1. Auswählen **OK** , um die neue Fußzeile auf die PDF anzuwenden.
