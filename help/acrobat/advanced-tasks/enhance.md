@@ -7,9 +7,9 @@ level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: 869364fb68d20c7333bee25513dbdf19632a64ed
+source-git-commit: 20fc08c045a8ade2ebd4994e9d6295a18c9f33a2
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 # PDF verbessern
 
 In diesem Tutorial lernen Sie, wie Sie Ihre PDF transformieren, indem Sie Grafikverbesserungen und automatische Nummerierung hinzufügen.
+
+<br> 
 
 ## Was Sie brauchen
 
