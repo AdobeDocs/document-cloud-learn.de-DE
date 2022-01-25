@@ -1,22 +1,22 @@
 ---
-title: 5 Tipps für die Arbeit von überall mit Acrobat DC - Tools herunterladen
-description: Erfahren Sie, wie Sie Ihre Acrobat DC-Tools und mobilen Apps von überall aus nutzen können
+title: 5 Tipps für Produktivität an jedem Ort mit Acrobat - Tools kaufen
+description: Mit den Tools und Mobile Apps von Acrobat überall arbeiten.
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 34290.jpg
 exl-id: 1ef1b939-3745-41d2-881c-67c026c05a0b
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---
 
-# 5 Tipps für die Arbeit von überall mit Acrobat DC - Tools herunterladen
+# 5 Tipps für Produktivität an jedem Ort mit Acrobat - Tools kaufen
 
-Der erste Schritt, um von überall aus zu arbeiten, besteht darin, Ihre Acrobat DC-Tools und begleitenden mobilen Apps zu erhalten.
+Der erste Schritt zur Arbeit ist das Abrufen der Acrobat-Tools und der zugehörigen Apps.
 
-## Tipp Nr. 1: Get your tools (2:59)
+## Tipp #1 - Tools herunterladen (2:59)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34290)

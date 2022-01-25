@@ -1,24 +1,24 @@
 ---
-title: Überblick über erweiterte Aufgaben
-description: Erfahren Sie, wie Sie ein Dokument zur Signatur an 100 Empfänger gleichzeitig senden, ein signaturfähiges Dokument für Ihre Website einrichten, Signaturtransaktionen verwalten und Dokumentvorlagen erstellen und verwalten
+title: Erweiterte Aufgabenübersicht
+description: Erfahren Sie, wie Sie ein Dokument zur Signatur an Hunderte von Empfängern gleichzeitig senden, ein signaturfähiges Dokument für Ihre Website einrichten, Signaturtransaktionen verwalten und Dokumentvorlagen erstellen und verwalten.
 role: User
 product: adobe sign
 solution: Document Cloud
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
 
-# Überblick über erweiterte Aufgaben
+# Erweiterte Aufgabenübersicht
 
-![Erweitertes Bild signieren](../assets/Hero-Advanced.png)
+![Erweitertes Bild für Sign](../assets/Hero-Advanced.png)
 
-Erfahren Sie, wie Sie ein Dokument zur Signatur an 100 Empfänger gleichzeitig senden, ein signaturfähiges Dokument für Ihre Website einrichten, Signaturtransaktionen verwalten und Dokumentvorlagen erstellen und verwalten. Diese Tutorials richten sich an alle, die bereits mit den Grundlagen des Versands und der Anforderung von Signaturen vertraut sind und mehr darüber erfahren möchten, wie Adobe Sign für sie arbeiten kann.
+Erfahren Sie, wie Sie ein Dokument zur Signatur an Hunderte von Empfängern gleichzeitig senden, ein signaturfähiges Dokument für Ihre Website einrichten, Signaturtransaktionen verwalten und Dokumentvorlagen erstellen und verwalten. Diese Tutorials richten sich an alle, die sich bereits mit den Grundlagen des Versendens und Einholens von Unterschriften auskennen und mehr über die Möglichkeiten erfahren möchten, mit denen Adobe Sign sie unterstützt.
 
 ## Senden
 
@@ -26,12 +26,12 @@ Erfahren Sie, wie Sie ein Dokument zur Signatur an 100 Empfänger gleichzeitig s
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="Routing-Reihenfolge festlegen" src="../assets/Routing.png">
+      <img alt="Routing-Reihenfolge einrichten" src="../assets/Routing.png">
     </a>
     <div>
-    <a href="setting-up-routing.md"><strong>Routing-Reihenfolge festlegen</strong></a>
+    <a href="setting-up-routing.md"><strong>Routing-Reihenfolge einrichten</strong></a>
     </div>
-    <em>Routing-Reihenfolge für mehrere Unterzeichner festlegen</em>
+    <em>Routing-Reihenfolge für mehrere Unterzeichner einrichten</em>
     <br>
   </td>
   <td>
@@ -41,17 +41,17 @@ Erfahren Sie, wie Sie ein Dokument zur Signatur an 100 Empfänger gleichzeitig s
     <div>
     <a href="delegate-signature.md"><strong>An eine andere Person delegieren</strong></a>
     </div>
-    <em>Verwenden Sie die Delegatorrolle, um ein Dokument an einen Vermittler zu senden, der dann das Dokument zum Unterschreiben weiterleiten kann.</em>
+    <em>Verwenden Sie die Rolle "Delegierender", um ein Dokument an einen Vermittler zu senden, der das Dokument dann zur Signatur weiterleiten kann.</em>
     <br>
   </td>
   <td>
     <a href="add-an-approver.md">
-      <img alt="Genehmiger hinzufügen" src="../assets/Approver.png" />
+      <img alt="Hinzufügen eines Genehmigers" src="../assets/Approver.png" />
     </a>
     <div>
-    <a href="add-an-approver.md"><strong>Genehmiger hinzufügen</strong></a>
+    <a href="add-an-approver.md"><strong>Hinzufügen eines Genehmigers</strong></a>
     </div>
-    <em>Hinzufügen einer Genehmigerrolle zu Ihrem Vertragsgenehmigungsprozess</em>
+    <em>Genehmigungsvorgang durch Hinzufügen einer Genehmigerrolle</em>
     <br>
   </td>
 </tr>
@@ -63,7 +63,7 @@ Erfahren Sie, wie Sie ein Dokument zur Signatur an 100 Empfänger gleichzeitig s
     <div>
     <a href="megasign.md"><strong>Sammeln von Signaturen</strong></a>
     </div>
-    <em>Mehrere Hundert Signaturen gleichzeitig für jedes Dokument in wenigen Schritten erfassen</em>
+    <em>Hole in wenigen Schritten Hunderte von Unterschriften auf einmal für jedes Dokument ein</em>
     <br>
   </td>
   <td>
@@ -78,12 +78,12 @@ Erfahren Sie, wie Sie ein Dokument zur Signatur an 100 Empfänger gleichzeitig s
   </td> 
   <td>
     <a href="adobe-sign-text-tagging.md">
-      <img alt="Adobe Sign-Text-Tagging" src="../assets/Text-Tagging.png" />
+      <img alt="Adobe Sign Text-Tagging" src="../assets/Text-Tagging.png" />
   </a>
     <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Adobe Sign-Text-Tagging</strong></a>
+    <a href="adobe-sign-text-tagging.md"><strong>Adobe Sign Text-Tagging</strong></a>
     </div>
-    <em>Adobe Sign-Formularfelder mithilfe von Text-Tags mit Adobe Acrobat DC erstellen</em>
+    <em>Adobe Sign-Formularfelder durch Text-Tags mit Adobe Acrobat erstellen</em>
     <br>
   </td> 
 </table>
@@ -99,16 +99,16 @@ Erfahren Sie, wie Sie ein Dokument zur Signatur an 100 Empfänger gleichzeitig s
     <div>
     <a href="edit-a-template.md"><strong>Verwalten von Dokumentvorlagen</strong></a>
     </div>
-    <em>Vorlagen in Ihrer Bibliothek bearbeiten oder löschen</em>
+    <em>Vorlage in der Bibliothek bearbeiten oder löschen</em>
     <br>
   </td>  
   <td>
-    <img alt="Abstand" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

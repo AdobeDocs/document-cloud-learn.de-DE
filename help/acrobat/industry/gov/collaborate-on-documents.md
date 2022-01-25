@@ -1,5 +1,5 @@
 ---
-title: 5 Tipps für die Arbeit von überall mit Acrobat DC - Zusammenarbeit an Dokumenten
+title: 5 Tipps für Produktivität an jedem Ort mit Acrobat - Zusammenarbeit an Dokumenten
 description: Einfache und mühelose Workflows für die Zusammenarbeit an Dokumenten erstellen
 role: User
 product: adobe acrobat
@@ -7,17 +7,17 @@ level: Beginner
 topic-revisit: Collaborate
 thumbnail: 34509.jpg
 exl-id: ae750a44-fe63-4b73-9f96-3f361d7d7221
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
-# 5 Tipps für die Arbeit von überall mit Acrobat DC - Zusammenarbeit an Dokumenten
+# 5 Tipps für Produktivität an jedem Ort mit Acrobat - Zusammenarbeit an Dokumenten
 
-Erstellen Sie einfache und mühelose Arbeitsabläufe für die Zusammenarbeit an Dokumenten.
+Erstellen Sie einfache und mühelose Workflows für die Zusammenarbeit an Dokumenten.
 
-## Tipp Nr. 2: Collaborate on documents (2:03)
+## Tipp #2 - Zusammenarbeit an Dokumenten (2:03)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34509)

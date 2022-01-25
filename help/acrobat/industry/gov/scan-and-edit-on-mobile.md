@@ -1,23 +1,23 @@
 ---
-title: 5 Tipps für die Arbeit von überall mit Acrobat DC - Auf Mobilgeräten scannen und bearbeiten
-description: Erfahren Sie, wie Sie mit mobilen Adobe Scan- und Acrobat Reader-Apps arbeiten, um überall Arbeit zu erledigen
+title: 5 Tipps für Produktivität an jedem Ort mit Acrobat - Dokumente auf dem Smartphone oder Tablet scannen und bearbeiten
+description: Mit Adobe Scan und den Acrobat Reader-Apps arbeiten
 role: User
 product: adobe acrobat
 level: Beginner
 topic-revisit: mobile
 thumbnail: 34511.jpg
 exl-id: 6da76aff-a72f-4524-aec6-49f343f834a1
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-# 5 Tipps für die Arbeit von überall mit Acrobat DC - Auf Mobilgeräten scannen und bearbeiten
+# 5 Tipps für Produktivität an jedem Ort mit Acrobat - Dokumente auf dem Smartphone oder Tablet scannen und bearbeiten
 
-Erfahren Sie, wie Sie mit mobilen Apps von Adobe Scan und Acrobat Reader arbeiten, um von überall aus Arbeit zu machen.
+Mit Adobe Scan und den Acrobat Reader-Apps arbeiten
 
-## Tipp Nr. 5: Scan and edit on mobile (1:43)
+## Tipp #5 - Dokumente auf dem Smartphone oder Tablet scannen und bearbeiten (1:43)
 
 >[!VIDEO](https://video.tv.adobe.com/v/34511)

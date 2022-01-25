@@ -1,25 +1,25 @@
 ---
-title: Überblick über erweiterte Aufgaben
-description: Mit diesen erweiterten Werkzeugen in Acrobat
+title: Erweiterte Aufgabenübersicht
+description: Erweiterte Funktionen in Acrobat
 role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '223'
 ht-degree: 2%
 
 ---
 
-# Überblick über erweiterte Aufgaben
+# Erweiterte Aufgabenübersicht
 
-![Erste Schritte mit Acrobat](../assets/Hero-AdvancedTasks.png)
+![Acrobat - Erste Schritte](../assets/Hero-AdvancedTasks.png)
 
-Mit diesen fortschrittlichen Werkzeugen in Acrobat DC gehen Sie über die Grundlagen hinaus. Erfahren Sie, wie Sie eine Aktion erstellen, um alltägliche Aufgaben zu wiederholen, vertrauliche Informationen zu entfernen, große Dateien zu reduzieren und zu optimieren, schnell Formulardaten zu sammeln und universell zugängliche PDF-Dateien zu erstellen.
+Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erlernen, Erfahren Sie, wie Sie eine Aktion erstellen, um Routineaufgaben zu wiederholen, vertrauliche Informationen zu entfernen, große Dateien zu reduzieren und zu optimieren, Formulardaten schnell zu erfassen und universell zugängliche PDF-Dateien zu erstellen.
 
-## Acrobat-Tutorials
+## Tutorials zu Acrobat
 
 <table style="table-layout:fixed">
 <tr>
@@ -30,7 +30,7 @@ Mit diesen fortschrittlichen Werkzeugen in Acrobat DC gehen Sie über die Grundl
     <div>
     <a href="enhance.md"><strong>PDF verbessern</strong></a>
     </div>
-    <em>PDF transformieren durch Grafikverbesserungen und automatische Nummerierung</em>
+    <em>Transformieren Sie Ihren PDF durch Hinzufügen von Grafikverbesserungen und automatischer Nummerierung</em>
     <br>
   </td>
   <td>
@@ -40,7 +40,7 @@ Mit diesen fortschrittlichen Werkzeugen in Acrobat DC gehen Sie über die Grundl
     <div>
     <a href="compare.md"><strong>Unterschiede zwischen zwei PDF erkennen</strong></a>
     </div>
-    <em>Erkennen Sie schnell und präzise die Unterschiede zwischen zwei PDF-Dateien, um die Arbeitsabläufe bei der Dokumentenüberprüfung zu verbessern</em>
+    <em>Schnelle und präzise Erkennung der Unterschiede zwischen zwei PDF-Dateien zur Verbesserung der Arbeitsabläufe für die Dokumentüberprüfung</em>
     <br>
   </td>
   <td>
@@ -50,29 +50,29 @@ Mit diesen fortschrittlichen Werkzeugen in Acrobat DC gehen Sie über die Grundl
     <div>
     <a href="action.md"><strong>Aktionsassistent</strong></a>
     </div>
-    <em>Sparen Sie Zeit und Tastenanschläge, indem Sie mithilfe einer Aktion automatisch eine Gruppe von Befehlen auf eine oder mehrere Dateien anwenden</em>
+    <em>Sparen Sie Zeit und Tastenanschläge, indem Sie mithilfe einer Aktion automatisch einen Satz von Befehlen auf eine oder mehrere Dateien anwenden</em>
     <br>
   </td>  
 </tr>
 <tr>
   <td>
     <a href="redact.md">
-      <img alt="Schwärzen und Bereinigen" src="../assets/Redact.jpg" />
+      <img alt="Schwärzen und bereinigen" src="../assets/Redact.jpg" />
     </a>
     <div>
-    <a href="redact.md"><strong>Schwärzen und Bereinigen</strong></a>
+    <a href="redact.md"><strong>Schwärzen und bereinigen</strong></a>
     </div>
-    <em>Private oder sensible Informationen endgültig von Ihrem PDF entfernen</em>
+    <em>Private oder vertrauliche Informationen dauerhaft von Ihrem PDF entfernen</em>
     <br>
   </td>
   <td>
     <a href="reduce.md">
-      <img alt="Dateigröße reduzieren und optimieren" src="../assets/Reduce.jpg" />
+      <img alt="Dateigröße reduzieren und optimieren." src="../assets/Reduce.jpg" />
     </a>
     <div>
-    <a href="reduce.md"><strong>Dateigröße reduzieren und optimieren</strong></a>
+    <a href="reduce.md"><strong>Dateigröße reduzieren und optimieren.</strong></a>
     </div>
-    <em>Reduzieren Sie große Dateien und optimieren Sie PDF, ohne die Qualität für Freigabe, Veröffentlichung oder Archivierung zu beeinträchtigen.</em>
+    <em>Reduzierung großer Dateien und Optimierung Ihrer PDF ohne Qualitätseinbußen bei der Freigabe, Veröffentlichung oder Archivierung</em>
     <br>
   </td>
   <td>
@@ -82,19 +82,19 @@ Mit diesen fortschrittlichen Werkzeugen in Acrobat DC gehen Sie über die Grundl
     <div>
     <a href="formdata.md"><strong>Arbeiten mit Formulardaten</strong></a>
     </div>
-    <em>Formulardaten in eine einzelne Tabelle kompilieren</em>
+    <em>Formulardaten in einer einzigen Tabelle zusammenfassen</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="accessibility.md">
-      <img alt="PDF-Barrierefreiheit überprüfen" src="../assets/Checkingaccessible_1280.jpg" />
+      <img alt="Barrierefreiheit für PDF überprüfen" src="../assets/Checkingaccessible_1280.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>PDF-Barrierefreiheit überprüfen</strong></a>
+    <a href="accessibility.md"><strong>Barrierefreiheit für PDF überprüfen</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie überprüfen, ob Ihr PDF für Menschen mit Behinderungen allgemein zugänglich ist</em>
+    <em>Erfahren Sie, wie Sie überprüfen, ob Ihr PDF für Menschen mit Behinderungen universell zugänglich ist</em>
     <br>
   </td>
   <td>
@@ -102,13 +102,13 @@ Mit diesen fortschrittlichen Werkzeugen in Acrobat DC gehen Sie über die Grundl
       <img alt="Vorbereiten barrierefreier PDF-Dateien" src="../assets/Accessibilityseries_1280.png" />
     </a>
     <div>
-    <a href="accessibility-series.md"><strong>Acrobat Accessibility-Serie</strong></a>
+    <a href="accessibility-series.md"><strong>Acrobat Accessibility-Reihe</strong></a>
     </div>
-    <em>In dieser sechsteiligen On-Demand-Webinar-Reihe können Sie von den Grundlagen der Barrierefreiheit zu einem tiefen Einstieg in das Tagging Ihrer PDF-Dateien übergehen</em>
+    <em>In dieser sechsteiligen On-Demand-Webinar-Reihe lernen Sie nicht nur die Grundlagen der Barrierefreiheit kennen, sondern lernen auch, wie Sie Ihre PDF-Dateien mit Tags versehen</em>
     <br>
   </td>
   <td>
-   <img alt="Abstand" src="../assets/Whitespacer.png" />
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

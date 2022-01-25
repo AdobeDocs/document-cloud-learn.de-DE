@@ -1,26 +1,26 @@
 ---
-title: Überblick über Industrie und Abteilung
-description: Informieren Sie sich über Anwendungsfälle und Anregungen der Branche, wie Sie Kunden- und Mitarbeitererlebnisse transformieren können.
+title: Branchen- und Abteilungsübersicht
+description: Nutzungsszenarien und inspirierende Ideen für neue Kunden- und Mitarbeitererlebnisse.
 role: User
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6860.jpg
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: d389fd51354a2ecf1a1b0e10716509c18966bc69
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
 # Branchen und Abteilungen - Übersicht
 
-![Image der Acrobat-Industrie](../assets/Hero-Industry.png)
+![Acrobat-Branchenbild](../assets/Hero-Industry.png)
 
-Erfahren Sie, wie Sie Kunden- und Mitarbeitererlebnisse verändern können, indem Sie Anwendungsfälle und inspirierende Ideen in der Branche erforschen.
+Erfahrt, wie ihr Kunden- und Mitarbeitererlebnisse transformieren könnt, indem ihr Nutzungsszenarien und inspirierende Ideen in der Branche erkundet.
 
-## Regierung
+## Regierungseinrichtungen
 
-Entdecken Sie unsere Acrobat DC-Tutorials, die speziell für Bundes-, Landes- und Kommunalbehörden konzipiert wurden.
+Unsere Tutorials zu Acrobat sind speziell für Bund, Länder und Gemeinden konzipiert.
 
-* [Überblick über die Tutorials der Acrobat](gov/gov-overview.md)
+* [Überblick über die Acrobat-Tutorials für Behörden](gov/gov-overview.md)
