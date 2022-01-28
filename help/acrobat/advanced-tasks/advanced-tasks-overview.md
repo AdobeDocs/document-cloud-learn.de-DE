@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 2%
@@ -24,6 +24,16 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="workforms.md">
+      <img alt="Arbeiten mit Formularfeldern" src="../assets/Workform_1280.png" />
+    </a>
+    <div>
+    <a href="workforms.md"><strong>Arbeiten mit Formularfeldern</strong></a>
+    </div>
+    <em>Fügen Sie verschiedene Formularfeldtypen hinzu, legen Sie Formularfeldeigenschaften fest und fügen Sie Sicherheit hinzu, um hochwertige, professionelle Formulare zu erstellen</em>
+    <br>
+  </td>
+  <td>
     <a href="enhance.md">
       <img alt="PDF verbessern" src="../assets/Enhance_1280.png" />
     </a>
@@ -33,16 +43,9 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Transformieren Sie Ihren PDF durch Hinzufügen von Grafikverbesserungen und automatischer Nummerierung</em>
     <br>
   </td>
-  <td>
-    <a href="compare.md">
-      <img alt="Unterschiede zwischen zwei PDF erkennen" src="../assets/Compare_1280.png" />
-    </a>
-    <div>
-    <a href="compare.md"><strong>Unterschiede zwischen zwei PDF erkennen</strong></a>
-    </div>
-    <em>Schnelle und präzise Erkennung der Unterschiede zwischen zwei PDF-Dateien zur Verbesserung der Arbeitsabläufe für die Dokumentüberprüfung</em>
-    <br>
-  </td>
+  <td>  
+</tr>
+<tr>
   <td>
     <a href="action.md">
       <img alt="Aktionsassistent" src="../assets/Action.jpg" />
@@ -53,8 +56,6 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Sparen Sie Zeit und Tastenanschläge, indem Sie mithilfe einer Aktion automatisch einen Satz von Befehlen auf eine oder mehrere Dateien anwenden</em>
     <br>
   </td>  
-</tr>
-<tr>
   <td>
     <a href="redact.md">
       <img alt="Schwärzen und bereinigen" src="../assets/Redact.jpg" />
@@ -75,6 +76,8 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Reduzierung großer Dateien und Optimierung Ihrer PDF ohne Qualitätseinbußen bei der Freigabe, Veröffentlichung oder Archivierung</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="formdata.md">
       <img alt="Aktionsassistent" src="../assets/FormData.jpg" />
@@ -85,9 +88,7 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Formulardaten in einer einzigen Tabelle zusammenfassen</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="accessibility.md">
       <img alt="Barrierefreiheit für PDF überprüfen" src="../assets/Checkingaccessible_1280.jpg" />
     </a>
@@ -105,11 +106,6 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <a href="accessibility-series.md"><strong>Acrobat Accessibility-Reihe</strong></a>
     </div>
     <em>In dieser sechsteiligen On-Demand-Webinar-Reihe lernen Sie nicht nur die Grundlagen der Barrierefreiheit kennen, sondern lernen auch, wie Sie Ihre PDF-Dateien mit Tags versehen</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
