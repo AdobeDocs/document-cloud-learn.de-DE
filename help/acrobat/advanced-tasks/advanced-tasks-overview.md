@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
+source-git-commit: b728e0bee2743cd24059a5958bc657bb6a4a64cb
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '243'
 ht-degree: 2%
 
 ---
@@ -43,7 +43,16 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Transformieren Sie Ihren PDF durch Hinzufügen von Grafikverbesserungen und automatischer Nummerierung</em>
     <br>
   </td>
-  <td>  
+   <td>
+    <a href="compare.md">
+      <img alt="Unterschiede zwischen zwei PDF erkennen" src="../assets/Compare_1280.png" />
+    </a>
+    <div>
+    <a href="compare.md"><strong>Unterschiede zwischen zwei PDF erkennen</strong></a>
+    </div>
+    <em>Schnelle und genaue Erkennung der Unterschiede zwischen zwei PDF-Dateien</em>
+    <br>
+  </td>
 </tr>
 <tr>
   <td>

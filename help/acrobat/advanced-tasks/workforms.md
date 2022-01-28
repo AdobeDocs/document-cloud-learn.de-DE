@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9345.jpg
 kt: 9345
-source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
+source-git-commit: b728e0bee2743cd24059a5958bc657bb6a4a64cb
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 0%
@@ -33,6 +33,8 @@ Verwenden Sie das Prepare Form-Tool, um Formularfelder automatisch zu einer best
 >[!TIP]
 >
 >Aktiviere in den Voreinstellungen unter &quot;Allgemein&quot; die Zugriffstasten.
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/340084?hidetitle=true)
 
@@ -89,6 +91,8 @@ Kombinationseigenschaften werden verwendet, um Text gleichmäßig über die Brei
 
 ## Erfahren Sie, wie Sie Eigenschaften für mehrere Felder gleichzeitig, die Tab-Reihenfolge festlegen und ein Formular sichern
 
+<br> 
+
 >[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
 
 <br> 
@@ -104,13 +108,13 @@ Um Eigenschaften für mehrere Felder gleichzeitig festzulegen, führen Sie die R
 
 Durch Festlegen der Tab-Reihenfolge wird sichergestellt, dass der Formularausfüller beim Ausfüllen eines Formulars problemlos zwischen Feldern wechseln kann.
 
-1. Drücken Sie Umschalt + N , um die Tab-Reihenfolge anzuzeigen.
+1. Typ *Umschalt + N* , um die Tab-Reihenfolge anzuzeigen.
 1. Verschieben Sie die *Hauptquartier* unter dem Feld *Anzahl der Mitarbeiter* im rechten Fenster angezeigt.
 1. Verschieben Sie die *Projektstart* und *Projektende* Felder unter dem *E-MAIL-ADRESSE* im rechten Fenster angezeigt.
 
 Durch das Sichern eines Formulars wird sichergestellt, dass die Felder oder der Inhalt des Dokuments nicht geändert werden können.
 
-1. Drücken Sie Strg + D (Cmd + D auf dem Mac), um das Dialogfeld &quot; **Dokumenteigenschaften** &quot; ändern.
+1. Typ *Strg + D (Cmd + D auf dem Mac)* , um das Dialogfeld **Dokumenteigenschaften** &quot; ändern.
 1. Wählen Sie das **Sicherheit** &quot; ändern.
 1. Auswählen **Kennwortsicherheit** im Abschnitt **Sicherheitsmethode:** Dropdown-Liste.
 1. Prüfen **Einschränkung für Bearbeitung und Drucken des Dokuments. Zum Ändern dieser Berechtigungseinstellungen ist ein Kennwort erforderlich.**
