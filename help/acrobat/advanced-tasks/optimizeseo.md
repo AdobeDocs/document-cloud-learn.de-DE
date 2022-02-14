@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 1ed8a83a49d8e87a6ddb806c70b3b26d428fd567
+source-git-commit: 2f144b3c657e77fa043fe572f18bbbf162fbad6a
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '690'
 ht-degree: 0%
 
 ---
@@ -69,6 +69,10 @@ Optimieren Sie die Interaktion mit Ihrem PDF, indem Sie ihn für die Anzeige im 
 Dieser Schritt reduziert die Dateigröße und ermöglicht **Schnelle Webanzeige** in der PDF. **Schnelle Webanzeige** ermöglicht das sofortige Öffnen, Anzeigen und Durchsuchen der Datei, bevor die gesamte Datei gestreamt oder heruntergeladen wird. So wird eine optimale Endbenutzererfahrung erzielt. Öffnen **[!UICONTROL Dokumenteigenschaften]** (*Strg + D* unter Windows oder *Cmd + D* auf Mac), um festzustellen, ob **Schnelle Webanzeige** aktiviert ist.
 
 ![Screenshot der Dokumenteigenschaften](../assets/optimizeseo5.png)
+
+>[!TIP]
+>
+>Wenn Sie über Acrobat Pro verfügen, führen Sie im Action Wizard-Tool die Option &quot;Für Web und Mobilgeräte optimieren&quot; aus. Diese Aktion konvertiert Farben in sRGB und bettet Schriftarten ein, um eine einheitliche Anzeige der PDF auf allen Browsern und Mobilgeräten zu gewährleisten.
 
 ## Schlüsselwort-Dateinamen erstellen
 
