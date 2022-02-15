@@ -1,50 +1,50 @@
 ---
 title: Aktionsassistent
-description: Sparen Sie Zeit und Tastenanschläge, indem Sie mithilfe einer Aktion automatisch eine Gruppe von Befehlen auf eine oder mehrere Dateien anwenden
+description: Sparen Sie Zeit und Tastenanschläge, indem Sie mithilfe einer Aktion automatisch einen Satz von Befehlen auf eine oder mehrere Dateien anwenden
 role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '218'
 ht-degree: 1%
 
 ---
 
 # Aktionsassistent
 
-Sparen Sie Zeit und Tastenanschläge, indem Sie mithilfe einer Aktion automatisch eine Gruppe von Befehlen auf eine oder mehrere Dateien anwenden.
+Sparen Sie Zeit und Tastenanschläge, indem Sie mit einer Aktion automatisch einen Satz von Befehlen auf eine oder mehrere Dateien anwenden.
 
 >[!NOTE]
 >
->Nur in Acrobat Pro DC verfügbar.
+>Nur in Acrobat Pro verfügbar.
 
-1. Auswählen **[!UICONTROL Action Wizard]** aus dem [!UICONTROL Werkzeuge] mittleren oder rechten Fensterbereich.
+1. Auswählen **[!UICONTROL Action Wizard]** im Fenster &quot; [!UICONTROL Tools] mittlerer oder rechter Fensterbereich.
 
-   ![Action Wizard Schritt 1](../assets/ActionWizard_1.png)
+   ![Action Wizard 1. Schritt](../assets/ActionWizard_1.png)
 
-   Vordefinierte Aktionen werden im **Aktionsliste**.
+   Vordefinierte Aktionen werden in der **Aktionsliste**.
 
 1. Auswählen **[!UICONTROL Neue Aktion]** im oberen Menü, um eine benutzerdefinierte Aktion zu erstellen.
 
-   ![Action Wizard Schritt 2](../assets/ActionWizard_2.png)
+   ![Action Wizard Step 2](../assets/ActionWizard_2.png)
 
-1. Wählen Sie eine Aufgabe aus der Liste auf der linken Seite aus und klicken Sie auf den Pfeil in der Mitte, um sie der rechten Spalte in der **[!UICONTROL Neue Aktion erstellen]** angezeigt.
+1. Wählen Sie eine Aufgabe aus der Liste links aus, und klicken Sie dann auf den mittleren Pfeil, um sie der rechten Spalte in der **[!UICONTROL Neue Aktion erstellen]** angezeigt.
 
-   *Die Einstellungen für jede Aufgabe werden in diesem Dialogfeld vorab festgelegt oder Sie können den Benutzer auffordern, während der Aktion alle erforderlichen Entscheidungen zu treffen.*
+   *Die Einstellungen für jede Aufgabe sind in diesem Dialogfeld vorgegeben, oder Sie können den Benutzer auffordern, während der Ausführung der Aktion alle erforderlichen Entscheidungen zu treffen.*
 
    ![Action Wizard Schritt 3](../assets/ActionWizard_3.png)
 
-1. Auswählen **[!UICONTROL Speichern]** und benennen Sie Ihre Aktion so, dass sie auf der **[!UICONTROL Aktionsliste]**.
+1. Auswählen **[!UICONTROL Speichern]** und geben Sie Ihrer Aktion einen Namen, sodass sie auf der Registerkarte &quot; **[!UICONTROL Aktionsliste]**.
 
-Sie können die benutzerdefinierte Aktion jetzt jederzeit ausführen, wenn Sie diese Schritte für eine oder mehrere PDF-Dateien ausführen möchten.
+Sie können die benutzerdefinierte Aktion jetzt jederzeit ausführen, wenn Sie diese bestimmte Schrittfolge für eine oder mehrere PDF-Dateien ausführen möchten.
 
-Wählen Sie das PDF-Symbol aus, um das *Action Wizard* Tutorial.
+Wählen Sie das PDF-Symbol, um die Datei *Action Wizard* Tutorial.
 
-[![Tutorial zum Herunterladen von Action Wizards](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCActionWizard.pdf).
+[![Tutorial zum Action Wizard herunterladen](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCActionWizard.pdf).
 
 >[!TIP]
 >
->Dieses Video ist Teil des Kurses [Intelligenter mit Acrobat DC und Microsoft arbeiten 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) die auf der Experience League kostenlos erhältlich ist!
+>Dieses Video ist Teil des Kurses [Intelligenter arbeiten mit Acrobat DC und Microsoft 365.](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) das auf Experience League kostenlos erhältlich ist!
