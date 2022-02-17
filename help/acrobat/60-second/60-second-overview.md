@@ -1,37 +1,101 @@
 ---
-title: Überblick über die 60-Sekunden-Acrobat
-description: Mit 60-Sekunden-Tutorials für Acrobat lernen Sie einen neuen Trick in Acrobat DC innerhalb einer Minute oder weniger
+title: Überblick über Acrobat (60 Sekunden)
+description: Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen neuen Trick in Acrobat erlernen.
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 27c2eebfcdf359a3b3cca5cc9f31ba4ed39f7652
+source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '529'
 ht-degree: 0%
 
 ---
 
-# Überblick über die 60-Sekunden-Acrobat
+# 60-Sekunden-Acrobat - Übersicht
 
-![Acrobat-Bild mit 60 Sekunden](../assets/Hero-60sec.png)
+![60-Sekunden-Acrobat-Bild](../assets/Hero-60sec.png)
 
-Mit 60-Sekunden-Tutorials in Acrobat lernen Sie einen neuen Trick in Acrobat DC innerhalb einer Minute oder weniger. Diese aufgabenbasierten Tipps helfen Ihnen, neue Kenntnisse für die Arbeit mit PDF-Dateien zu erwerben, indem Sie einige der verborgenen Edelsteine von Acrobat freisetzen. Sie können einen sehen, um eine schnelle Antwort zu erhalten, oder sich fünf ansehen, um Ihre Dokumentproduktivität zu steigern - und haben trotzdem Zeit, um Ihre Kaffeepause zu genießen.
+Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen neuen Trick in Acrobat lernen - in maximal einer Minute. Diese aufgabenbasierten Tipps helfen Ihnen, sich neue Fertigkeiten für die Arbeit mit PDF-Dateien anzueignen, indem Sie einige der versteckten Edelsteine von Acrobat entsperren. Ihr könnt euch ein Video ansehen, um eine schnelle Antwort zu erhalten, oder fünf Videos ansehen, um die Produktivität eures Dokuments zu steigern - und habt trotzdem noch Zeit, eure Kaffeepause zu genießen.
 
-## Acrobat-Tutorials für 60 Sekunden
+## 60-Sekunden-Tutorials zu Acrobat
 
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="combine-to-one-pdf.md">
-      <img alt="Dateien in einem PDF zusammenführen" src="../assets/60sec_Combine_1280.jpg" />
+    <a href="optimize.md">
+      <img alt="Effizienteres PDF von Dateien mit wenigen Klicks" src="../assets/60sec_Optimize_1280.jpg" />
     </a>
     <div>
-    <a href="combine-to-one-pdf.md"><strong>Dateien in einem PDF zusammenführen</strong></a>
+    <a href="optimize.md"><strong>Effizienteres PDF von Dateien mit wenigen Klicks</strong></a>
     </div>
-    <em>Erstellen Sie schnell ein neues Dokument, indem Sie verschiedene Dateitypen zu einem einzigen PDF kombinieren</em>
+    <em>Verwenden Sie das Optimize PDF-Tool, um die Größe Ihrer PDF-Dateien erheblich zu reduzieren</em>
+    <br>
+  </td>
+  <td>
+    <a href="protect.md">
+      <img alt="Protect Ihrer PDF-Dateien mit einem Kennwort" src="../assets/60sec_Protect_1280.jpg" />
+    </a>
+    <div>
+    <a href="protect.md"><strong>Protect Ihrer PDF-Dateien mit einem Kennwort</strong></a>
+    </div>
+    <em>Protect einen PDF, sodass zum Öffnen oder Bearbeiten des PDF ein Kennwort erforderlich ist</em>
+    <br>
+  </td>
+  <td>
+    <a href="wordform.md">
+      <img alt="Word-Datei einschließlich Formularfeldern in PDF konvertieren" src="../assets/60sec_Wordform_1280.jpg" />
+    </a>
+    <div>
+     <a href="wordform.md"><strong>Word-Datei einschließlich Formularfeldern in PDF konvertieren</strong></a>
+    </div>
+    <em>Word-Dateien und -Formulare in PDF konvertieren und automatisch Formularfelder erstellen</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="accessible.md">
+      <img alt="Acrobat macht barrierefreie PDF" src="../assets/60sec_Accessible_1280.jpg" />
+    </a>
+    <div>
+    <a href="accessible.md"><strong>Acrobat macht barrierefreie PDF</strong></a>
+    </div>
+    <em>Prüfen Sie, ob auf einen PDF zugegriffen werden kann</em>
+    <br>
+  </td>
+  <td>
+    <a href="exportwordphone.md">
+      <img alt="Export PDF zu Word auf dem Smartphone." src="../assets/60sec_Exportphone_1280.jpg" />
+    </a>
+    <div>
+    <a href="exportwordphone.md"><strong>Export PDF zu Word auf dem Smartphone.</strong></a>
+    </div>
+    <em>Konvertieren einer PDF-Datei in ein vollständig editierbares Microsoft Word-Dokument mit der Acrobat-App</em>
+    <br>
+  </td>
+  <td>
+    <a href="textrecognition.md">
+      <img alt="Text in einer gescannten PDF-Datei erkennen" src="../assets/60sec_Textrecognition_1280.jpg" />
+    </a>
+    <div>
+     <a href="textrecognition.md"><strong>Text in einer gescannten PDF-Datei erkennen</strong></a>
+    </div>
+    <em>Konvertieren einer gescannten PDF, sodass Sie auf der PDF nach Text suchen können</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="combine-to-one-pdf.md">
+      <img alt="Dateien auf einer PDF zusammenführen" src="../assets/60sec_Combine_1280.jpg" />
+    </a>
+    <div>
+    <a href="combine-to-one-pdf.md"><strong>Dateien auf einer PDF zusammenführen</strong></a>
+    </div>
+    <em>Erstellen Sie schnell ein neues Dokument, indem Sie verschiedene Dateitypen auf einer einzigen PDF kombinieren</em>
     <br>
   </td>
   <td>
@@ -41,7 +105,7 @@ Mit 60-Sekunden-Tutorials in Acrobat lernen Sie einen neuen Trick in Acrobat DC 
     <div>
     <a href="edit.md"><strong>PDF mit Acrobat Web bearbeiten</strong></a>
     </div>
-    <em>Einfache Änderungen an Text und Bildern vornehmen, ohne die PDF herunterzuladen</em>
+    <em>Text und Bilder bearbeiten, ohne die PDF herunterladen zu müssen</em>
     <br>
   </td>
   <td>
@@ -51,37 +115,37 @@ Mit 60-Sekunden-Tutorials in Acrobat lernen Sie einen neuen Trick in Acrobat DC 
     <div>
      <a href="search.md"><strong>Mehrere PDF-Dateien gleichzeitig durchsuchen</strong></a>
     </div>
-    <em>Suchen Sie in einer PDF-Datei, öffnen Sie die erweiterte Suche und durchsuchen Sie einen ganzen Ordner mit PDF-Dateien.</em>
+    <em>Starten Sie eine Suche in einer PDF-Datei, öffnen Sie die erweiterte Suche und suchen Sie einen ganzen Ordner mit PDF-Dateien</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="photo.md">
-      <img alt="PDF von Fotos erstellen" src="../assets/60sec_Photo_1280.jpg" />
+      <img alt="PDF mit wenigen Klicks erstellen" src="../assets/60sec_Photo_1280.jpg" />
     </a>
     <div>
-    <a href="photo.md"><strong>PDF von Fotos erstellen</strong></a>
+    <a href="photo.md"><strong>PDF mit wenigen Klicks erstellen</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie mehrere JPG auf das Acrobat-Symbol ziehen, um eine PDF zu erstellen</em>
+    <em>Ziehe mehrere JPG auf das Acrobat-Icon, um einen PDF zu erstellen.</em>
     <br>
   </td>
   <td>
     <a href="phone.md">
-      <img alt="Konvertieren einer PPT-Datei in PDF auf Ihrem Smartphone" src="../assets/60sec_Phone_1280.jpg" />
+      <img alt="PPT- in PDF-Dateien umwandeln" src="../assets/60sec_Phone_1280.jpg" />
     </a>
     <div>
-    <a href="phone.md"><strong>Konvertieren einer PPT-Datei in PDF auf Ihrem Smartphone</strong></a>
+    <a href="phone.md"><strong>PPT- in PDF-Dateien umwandeln</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie eine E-Mail-PowerPoint-Anlage auf Ihrem Smartphone in PDF konvertieren</em>
+    <em>Erfahren Sie, wie Sie eine E-Mail-PowerPoint-Anlage auf Ihrem Smartphone in einen PDF-Anhang konvertieren.</em>
     <br>
   </td>  
   <td>
     <a href="sign.md">
-      <img alt="Dokument elektronisch signieren" src="../assets/60sec_Sign_1280.jpg" />
+      <img alt="Papierdokument elektronisch unterschreiben" src="../assets/60sec_Sign_1280.jpg" />
     </a>
     <div>
-    <a href="sign.md"><strong>Dokument elektronisch signieren</strong></a>
+    <a href="sign.md"><strong>Papierdokument elektronisch unterschreiben</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie mit Adobe Scan ein gedrucktes Formular signieren</em>
     <br>
@@ -90,53 +154,53 @@ Mit 60-Sekunden-Tutorials in Acrobat lernen Sie einen neuen Trick in Acrobat DC 
 <tr>
   <td>
     <a href="indesign.md">
-      <img alt="PDF-Kommentare auf InDesign laden" src="../assets/60sec_InDesign_1280.jpg" />
+      <img alt="PDF-Kommentare in InDesign laden" src="../assets/60sec_InDesign_1280.jpg" />
     </a>
     <div>
-    <a href="indesign.md"><strong>PDF-Kommentare auf InDesign laden</strong></a>
+    <a href="indesign.md"><strong>PDF-Kommentare in InDesign laden</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie PDF-Kommentare nach einer gemeinsamen Acrobat-Überprüfung wieder auf InDesign laden</em>
+    <em>Erfahren Sie, wie Sie PDF-Kommentare nach einem gemeinsamen Acrobat-Review wieder auf InDesign laden.</em>
     <br>
   </td>
    <td>
     <a href="editphoto.md">
-      <img alt="Foto auf dem PDF bearbeiten" src="../assets/60sec_Editphoto_1280.jpg" />
+      <img alt="Ein Foto auf dem PDF bearbeiten." src="../assets/60sec_Editphoto_1280.jpg" />
     </a>
     <div>
-    <a href="editphoto.md"><strong>Foto auf dem PDF bearbeiten</strong></a>
+    <a href="editphoto.md"><strong>Ein Foto auf dem PDF bearbeiten.</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie mit Photoshop Fotos auf Ihrem PDF bearbeiten können</em>
+    <em>Erfahren Sie, wie Sie mit Photoshop erweiterte Änderungen an einem Foto auf dem PDF vornehmen können.</em>
     <br>
   </td>
   <td>
     <a href="editgraphic.md">
-      <img alt="Grafiken auf dem PDF bearbeiten" src="../assets/60sec_Editgraphic_1280.jpg" />
+      <img alt="Bearbeiten einer Grafik auf dem PDF" src="../assets/60sec_Editgraphic_1280.jpg" />
     </a>
     <div>
-    <a href="editgraphic.md"><strong>Grafiken auf dem PDF bearbeiten</strong></a>
+    <a href="editgraphic.md"><strong>Bearbeiten einer Grafik auf dem PDF</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie mit Illustrator eine Grafik auf Ihrem PDF bearbeiten</em>
+    <em>Erweiterte Grafikbearbeitung auf dem PDF mit Illustrator</em>
     <br>
   </td> 
 </tr>
 <tr>
   <td>
     <a href="organize.md">
-      <img alt="Seiten in wenigen Schritten organisieren" src="../assets/60sec_Organize_1280.jpg" />
+      <img alt="Seiten schnell organisieren." src="../assets/60sec_Organize_1280.jpg" />
     </a>
     <div>
-    <a href="organize.md"><strong>Seiten in wenigen Schritten organisieren</strong></a>
+    <a href="organize.md"><strong>Seiten schnell organisieren.</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie mit dem Seitenorganisieren-Werkzeug eine Vogelperspektive Ihrer PDF anzeigen</em>
+    <em>Erfahren Sie, wie Sie das Werkzeug "Seiten verwalten" verwenden, um eine Vogelperspektive auf Ihren PDF zu erhalten</em>
     <br>
   </td>
   <td>
-   <img alt="Abstand" src="../assets/Grayspacer.png" />
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-   <img alt="Abstand" src="../assets/Grayspacer.png" />
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>  
