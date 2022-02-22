@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: fcefe03e275c011a03542c7134188cb091b11495
+source-git-commit: d3e1c0c09fd9a65acb2d9a437c0ba1667c882937
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 4%
@@ -30,7 +30,7 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <div>
     <a href="custom.md"><strong>Benutzerdefinierte Befehle und Werkzeuge</strong></a>
     </div>
-    <em>Produktivität des Dokumenten-Workflows durch benutzerdefinierte Befehle und Toolsets steigern</em>
+    <em>Produktivität des Dokumenten-Workflows durch den Einsatz benutzerdefinierter Befehle und Werkzeuge verbessern</em>
     <br>
   </td>
   <td>
