@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: fcefe03e275c011a03542c7134188cb091b11495
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '299'
 ht-degree: 4%
 
 ---
@@ -23,6 +23,16 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="custom.md">
+      <img alt="Benutzerdefinierte Befehle und Werkzeuge" src="../assets/Createcustom_1280.png" />
+    </a>
+    <div>
+    <a href="custom.md"><strong>Benutzerdefinierte Befehle und Werkzeuge</strong></a>
+    </div>
+    <em>Produktivität des Dokumenten-Workflows durch benutzerdefinierte Befehle und Toolsets steigern</em>
+    <br>
+  </td>
   <td>
     <a href="advancedforms.md">
       <img alt="Erweiterte Formularfelder" src="../assets/Advancedforms_1280.png" />
@@ -43,6 +53,8 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Optimieren einer PDF für verbesserte Auffindbarkeit und Suchmaschinen-Ranking im Web</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="workforms.md">
       <img alt="Arbeiten mit Formularfeldern" src="../assets/Workform_1280.png" />
@@ -53,8 +65,6 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Fügen Sie verschiedene Formularfeldtypen hinzu, legen Sie Formularfeldeigenschaften fest und fügen Sie Sicherheit hinzu, um hochwertige, professionelle Formulare zu erstellen</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="enhance.md">
       <img alt="PDF verbessern" src="../assets/Enhance_1280.png" />
@@ -74,7 +84,9 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     </div>
     <em>Schnelle und genaue Erkennung der Unterschiede zwischen zwei PDF-Dateien</em>
     <br>
-  </td> 
+  </td>   
+</tr>
+<tr>
   <td>
     <a href="action.md">
       <img alt="Aktionsassistent" src="../assets/Action.jpg" />
@@ -84,9 +96,7 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     </div>
     <em>Sparen Sie Zeit und Tastenanschläge, indem Sie mithilfe einer Aktion automatisch einen Satz von Befehlen auf eine oder mehrere Dateien anwenden</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="redact.md">
       <img alt="Schwärzen und bereinigen" src="../assets/Redact.jpg" />
@@ -107,7 +117,9 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Reduzierung großer Dateien und Optimierung Ihrer PDF ohne Qualitätseinbußen bei der Freigabe, Veröffentlichung oder Archivierung</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="formdata.md">
       <img alt="Aktionsassistent" src="../assets/FormData.jpg" />
     </a>
@@ -117,8 +129,6 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Formulardaten in einer einzigen Tabelle zusammenfassen</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="accessibility.md">
       <img alt="Barrierefreiheit für PDF überprüfen" src="../assets/Checkaccessible_1280.jpg" />
@@ -129,7 +139,7 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Überprüfen Sie, ob Ihr PDF für Menschen mit Behinderungen universell zugänglich ist</em>
     <br>
   </td>
-   <td>
+  <td>
     <a href="accessibility-series.md">
       <img alt="Vorbereiten barrierefreier PDF-Dateien" src="../assets/Accessibilityseries_1280.png" />
     </a>
@@ -137,11 +147,6 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <a href="accessibility-series.md"><strong>Acrobat Accessibility-Reihe</strong></a>
     </div>
     <em>In dieser sechsteiligen On-Demand-Webinar-Reihe lernen Sie nicht nur die Grundlagen der Barrierefreiheit kennen, sondern lernen auch, wie Sie Ihre PDF-Dateien mit Tags versehen</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
