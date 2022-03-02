@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: eabcb0741c65c37561ffee0f5f99fa0ed3eb0682
+source-git-commit: bb9dd666e77c36a1d16ec747a1182f71e388efa3
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie eine PDF für eine verbesserte Auffindbarkeit und ein Suchmaschinen-Ranking im Web optimieren.
 
-## Einzigartigen Content erstellen.
+## 1. Eindeutige Inhalte erstellen
 
 Erstellen Sie PDF-Inhalte, die sich von den Informationen auf Ihren Webseiten unterscheiden.
 
@@ -39,7 +39,7 @@ PDF-Inhalte sollten eindeutig sein und wie folgt strukturiert sein:
 
 <br> 
 
-## Dokumenteigenschaften hinzufügen
+## 2. Dokumenteigenschaften hinzufügen
 
 PDF-Dateien haben einen Titel und eine Meta-Beschreibung, genau wie eine Webseite.
 
@@ -60,7 +60,7 @@ Versuchen Sie, die Zusammenfassung mit einem Aktionsverb wie Lernen, Entdecken, 
 
 <br> 
 
-## PDF markieren
+## 3. Markieren Sie Ihren PDF
 
 >[!NOTE]
 >
@@ -84,7 +84,7 @@ Taggen Sie eine PDF wie folgt:
 
 <br> 
 
-## Für das Web vorbereiten.
+## 4. Für das Web vorbereiten
 
 Optimieren Sie die Interaktion mit Ihrem PDF, indem Sie ihn für die Anzeige im Web vorbereiten und die Dateigröße reduzieren.
 
@@ -108,7 +108,7 @@ Dieser Schritt reduziert die Dateigröße und ermöglicht **Schnelle Webanzeige*
 
 <br> 
 
-## Schlüsselwort-Dateinamen erstellen
+## 5. Schlüsselwortdateinamen erstellen
 
 +++Anzeigen von Details zum Erstellen eines Dateinamens mit Stichwörtern
 
@@ -120,7 +120,7 @@ Der Dateiname wird Teil der URL, wenn eine PDF im Internet veröffentlicht wird.
 
 <br> 
 
-## PDF sichern
+## 6. Sichern Sie Ihren PDF
 
 Der letzte Schritt besteht darin, Ihren PDF zu schützen, um nicht autorisierte Änderungen zu verhindern.
 
