@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: b2a6119b6c862bb77efbddaab6d61c851f15d138
+source-git-commit: eabcb0741c65c37561ffee0f5f99fa0ed3eb0682
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Erfahren Sie, wie Sie eine PDF für eine verbesserte Auffindbarkeit und ein Such
 
 Erstellen Sie PDF-Inhalte, die sich von den Informationen auf Ihren Webseiten unterscheiden.
 
-+++Weitere Infos
++++Details zum Erstellen einzigartiger Inhalte anzeigen
 
 PDF-Inhalte sollten eindeutig sein und wie folgt strukturiert sein:
 
@@ -37,11 +37,13 @@ PDF-Inhalte sollten eindeutig sein und wie folgt strukturiert sein:
 
 +++
 
+<br> 
+
 ## Dokumenteigenschaften hinzufügen
 
 PDF-Dateien haben einen Titel und eine Meta-Beschreibung, genau wie eine Webseite.
 
-+++Weitere Infos
++++Details zum Hinzufügen von Dokumenteigenschaften anzeigen
 
 Schlüssel hinzufügen **[!UICONTROL Dokumenteigenschaften]** wie folgt:
 
@@ -56,6 +58,8 @@ Versuchen Sie, die Zusammenfassung mit einem Aktionsverb wie Lernen, Entdecken, 
 
 +++
 
+<br> 
+
 ## PDF markieren
 
 >[!NOTE]
@@ -64,7 +68,7 @@ Versuchen Sie, die Zusammenfassung mit einem Aktionsverb wie Lernen, Entdecken, 
 
 Wenn Sie Inhalte auf Ihrem PDF mit Tags versehen, wird nicht nur die Datei [Barrierefrei](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) für Menschen mit Behinderungen - sie verbessert auch die SEO.
 
-+++Weitere Infos
++++Anzeigen von Details zum Markieren eines PDF
 
 Taggen Sie eine PDF wie folgt:
 
@@ -78,11 +82,15 @@ Taggen Sie eine PDF wie folgt:
 
 +++
 
+<br> 
+
 ## Für das Web vorbereiten.
 
 Optimieren Sie die Interaktion mit Ihrem PDF, indem Sie ihn für die Anzeige im Web vorbereiten und die Dateigröße reduzieren.
 
-+++Weitere Infos
++++Details zur Vorbereitung Ihres PDF für das Web anzeigen
+
+Bereiten Sie Ihren PDF wie folgt für das Web vor:
 
 Um Ihren PDF für das Web vorzubereiten, wählen Sie **[!UICONTROL Datei > Speichern unter > PDF mit reduzierter Größe]**.
 
@@ -98,19 +106,25 @@ Dieser Schritt reduziert die Dateigröße und ermöglicht **Schnelle Webanzeige*
 
 +++
 
+<br> 
+
 ## Schlüsselwort-Dateinamen erstellen
 
-+++Weitere Infos
++++Anzeigen von Details zum Erstellen eines Dateinamens mit Stichwörtern
+
+Erstellen Sie einen Schlüsselwortdateinamen wie folgt:
 
 Der Dateiname wird Teil der URL, wenn eine PDF im Internet veröffentlicht wird. Es empfiehlt sich, den für Stichwörter optimierten Titel mit dem Dateinamen zu synchronisieren. Um eine einfache Suche zu ermöglichen, verwenden Sie Kleinbuchstaben, keine Interpunktion oder Hashes und vermeiden Sie Stoppwörter (a, an, the, and, it, for, or, aber in my, your, our, and their, etc.). Wenn Sie mehrere Wörter verwenden, fügen Sie zwischen den Wörtern einen Bindestrich oder einen Unterstrich ein.
 
 +++
 
+<br> 
+
 ## PDF sichern
 
 Der letzte Schritt besteht darin, Ihren PDF zu schützen, um nicht autorisierte Änderungen zu verhindern.
 
-+++Weitere Infos
++++Zum Sichern Ihres PDF
 
 Sichern Sie eine PDF wie folgt:
 
