@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: d3e1c0c09fd9a65acb2d9a437c0ba1667c882937
+source-git-commit: a659861d626e5b6799959ec2b4208bbbdf574885
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 4%
+source-wordcount: '321'
+ht-degree: 3%
 
 ---
 
@@ -23,6 +23,16 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="optimizescan.md">
+      <img alt="Gescannte Dokumente optimieren" src="../assets/Scan_1280.png" />
+    </a>
+    <div>
+    <a href="optimizescan.md"><strong>Gescannte Dokumente optimieren</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie gescannte Dokumente für ein besseres PDF-Anzeige- und Sucherlebnis verbessern können</em>
+    <br>
+  </td>
   <td>
     <a href="custom.md">
       <img alt="Benutzerdefinierte Befehle und Werkzeuge" src="../assets/Createcustom_1280.png" />
@@ -43,6 +53,8 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Fortgeschrittene Techniken zur Erstellung professioneller PDF forms kennenlernen.</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="optimizeseo.md">
       <img alt="Optimizen PDF für SEO (Search Engine Optimization)" src="../assets/seo_1280.png" />
@@ -53,8 +65,6 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Optimieren einer PDF für verbesserte Auffindbarkeit und Suchmaschinen-Ranking im Web</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="workforms.md">
       <img alt="Arbeiten mit Formularfeldern" src="../assets/Workform_1280.png" />
@@ -74,7 +84,9 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     </div>
     <em>Transformieren Sie Ihren PDF durch Hinzufügen von Grafikverbesserungen und automatischer Nummerierung</em>
     <br>
-  </td>
+  </td>   
+</tr>
+<tr>
   <td>
     <a href="compare.md">
       <img alt="Unterschiede zwischen zwei PDF erkennen" src="../assets/Compare_1280.png" />
@@ -84,9 +96,7 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     </div>
     <em>Schnelle und genaue Erkennung der Unterschiede zwischen zwei PDF-Dateien</em>
     <br>
-  </td>   
-</tr>
-<tr>
+  </td>
   <td>
     <a href="action.md">
       <img alt="Aktionsassistent" src="../assets/Action.jpg" />
@@ -107,7 +117,9 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Private oder vertrauliche Informationen dauerhaft von Ihrem PDF entfernen</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+ <td>
     <a href="reduce.md">
       <img alt="Dateigröße reduzieren und optimieren." src="../assets/Reduce.jpg" />
     </a>
@@ -117,8 +129,6 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Reduzierung großer Dateien und Optimierung Ihrer PDF ohne Qualitätseinbußen bei der Freigabe, Veröffentlichung oder Archivierung</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="formdata.md">
       <img alt="Aktionsassistent" src="../assets/FormData.jpg" />
@@ -139,6 +149,8 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Überprüfen Sie, ob Ihr PDF für Menschen mit Behinderungen universell zugänglich ist</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="accessibility-series.md">
       <img alt="Vorbereiten barrierefreier PDF-Dateien" src="../assets/Accessibilityseries_1280.png" />
@@ -149,5 +161,15 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>In dieser sechsteiligen On-Demand-Webinar-Reihe lernen Sie nicht nur die Grundlagen der Barrierefreiheit kennen, sondern lernen auch, wie Sie Ihre PDF-Dateien mit Tags versehen</em>
     <br>
   </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>  
 </tr>
 </table>

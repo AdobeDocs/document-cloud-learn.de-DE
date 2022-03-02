@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 2f144b3c657e77fa043fe572f18bbbf162fbad6a
+source-git-commit: b2a6119b6c862bb77efbddaab6d61c851f15d138
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,11 @@ Erfahren Sie, wie Sie eine PDF für eine verbesserte Auffindbarkeit und ein Such
 
 ## Einzigartigen Content erstellen.
 
-Erstellen Sie PDF-Inhalte, die sich von den Informationen auf Ihren Webseiten unterscheiden. PDF-Inhalte sollten eindeutig sein und wie folgt strukturiert sein:
+Erstellen Sie PDF-Inhalte, die sich von den Informationen auf Ihren Webseiten unterscheiden.
+
++++Weitere Infos
+
+PDF-Inhalte sollten eindeutig sein und wie folgt strukturiert sein:
 
 * Verwenden einer einzelnen Hauptüberschrift/eines Titels, der mit einem Schlüsselwort beginnt
 * Schlüsselwort-Unterüberschriften in einer hierarchischen Struktur verwenden
@@ -31,9 +35,15 @@ Erstellen Sie PDF-Inhalte, die sich von den Informationen auf Ihren Webseiten un
 
    ![Screenshot des Liquid Mode in der mobilen Acrobat Reader-App](../assets/optimizeseo1.png)
 
++++
+
 ## Dokumenteigenschaften hinzufügen
 
-PDF-Dateien haben einen Titel und eine Meta-Beschreibung, genau wie eine Webseite. Schlüssel hinzufügen **[!UICONTROL Dokumenteigenschaften]** wie folgt:
+PDF-Dateien haben einen Titel und eine Meta-Beschreibung, genau wie eine Webseite.
+
++++Weitere Infos
+
+Schlüssel hinzufügen **[!UICONTROL Dokumenteigenschaften]** wie folgt:
 
 1. Auswählen **[!UICONTROL Datei > Eigenschaften]** oder verwenden Sie den Tastaturbefehl *Strg + D* unter Windows oder *Cmd + D* auf Mac und wählen Sie die Option **[!UICONTROL Beschreibung]** &quot; ändern.
 1. Geben Sie einen für Stichwörter optimierten Titel in das Feld **[!UICONTROL Titel:]** ein.
@@ -44,13 +54,19 @@ Versuchen Sie, die Zusammenfassung mit einem Aktionsverb wie Lernen, Entdecken, 
 
    ![Screenshot der Dokumenteigenschaften](../assets/optimizeseo2.png)
 
++++
+
 ## PDF markieren
 
 >[!NOTE]
 >
 >Nur in Acrobat Pro verfügbar.
 
-Wenn Sie Inhalte auf Ihrem PDF mit Tags versehen, wird nicht nur die Datei [Barrierefrei](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) für Menschen mit Behinderungen - sie verbessert auch die SEO. Taggen Sie eine PDF wie folgt:
+Wenn Sie Inhalte auf Ihrem PDF mit Tags versehen, wird nicht nur die Datei [Barrierefrei](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) für Menschen mit Behinderungen - sie verbessert auch die SEO.
+
++++Weitere Infos
+
+Taggen Sie eine PDF wie folgt:
 
 1. Auswählen **[!UICONTROL Barrierefreiheit]** in der **[!UICONTROL Tools]** Mitte.
 1. Auswählen **[!UICONTROL Dokument automatisch taggen]** im rechten Fenster.
@@ -60,9 +76,15 @@ Wenn Sie Inhalte auf Ihrem PDF mit Tags versehen, wird nicht nur die Datei [Barr
 
    ![Screenshot des Einstellens von Alternativtext in PDF](../assets/optimizeseo3.png)
 
++++
+
 ## Für das Web vorbereiten.
 
-Optimieren Sie die Interaktion mit Ihrem PDF, indem Sie ihn für die Anzeige im Web vorbereiten und die Dateigröße reduzieren. Um Ihren PDF für das Web vorzubereiten, wählen Sie **[!UICONTROL Datei > Speichern unter > PDF mit reduzierter Größe]**.
+Optimieren Sie die Interaktion mit Ihrem PDF, indem Sie ihn für die Anzeige im Web vorbereiten und die Dateigröße reduzieren.
+
++++Weitere Infos
+
+Um Ihren PDF für das Web vorzubereiten, wählen Sie **[!UICONTROL Datei > Speichern unter > PDF mit reduzierter Größe]**.
 
 ![Screenshot der Dokumenteigenschaften](../assets/optimizeseo4.png)
 
@@ -74,13 +96,23 @@ Dieser Schritt reduziert die Dateigröße und ermöglicht **Schnelle Webanzeige*
 >
 >Wenn Sie über Acrobat Pro verfügen, führen Sie im Action Wizard-Tool die Option &quot;Für Web und Mobilgeräte optimieren&quot; aus. Diese Aktion konvertiert Farben in sRGB und bettet Schriftarten ein, um eine einheitliche Anzeige der PDF auf allen Browsern und Mobilgeräten zu gewährleisten.
 
++++
+
 ## Schlüsselwort-Dateinamen erstellen
+
++++Weitere Infos
 
 Der Dateiname wird Teil der URL, wenn eine PDF im Internet veröffentlicht wird. Es empfiehlt sich, den für Stichwörter optimierten Titel mit dem Dateinamen zu synchronisieren. Um eine einfache Suche zu ermöglichen, verwenden Sie Kleinbuchstaben, keine Interpunktion oder Hashes und vermeiden Sie Stoppwörter (a, an, the, and, it, for, or, aber in my, your, our, and their, etc.). Wenn Sie mehrere Wörter verwenden, fügen Sie zwischen den Wörtern einen Bindestrich oder einen Unterstrich ein.
 
++++
+
 ## PDF sichern
 
-Der letzte Schritt besteht darin, Ihren PDF zu schützen, um nicht autorisierte Änderungen zu verhindern. Sichern Sie eine PDF wie folgt:
+Der letzte Schritt besteht darin, Ihren PDF zu schützen, um nicht autorisierte Änderungen zu verhindern.
+
++++Weitere Infos
+
+Sichern Sie eine PDF wie folgt:
 
 1. Öffnen **[!UICONTROL Dokumenteigenschaften]** (*Strg + D* unter Windows oder *Cmd + D* auf Mac) und wählen Sie die Option **[!UICONTROL Sicherheit]** &quot; ändern.
 1. Prüfen **[!UICONTROL Drucken, Bearbeiten und Drucken des Dokuments. Zum Ändern dieser Einstellungen ist ein Kennwort erforderlich.]**
@@ -90,5 +122,7 @@ Der letzte Schritt besteht darin, Ihren PDF zu schützen, um nicht autorisierte 
 1. Auswählen **[!UICONTROL OK]** und speichern Sie die Datei.
 
    ![Screenshot der Dokumenteigenschaften](../assets/optimizeseo6.png)
+
++++
 
 Ihr PDF kann jetzt im Web veröffentlicht werden - mit einem optimalen Keyword-Ranking-Potenzial und einer optimalen Interaktion mit den Endbenutzern.
