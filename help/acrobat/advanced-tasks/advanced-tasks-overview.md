@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: a659861d626e5b6799959ec2b4208bbbdf574885
+source-git-commit: 5adbbe1b9791cc50822e49957a254f79639a30cc
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '342'
 ht-degree: 3%
 
 ---
@@ -23,6 +23,16 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="bookmarks.md">
+      <img alt="Hinzufügen von Lesezeichen und Hyperlinks" src="../assets/Bookmarks_1280.png" />
+    </a>
+    <div>
+    <a href="bookmarks.md"><strong>Hinzufügen von Lesezeichen und Hyperlinks</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie gescannte Dokumente für ein besseres PDF-Anzeige- und Sucherlebnis verbessern können</em>
+    <br>
+  </td>
   <td>
     <a href="optimizescan.md">
       <img alt="Gescannte Dokumente optimieren" src="../assets/Scan_1280.png" />
@@ -43,7 +53,9 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Produktivität des Dokumenten-Workflows durch den Einsatz benutzerdefinierter Befehle und Werkzeuge verbessern</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
     <a href="advancedforms.md">
       <img alt="Erweiterte Formularfelder" src="../assets/Advancedforms_1280.png" />
     </a>
@@ -53,9 +65,7 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Fortgeschrittene Techniken zur Erstellung professioneller PDF forms kennenlernen.</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="optimizeseo.md">
       <img alt="Optimizen PDF für SEO (Search Engine Optimization)" src="../assets/seo_1280.png" />
     </a>
@@ -75,6 +85,8 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Fügen Sie verschiedene Formularfeldtypen hinzu, legen Sie Formularfeldeigenschaften fest und fügen Sie Sicherheit hinzu, um hochwertige, professionelle Formulare zu erstellen</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="enhance.md">
       <img alt="PDF verbessern" src="../assets/Enhance_1280.png" />
@@ -84,10 +96,8 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     </div>
     <em>Transformieren Sie Ihren PDF durch Hinzufügen von Grafikverbesserungen und automatischer Nummerierung</em>
     <br>
-  </td>   
-</tr>
-<tr>
-  <td>
+  </td>
+ <td>
     <a href="compare.md">
       <img alt="Unterschiede zwischen zwei PDF erkennen" src="../assets/Compare_1280.png" />
     </a>
@@ -107,7 +117,9 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Sparen Sie Zeit und Tastenanschläge, indem Sie mithilfe einer Aktion automatisch einen Satz von Befehlen auf eine oder mehrere Dateien anwenden</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="redact.md">
       <img alt="Schwärzen und bereinigen" src="../assets/Redact.jpg" />
     </a>
@@ -117,8 +129,6 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Private oder vertrauliche Informationen dauerhaft von Ihrem PDF entfernen</em>
     <br>
   </td>
-</tr>
-<tr>
  <td>
     <a href="reduce.md">
       <img alt="Dateigröße reduzieren und optimieren." src="../assets/Reduce.jpg" />
@@ -139,7 +149,9 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Formulardaten in einer einzigen Tabelle zusammenfassen</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="accessibility.md">
       <img alt="Barrierefreiheit für PDF überprüfen" src="../assets/Checkaccessible_1280.jpg" />
     </a>
@@ -149,9 +161,7 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Überprüfen Sie, ob Ihr PDF für Menschen mit Behinderungen universell zugänglich ist</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="accessibility-series.md">
       <img alt="Vorbereiten barrierefreier PDF-Dateien" src="../assets/Accessibilityseries_1280.png" />
     </a>
@@ -159,11 +169,6 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <a href="accessibility-series.md"><strong>Acrobat Accessibility-Reihe</strong></a>
     </div>
     <em>In dieser sechsteiligen On-Demand-Webinar-Reihe lernen Sie nicht nur die Grundlagen der Barrierefreiheit kennen, sondern lernen auch, wie Sie Ihre PDF-Dateien mit Tags versehen</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
   <td>
