@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 5adbbe1b9791cc50822e49957a254f79639a30cc
+source-git-commit: 058905c4830374745bc3e42dab923b9dd57ed056
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '340'
 ht-degree: 3%
 
 ---
@@ -30,7 +30,7 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <div>
     <a href="bookmarks.md"><strong>Hinzufügen von Lesezeichen und Hyperlinks</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie gescannte Dokumente für ein besseres PDF-Anzeige- und Sucherlebnis verbessern können</em>
+    <em>Erfahren Sie, wie Sie Lesezeichen und Hyperlinks für eine bessere Navigation und Interaktion hinzufügen können.</em>
     <br>
   </td>
   <td>
