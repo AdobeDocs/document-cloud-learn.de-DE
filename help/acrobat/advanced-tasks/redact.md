@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -64,10 +64,6 @@ Erfahren Sie, wie Sie das Werkzeug zum Schwärzen verwenden, um private oder ver
 >[!TIP]
 >
 >Um den Schwärzungsprozess zu beschleunigen, informieren Sie sich im [Action Wizard](../advanced-tasks/action.md).
-
-Wählen Sie das PDF-Symbol, um die Datei *Schwärzen und bereinigen* Tutorial.
-
-[![Tutorial zum Schwärzen und Bereinigen herunterladen](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCRedact.pdf).
 
 >[!TIP]
 >

@@ -1,23 +1,23 @@
 ---
 title: Ausfüllbares Forms erstellen
-description: Dokumente, die auf InDesign, Microsoft Word oder Excel erstellt wurden, in ein ausfüllbares PDF-Formular umwandeln
+description: In InDesign, Microsoft Word oder Excel erstellte Dokumente in ausfüllbare PDF-Formulare umwandeln
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6831.jpg
 exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
-source-git-commit: dede0ea5f15c49b27a210d0574e6fb2e3255269b
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
-# Ausfüllbare Formulare erstellen
+# Ausfüllbares Formular erstellen
 
-Wandeln Sie ein gescanntes Papierformular oder ein Dokument, das in InDesign, Microsoft Word, Excel oder einer anderen Anwendung erstellt wurde, in ein ausfüllbares PDF-Formular um.
+Wandeln Sie ein gescanntes Papierformular oder ein in einer InDesign-, Microsoft Word-, Excel- oder anderen Anwendung erstelltes Dokument in ein ausfüllbares PDF-Formular um.
 
-1. Auswählen **[!UICONTROL Prepare Form]** aus dem [!UICONTROL Werkzeuge] mittleren oder rechten Fensterbereich.
+1. Auswählen **[!UICONTROL Prepare Form]** im Fenster &quot; [!UICONTROL Tools] mittlerer oder rechter Fensterbereich.
 
    ![Formularschritt 1](../assets/Form_1.png)
 
@@ -25,18 +25,14 @@ Wandeln Sie ein gescanntes Papierformular oder ein Dokument, das in InDesign, Mi
 
    ![Formularschritt 2](../assets/Form_2.png)
 
-   Wenn [!UICONTROL Automatische Erkennung von Formularfeldern] ist **ON**, Formularfelder werden automatisch in der PDF erkannt. Die Platzierung der Formularfelder wird doppelt geprüft.
+   Wenn [!UICONTROL Automatische Erkennung von Formularfeldern] ist **EIN** Formularfelder werden automatisch in der PDF-Datei erkannt. Überprüfen Sie die Platzierung der Formularfelder.
 
-   Ziehen Sie Felder per Drag &amp; Drop aus dem oberen Menü und bearbeiten Sie die Formularfelddetails im rechten Bereich.
+   Ziehen Sie Felder per Drag-and-Drop aus dem oberen Menü und bearbeiten Sie die Formularfelddetails im rechten Fenster.
 
-1. Auswählen **[!UICONTROL Vorschau]** um Ihr Formular anzuzeigen.
+1. Auswählen **[!UICONTROL Vorschau]** , um Ihr Formular anzuzeigen.
 
    ![Formularschritt 3](../assets/Form_3.png)
 
 1. Auswählen **[!UICONTROL Bearbeiten]** , um die Arbeit fortzusetzen, oder wählen Sie **[!UICONTROL Datei]** **>** **[!UICONTROL Speichern unter]** , um das PDF-Formular zu speichern.
 
    ![Formularschritt 4](../assets/Form_4.png)
-
-Wählen Sie das PDF-Symbol aus, um das *Ausfüllbare Formulare erstellen* Tutorial.
-
-[![Tutorial zum Erstellen ausfüllbarer Formulare herunterladen](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCForms.pdf)

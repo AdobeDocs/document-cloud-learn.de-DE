@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '204'
 ht-degree: 1%
 
 ---
@@ -40,10 +40,6 @@ Sparen Sie Zeit und Tastenanschläge, indem Sie mit einer Aktion automatisch ein
 1. Auswählen **[!UICONTROL Speichern]** und geben Sie Ihrer Aktion einen Namen, sodass sie auf der Registerkarte &quot; **[!UICONTROL Aktionsliste]**.
 
 Sie können die benutzerdefinierte Aktion jetzt jederzeit ausführen, wenn Sie diese bestimmte Schrittfolge für eine oder mehrere PDF-Dateien ausführen möchten.
-
-Wählen Sie das PDF-Symbol, um die Datei *Action Wizard* Tutorial.
-
-[![Tutorial zum Action Wizard herunterladen](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCActionWizard.pdf).
 
 >[!TIP]
 >

@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '145'
 ht-degree: 2%
 
 ---
@@ -40,7 +40,3 @@ Verwendung **[!UICONTROL Seiten verwalten.]** in Acrobat , um Seiten auf Ihrem P
    Beim Aufteilen eines PDF kannst du die Spalten nach Seitenanzahl, Dateigröße oder übergeordneten Lesezeichen aufteilen.
 
    ![Scan Schritt 5](../assets/Organize_4.png)
-
-Klicken Sie hier, um eine PDF der *Seiten verwalten.* Tutorial.
-
-[![Tutorial zum Organisieren von Seiten herunterladen](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCOrganize.pdf)
