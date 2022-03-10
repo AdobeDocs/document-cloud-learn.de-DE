@@ -1,41 +1,47 @@
 ---
-title: Adobe Sign Skill Builder
-description: Adobe Sign Skill Builders sind 30-minütige Sitzungen, mit denen Sie Ihre e-Signaturen einsetzen können, ohne Ihren Tag um zusätzliche Arbeit zu erweitern
+title: Adobe Sign Skill Builder.
+description: Adobe Sign Skill Builder sind eine 30-minütige Session, mit der ihr eure elektronischen Unterschriften in die Praxis umsetzen könnt, ohne dass euer Arbeitstag zusätzlich belastet wird
 role: User
 product: adobe sign
 level: Intermediate
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 44e5709089c40474fae3646da79577a1cf6c2761
+source-git-commit: d807214c99b2fbcbee1b3a2bdbb9781a61ebef05
 workflow-type: tm+mt
-source-wordcount: '450'
+source-wordcount: '651'
 ht-degree: 0%
 
 ---
 
-# Adobe Sign Skill Builder
+# Adobe Sign Skill Builder.
 
-![Banner zur Kompetenzerstellung](../assets/SB_Hero.png)
+![Skill Builder-Banner](../assets/SB_Hero.png)
 
-Adobe Sign Skill Builder sind 30-minütige Sitzungen, die Ihre e-Signaturen zum Laufen bringen sollen - ohne dass Sie Ihren Tag mit zusätzlichen Arbeiten belegen müssen. Jeden Monat wird ein neues Thema hervorgehoben.
+Adobe Sign Skill Builder sind eine 30-minütige Session, mit der ihr eure elektronischen Unterschriften in die Praxis umsetzen könnt, ohne dass euer Arbeitstag dadurch zusätzlich belastet wird. Jeden Monat wird ein neues Thema vorgestellt.
 
 ## Monatliche Sitzungen
 
-* **[Easy Automation with Adobe Sign for Microsoft Power Automate](https://sign-skillbuilder-july.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
-Datum: 22. Juli 2021 Erfahren Sie, wie Sie manuelle Prozesse aus Ihren e-Signatur-Workflows entfernen. Mit dem Adobe Sign Connector für Microsoft Power Automate können Sie ganz einfach eine einfache oder komplexe Automatisierung für Ihre Adobe Sign-Verträge einrichten. Sie können signierte Dokumente automatisch an SharePoint weiterleiten. einem Vereinbarungsnamen benutzerdefinierte Informationen hinzufügen; Web-Formularfelder CSV-Daten zuordnen; und vieles mehr. In dieser Sitzung erfahren Sie, was mit Adobe Sign für Microsoft Power Automate möglich ist.
+* **[Neue Adobe Sign-Version - August 2022](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/06d8a836-4b51-426b-913e-189b23a82bd6/8b777e11-0e6d-45a8-b954-bbff5c887efc){target=&quot;_blank&quot;}**
+Datum: 18. August 2022 In diesem Webinar sprechen wir vierteljährlich über die Neuerungen in Adobe Sign. Wir teilen Details zu den neuesten Ergänzungen des Produkts und beantworten Fragen, wie Ihr Team von den Aktualisierungen profitieren kann.
 
-* **[12.2 On-Demand-Aufzeichnung](https://event.on24.com/wcc/r/3163201/07B1E175783B1F37248E7AE08091D6C6) {target=&quot;_blank&quot;}**
-Datum: 17. Juni 2021 Neue Funktionen in der Version Adobe Sign 12.2 Die neuesten Updates umfassen: Unterstützung für Webformulare mit mehreren Unterzeichnern, Zuweisung von Benutzern zu mehreren Gruppen, Liquid Mode und Webformularen, die nahtlos aktualisiert werden können, ohne die URL zu ändern.
+* **[Skill Builder für Administratoren: Arbeitsablauf erstellen](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/83926d76-9959-4657-8b0c-f312835b46f6/aa1c9b21-1b16-4890-9c24-26dc630c4a95){target=&quot;_blank&quot;}**
+Datum: 14. Juli 2022 Vergewissert euch, dass Dokumente immer sofort unterschrieben werden - sofort nach der Unterzeichnung. Wenn Sie Gruppen- oder Kontoadministrator sind, können Sie in Adobe Sign voreingestellte Workflows definieren, um Dokumente automatisch zur Signatur an die richtigen Parteien weiterzuleiten. Gewähren Sie dann Zugriff auf Ihre gesamte Adobe Sign-Gruppe, damit diese den Workflow für wichtige Signaturprozesse ausführen können.
 
-* **[Vorbereiten Ihrer Dokumente für die On-Demand-Aufzeichnung](https://event.on24.com/wcc/r/3121756/E99C17996EB39D270728FC57D062F46B) für elektronische Signaturen{target=&quot;_blank&quot;}**
-Datum: 20. Mai 2021 Erfahren Sie, wie Sie Zeit sparen, Klicks sparen und Fehler mithilfe von PDF-Formularfeldern und Text-Tags reduzieren.
+* **[Ein ausfüllbares, signierbares Webformular veröffentlichen](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/4499bc28-9f26-4b68-88a6-3815ebdff7cf/337fa9d6-c9d3-4bcc-b6d8-9c7580b9be40){target=&quot;_blank&quot;}**
+Datum: 16. Juni 2022 Erstellen Sie ein Webformular, mit dem jeder ein Formular ausfüllen und signieren kann, ohne dass Sie die Transaktion veranlassen oder sogar Ihre E-Mail-Adresse wissen müssen. In dieser Session wird gezeigt, wie ihr eine Dokumentvorlage vorbereiten könnt, die für einzelne Signaturtransaktionen sowie für die Veröffentlichung unter einer eindeutigen URL für eine weit reichende Freigabe verwendet werden kann.
 
-* **[Mega Sign &amp; Web Forms On-Demand-Aufzeichnung](https://event.on24.com/wcc/r/3032025/7FF45B7F803724D32534FD1B0D610AD6){target=&quot;_blank&quot;}**
-Datum: 15. April 2021 Erfahren Sie, wie Sie ein Webformular erstellen, mit dem Einzelpersonen Dokumente online ausfüllen und signieren können, und wie Sie mit Mega Sign ein Dokument mit einem Klick an mehrere Personen senden.
+* **[Neue Funktionen in Adobe Acrobat Sign](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/a51b7ffa-ccf1-41f7-a82c-27bf50d8eb5d/22ee6c72-b92e-43f8-9cc6-c177c9244fea){target=&quot;_blank&quot;}**
+Datum: 19. Mai 2022 Entdeckt die neuesten Tipps und Best Practices, mit denen ihr Workflows transformieren und wichtige Dokumente schnell signieren lassen könnt.
 
-* **[Workflow Designer On-Demand-Aufzeichnung](https://event.on24.com/wcc/r/3031957/7D9B2B2431639F2D6B91449B932F6632){target=&quot;_blank&quot;}**
-Datum: 25. März 2021 Erfahren Sie, wie Sie manuelle Aufgaben reduzieren und menschliches Versagen reduzieren können, indem Sie automatisierte Workflows in Adobe Sign erstellen. Mit Workflow Designer können Sie visuelle Designwerkzeuge verwenden, um jede Aufgabe in einem Dokument-Workflow von Anfang bis Ende zu automatisieren. Legen Sie Ihre Unterzeichner auf bestimmte Dokumente fest, leiten Sie diese automatisch für die Genehmigung oder Zertifizierung weiter und vieles mehr.
+* **[Neue Funktionen in Adobe Acrobat Sign](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/479894a1-131f-411d-b4c8-f699d72413bb/30619f65-b374-40db-85d1-0854dc48af0d){target=&quot;_blank&quot;}**
+Datum: 14. April 2022 Mit unseren Tipps und Best Practices transformiert ihr eure Workflows und holt Unterschriften für wichtige Dokumente schneller ein.
 
-* **[Benutzerverwaltung und Gruppen-On-Demand-Aufzeichnung](https://event.on24.com/wcc/r/2954084/6EEDCD348E72E9C8E64F5B7E4ADB4642){target=&quot;_blank&quot;}**
-Datum: 11. Februar 2021 Erfahren Sie, wie Sie eine effiziente, umfassende Benutzerverwaltung in Adobe Sign ermöglichen, indem Sie Gruppen erstellen, die die Struktur Ihres Unternehmens besser widerspiegeln. Gewähren Sie Benutzern Zugriff auf alle Elemente, Bibliotheksvorlagen und Arbeitsabläufe, die sie benötigen, und ermöglichen Sie Kontoadministratoren die Steuerung, Verwaltung und Berichterstellung über mehrere Gruppen hinweg.
+* **[Mehrere Unterschriften mit nur einem Klick einholen](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/44e4b483-7d05-44b3-b7e7-b265c9b84d07/2736bed0-b416-4578-ac3f-a57491f22c26){target=&quot;_blank&quot;}**
+Datum: 17. März 2022 Mit der Massenversand -Funktion von Adobe Acrobat Sign können Sie ein einzelnes Dokument an Hunderte von Unterzeichnern senden. Wenn mehrere Personen eine eindeutige Kopie derselben Geheimhaltungsvereinbarung, eines Freigabeformulars, einer unternehmensweiten Richtlinienaktualisierung oder eines anderen Dokuments mit einem Unterzeichner unterzeichnen müssen, sparen Sie Zeit, indem Sie die Datei einmal vorbereiten und automatisch individuelle Antworten erfassen.
+
+* **[Vereinbarungen für die elektronische Signatur vorbereiten](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/9024b058-ade1-420f-87f0-68bd5f6d527a/cf8b172f-b9df-41ef-bfce-e6d4b0c3ddf4){target=&quot;_blank&quot;}**
+Datum: 17. Februar 2022. Drei einfache Methoden zum Einrichten von Dokumenten für elektronische Unterschriften lernen. Ob PDF, Microsoft 365-Dateien oder eine einfache Bilddatei: In dieser Session erhältst du die Tools, die du brauchst, um ein Dokument unterschreiben zu lassen. Wir werden drei Methoden behandeln: - Einfache Drag &amp; Drop-Authoring-Umgebung von Adobe Sign - Einrichten eines PDF-Formulars in Adobe Acrobat - Verwenden Sie Text-Tags für die schnelle Erstellung von Dokumenten.
+
+* **[Mit elektronischen Unterschriften in Microsoft-Programmen arbeiten](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/2dcd80a6-6335-4756-bbc8-3505fe99594b/866c4314-dc74-473b-9859-828801814e13){target=&quot;_blank&quot;}**
+Datum: 20. Januar 2022 Erweitern Sie die Art und Weise, wie Sie Ihre Microsoft-Anwendungen wie Word, Outlook und SharePoint verwenden, indem Sie Adobe Sign zu Ihren bestehenden Workflows hinzufügen. In dieser Session erfahrt ihr, wie ihr Dokumentenprozesse in gängigen Microsoft-Programmen optimiert. So müsst ihr nicht nur im Kontext wechseln, um eine Unterschrift zu erhalten oder einen Status zu überprüfen.
