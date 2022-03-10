@@ -1,6 +1,6 @@
 ---
-title: Fallrezepte verwenden
-description: Beschleunigen Sie die digitalen Workflows Ihres Unternehmens mit diesen Beispielen für behördliche und kommerzielle elektronische Signaturen
+title: Nutzungsszenarien
+description: Beschleunigt die digitalen Workflows in eurem Unternehmen mit diesen Beispielen für elektronische Unterschriften von Behörden und Unternehmen.
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -9,18 +9,18 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: b958523f87b657f0a9db8c1eea0de829ab32b02b
+source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
-# Fallrezepte verwenden
+# Nutzungsszenarien
 
-Beschleunigen Sie die digitalen Workflows Ihres Unternehmens mit diesen Beispielen für behördliche und kommerzielle elektronische Unterschriften. Klicken Sie auf , um eine PDF-Datei mit Ressourcen und Details zum Einrichten dieser spezifischen Anwendungsfälle für elektronische Signaturen anzuzeigen.
+Beschleunigt die digitalen Workflows in eurem Unternehmen mit diesen Beispielen für elektronische Unterschriften von Behörden und Unternehmen. Klicken Sie hier, um eine PDF mit Ressourcen und Details zum Einrichten dieser spezifischen Anwendungsfälle für elektronische Signaturen anzuzeigen.
 
-## Anwendungsfälle für Behörden
+## Nutzungsszenarien in Regierungseinrichtungen
 
 <table style="table-layout:fixed">
 <tr>
@@ -31,90 +31,90 @@ Beschleunigen Sie die digitalen Workflows Ihres Unternehmens mit diesen Beispiel
     <div>
     <a href="usecasegovgrants.md"><strong>Unternehmenszuschüsse und -darlehen</strong></a>
     </div>
-    <em>Schnelle Unterstützung für Unternehmen durch Bereitstellung von Formularen für Anträge auf Gewährung, Darlehen und Steueraufschub</em>
+    <em>Bieten Sie Unternehmen schnelle Unterstützung, indem Sie Selfservice-Zugriff auf Antragsformulare für Zuschüsse, Darlehen und Steuerstundung gewähren</em>
     <br>
   </td> 
   <td>
     <a href="usecasegovtelework.md">
-      <img alt="Telearbeitvereinbarung" src="../assets/UC_MegasignR.png" />
+      <img alt="Telearbeit" src="../assets/UC_MegasignR.png" />
     </a>
     <div>
-    <a href="usecasegovtelework.md"><strong>Telearbeitvereinbarung</strong></a>
+    <a href="usecasegovtelework.md"><strong>Telearbeit</strong></a>
     </div>
-    <em>Signaturen von allen Mitarbeitern über Telearbeitsvereinbarungen, Richtlinien-Updates und mehr effizient erfassen</em>
+    <em>Hole Unterschriften aller Mitarbeiter ein, die du für Dokumente zur Telearbeit oder Richtlinien benötigst.</em>
     <br>
   </td>
   <td>
     <a href="usecasegovcontracts.md">
-      <img alt="Verträge und Anforderungen Forms" src="../assets/UC_WorkflowR.png" />
+      <img alt="Verträge und Anforderungsformulare" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasegovcontracts.md"><strong>Verträge und Anforderungen Forms</strong></a>
+    <a href="usecasegovcontracts.md"><strong>Verträge und Anforderungsformulare</strong></a>
     </div>
-    <em>Schnelles Ersetzen der Papierverarbeitung durch konforme digitale Arbeitsabläufe, einschließlich Prüfberichte</em>
+    <em>Ersetzen Sie die Papierverarbeitung schnell durch standardkonforme digitale Workflows mit Prüfberichten</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="usecasegovreemployment.md">
-      <img alt="Unterstützung bei der Wiedereingliederung" src="../assets/UC_WebformsR.png" />
+      <img alt="Beschäftigungsbeihilfe" src="../assets/UC_WebformsR.png" />
     </a>
     <div>
-    <a href="usecasegovreemployment.md"><strong>Unterstützung bei der Wiedereingliederung</strong></a>
+    <a href="usecasegovreemployment.md"><strong>Beschäftigungsbeihilfe</strong></a>
     </div>
-    <em>Unterstützung der Bürger bei der Unterstützung, die sie benötigen, ohne sich an Formulare für digitale Anwendungen zu orientieren, die tagtäglich live genutzt werden können</em>
+    <em>Helft Bürgern, die benötigte Hilfe zu erhalten, ohne mit Formularen für vollständig digitale Anträge in Kontakt zu stehen, die in wenigen Tagen ausgefüllt werden können</em>
     <br>
   </td>
   <td>
     <a href="usecasegovpaycheck.md">
-      <img alt="Zahlungsscheck" src="../assets/UC_PaycheckProtectionR.png" />
+      <img alt="Gehaltsscheckschutz" src="../assets/UC_PaycheckProtectionR.png" />
     </a>
     <div>
-    <a href="usecasegovpaycheck.md"><strong>Zahlungsscheck</strong></a>
+    <a href="usecasegovpaycheck.md"><strong>Gehaltsscheckschutz</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie mit Adobe Sign das Formular für das Zahlungsschutzprogramm in ein interaktives Online-Formular umwandeln können.</em>
+    <em>Erfahren Sie, wie Sie mit Adobe Sign das Formular für das Paycheck Protection Program in ein interaktives Online-Formular umwandeln können.</em>
     <br>
   </td>
   <td>
     <a href="usecasegovremote.md">
-      <img alt="Anforderung eines Remote-Haftbefehls" src="../assets/UC_Remote_WarrantR.png" />
+      <img alt="Remote-Warrant-Anfrage" src="../assets/UC_Remote_WarrantR.png" />
     </a>
     <div>
-    <a href="usecasegovremote.md"><strong>Anforderung eines Remote-Haftbefehls</strong></a>
+    <a href="usecasegovremote.md"><strong>Remote-Warrant-Anfrage</strong></a>
     </div>
-    <em>Durch die gemeinsame Nutzung elektronischer Signaturen und Webkonferenzen können Sie die Zeit verkürzen, die zum Anfordern und Sichern von Haftbefehlen von Richtern benötigt wird</em>
+    <em>Verwendet elektronische Unterschriften und Web-Konferenzen zusammen, um die Beantragung und Sicherung von Haftbefehlen durch Richter zu beschleunigen</em>
     <br>
   </td>
 </tr>
 </table>
 
-## Fälle kommerzieller Nutzung
+## Nutzungsszenarien
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="usecasecomcontracts.md">
-      <img alt="Verträge und Anforderungen Forms" src="../assets/UC_WorkflowR.png" />
+      <img alt="Verträge und Anforderungsformulare" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasecomcontracts.md"><strong>Verträge und Anforderungen Forms</strong></a>
+    <a href="usecasecomcontracts.md"><strong>Verträge und Anforderungsformulare</strong></a>
     </div>
-    <em>Schnelles Ersetzen der Papierverarbeitung durch konforme digitale Arbeitsabläufe, einschließlich Prüfberichte</em>
+    <em>Ersetzen Sie die Papierverarbeitung schnell durch standardkonforme digitale Workflows mit Prüfberichten</em>
     <br>
   </td> 
   <td>
     <a href="usecasecompolicy.md">
-      <img alt="Politische Vereinbarungen" src="../assets/UC_Policy.png" />
+      <img alt="Richtlinienvereinbarungen" src="../assets/UC_Policy.png" />
     </a>
     <div>
-    <a href="usecasecompolicy.md"><strong>Politische Vereinbarungen</strong></a>
+    <a href="usecasecompolicy.md"><strong>Richtlinienvereinbarungen</strong></a>
     </div>
-    <em>Signaturen von allen Mitarbeitern über Telearbeitsvereinbarungen, Richtlinien-Updates und mehr effizient erfassen</em>
+    <em>Hole Unterschriften aller Mitarbeiter ein, die du für Dokumente zur Telearbeit oder Richtlinien benötigst.</em>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/Whitespacer.png" />
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

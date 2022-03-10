@@ -1,6 +1,6 @@
 ---
-title: Anwendungsbeispiel
-description: Die AnwendungsCase-Show ist eine Live-Stream-Sitzung, in der Sie neue Anwendungsfälle, Trends und Möglichkeiten für Ihr Unternehmen zur Implementierung und Nutzung dieser Anwendungsfälle und Vorteile durch Ihr Unternehmen erfahren
+title: Nutzungsszenarien
+description: In der Präsentation "Nutzungsszenarien für Adobe Sign" im Livestream erfahrt ihr, wie neue Nutzungsszenarien und Trends in eurem Unternehmen umgesetzt werden und wie ihr davon profitieren könnt
 role: User
 product: adobe sign
 solution: Document Cloud
@@ -8,67 +8,67 @@ level: Intermediate
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: 44e5709089c40474fae3646da79577a1cf6c2761
+source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%
 
 ---
 
-# Anwendungsbeispiel
+# Nutzungsszenarien
 
-![Fallbanner verwenden](../assets/UCSC_Rebrand.png)
+![Nutzungsszenario-Banner](../assets/UCSC_Rebrand.png)
 
-Der Anwendungsfall-Showcase ist eine Livestream-Sitzung, in der Sie neue Anwendungsfälle, Trends und Möglichkeiten zur Implementierung und Nutzung durch Ihr Unternehmen erfahren. Jeden Monat wird ein neues Thema hervorgehoben.
+Die Präsentation von Nutzungsszenarien ist eine Livestream-Session, die Ihnen neue Nutzungsszenarien und Trends in Adobe Sign vorstellt und zeigt, wie Ihr Unternehmen sie implementieren und davon profitieren kann. Jeden Monat wird ein neues Thema vorgestellt.
 
-Nachfolgend finden Sie Aufnahmen oder Registrierungslinks für die neuesten Sitzungen:
+Im Folgenden sind Aufzeichnungen oder Registrierungslinks für die neuesten Sitzungen aufgeführt:
 
-## Sitzungen 2021
+## Sessions 2021
 
-* **[AbbViews Pfad zur digitalen Transformation](https://use-case-showcase-with-abbvie.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
-Datum: Am 4. August 2021 hat AbbVie die Strategie verfolgt, innovative Arzneimittel zu liefern und einen bemerkenswerten Einfluss auf das Leben der Menschen zu nehmen. Um die Flexibilität zu erhöhen und den Mitarbeitern die Möglichkeit zu geben, sich auf komplexere Arbeiten zu konzentrieren, arbeitet das Unternehmen daran, einige ihrer Geschäftsprozesse zu automatisieren — Ein wichtiger erster Schritt ist die Abkehr vom Stift und Papier. Nehmen Sie an einem Gespräch mit AbbVie teil und erfahren Sie mehr über ihre Ziele, Strategien und Prozesse, um digitalen Transformationserfolg zu erreichen.
+* **[AbbVies Weg in die digitale Transformation](https://use-case-showcase-with-abbvie.joinus.adobeevents.com/){target=&quot;_blank&quot;}**
+Datum: 4. August 2021 Die Strategie von AbbVie besteht darin, innovative Arzneimittel bereitzustellen und das Leben der Menschen nachhaltig zu verändern. Um Agilität zu steigern und Mitarbeitern die Möglichkeit zu geben, sich auf komplexere Aufgaben zu konzentrieren, arbeitet das Unternehmen daran, einige seiner Geschäftsprozesse zu automatisieren. Die Umstellung von Stift und Papier ist dabei ein entscheidender erster Schritt. In diesem Webinar sprechen wir mit AbbVie über Ziele, Strategien und Prozesse für die digitale Transformation.
 
 * **[Mit Volvo Cars On-Demand-Aufzeichnung](https://gateway.on24.com/wcc/eh/2172296/lp/2963219/adobe-sign-use-case-showcase%3A-featuring-volvo-cars/){target=&quot;_blank&quot;}**
-Wie sieht die Zukunft des Autoverkaufs aus? Für den schwedischen Automobilhersteller Volvo Cars nehmen sie Änderungen an ihrem Geschäftsmodell vor, die die Kundenerwartungen für die nächste Generation von Kfz-Käufern beeinflussen werden. Entscheidend für diesen Prozess ist die Fähigkeit, ein qualitativ hochwertiges Kundenerlebnis zu bieten, das mit seinen Premium-Angeboten übereinstimmt.
+Wie sieht die Zukunft des Autoeinkaufs aus? Für den schwedischen Automobilhersteller Volvo Cars nehmen sie Änderungen an ihrem Geschäftsmodell vor, die die Kundenerwartungen für die nächste Generation von Autokäufern beeinflussen werden. Im Mittelpunkt des Kundenprozesses steht die Fähigkeit, ein hochwertiges Kundenerlebnis zu bieten, das zu den Premium-Angeboten passt.
 
-Nehmen Sie an einem Gespräch hinter den Kulissen mit Volvo Cars teil und diskutieren Sie, wie sie große Ideen aufgenommen und in Realität verwandelt haben - und wie andere Unternehmen aus ihren Transformationserfahrungen lernen können.
+Bei einem Gespräch hinter den Kulissen diskutiert Volvo Cars, wie sie große Ideen umgesetzt und in die Realität umgesetzt haben - und wie andere Unternehmen von ihren Transformationserlebnissen lernen können.
 
-* **[5 Wie werden die Regierungsstellen 2021 die On-Demand-Aufzeichnung](https://gateway.on24.com/wcc/eh/2172296/lp/2790280/5-ways-government-agencies-will-transform-in-2021-/) von Regierungsstellen umgestalten{target=&quot;_blank&quot;}**
-Wie kann Adobe Sign Regierungsbehörden dabei helfen, ihren Wählern besser zu helfen? Bürger und Mitarbeiter erwarten jetzt gleichermaßen interessantere Online-Erfahrungen. Und um digital zu arbeiten, müssen staatliche Prozesse strengen Sicherheits-, Datenschutz- und Compliance-Anforderungen genügen. Als die Pandemie zuschlug, mussten die Regierungsbehörden ihre Bemühungen um eine digitale Transformation intensivieren, um weiterhin den Bedürfnissen ihrer Wähler gerecht zu werden und die operative Kontinuität aufrechtzuerhalten.
+* **[5 Transformationen für Behörden im Jahr 2021 - On-Demand-Aufzeichnung.](https://gateway.on24.com/wcc/eh/2172296/lp/2790280/5-ways-government-agencies-will-transform-in-2021-/){target=&quot;_blank&quot;}**
+Wie kann Adobe Sign Regierungsbehörden dabei helfen, ihre Wähler besser zu bedienen? Bürger und Mitarbeiter erwarten heute ansprechendere Online-Erlebnisse. Für die Digitalisierung müssen Regierungsprozesse zudem strenge Anforderungen an Sicherheit, Datenschutz und Compliance erfüllen. Als die Pandemie ausbrach, mussten Behörden ihre Anstrengungen zur digitalen Transformation beschleunigen, um den Anforderungen ihrer Bürger gerecht zu werden und die betriebliche Kontinuität aufrechtzuerhalten.
 
-Nehmen Sie an der Adobe Sign Use Case Showcase teil, um von Regierungsexperten zu erfahren, welche Herausforderungen föderale, staatliche und lokale Behörden bewältigen müssen und wie sie weiterhin innovativ sind, um die Regierung am Laufen zu halten.
+In diesem Webinar der Reihe &quot;Nutzungsszenarien für Adobe Sign&quot; sprechen Experten des öffentlichen Sektors über die Herausforderungen, vor denen Behörden auf Bundes-, Landes- und kommunaler Ebene stehen, und wie sie ihre Innovationen für die Aufrechterhaltung des Behördenbetriebs fortsetzen.
 
-## 2020 Sitzungen nach Wirtschaftsbereichen
+## Sessions 2020 nach Branche
 
-* **[Regierung](https://event.on24.com/wcc/r/2790280/7FFF27458A6834FDF8C73C5149637590?partnerref=EXL){target=&quot;_blank&quot;}**
-Fokus: Unsere Expertengremien behandeln bewährte Verfahren und eine Vielzahl von behördlich spezifischen Anwendungsfällen, um Ihnen zu zeigen, wie Adobe Sign Ihrem Team dabei helfen kann, Zeit, Geld und Ressourcen zu sparen und gleichzeitig die Vorgaben und Sicherheitsstandards einzuhalten.
+* **[Regierungseinrichtungen](https://event.on24.com/wcc/r/2790280/7FFF27458A6834FDF8C73C5149637590?partnerref=EXL){target=&quot;_blank&quot;}**
+Schwerpunkt: Unsere Experten erläutern Best Practices und eine Reihe von Nutzungsszenarien für den Einsatz in Behörden. Sie zeigen euch, wie Adobe Sign eurem Team dabei helfen kann, Zeit, Geld und Ressourcen zu sparen und gleichzeitig gesetzliche Vorgaben einzuhalten und Absicherungen einzuhalten.
 
-* **[Legal](https://event.on24.com/wcc/r/2634329/292CA0B317E56600A114508CC55376BF?partnerref=EXL){target=&quot;_blank&quot;}**
-Fokus: In unseren Diskussionsrunden wird diskutiert, wie Rechtsabteilungen den Übergang zu vollständig entfernten Dokumentenprozessen verwalten. Ob Sie gerade erst anfangen oder bereits einige Arbeitsabläufe digitalisiert haben - Adobe Sign kann die Produktivität Ihres Teams in jeder Phase der digitalen Transformation steigern.
+* **[Rechtsabteilung](https://event.on24.com/wcc/r/2634329/292CA0B317E56600A114508CC55376BF?partnerref=EXL){target=&quot;_blank&quot;}**
+Schwerpunkt: Unsere Expertenrunde diskutiert, wie Rechtsabteilungen der Umstieg auf vollständig remote Dokumentenprozesse gelingt. Unabhängig davon, ob ihr gerade erst am Anfang steht oder bereits einige Workflows digitalisiert habt: Adobe Sign kann die Produktivität eures Teams in jeder Phase der digitalen Transformation steigern.
 
 * **[Vertrieb](https://acrobat.adobe.com/us/en/business/webinars/adobe-sign-use-case-showcase-sales.html){target=&quot;_blank&quot;}**
-Fokus: Die Experten der Adobe heben bewährte Verfahren für eine erfolgreiche digitale Verwandlung im Beschaffungswesen hervor, und die Diskussion behandelt Trends und Anforderungen der Branche, um hervorragende Nutzererfahrungen zu bieten.
+Schwerpunkt: Adobe-Experten verweisen auf Best Practices für eine erfolgreiche digitale Transformation im Einkauf und erörtern Branchen-Trends und -Anforderungen für die Bereitstellung herausragender User Experiences.
 
-* **[Beschaffung und Logistik](https://event.on24.com/wcc/r/2514418/278FB6F16C198E2B866CF487AF9514F6){target=&quot;_blank&quot;}**
-Fokus: Wie Adobe Sign in Beschaffungs- und Logistikbereichen arbeitet.
+* **[Einkauf &amp; Logistik](https://event.on24.com/wcc/r/2514418/278FB6F16C198E2B866CF487AF9514F6){target=&quot;_blank&quot;}**
+Schwerpunkt: Adobe Sign im Einkauf und in der Logistik.
 
-* **[HR Applications](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D){target=&quot;_blank&quot;}**
-Fokus: Wie Adobe Sign in verschiedenen HR-Anwendungen arbeitet.
+* **[HR-Anwendungen](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D){target=&quot;_blank&quot;}**
+Schwerpunkt: Funktionsweise von Adobe Sign in verschiedenen HR-Anwendungen
 
-* **[Staat und Gebietskörperschaften](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D){target=&quot;_blank&quot;}**
-Schwerpunkt: Funktionsweise von Adobe Sign in den staatlichen und lokalen Gebietskörperschaften.
+* **[Behörden](https://event.on24.com/wcc/r/2351937/D9E34A102F309DFCAF0D07D5192BD66D){target=&quot;_blank&quot;}**
+Schwerpunkt: Funktionsweise von Adobe Sign in Behörden auf Landes-/Kommunalebene
 
-* **[Bildung](https://event.on24.com/wcc/r/2241711/762243D5EE65DAC44D3AE7BCCD3388A7){target=&quot;_blank&quot;}**
-Fokus: Wie Adobe Sign für Bildung funktioniert.
+* **[Bildungseinrichtungen](https://event.on24.com/wcc/r/2241711/762243D5EE65DAC44D3AE7BCCD3388A7){target=&quot;_blank&quot;}**
+Schwerpunkt: So funktioniert Adobe Sign im Bildungswesen.
 
-* **[Life Science](https://event.on24.com/wcc/r/2204781/2C266134D08DDE48E17C77746F192AA6){target=&quot;_blank&quot;}**
-Fokus: Wie Adobe Sign für Biowissenschaften arbeitet.
+* **[Biowissenschaft](https://event.on24.com/wcc/r/2204781/2C266134D08DDE48E17C77746F192AA6){target=&quot;_blank&quot;}**
+Schwerpunkt: Adobe Sign für Life Sciences.
 
-* **[Gesundheitsversorgung](https://event.on24.com/wcc/r/2202626/1D60C42BD396AE273CB09CF53F1051BE){target=&quot;_blank&quot;}**
-Fokus: Wie Adobe Sign im Gesundheitswesen funktioniert. Zu den Themen gehören: zunehmende Nutzung von Telehealth und digitaler Transformation - Infrastruktur und Skalierung.
+* **[Gesundheitswesen](https://event.on24.com/wcc/r/2202626/1D60C42BD396AE273CB09CF53F1051BE){target=&quot;_blank&quot;}**
+Schwerpunkt: Wie Adobe Sign im Gesundheitswesen funktioniert. Themen: zunehmende Nutzung von Telehealth und digitaler Transformation - Infrastruktur und Skalierung.
 
-* **[Finanzdienstleistungen](https://event.on24.com/wcc/r/2177152/40A4315A5D32F21AFB5EB03E25C15992){target=&quot;_blank&quot;}**
-Fokus: Wie Adobe Sign für das Bankwesen funktioniert. Zu den Themen gehören: Trends in der Branche 2020 und darüber hinaus, digitale Dokumente und Prozesse im Rahmen einer umfassenderen digitalen Transformation, bewährte Verfahren, Anwendungsfälle und die Vorteile von Adobe Sign.
+* **[Finanzdienstleistungen.](https://event.on24.com/wcc/r/2177152/40A4315A5D32F21AFB5EB03E25C15992){target=&quot;_blank&quot;}**
+Schwerpunkt: So funktioniert Adobe Sign für das Bankwesen. Themen: Branchen-Trends 2020 und darüber hinaus, digitale Dokumente und Prozesse als Teil einer umfassenderen digitalen Transformation, Best Practices, Use Cases und die Vorteile von Adobe Sign.
 
-* **[Versicherung](https://event.on24.com/wcc/r/2162717/1449ED610AD3B545004079728D9AE0F6){target=&quot;_blank&quot;}**
-Fokus: Wie Adobe Sign für Finanzdienstleistungen und Versicherungen funktioniert. Zu den Themen gehören: Branchentrends, Compliance- und Regelungsanforderungen im Finanzsektor und eine ausgezeichnete Benutzererfahrung.
+* **[Versicherungen](https://event.on24.com/wcc/r/2162717/1449ED610AD3B545004079728D9AE0F6){target=&quot;_blank&quot;}**
+Schwerpunkt: Funktionsweise von Adobe Sign für Finanzdienstleistungen und Versicherungen. Themen: Branchen-Trends, Compliance- und gesetzliche Vorgaben im Finanzsektor sowie ein hervorragendes Anwendererlebnis.
