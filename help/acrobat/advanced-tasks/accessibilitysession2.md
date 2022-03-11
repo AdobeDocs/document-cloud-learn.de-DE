@@ -1,25 +1,25 @@
 ---
-title: Beheben von unbarrierefreien PDF-Dateien
-description: In dieser On-Demand-Sitzung erfahren Sie, wie Sie ein Word-Dokument konvertieren und einige grundlegende Tag-Probleme mit den Acrobat Pro DC-Werkzeugen beheben, die im Einführung-Webinar gezeigt werden
+title: Beheben einer nicht zugänglichen PDF
+description: In dieser On-Demand-Session lernst du den Workflow zur Konvertierung eines Word-Dokuments kennen und behebst einige grundlegende Tag-Probleme mithilfe der Acrobat Pro-Tools, die in diesem Einführungswebinar gezeigt werden.
 role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-8609.jpg
 kt: 8609
 exl-id: 546c1bc7-28bb-447d-8b3f-66cc29498057
-source-git-commit: 2de5b609b3f23bb5796786b6bc413a831c2b78c3
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
-# Beheben von nicht zugänglichen PDF-Dateien
+# Beheben einer nicht zugänglichen PDF
 
-In dieser On-Demand-Sitzung erfahren Sie, wie Sie ein Word-Dokument konvertieren und einige grundlegende Tag-Probleme mit den Acrobat Pro DC-Werkzeugen beheben, die in der Einführung-Webinar gezeigt werden.
+In dieser On-Demand-Session lernst du den Workflow zur Konvertierung eines Word-Dokuments kennen und behebst einige grundlegende Tag-Probleme mithilfe der Acrobat Pro-Tools, die in dem Einführungswebinar gezeigt werden.
 
-Klicken Sie [hier](../assets/accessibilitysession2.zip), um einen ZIP-Ordner der Beispielsitzungsdateien herunterzuladen.
+Klicken [hier](../assets/accessibilitysession2.zip) , um einen ZIP-Ordner mit den praktischen Sitzungsdateien herunterzuladen.
 
-Wählen Sie das Bild aus, um das Video in einer separaten Registerkarte des Browsers anzuzeigen.
+Wählen Sie das Bild aus, um das Video in einer separaten Browser-Registerkarte anzuzeigen.
 
-[![Session 2 Video](../assets/Accessibilitysession2_YT.png)](https://youtu.be/eT2IFNszNuk){target=&quot;_blank&quot;}
+[![Video zu Session 2](../assets/Accessibilitysession2_YT.png)](https://youtu.be/eT2IFNszNuk){target=&quot;_blank&quot;}

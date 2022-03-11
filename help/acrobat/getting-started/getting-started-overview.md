@@ -1,25 +1,25 @@
 ---
-title: Überblick über die ersten Schritte
-description: In diesen kurzen (1-2 Min.) Tutorials erfahren Sie, wie Sie mit der Verwendung von Adobe Acrobat beginnen
+title: Übersicht über die ersten Schritte
+description: In diesen kurzen Schritt-für-Schritt-Tutorials (1-2 Min.) erfahren Sie, wie Sie Adobe Acrobat verwenden.
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 1e8dc23acc3d461b5623855b348329479958baf5
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 5%
+source-wordcount: '411'
+ht-degree: 6%
 
 ---
 
-# Überblick über die ersten Schritte
+# Übersicht über die ersten Schritte
 
-![Erste Schritte mit Acrobat](../assets/Hero-GettingStarted.png)
+![Acrobat - Erste Schritte](../assets/Hero-GettingStarted.png)
 
-In diesen Tutorials erfahren Sie, wie Sie mit der Verwendung von Adobe Acrobat beginnen. Von der Dokumentenerstellung bis zum Schutz Ihrer PDF-Dateien. Diese Inhalte sollen Ihnen den Einstieg in PDF-Arbeitsabläufe erleichtern.
+In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acrobat verwenden. Von der Erstellung eines Dokuments bis zum Schutz Ihrer PDF-Dateien - dieser Inhalt ist darauf ausgelegt, Ihnen den Einstieg in PDF-Arbeitsabläufe zu erleichtern.
 
-## Acrobat-Tutorials
+## Tutorials zu Acrobat
 
 <table style="table-layout:fixed">
 <tr>
@@ -30,27 +30,27 @@ In diesen Tutorials erfahren Sie, wie Sie mit der Verwendung von Adobe Acrobat b
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Grundlagen des Arbeitsbereichs</strong></a>
     </div>
-    <em>Erfahren Sie, wie einfach der Zugriff auf Dateien und Werkzeuge über die Adobe Acrobat DC-Oberfläche auf Desktop-, Web- und Mobilgeräten ist</em>
+    <em>Erfahre, wie du über den Arbeitsbereich von Adobe Acrobat auf Dateien und Tools zugreifen kannst - auf dem Desktop, im Web, auf deinem Smartphone oder Tablet.</em>
     <br>
   </td>
   <td>
     <a href="acrobatweb.md">
-      <img alt="Mit Acrobat Web arbeiten" src="../assets/Acrobatweb_1280.png" />
+      <img alt="Überall arbeiten - mit Acrobat Web" src="../assets/Acrobatweb_1280.png" />
     </a>
     <div>
-    <a href="acrobatweb.md"><strong>Mit Acrobat Web arbeiten</strong></a>
+    <a href="acrobatweb.md"><strong>Überall arbeiten - mit Acrobat Web</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie mit den Acrobat Webtools in Ihrem Browser von überall aus Geschäftsdokumentanfragen bearbeiten können.</em>
+    <em>Erfahren Sie, wie Sie mit den Web-Tools von Acrobat in Ihrem Browser von überall aus Anfragen für Geschäftsdokumente bearbeiten können.</em>
     <br>
   </td>
   <td>
     <a href="productivity.md">
-      <img alt="Produktivität unterwegs" src="../assets/Productivity_1280.png" />
+      <img alt="Unterwegs produktiv sein." src="../assets/Productivity_1280.png" />
     </a>
     <div>
-     <a href="productivity.md"><strong>Produktivität unterwegs</strong></a>
+     <a href="productivity.md"><strong>Unterwegs produktiv sein.</strong></a>
     </div>
-    <em>Mit der Acrobat Reader-App für Mobilgeräte von Ihrem Tablet oder Mobiltelefon aus mehr erreichen</em>
+    <em>Mehr Möglichkeiten auf dem Tablet oder Smartphone mit der Acrobat Reader-App</em>
     <br>
   </td>
 </tr>
@@ -62,7 +62,7 @@ In diesen Tutorials erfahren Sie, wie Sie mit der Verwendung von Adobe Acrobat b
     <div>
      <a href="../integrate/integrate-overview.md#microsoft"><strong>Arbeiten mit Microsoft 365</strong></a>
     </div>
-    <em>Steigerung der Produktivität und der Arbeitsabläufe von Geschäftsdokumenten mit Acrobat und [!DNL Microsoft 365]</em>
+    <em>Produktivere Workflows mit Acrobat und [!DNL Microsoft 365]</em>
     <br>
   </td>
   <td>
@@ -72,17 +72,17 @@ In diesen Tutorials erfahren Sie, wie Sie mit der Verwendung von Adobe Acrobat b
     <div>
      <a href="collaborate.md"><strong>In Echtzeit zusammenarbeiten</strong></a>
     </div>
-    <em>Sie können Ihre Projekte vorwärts verschieben, indem Sie Kommentare sammeln, an Antworten zusammenarbeiten und den Fortschritt in Ihren Dokumenten verfolgen - alles in Echtzeit, von überall aus und überall.</em>
+    <em>Erweitere deine Projekte, indem du Kommentare einholst, im Team mit anderen zusammenarbeitest und den Fortschritt der Bearbeitung mitverfolgt - in Echtzeit und von überall.</em>
     <br>
   </td>
   <td>
     <a href="combine-to-pdf.md">
-      <img alt="Combine Files zu PDF" src="../assets/Combine.jpg" />
+      <img alt="Combine Files auf PDF" src="../assets/Combine.jpg" />
     </a>
     <div>
-     <a href="combine-to-pdf.md"><strong>Dateien zu PDF zusammenführen</strong></a>
+     <a href="combine-to-pdf.md"><strong>Dateien in PDF kombinieren</strong></a>
     </div>
-    <em>Mehrere Dateitypen zu einem PDF kombinieren</em>
+    <em>Unterschiedliche Dateitypen auf einer einzigen PDF zusammenführen</em>
     <br>
   </td>
 </tr>
@@ -94,22 +94,22 @@ In diesen Tutorials erfahren Sie, wie Sie mit der Verwendung von Adobe Acrobat b
     <div>
     <a href="create-pdf.md"><strong>Erstellen einer PDF-Datei</strong></a>
     </div>
-    <em>PDF aus verschiedenen Dokumenttypen erstellen</em>
+    <em>Erstellen von PDF aus Dokumenten aller Art</em>
     <br>
   </td>
  <td>
     <a href="comment-on-pdf-files.md">
-      <img alt="PDF-Dateien in Acrobat DC kommentieren" src="../assets/Comment.jpg" />
+      <img alt="Auf einem PDF kommentieren" src="../assets/Comment.jpg" />
     </a>
     <div>
-    <a href="comment-on-pdf-files.md"><strong>PDF kommentieren</strong></a>
+    <a href="comment-on-pdf-files.md"><strong>Auf einem PDF kommentieren</strong></a>
     </div>
-    <em>Kommentare zu einer PDF-Datei hinzufügen und diese dann für andere freigeben</em>
+    <em>PDF-Datei mit Kommentaren versehen und für andere freigeben</em>
     <br>
   </td>
   <td>
     <a href="edit-pdf.md">
-      <img alt="PDF in Acrobat DC bearbeiten" src="../assets/Edit.jpg" />
+      <img alt="Bearbeiten einer PDF-Datei" src="../assets/Edit.jpg" />
     </a>
     <div>
     <a href="edit-pdf.md"><strong>Bearbeiten einer PDF-Datei</strong></a>
@@ -121,22 +121,22 @@ In diesen Tutorials erfahren Sie, wie Sie mit der Verwendung von Adobe Acrobat b
 <tr>
   <td>
     <a href="export-pdf.md">
-      <img alt="PDF in bearbeitbare Formate exportieren" src="../assets/Export.jpg" />
+      <img alt="Exportieren einer PDF in bearbeitbare Formate" src="../assets/Export.jpg" />
     </a>
     <div>
-    <a href="export-pdf.md"><strong>PDF in bearbeitbare Formate exportieren</strong></a>
+    <a href="export-pdf.md"><strong>Exportieren einer PDF in bearbeitbare Formate</strong></a>
     </div>
-    <em>PDF-Dateien in bearbeitbare Formate exportieren</em>
+    <em>Erfahren Sie, wie Sie Ihre PDF-Dateien in bearbeitbare Formate exportieren</em>
     <br>
   </td>
   <td>
     <a href="create-fillable-forms.md">
-      <img alt="Ausfüllbare Formulare erstellen" src="../assets/Form_1280.png" />
+      <img alt="Ausfüllbares Formular erstellen" src="../assets/Form_1280.png" />
     </a>
     <div>
-    <a href="create-fillable-forms.md"><strong>Ausfüllbare Formulare erstellen</strong></a>
+    <a href="create-fillable-forms.md"><strong>Ausfüllbares Formular erstellen</strong></a>
     </div>
-    <em>Ein in einer anderen Anwendung erstelltes Dokument in ein ausfüllbares PDF-Formular umwandeln</em>
+    <em>Ein in einem anderen Programm erstelltes Dokument in ein ausfüllbares PDF-Formular umwandeln</em>
     <br>
   </td>
   <td>
@@ -146,7 +146,7 @@ In diesen Tutorials erfahren Sie, wie Sie mit der Verwendung von Adobe Acrobat b
     <div>
     <a href="scan-and-ocr.md"><strong>Scannen und OCR</strong></a>
     </div>
-    <em>Reduzieren Sie große Dateien und optimieren Sie PDF, ohne die Qualität für Freigabe, Veröffentlichung oder Archivierung zu beeinträchtigen.</em>
+    <em>Reduzierung großer Dateien und Optimierung Ihrer PDF ohne Qualitätseinbußen bei der Freigabe, Veröffentlichung oder Archivierung</em>
     <br>
   </td>
 </tr>
@@ -158,25 +158,25 @@ In diesen Tutorials erfahren Sie, wie Sie mit der Verwendung von Adobe Acrobat b
     <div>
     <a href="organize.md"><strong>Seiten organisieren</strong></a>
     </div>
-    <em>Seiten auf Ihrem PDF hinzufügen, ersetzen, extrahieren, drehen, löschen und verschieben</em>
+    <em>Auf dem PDF Seiten hinzufügen, ersetzen, extrahieren, drehen, löschen und verschieben</em>
     <br>
   </td>
   <td>
     <a href="password-protect.md">
-      <img alt="PDF-Datei mit Kennwort Protect" src="../assets/Protect.jpg" />
+      <img alt="Protect einer PDF-Datei mit einem Kennwort" src="../assets/Protect.jpg" />
     </a>
     <div>
-    <a href="password-protect.md"><strong>PDF-Datei mit Kennwort Protect</strong></a>
+    <a href="password-protect.md"><strong>Protect einer PDF-Datei mit einem Kennwort</strong></a>
     </div>
-    <em>Fügen Sie Ihrem PDF ein Kennwort hinzu, um andere vor dem Öffnen oder Bearbeiten der Datei zu schützen</em>
+    <em>Fügen Sie ein Kennwort auf Ihrem PDF hinzu, um andere vor dem Öffnen oder Bearbeiten der Datei zu schützen</em>
     <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="PDF ausfüllen und unterschreiben" src="../assets/FillSign_1280.png" />
+      <img alt="PDF-Formular ausfüllen und unterschreiben" src="../assets/FillSign_1280.png" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>Fill &amp; Sign-PDF forms</strong></a>
+    <a href="fill-and-sign.md"><strong>Fill &amp; Sign PDF forms</strong></a>
     </div>
     <em>PDF-Formular schnell ausfüllen und unterschreiben</em>
     <br>
@@ -185,12 +185,12 @@ In diesen Tutorials erfahren Sie, wie Sie mit der Verwendung von Adobe Acrobat b
 <tr>
   <td>
     <a href="signatures.md">
-      <img alt="Signaturen abrufen" src="../assets/Signatures_1280.png" />
+      <img alt="Unterschriften einholen" src="../assets/Signatures_1280.png" />
     </a>
     <div>
-    <a href="signatures.md"><strong>Signaturen abrufen</strong></a>
+    <a href="signatures.md"><strong>Unterschriften einholen</strong></a>
     </div>
-    <em>Umzug von Unternehmen durch Sammlung rechtsverbindlicher elektronischer Signaturen von anderen — von überall</em>
+    <em>Von jedem Ort aus rechtsverbindliche elektronische Unterschriften einholen, um das Geschäft am Laufen zu halten</em>
     <br>
   </td>
   <td>
@@ -200,17 +200,17 @@ In diesen Tutorials erfahren Sie, wie Sie mit der Verwendung von Adobe Acrobat b
     <div>
     <a href="track.md"><strong>Dokumente verfolgen</strong></a>
     </div>
-    <em>Immer wissen, welche Dateien auf Signaturen warten und welche signiert wurden</em>
+    <em>Immer wissen, welche Dateien auf Unterschriften warten und welche unterschrieben wurden</em>
     <br>
   </td>
    <td>
     <a href="where-do-pdfs-come-from.md">
-      <img alt="Woher kommen PDF?" src="../assets/WherePDFs.jpg" />
+      <img alt="Woher kommen die PDF?" src="../assets/WherePDFs.jpg" />
     </a>
     <div>
-    <a href="where-do-pdfs-come-from.md"><strong>Woher kommen PDF?</strong></a>
+    <a href="where-do-pdfs-come-from.md"><strong>Woher kommen die PDF?</strong></a>
     </div>
-    <em>Erfahren Sie, woher PDF kommen und wofür sie verwendet werden</em>
+    <em>Woher kommen PDF und ihre Verwendung?</em>
     <br>
   </td>
 </tr>

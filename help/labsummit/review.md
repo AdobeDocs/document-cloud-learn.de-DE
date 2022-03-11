@@ -3,10 +3,10 @@ title: PDF-Dateien freigeben und online überprüfen
 description: Tipps und Tricks zur Verwendung von Adobe Document Cloud
 solution: Document Cloud
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '521'
-ht-degree: 26%
+source-wordcount: '519'
+ht-degree: 23%
 
 ---
 
@@ -39,7 +39,7 @@ Sie erhalten eine E-Mail-Benachrichtigung, sobald Empfänger Ihre Datei angezeig
 
 ## Prüfererlebnis
 
-Die Überprüfer erhalten eine E-Mail-Einladung mit einem Link zur Überprüfung der PDF. Wenn sie in der Einladung auf den Link oder die Schaltfläche **[!UICONTROL Überprüfen]** klicken, wird die PDF in einem Webbrowser geöffnet. Mit den Kommentarwerkzeugen können sie in der PDF Kommentare hinzufügen. Außerdem können sie die Acrobat Reader DC- oder Acrobat DC-Desktop-Applikation verwenden, um Kommentare hinzuzufügen.
+Die Überprüfer erhalten eine E-Mail-Einladung mit einem Link zur Überprüfung der PDF. Wenn sie in der Einladung auf den Link oder die Schaltfläche **[!UICONTROL Überprüfen]** klicken, wird die PDF in einem Webbrowser geöffnet. Mit den Kommentarwerkzeugen können sie in der PDF Kommentare hinzufügen. Alternativ können sie Kommentare im Acrobat Reader- oder Acrobat-Client hinzufügen.
 
 ## Anonymen oder öffentlichen Link in einer E-Mail senden
 

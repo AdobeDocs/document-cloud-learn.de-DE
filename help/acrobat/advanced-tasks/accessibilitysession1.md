@@ -1,25 +1,25 @@
 ---
-title: Einführung in die PDF-Barrierefreiheit
-description: Erfahren Sie, was es bedeutet, eine PDF barrierefrei zu machen, wie Sie Acrobat Pro DC so einrichten, dass PDFs barrierefreier zugänglich sind, und wie Sie den Konvertierungsprozess von einem Quelldokument in ein PDF-Dokument
+title: Einführung in die Barrierefreiheit für PDF
+description: In dieser Session erfahrt ihr, was es bedeutet, eine PDF barrierefrei zu machen, wie ihr Acrobat Pro für die Arbeit mit PDF für Barrierefreiheit einrichtet und wie der Konvertierungsprozess von einem Quelldokument zu einer PDF abläuft.
 role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-8606.jpg
 kt: 8606
 exl-id: 3765673b-15fd-4071-bb31-e589feffa471
-source-git-commit: 2de5b609b3f23bb5796786b6bc413a831c2b78c3
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-# Einführung in die PDF-Barrierefreiheit
+# Einführung in die Barrierefreiheit für PDF
 
-Erfahren Sie, was es bedeutet, eine PDF barrierefrei zu machen, wie Sie Acrobat Pro DC so einrichten, dass PDFs barrierefrei sind, und wie Sie den Konvertierungsprozess von einem Quelldokument in ein PDF-Dokument durchführen.
+In dieser Session erfahrt ihr, was es bedeutet, eine PDF barrierefrei zu machen, wie Acrobat Pro so eingerichtet wird, dass es auf PDF für Barrierefreiheit arbeitet, und wie der Konvertierungsprozess von einem Quelldokument zu einer PDF abläuft.
 
-Klicken Sie [hier](../assets/accessibilitysession1.zip), um einen ZIP-Ordner der Beispielsitzungsdateien herunterzuladen.
+Klicken [hier](../assets/accessibilitysession1.zip) , um einen ZIP-Ordner mit den praktischen Sitzungsdateien herunterzuladen.
 
-Wählen Sie das Bild aus, um das Video in einer separaten Registerkarte des Browsers anzuzeigen.
+Wählen Sie das Bild aus, um das Video in einer separaten Browser-Registerkarte anzuzeigen.
 
-[![Session 1 Video](../assets/Accessibilitysession1_YT.png)](https://www.youtube.com/embed/DaadHIWHgzU){target=&quot;_blank&quot;}
+[![Video zu Session 1](../assets/Accessibilitysession1_YT.png)](https://www.youtube.com/embed/DaadHIWHgzU){target=&quot;_blank&quot;}

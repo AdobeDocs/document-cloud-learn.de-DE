@@ -4,9 +4,9 @@ description: Adobe Acrobat Skill Builder sind eine 30-minütige Session, die eur
 product: adobe acrobat
 level: Intermediate
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 90a87ef20bd46d3439c93a2876c6026576bb2e55
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '512'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Adobe Acrobat Skill Builder sind 30-minütige Sessions, die deine PDF-Workflows 
 Datum: 25. August 2022 Erhalten Sie alle Informationen, die Sie zum Schutz Ihrer PDF-Inhalte benötigen. In dieser Session werden Techniken zum Hinzufügen von Kennwörtern vorgestellt, die das Anzeigen, Bearbeiten oder Drucken von PDF verhindern. Außerdem wird erläutert, wie vertrauliche Informationen - auch aus nicht sichtbaren Metadaten - dauerhaft entfernt werden.
 
 * **[Einfache Automatisierung mit Action Wizard](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/45ef14f7-e5e4-4fe0-ba26-905adac092a2/24bf421e-f489-47dc-a5a4-d8d70858348c){target=&quot;_blank&quot;}**
-Datum: 28. Juli 2022 Wiederholt keine einfachen manuellen Aufgaben mehr! In dieser Session erfährst du, wie du Action Wizard in Acrobat DC einsetzt, um PDF-Dateien im Stapel zu verarbeiten und serielle, sich wiederholende Aufgaben automatisch auszuführen.
+Datum: 28. Juli 2022 Wiederholt keine einfachen manuellen Aufgaben mehr! In dieser Session erfährst du, wie du Action Wizard in Acrobat einsetzt, um PDF-Dateien im Stapel zu verarbeiten und serielle, sich wiederholende Aufgaben automatisch auszuführen.
 
 * **[Lesbarkeit für alle: Erstellen barrierefreier PDF](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/18c111bd-9c63-4636-a4fd-8dc045a20423/8484f6c9-e2c9-4e1c-8d03-c2ca1d4db77c){target=&quot;_blank&quot;}**
 Datum: 23. Juni 2022. Mit neuen Barrierefreiheitsfunktionen für PDF können alle Leser auf die Inhalte zugreifen. In dieser Session erfahrt ihr, wie ihr mit Acrobat konforme, barrierefreie PDF erstellen könnt.

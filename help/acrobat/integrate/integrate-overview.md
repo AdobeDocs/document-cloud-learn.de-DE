@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '280'
 ht-degree: 1%
 
 ---
@@ -122,7 +122,7 @@ Erfahren Sie, wie Sie in kürzerer Zeit mehr erledigen können - mit den wichtig
 
 ## Box
 
-Erfahren Sie, wie Acrobat DC und [Box](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;} erleichtert allen Mitarbeitern in eurer Organisation die Arbeit.
+Erfahren Sie, wie Acrobat und [Box](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;} erleichtert allen Mitarbeitern in eurer Organisation die Arbeit.
 
 ## Dropbox
 
