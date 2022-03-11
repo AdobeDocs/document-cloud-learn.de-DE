@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: bb9dd666e77c36a1d16ec747a1182f71e388efa3
+source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 0%
@@ -62,10 +62,6 @@ Versuchen Sie, die Zusammenfassung mit einem Aktionsverb wie Lernen, Entdecken, 
 
 ## 3. Markieren Sie Ihren PDF
 
->[!NOTE]
->
->Nur in Acrobat Pro verfügbar.
-
 Wenn Sie Inhalte auf Ihrem PDF mit Tags versehen, wird nicht nur die Datei [Barrierefrei](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) für Menschen mit Behinderungen - sie verbessert auch die SEO.
 
 +++Anzeigen von Details zum Markieren eines PDF
@@ -81,6 +77,10 @@ Taggen Sie eine PDF wie folgt:
    ![Screenshot des Einstellens von Alternativtext in PDF](../assets/optimizeseo3.png)
 
 +++
+
+>[!NOTE]
+>
+>Nur in Acrobat Pro verfügbar.
 
 <br> 
 
