@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Adobe Sign Tutorials
-source-git-commit: afd1dbcf2c4b1c3ceb5509f646ad744f719946bc
+source-git-commit: ff57490a32735815d354ba7b620ec226c9998d15
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 6%
@@ -59,7 +59,7 @@ ht-degree: 6%
       + [Erstellen eines Berichts](admin/create-a-report.md)
       + [Einrichten eines Webformulars](sign-advanced-users/webform.md)
       + [Sammeln von Signaturen](sign-advanced-users/megasign.md)
-      + [Einrichten eines Workflows](admin/building-a-custom-workflow.md)
+      + [Erstellen eines benutzerdefinierten Workflows](admin/building-a-custom-workflow.md)
    + Erweiterte Aufgaben {#advanced-tasks-admins}
       + [Globale Einstellungen](admin/learn-about-global-settings.md)
       + [Kontozugriff freigeben](admin/share-account-access.md)
@@ -126,5 +126,5 @@ ht-degree: 6%
    + [Übersicht](deploy-overview.md)
 + Mobil {#mobile}
    + [Übersicht](mobile/mobile-overview.md)
-   + Tutorials für Mobilgeräte {#mobile-tutorials}
+   + Tutorials zu Mobile {#mobile-tutorials}
       + [Liquid Mode in Adobe Sign](mobile/liquidmode.md)
