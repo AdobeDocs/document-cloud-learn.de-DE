@@ -1,5 +1,5 @@
 ---
-title: Integrationsübersicht
+title: Sign-Integrationen - Übersicht
 description: Adobe Sign zu Ihren vorhandenen Systemen, Prozessen und Anwendungen hinzufügen
 role: User
 product: adobe sign
@@ -7,14 +7,14 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 3717f0805eec8d413fe55c1f0cc2bac24199abc0
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
 
-# Integrationen - Übersicht
+# Integrations overview
 
 ![Sign - Bild integrieren](../assets/Hero-Integrate.png)
 
@@ -29,10 +29,10 @@ Sie können Adobe Sign in anderen Anwendungen verwenden, die Ihre Organisation b
 <tr>
   <td>
     <a href="fill-and-sign-doc-microsoft-outlook.md">
-      <img alt="Ausfüllen und Signieren in Microsoft Outlook" src="../assets/MS-FillSign.png" />
+      <img alt="Filling and signing in Microsoft Outlook" src="../assets/MS-FillSign.png" />
     </a>
     <div>
-    <a href="fill-and-sign-doc-microsoft-outlook.md"><strong>Ausfüllen und Signieren in Microsoft Outlook</strong></a>
+    <a href="fill-and-sign-doc-microsoft-outlook.md"><strong>Filling and signing in Microsoft Outlook</strong></a>
     </div>
     <em>Ein Formular direkt in Microsoft Outlook ausfüllen und unterschreiben</em>
     <br>
@@ -113,7 +113,7 @@ Sie können Adobe Sign in anderen Anwendungen verwenden, die Ihre Organisation b
     <div>
     <a href="set-up-data-mapping.md"><strong>Einrichten von Datenzuordnungen</strong></a>
     </div>
-    <em>Abrufen von Daten in Salesforce nach Unterzeichnung einer Vereinbarung</em>
+    <em>Pull data back into Salesforce after an agreement has been signed</em>
     <br>
   </td>
   <td>
@@ -162,7 +162,7 @@ Sie können Adobe Sign in anderen Anwendungen verwenden, die Ihre Organisation b
     <div>
     <a href="workday.md"><strong>Konfigurieren von Adobe Sign mit Workday</strong></a>
     </div>
-    <em>Hier erfahren Sie, wie Sie Adobe Sign so konfigurieren, dass es direkt in Workday funktioniert, um all Ihre Personalunterlagen nahtlos zu verwalten.</em>
+    <em>Learn how to configure Adobe Sign to work directly within Workday to seamlessly manage all your HR paperwork</em>
     <br>
   </td>
   <td>
@@ -178,13 +178,13 @@ Sie können Adobe Sign in anderen Anwendungen verwenden, die Ihre Organisation b
 </tr>
 </table>
 
-## Tutorials zur Marketo-Integration und Konfigurationsleitfäden
+## Marketo integration tutorials &amp; configuration guides
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="marketo-salesforce-sms.md">
-      <img alt="Senden von Benachrichtigungen mit Adobe Sign für Salesforce und Marketo" src="../assets/Integrate-Salesforce-SMS.jpg" />
+      <img alt="Send notifications using Adobe Sign for Salesforce and Marketo" src="../assets/Integrate-Salesforce-SMS.jpg" />
     </a>
     <div>
     <a href="marketo-salesforce-sms.md"><strong>Senden von Benachrichtigungen mit Adobe Sign für Salesforce und Marketo</strong></a>
@@ -207,7 +207,7 @@ Sie können Adobe Sign in anderen Anwendungen verwenden, die Ihre Organisation b
       <img alt="Erinnerungen mithilfe des Konfigurationsleitfadens für Adobe Sign für Salesforce und Marketo senden" src="../assets/Integrate-Salesforce-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Erinnerungen mithilfe des Konfigurationsleitfadens für Adobe Sign für Salesforce und Marketo senden</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Send reminders using Adobe Sign for Salesforce and Marketo configuration guide</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie eine E-Mail-Erinnerung von Marketo senden, wenn ein Vertrag nach einem bestimmten Zeitraum nicht signiert wird.</em>
     <br>
@@ -221,7 +221,7 @@ Sie können Adobe Sign in anderen Anwendungen verwenden, die Ihre Organisation b
     <div>
     <a href="marketo-dynamics-reminder.md"><strong>Mit Adobe Sign für Microsoft Dynamics und Marketo Erinnerungen versenden</strong></a>
     </div>
-    <em>Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung senden, wenn eine Vereinbarung nach einer bestimmten Zeit nicht signiert wird.</em>
+    <em>Learn how to send an email reminder when an agreement remains unsigned after a period of time</em>
     <br>
   </td>
   <td>
@@ -229,9 +229,9 @@ Sie können Adobe Sign in anderen Anwendungen verwenden, die Ihre Organisation b
       <img alt="Senden von Benachrichtigungen mit Adobe Sign für Microsoft Dynamics und Marketo" src="../assets/Integrate-Dynamics-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-sms.md"><strong>Senden von Benachrichtigungen mit Adobe Sign für Microsoft Dynamics und Marketo</strong></a>
+    <a href="marketo-dynamics-sms.md"><strong>Send notifications using Adobe Sign for Microsoft Dynamics and Marketo</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie eine Textnachricht, eine E-Mail oder eine Push-Benachrichtigung senden, damit der Unterzeichner weiß, dass eine Vereinbarung in Bearbeitung ist.</em>
+    <em>Learn how to send a text message, email, or push notification to let the signer know an agreement is on its way</em>
     <br>
   </td>
   <td>

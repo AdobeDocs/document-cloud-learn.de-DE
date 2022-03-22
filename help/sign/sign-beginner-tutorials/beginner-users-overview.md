@@ -1,23 +1,23 @@
 ---
-title: Überblick über die ersten Schritte
-description: In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Dokumente senden, signieren und verfolgen.
+title: Erste Schritte mit Acrobat Sign.
+description: Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versendest, unterschreibst und nachverfolgst
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---
 
-# Überblick über die ersten Schritte
+# Übersicht über die ersten Schritte
 
-![Bild für Erste Schritte unterschreiben](../assets/Hero-GettingStarted.png)
+![Bild zu den ersten Schritten in Sign](../assets/Hero-GettingStarted.png)
 
-In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Dokumente senden, signieren und verfolgen. Machen Sie sich einen kurzen Überblick über Adobe Sign und senden Sie ein Dokument an eine oder mehrere Personen. Diese Inhalte sollen Ihnen den Einstieg in e-Signatur-Workflows erleichtern.
+Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versendest, unterschreibst und nachverfolgst. Verschaffen Sie sich einen Überblick über Adobe Sign, und versenden Sie das Dokument an eine oder mehrere Personen. Dieser Inhalt soll Ihnen den Einstieg in E-Signatur-Workflows erleichtern.
 
 ## Senden
 
@@ -25,12 +25,12 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Dokumente 
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Überblick über Adobe Sign" src="../assets/Quick-Tour.png" />
+      <img alt="Kurze Einführung in Adobe Sign" src="../assets/Quick-Tour.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Überblick über Adobe Sign</strong></a>
+    <a href="quick-tour.md"><strong>Kurze Einführung in Adobe Sign</strong></a>
     </div>
-    <em>Schneller Einstieg in die Adobe Sign-Benutzeroberfläche</em>
+    <em>Sehen Sie sich kurz die Benutzeroberfläche von Adobe Sign an, um sofort loszulegen</em>
     <br>
   </td>
   <td>
@@ -40,7 +40,7 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Dokumente 
     <div>
     <a href="send-to-single-recipient.md"><strong>Senden an einen einzelnen Empfänger</strong></a>
     </div>
-    <em>Einspringen und erfahren Sie, wie einfach es ist, ein Dokument zum Unterschreiben zu senden</em>
+    <em>Erfahre, wie einfach du Dokumente zur Unterzeichnung versenden kannst.</em>
     <br>
   </td>
   <td>
@@ -50,7 +50,7 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Dokumente 
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Senden an mehrere Empfänger</strong></a>
     </div>
-    <em>Dokument zur elektronischen Signatur an mehr als eine Person in der gewünschten Reihenfolge senden</em>
+    <em>Dokumente an mehrere Empfänger in der gewünschten Reihenfolge senden</em>
     <br>
   </td>
 </tr>
@@ -66,12 +66,12 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Dokumente 
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/Grayspacer.png" />
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/Grayspacer.png" />
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
@@ -84,32 +84,32 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Dokumente 
 <tr>
   <td>
     <a href="electronically-sign-a-document.md">
-      <img alt="Elektronisches Signieren eines Dokuments" src="../assets/Electronically-sign.png" />
+      <img alt="Dokumente elektronisch unterschreiben" src="../assets/Electronically-sign.png" />
     </a>
     <div>
-    <a href="electronically-sign-a-document.md"><strong>Elektronisches Signieren eines Dokuments</strong></a>
+    <a href="electronically-sign-a-document.md"><strong>Dokumente elektronisch unterschreiben</strong></a>
     </div>
-    <em>Erfahren Sie, wie einfach es ist, ein Dokument zu signieren, das Ihnen mit Adobe Sign gesendet wurde</em>
+    <em>Erfahren Sie, wie einfach es ist, ein Dokument zu unterschreiben, das Ihnen mit Adobe Sign gesendet wurde</em>
     <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="Ausfüllen und Unterschreiben eines Dokuments" src="../assets/FillandSign.png" />
+      <img alt="Ein Dokument ausfüllen und unterschreiben" src="../assets/FillandSign.png" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>Ausfüllen und Unterschreiben eines Dokuments</strong></a>
+    <a href="fill-and-sign.md"><strong>Ein Dokument ausfüllen und unterschreiben</strong></a>
     </div>
-    <em>Formulare ausfüllen und elektronische Signatur zu Dokumenten hinzufügen</em>
+    <em>Formulare ausfüllen und Dokumente mit deiner elektronischen Signatur versehen</em>
     <br>
   </td>
   <td>
     <a href="sign-in-person.md">
-      <img alt="Persönlich unterschreiben lassen" src="../assets/In-person.png" />
+      <img alt="Persönliche Signaturen erhalten" src="../assets/In-person.png" />
     </a>
     <div>
-    <a href="sign-in-person.md"><strong>Persönlich unterschreiben lassen</strong></a>
+    <a href="sign-in-person.md"><strong>Persönliche Signaturen erhalten</strong></a>
     </div>
-    <em>Persönliche Unterschrift eines anderen Person mithilfe der Adobe Sign-App für Mobilgeräte abholen</em>
+    <em>Unterschrift einer anderen Person über die mobile Adobe Sign-App einholen</em>
     <br>
   </td>
 </tr>
@@ -121,21 +121,21 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Dokumente 
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>Was ist eine digitale Signatur?</strong></a>
     </div>
-    <em>Informationen zu zertifikatbasierten digitalen Signaturen</em>
+    <em>Weitere Informationen zu zertifikatbasierten digitalen Signaturen</em>
     <br>
   </td>
   <td>
     <a href="sign-with-a-stamp.md">
-      <img alt="Unterschreiben mit einem Stempel" src="../assets/Stamp.png" />
+      <img alt="Signieren mit einem Stempel" src="../assets/Stamp.png" />
     </a>
     <div>
-    <a href="sign-with-a-stamp.md"><strong>Unterschreiben mit einem Stempel</strong></a>
+    <a href="sign-with-a-stamp.md"><strong>Signieren mit einem Stempel</strong></a>
     </div>
-    <em>Markieren eines genehmigten oder abgeschlossenen Dokuments mithilfe von Stempeln</em>
+    <em>Dokumente mit Stempeln als genehmigt oder abgeschlossen markieren</em>
      <br>
   </td> 
   <td>
-    <img alt="Abstand" src="../assets/Grayspacer.png" />
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
@@ -153,28 +153,28 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Dokumente 
     <div>
     <a href="manage-and-track.md"><strong>Vereinbarungen verwalten und verfolgen</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie zum Unterschreiben gesendete Vereinbarungen verwalten und verfolgen</em>
+    <em>Zum Unterschreiben gesendete Vereinbarungen verwalten und verfolgen</em>
     <br>
   </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="Erstellen einer Dokumentvorlage" src="../assets/Template.png" />
+      <img alt="Erstellen von Dokumentvorlagen" src="../assets/Template.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>Erstellen einer Dokumentvorlage</strong></a>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>Erstellen von Dokumentvorlagen</strong></a>
     </div>
-    <em>Wiederverwendbare Dokumentvorlage erstellen, um Schnelligkeit und Konsistenz für Ihr Unternehmen zu gewährleisten</em>
+    <em>Wiederverwendbare Dokumentvorlagen erstellen, um Ihrem Unternehmen Geschwindigkeit und Konsistenz zu verleihen</em>
     <br>
   </td>
   <td>
     <a href="modify-in-flight.md">
-      <img alt="Ändern eines Dokuments, das bereits zum Unterschreiben gesendet wurde" src="../assets/Modifying-sending.png" />
+      <img alt="Ändern eines bereits zum Unterschreiben gesendeten Dokuments" src="../assets/Modifying-sending.png" />
     </a>
     <div>
-    <a href="modify-in-flight.md"><strong>Ändern eines Dokuments, das bereits zum Unterschreiben gesendet wurde</strong></a>
+    <a href="modify-in-flight.md"><strong>Ändern eines bereits zum Unterschreiben gesendeten Dokuments</strong></a>
     </div>
     <br>
-    <em>Arbeitsablauf für ein Dokument ändern, das bereits läuft</em>
+    <em>Arbeitsablauf für ein Dokument ändern, das bereits ausgeführt wird</em>
   </td>
 </tr>
 </table>
