@@ -1,25 +1,25 @@
 ---
-title: Politische Vereinbarungen
-description: Einfaches Sammeln von Signaturen aller Ihrer Mitarbeiter für Richtlinienvereinbarungen, Aktualisierungen und mehr
+title: Vereinbarungen über Handelspolitik
+description: Hole Unterschriften aller Mitarbeiter ein, die mit Richtlinienvereinbarungen, Aktualisierungen und anderen Aspekten befasst sind.
 role: User
 product: adobe sign
 solution: Document Cloud
 level: Intermediate
 thumbnail: 33979.jpg
 exl-id: caba5740-6111-4cc4-a63f-5eec2d742578
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# Politische Vereinbarungen
+# Handelspolitische Vereinbarungen
 
-Sammeln Sie effizient Signaturen von all Ihren Mitarbeitern zu Richtlinienvereinbarungen, Richtlinienaktualisierungen und mehr. Erfahren Sie, wie Sie ein Online-Webformular erstellen, das ohne Drucken oder Versenden eines Formulars ausgefüllt und unterschrieben werden kann.****
+Hole Unterschriften aller Mitarbeiter effizient ein, z. B. für Richtlinienvereinbarungen oder Richtlinienaktualisierungen. Erfahren Sie, wie Sie ein Online-Webformular erstellen, das ausgefüllt werden kann **und** signiert, ohne etwas zu drucken oder zu versenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33979?hidetitle=true)
 
-Klicken Sie auf diese Option, um das PDF-Rezept für Richtlinienvereinbarungen herunterzuladen.
+Klicken Sie hier, um das schrittweise PDF-Rezept für Richtlinienvereinbarungen herunterzuladen.
 
-[![PDF herunterladen](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)
+[![PDF-Rezept herunterladen](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_web_form_use_case.pdf)

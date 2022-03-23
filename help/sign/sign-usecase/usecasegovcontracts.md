@@ -1,26 +1,25 @@
 ---
-title: Öffentliche Aufträge und Auflagen Forms
-description: Schnelles Ersetzen der Papierverarbeitung durch konforme digitale Arbeitsabläufe, einschließlich Prüfberichte
+title: Forms für Verträge und Anforderungen in Regierungseinrichtungen
+description: Ersetzen Sie die Papierverarbeitung schnell durch standardkonforme digitale Workflows mit Prüfberichten
 role: User
 product: adobe sign
 solution: Document Cloud
 level: Intermediate
 thumbnail: 33811.jpg
 exl-id: 8d882a5d-01b8-4cd4-b55f-2ef1e537dec5
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
-# Öffentliche Aufträge und Formblätter
+# Öffentliche Aufträge und Bestellanforderungsformulare
 
-Ersetzen Sie die Papierverarbeitung schnell durch konforme digitale Arbeitsabläufe, komplett mit Audit-Berichten. Erfahren Sie, wie Sie mit dem Workflow Designer-Tool von Adobe Sign
-den gesamten Prozess zu straffen.
+Ersetzen Sie die Papierverarbeitung schnell durch standardkonforme digitale Workflows inklusive Auditberichten. Erfahre, wie du mit dem Workflow Designer-Tool von Adobe Sign den gesamten Prozess effizienter gestalten kannst.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33811?hidetitle=true)
 
-Klicken Sie auf diese Option, um das PDF-Rezept für Verträge und Anforderungsformulare herunterzuladen.
+Hier können Sie das schrittweise PDF von Verträgen und Anfrageformularen herunterladen.
 
-[![PDF herunterladen](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingWorkflowDesigner.pdf)
+[![PDF-Rezept herunterladen](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingWorkflowDesigner.pdf)

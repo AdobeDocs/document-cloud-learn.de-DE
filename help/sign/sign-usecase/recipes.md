@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
+source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -110,12 +110,17 @@ Beschleunigt die digitalen Workflows in eurem Unternehmen mit diesen Beispielen 
     <div>
     <a href="usecasecompolicy.md"><strong>Richtlinienvereinbarungen</strong></a>
     </div>
-    <em>Hole Unterschriften aller Mitarbeiter ein, die du für Dokumente zur Telearbeit oder Richtlinien benötigst.</em>
+    <em>Unterschriften aller Mitarbeiter effizient einholen, wenn Richtlinienvereinbarungen und Aktualisierungen umgesetzt werden</em>
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <a href="usecasecomtelework.md">
+      <img alt="Telearbeit" src="../assets/UC_MegasignR.png" />
+    </a>
     <div>
+    <a href="usecasecomtelework.md"><strong>Telearbeit</strong></a>
+    </div>
+    <em>Alle Mitarbeiter über Telearbeit informieren und Unterschriften einholen</em>
     <br>
   </td>
 </tr>
