@@ -1,13 +1,13 @@
 ---
 title: Senden an einen einzelnen Empfänger
-description: Hier erfahren Sie, wie einfach Sie ein Dokument zum Unterschreiben versenden
+description: Erfahre, wie einfach es ist, ein Dokument zur Unterzeichnung zu versenden.
 role: User
 product: adobe sign
 solution: Document Cloud
 level: Beginner
-thumbnail: 33659.jpg
+thumbnail: 341295.jpg
 exl-id: 39f698dc-9118-48c6-9eed-aacbaf500939
-source-git-commit: 30c606ec458931ac352cd99e7aec5b38074db262
+source-git-commit: 778f5d16056da5ef77490d8f00385bdff2ac73e7
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Senden an einen einzelnen Empfänger
 
-Der am häufigsten verwendete Arbeitsablauf in Adobe Sign: Senden eines Dokuments zum Unterschreiben. In diesem Tutorial lernen Sie, wie Sie ein Dokument hochladen, Formularfelder hinzufügen und zur Signatur an eine andere Person senden.
+Der gängigste Workflow in Adobe Sign: Dokumente zum Unterschreiben senden. In diesem Tutorial lernen Sie, wie Sie ein Dokument hochladen, Formularfelder hinzufügen und das Dokument zur Unterzeichnung versenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/33659?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/341295?hidetitle=true)
 
 >[!TIP]
 >
->Dieses Video ist Teil des Kurses [Erste Schritte mit Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1), der kostenlos auf der Experience League verfügbar ist!
+>Dieses Video ist Teil des Kurses [Erste Schritte mit Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) das auf Experience League kostenlos erhältlich ist!
