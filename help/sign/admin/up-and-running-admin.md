@@ -1,24 +1,24 @@
 ---
-title: Ausführen für Adobe Sign-Administratoren
-description: Überblick über sieben Schlüsselbereiche für Administratoren, die in Adobe Sign schnell loslegen können
+title: Einstieg in Adobe Sign-Administratoren
+description: Übersicht über die sieben wichtigsten Bereiche, in denen Administratoren schnell mit Adobe Sign arbeiten können
 role: Admin
 product: adobe sign
 level: Intermediate
 thumbnail: 33657.jpg
 exl-id: 1e8603ee-fe16-4842-bf0b-1190b5a69d3b
-source-git-commit: 30c606ec458931ac352cd99e7aec5b38074db262
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
-# Ausführen für Adobe Sign-Administratoren
+# Einstieg in Adobe Sign-Administratoren
 
-In diesem Tutorial lernen Sie die sieben Schlüsselbereiche kennen, auf die Administratoren sich konzentrieren sollten, um schnell in Adobe Sign zu arbeiten.
+Lernen Sie die sieben Schlüsselbereiche kennen, auf die sich Administratoren konzentrieren sollten, um schnell in Adobe Sign loszulegen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33657?hidetitle=true)
 
 >[!TIP]
 >
->Dieses Video ist Teil des Kurses [Erste Schritte mit Adobe Sign für Administratoren](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2), der kostenlos auf der Experience League verfügbar ist!
+>Dieses Video ist Teil des Kurses [Erste Schritte mit Adobe Sign für Administratoren](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) das auf Experience League kostenlos erhältlich ist!

@@ -1,20 +1,20 @@
 ---
-title: Einrichten von freigegebenen Ereignissen und Benachrichtigungen
-description: Erfahren Sie mehr über freigegebene Ereignisse und Alarmeinstellungen in Adobe Sign
+title: Einrichten von freigegebenen Events und Benachrichtigungen
+description: Informationen zu freigegebenen Events und Warnungseinstellungen in Adobe Sign
 role: User, Admin
 product: adobe sign
 level: Intermediate
 thumbnail: 17359.jpg
 exl-id: 7f8271cc-fe90-4929-964c-d78681fd0dcb
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
-# Einrichten von freigegebenen Ereignissen und Benachrichtigungen
+# Einrichten von freigegebenen Events und Benachrichtigungen
 
-In diesem Video-Tutorial lernen Sie die freigegebenen Ereignisse und Warneinstellungen kennen, die Sie in Adobe Sign konfigurieren können. Benachrichtigungen sind Aktionen, die in einem bestimmten Zeitraum nicht stattgefunden haben, und Events sind Aktionen, die stattgefunden haben.
+Erfahren Sie mehr über freigegebene Ereignisse und Warnmeldungseinstellungen, die Sie in Adobe Sign konfigurieren können. Benachrichtigungen sind Aktionen, die in einem bestimmten Zeitraum nicht stattgefunden haben, und Ereignisse sind Aktionen, die stattgefunden haben.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17359?hidetitle=true)
