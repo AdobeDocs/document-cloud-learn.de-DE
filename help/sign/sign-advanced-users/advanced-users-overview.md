@@ -3,11 +3,11 @@ title: Übersicht über die erweiterten Aufgaben für Sign
 description: Erfahren Sie, wie Sie ein Dokument zur Signatur an Hunderte von Empfängern gleichzeitig senden, ein signaturfähiges Dokument für Ihre Website einrichten, Signaturtransaktionen verwalten und Dokumentvorlagen erstellen und verwalten.
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%

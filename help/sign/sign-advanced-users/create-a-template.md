@@ -1,25 +1,25 @@
 ---
 title: Erstellen einer Dokumentvorlage
-description: Wiederverwendbare Dokumentvorlage erstellen, um Schnelligkeit und Konsistenz zu gewährleisten
+description: Wiederverwendbare Dokumentvorlage erstellen, um Geschwindigkeit und Konsistenz sicherzustellen
 role: User, Admin
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 38037.jpg
 exl-id: 4d36509a-e7a7-4a5a-bcf8-ef82099f24a4,1930bc23-bfba-4113-b19a-76634667bda3
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# Erstellen einer Dokumentvorlage
+# Erstellen von Dokumentvorlagen
 
-Erfahren Sie, wie Sie eine wiederverwendbare Dokumentvorlage erstellen und zur Adobe Sign Library hinzufügen, um sie später verwenden zu können. Dokumentvorlagen bieten Geschwindigkeit und Konsistenz bei Ihren Signaturtransaktionen und die Möglichkeit, Dokumentrevisionen und -änderungen zu verwalten.
+Erfahre, wie du eine wiederverwendbare Dokumentvorlage erstellst und sie in deine Adobe Sign-Bibliothek einfügst. Dokumentvorlagen bieten Geschwindigkeit und Konsistenz bei Ihren Sign-Transaktionen und ermöglichen die Verwaltung von Dokumentänderungen und -änderungen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/38037?hidetitle=true)
 
 >[!TIP]
 >
->Dieses Video ist Teil des Kurses [Erste Schritte mit Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1), der kostenlos auf der Experience League verfügbar ist!
+>Dieses Video ist Teil des Kurses [Erste Schritte mit Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) das auf Experience League kostenlos erhältlich ist!

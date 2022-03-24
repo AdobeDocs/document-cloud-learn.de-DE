@@ -1,26 +1,26 @@
 ---
-title: Dokumente zum Unterschreiben senden in [!DNL Microsoft Teams]
-description: Mit der Adobe Sign & [!DNL Microsoft Teams] Integration können Sie Vereinbarungen zum Unterschreiben senden oder den Status vorhandener Vereinbarungen überprüfen - alles innerhalb von [!DNL Microsoft Teams]
+title: Senden von Dokumenten zum Unterschreiben in [!DNL Microsoft Teams]
+description: Adobe Sign und [!DNL Microsoft Teams] könnt ihr Vereinbarungen zur Unterzeichnung versenden oder den Status vorhandener Vereinbarungen innerhalb von [!DNL Microsoft Teams]
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: 40125.jpg
 exl-id: dc6b8cc8-6d9d-46a0-add2-dc5ada06fbaf
-source-git-commit: 9521930d29ca7e73e9658029733c5fe2c267d7ba
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-# Dokumente zum Unterschreiben senden in [!DNL Microsoft Teams]
+# Senden von Dokumenten zum Unterschreiben in [!DNL Microsoft Teams]
 
-Mit der Integration Adobe Sign &amp; [!DNL Microsoft Teams] können Sie Vereinbarungen zum Unterschreiben senden oder den Status vorhandener Vereinbarungen überprüfen, und zwar alles innerhalb von [!DNL Microsoft Teams]. Dieses Beispiel führt durch einen Hypothekenmakler, der direkt in Teams einen Kreditantrag aussendet. Diese enge Integration beschleunigt den Hypothekendarlehensvorgang - selbst wenn man mit Hypothekenantragstellern in einem Remote-Arbeitsumfeld arbeitet.
+Adobe Sign und [!DNL Microsoft Teams] könnt ihr Vereinbarungen zur Unterzeichnung versenden oder den Status vorhandener Vereinbarungen innerhalb von [!DNL Microsoft Teams]. Dieses Beispiel zeigt, wie ein Hypothekenmakler einen Kreditantrag direkt in Teams versendet. Diese enge Integration beschleunigt den Hypothekarkreditprozess - auch bei der Arbeit mit Hypothekenantragstellern in einer Remote-Arbeitsumgebung.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40125?hidetitle=true)
 
 >[!TIP]
 >
->Dieses Video ist Teil des Kurses [Verwenden von Adobe Sign Inside Microsoft Apps](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2), der kostenlos auf der Experience League verfügbar ist!
+>Dieses Video ist Teil des Kurses [Verwenden von Adobe Sign in Microsoft-Applikationen](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) das auf Experience League kostenlos erhältlich ist!

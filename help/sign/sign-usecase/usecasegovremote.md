@@ -1,25 +1,25 @@
 ---
-title: Anforderung eines Remote-Haftbefehls
-description: Durch die gemeinsame Nutzung elektronischer Signaturen und Webkonferenzen können Sie die Zeit verkürzen, die zum Anfordern und Sichern von Haftbefehlen von Richtern benötigt wird
+title: Remote-Warrant-Anfrage
+description: Verwendet elektronische Unterschriften und Web-Konferenzen zusammen, um die Beantragung und Sicherung von Haftbefehlen durch Richter zu beschleunigen
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33813.jpg
 exl-id: d7a8322b-f7fd-454d-a74b-c5ff1c9839a8
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# Anforderung eines Remote-Haftbefehls
+# Remote-Warrant-Anfrage
 
-Nutzen Sie elektronische Signaturen und Webkonferenzen zusammen, um die Zeit zu verkürzen, die zum Anfordern und Sichern von Haftbefehlen von Richtern benötigt wird.
+Nutzt elektronische Unterschriften und Web-Konferenzen zusammen, um die Beantragung von Haftbefehlen durch Richter zu beschleunigen und zu sichern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33813?hidetitle=true)
 
-Klicken Sie auf diese Option, um das PDF-Rezept für eine Anforderung eines Remote-Haftbefehls herunterzuladen.
+Klicken Sie hier, um Schritt-für-Schritt-PDF-Rezepte für die Anforderung einer Remote-Garantie herunterzuladen.
 
-[![PDF herunterladen](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-Remote-Warrant-Request.pdf)
+[![PDF-Rezept herunterladen](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-Remote-Warrant-Request.pdf)

@@ -1,13 +1,13 @@
 ---
-title: Verwalten von Dokumentvorlagen
-description: Vorlagen in Ihrer Bibliothek bearbeiten oder löschen
+title: Dokumentvorlagen verwalten
+description: Vorlage in der Bibliothek bearbeiten oder löschen
 role: User, Admin
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17346.jpg
 exl-id: 2489676e-5dd4-458e-99b6-14c671ed336d
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
@@ -22,4 +22,4 @@ Erfahren Sie, wie Sie eine Vorlage in Ihrer Bibliothek bearbeiten oder löschen.
 
 >[!TIP]
 >
->Dieses Video ist Teil des Kurses [Advanced Tasks for Users](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3), der kostenlos auf der Experience League verfügbar ist!
+>Dieses Video ist Teil des Kurses [Erweiterte Aufgaben für Benutzer](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) das auf Experience League kostenlos erhältlich ist!
