@@ -1,154 +1,154 @@
 ---
-title: Benachrichtigungen mit Adobe Sign für Salesforce und Marketo senden
-description: Erfahren Sie, wie Sie eine Textnachricht, E-Mail oder Push-Benachrichtigung senden, um dem Unterzeichner mitzuteilen, dass eine Vereinbarung auf dem Weg ist
+title: Senden von Benachrichtigungen mit Adobe Sign für Salesforce und Marketo
+description: Erfahren Sie, wie Sie eine Textnachricht, eine E-Mail oder eine Push-Benachrichtigung senden, damit der Unterzeichner weiß, dass eine Vereinbarung in Bearbeitung ist.
 role: Admin
 product: adobe sign
-solution: Adobe Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: bc79bbde966c99bdf32231ff073b49cfc759d928
+source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 1%
 
 ---
 
-# Benachrichtigungen mit Adobe Sign für Salesforce und Marketo senden
+# Senden von Benachrichtigungen mit Adobe Sign für Salesforce und Marketo
 
-Erfahren Sie, wie Sie eine Textnachricht, E-Mail-Benachrichtigung oder Push-Benachrichtigung senden, um den Unterzeichner darüber zu informieren, dass ein Vertrag gerade mit Adobe Sign, Adobe Sign für Salesforce, Marketo und der Marketo Salesforce-Synchronisierung läuft. Um Benachrichtigungen von Marketo zu senden, müssen Sie zunächst eine Marketo SMS-Verwaltungsfunktion erwerben oder konfigurieren. Für diese exemplarische Vorgehensweise wird [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/) verwendet, es sind jedoch weitere Marketo SMS-Lösungen verfügbar.
+Erfahren Sie, wie Sie eine Textnachricht, eine E-Mail oder eine Push-Benachrichtigung senden, um den Unterzeichnern mitzuteilen, dass eine Vereinbarung in Bearbeitung ist, indem Sie Adobe Sign, Adobe Sign für Salesforce, Marketo und Marketo Salesforce Sync verwenden. Um Benachrichtigungen von Marketo zu senden, müssen Sie zunächst eine Marketo-SMS-Verwaltungsfunktion erwerben oder konfigurieren. In dieser exemplarischen Vorgehensweise werden [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), aber es sind auch andere Marketo SMS-Lösungen verfügbar.
 
 ## Voraussetzungen
 
-1. Installieren Sie die Marketo Salesforce-Synchronisation.
+1. Installieren Sie Marketo Salesforce Sync.
 
-   Informationen und das neueste Plugin für die Salesforce-Synchronisation finden Sie hier.[Hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+   Informationen und das neueste Plug-in für Salesforce Sync sind verfügbar [hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
 1. Installieren Sie Adobe Sign für Salesforce.
 
-   Informationen zu diesem Plug-in finden Sie hier.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)[
+   Informationen zu diesem Plug-in sind verfügbar [hier.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 ## Benutzerdefiniertes Objekt suchen
 
-Sobald die Marketo Salesforce-Synchronisierung und die Adobe Sign für Salesforce-Konfigurationen abgeschlossen sind, werden im Marketo Admin Terminal mehrere neue Optionen angezeigt.
+Sobald die Marketo Salesforce-Synchronisationskonfiguration und die Konfiguration von Adobe Sign für Salesforce abgeschlossen sind, werden im Marketo Admin-Terminal mehrere neue Optionen angezeigt.
 
 ![Admin](assets/adminTab.png)
 
-![Objektsynchronisierung](assets/salesforceAdmin.png)
+![Objektsynchronisation](assets/salesforceAdmin.png)
 
-1. Klicken Sie auf **Schema synchronisieren**, wenn dies Ihr erstes Mal ist. Andernfalls klicken Sie auf **Schema aktualisieren**.
+1. Klicken **Schema synchronisieren** wenn dies Ihr erstes Mal ist. Klicken Sie andernfalls auf **Schema aktualisieren**.
 
    ![Aktualisieren](assets/refreshSchema1.png)
 
-1. Wenn die globale Synchronisierung ausgeführt wird, deaktivieren Sie sie, indem Sie auf **Globale Synchronisierung deaktivieren** klicken.
+1. Wenn die globale Synchronisation ausgeführt wird, deaktivieren Sie sie, indem Sie auf **Globale Synchronisierung deaktivieren**.
 
    ![Deaktivieren](assets/disableGlobal.png)
 
-1. Klicken Sie auf **Schema aktualisieren**.
+1. Klicken **Schema aktualisieren**.
 
    ![Aktualisieren 2](assets/refreshSchema2.png)
 
 ## Benutzerdefinierte Objekte synchronisieren
 
-Auf der rechten Seite finden Sie weitere Informationen zu Lead-, Kontakt- und kontobasierten benutzerdefinierten Objekten.
+Auf der rechten Seite finden Sie weitere Informationen unter Lead-, Kontakt- und Account-basierte benutzerdefinierte Objekte.
 
-**Aktivieren Sie die** Synchronisierung für die Objekte unter Lead, wenn Sie auslösen möchten, wenn ein Lead zu einer Vereinbarung in Salesforce hinzugefügt wird.
+**Synchronisation aktivieren** für die Objekte unter Lead, wenn Sie beim Hinzufügen eines Leads zu einer Vereinbarung in Salesforce ausgelöst werden möchten.
 
-**Aktivieren Sie die** Synchronisierung für die Objekte unter Kontakt, wenn Sie auslösen möchten, wenn ein Kontakt zu einer Vereinbarung in Salesforce hinzugefügt wird.
+**Synchronisation aktivieren** für die Objekte unter Kontakt, wenn Sie beim Hinzufügen eines Kontakts zu einer Vereinbarung in Salesforce ausgelöst werden möchten.
 
-**Aktivieren Sie die** Synchronisierung für die Objekte unter Konto, wenn Sie auslösen möchten, wenn ein Konto zu einer Vereinbarung in Salesforce hinzugefügt wird.
+**Synchronisation aktivieren** für die Objekte unter Konto, wenn Sie beim Hinzufügen eines Kontos zu einer Vereinbarung in Salesforce ausgelöst werden möchten.
 
-1. **Aktivieren Sie die** Synchronisierung für die benutzerdefinierten Objekte, die unter dem gewünschten übergeordneten Element (Lead, Kontakt oder Konto) angezeigt werden.
+1. **Synchronisation aktivieren** für die benutzerdefinierten Objekte, die unter dem gewünschten übergeordneten Objekt (Lead, Kontakt oder Konto) angezeigt werden.
 
    ![Benutzerdefinierte Objekte](assets/customObjects.png)
 
-1. Die folgenden Elemente zeigen, wie **Synchronisierung aktivieren** aktiviert wird.
+1. Die folgenden Elemente zeigen, wie Sie **Synchronisation aktivieren**.
 
    ![Benutzerdefinierte Synchronisation 1](assets/customObjectSync1.png)
 
    ![Benutzerdefinierte Synchronisation 2](assets/customObjectSync2.png)
 
-1. Wenn Sie die Synchronisierung für die benutzerdefinierten Objekte aktiviert haben, aktivieren Sie die Synchronisierung erneut.
+1. Wenn Sie die Synchronisation für die benutzerdefinierten Objekte aktiviert haben, aktivieren Sie die Synchronisation erneut.
 
    ![Global aktivieren](assets/enableGlobal.png)
 
 ## Programm erstellen
 
-1. Klicken Sie im Bereich Marketingaktivitäten von Marketo mit der rechten Maustaste auf **Marketingaktivitäten** in der linken Leiste, wählen Sie **Neuer Campaign-Ordner** und geben Sie ihm einen Namen.
+1. Klicken Sie im Abschnitt &quot;Marketingaktivitäten&quot; von Marketo mit der rechten Maustaste auf **Marketing-Aktivitäten** auf der linken Leiste, wählen Sie **Neuer Kampagnenordner** und geben Sie ihm einen Namen.
 
    ![Neuer Ordner](assets/newFolder.png)
 
-1. Klicken Sie mit der rechten Maustaste auf den erstellten Ordner, wählen Sie **Neues Programm** und geben Sie ihm einen Namen. Behalten Sie alle anderen Standardeinstellungen bei und klicken Sie auf **Erstellen**.
+1. Klicken Sie mit der rechten Maustaste auf den erstellten Ordner, wählen Sie **Neues Programm** und geben Sie ihm einen Namen. Behalten Sie alles andere als Standard bei, und klicken Sie dann auf **Erstellen**.
 
    ![Neues Programm 1](assets/newProgram1.png)
 
    ![Neues Programm 2](assets/newProgram2.png)
 
-## Einrichten von Twilio SMS
+## Twilio SMS einrichten
 
-Stellen Sie zunächst sicher, dass Sie über ein aktives Twilio-Konto verfügen und die SMS-Funktionen erworben haben, die Sie benötigen.
+Stellen Sie zunächst sicher, dass Sie ein aktives Twilio-Konto haben und die SMS-Funktionen erworben haben, die Sie benötigen.
 
-Das Einrichten des Marketo - Twilio SMS webhook erfordert drei Twilio Parameter von Ihrem Konto.
+Das Einrichten des Marketo - Twilio SMS-Webhooks erfordert drei Twilio-Parameter von Ihrem Konto.
 
-- KONTOSID
+- Konto-SID
 - Konto-Token
-- Zweifachtelefonnummer
+- Twilio-Telefonnummer
 
 Rufen Sie diese Parameter von Ihrem Konto ab und öffnen Sie jetzt Ihre Marketo-Instanz.
 
-1. Klicken Sie rechts oben auf **Admin**.
+1. Klicken Sie auf **Administrator** oben rechts.
 
-   ![Admin](assets/adminTab.png)
+   ![Administrator](assets/adminTab.png)
 
-1. Klicken Sie auf **Webhooks**, dann **New Webhook**.
+1. Klicken Sie auf **Webhooks**, dann **Neuer Webhook**.
 
    ![WebHooks](assets/webhooks.png)
 
-1. Geben Sie einen **Webhook-Namen** und **Beschreibung** ein.
+1. Geben Sie einen **Webhook-Name** und **Beschreibung**.
 
-1. Geben Sie die folgende URL ein und stellen Sie sicher, dass Sie die **[ACCOUNT_SID]** und **[AUTH_TOKEN]** durch Ihre Twilio-Anmeldedaten ersetzen.
+1. Geben Sie die folgende URL ein, und ersetzen Sie **[ACCOUNT_SID]** und **[AUTH_TOKEN]** mit Ihren Twilio-Anmeldedaten.
 
    ```
    https://[ACCOUNT_SID]:[AUTH_TOKEN]@API.TWILIO.COM/2010-04-01/ACCOUNTS/[ACCOUNT_SID]/Messages.json
    ```
 
-1. Wählen Sie **POST** als Anforderungstyp aus.
+1. Auswählen **POST** als Anforderungstyp.
 
-1. Geben Sie die folgende **Vorlage** ein und stellen Sie sicher, dass **[MY_TWILIO_NUMBER]** durch Ihre Twilio-Telefonnummer und **[YOUR_MESSAGE]** durch eine Nachricht Ihrer Wahl ersetzt wird.
+1. Geben Sie Folgendes ein **Vorlage** und ersetzen Sie **[MY_TWILIO_NUMBER]** mit Ihrer Twilio Telefonnummer und **[YOUR_MESSAGE]** mit einer Nachricht Ihrer Wahl.
 
    ```
    From=%2B1[MY_TWILIO_NUMBER]&To=%2B1{{lead.Mobile Phone Number:default=edit me}}&Body=[YOUR_MESSAGE]
    ```
 
-1. Legen Sie die Kodierung des Anforderungstokens auf Formular/URL fest.
+1. Legen Sie die Codierung für Anforderungstoken auf Formular/URL fest.
 
-1. Stellen Sie den Antworttyp auf JSON ein und klicken Sie auf **Speichern**.
+1. Legen Sie den Antworttyp auf JSON fest und klicken Sie dann auf **Speichern**.
 
-## Einrichten des Smart Campaign-Triggers
+## Smart Campaign-Trigger einrichten
 
-1. Klicken Sie im Bereich Marketingaktivitäten mit der rechten Maustaste auf das von Ihnen erstellte Programm und wählen Sie **Neue Smart-Kampagne**.
+1. Klicken Sie im Abschnitt Marketingaktivitäten mit der rechten Maustaste auf das von Ihnen erstellte Programm, und wählen Sie dann **Neue Smart Campaign**.
 
-   ![Intelligente Kampagne 1](assets/smartCampaign1.png)
+   ![Smart Campaign 1](assets/smartCampaign1.png)
 
-1. Geben Sie einen Namen ein und klicken Sie auf **Erstellen**.
+1. Benennen Sie ihn und klicken Sie dann auf **Erstellen**.
 
-   ![Intelligente Kampagne 2](assets/smartCampaign3.png)
+   ![Smart Campaign 2](assets/smartCampaign3.png)
 
-   Wenn die Konfiguration für die benutzerdefinierte Objektsynchronisierung korrekt ausgeführt wurde, sollten Sie die folgenden Auslöser sehen, die im Salesforce-Ordner zur Verwendung verfügbar sind.
+   Wenn die Konfiguration für die benutzerdefinierte Objektsynchronisation korrekt durchgeführt wurde, sollten die folgenden Trigger angezeigt werden, die im Salesforce-Ordner verfügbar sind.
 
-1. Klicken Sie auf &quot;Der Vereinbarung hinzugefügt&quot;und ziehen Sie sie in die Smart-Liste. Fügen Sie Einschränkungen hinzu, die Sie für den Trigger haben möchten.
+1. Klicken Sie auf Zur Vereinbarung hinzugefügt und ziehen Sie sie in die Smart List. Fügen Sie Einschränkungen hinzu, die für den Auslöser gelten sollen.
 
-   ![Dem Abkommen 2 hinzugefügt](assets/addedToAgreement2.png)
+   ![Zur Vereinbarung 2 hinzugefügt](assets/addedToAgreement2.png)
 
-## Einrichten des Smart Campaign-Flows
+## Einrichten des Smart Campaign Flow
 
-1. Klicken Sie in der Smart-Kampagne auf die Registerkarte **Flow**. Suchen und ziehen Sie den Textfluss **Call Webhook** auf die Arbeitsfläche und wählen Sie das webhook aus, das Sie im vorherigen Abschnitt erstellt haben.
+1. Klicken Sie auf die Schaltfläche **Fluss** in der Smart Campaign. Suchen Sie nach dem Element und ziehen Sie es **Webhook aufrufen** auf die Arbeitsfläche und wählen Sie den im vorherigen Abschnitt erstellten Webhook aus.
 
-   ![Webhook anrufen](assets/callWebhook.png)
+   ![Webhook aufrufen](assets/callWebhook.png)
 
-1. Ihre SMS-Werbekampagne für Leads, die zu einem Vertrag hinzugefügt wurden, wurde jetzt eingerichtet.
+1. Ihre SMS-Benachrichtigungskampagne für Leads, die einer Vereinbarung hinzugefügt werden, ist jetzt eingerichtet.
 
 >[!TIP]
 >
->Dieses Tutorial ist Teil des Kurses [Verkürzung der Verkaufszyklen mit Adobe Sign für Salesforce und Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1), der kostenlos auf der Experience League verfügbar ist!
+>Dieses Tutorial ist Teil des Kurses [Schnellere Vertriebszyklen - mit Adobe Sign für Salesforce und Marketo.](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) das auf Experience League kostenlos erhältlich ist!
