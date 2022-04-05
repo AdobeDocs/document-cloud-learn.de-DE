@@ -1,5 +1,5 @@
 ---
-title: Erinnerungen mithilfe des Videotutorials Adobe Sign für Salesforce und Marketo senden
+title: Videotutorial zum Senden von Erinnerungen mit Acrobat Sign für Salesforce und Marketo
 description: In diesem Tutorial erfahren Sie, wie Sie eine E-Mail-Erinnerung von Marketo senden, wenn ein Vertrag nach einer bestimmten Zeit nicht unterzeichnet wurde
 role: Admin
 product: adobe sign
@@ -8,16 +8,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 332506.jpg
 exl-id: f2505944-82eb-4e41-929a-a9a0acc81194
-source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Erinnerungen mithilfe des Videotutorials Adobe Sign für Salesforce und Marketo senden
+# Videotutorial zum Senden von Erinnerungen mit Acrobat Sign für Salesforce und Marketo
 
-Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung von Marketo für nicht signierte Vereinbarungen senden. Diese Integration verwendet Adobe Sign, Adobe Sign für Salesforce, Marketo und Marketo Salesforce Sync.
+Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung von Marketo für nicht signierte Vereinbarungen senden. Diese Integration verwendet Acrobat Sign, Acrobat Sign für Salesforce, Marketo und Marketo Salesforce Sync.
 
 ## Voraussetzungen
 
@@ -25,7 +25,7 @@ Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung von Marketo für nicht signier
 
    Informationen und das neueste Plug-in für Salesforce Sync sind verfügbar [hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Installieren Sie Adobe Sign für Salesforce.
+1. Installieren Sie Acrobat Sign für Salesforce.
 
    Informationen zu diesem Plug-in sind verfügbar [hier.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
@@ -33,5 +33,5 @@ Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung von Marketo für nicht signier
 
 >[!TIP]
 >
->Dieses Video ist Teil des Kurses [Schnellere Vertriebszyklen - mit Adobe Sign für Salesforce und Marketo.](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) das auf Experience League kostenlos erhältlich ist!
+>Dieses Video ist Teil des Kurses [Schnellere Vertriebszyklen - mit Acrobat Sign für Salesforce und Marketo.](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) das auf Experience League kostenlos erhältlich ist!
 

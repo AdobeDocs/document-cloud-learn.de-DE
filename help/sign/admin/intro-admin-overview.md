@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 3717f0805eec8d413fe55c1f0cc2bac24199abc0
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 1%
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 ![Administratorabbild für Sign](../assets/Hero-Admin.png)
 
-Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einrichten von Gruppen, das Freigeben des Zugriffs und das Einrichten eines Workflows, eines externen Archivs sowie über freigegebene Ereignisse und Warnungen. Diese Tutorials richten sich an Administratoren, die die Installationsphase bereits hinter sich haben und mit der Verwaltung von Adobe Sign beginnen können. Unter Erweiterte Aufgaben werden Themen behandelt, die über den Abschnitt Einrichtung des Administrators hinausgehen und in die Definition globaler Einstellungen, den Kontozugriff und die Freigabe sowie die Textkennzeichnung übergehen.
+Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einrichten von Gruppen, das Freigeben des Zugriffs und das Einrichten eines Workflows, eines externen Archivs sowie über freigegebene Ereignisse und Warnungen. Diese Tutorials sind für Administratoren gedacht, die die Installationsphase bereits hinter sich haben und mit der Verwaltung von Acrobat Sign beginnen können. Unter Erweiterte Aufgaben werden Themen behandelt, die über den Abschnitt Einrichtung des Administrators hinausgehen und in die Definition globaler Einstellungen, den Kontozugriff und die Freigabe sowie die Textkennzeichnung übergehen.
 
 ## Erste Schritte
 
@@ -31,7 +31,7 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
     <div>
     <a href="up-and-running-admin.md"><strong>Einstieg in Administratoren</strong></a>
     </div>
-    <em>Übersicht über die 7 wichtigsten Bereiche, in denen Administratoren schnell mit Adobe Sign arbeiten können</em>
+    <em>Übersicht über die 7 wichtigsten Bereiche, in denen Administratoren schnell mit Acrobat Sign arbeiten können</em>
     <br>
   </td>
   <td>
@@ -51,7 +51,7 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
     <div>
     <a href="add-users-to-your-account.md"><strong>Benutzer hinzufügen</strong></a>
     </div>
-    <em>Benutzer einzeln oder mehrere gleichzeitig zu Ihrem Adobe Sign-Konto hinzufügen</em>
+    <em>Benutzer einzeln oder mehrere gleichzeitig zu Ihrem Acrobat Sign-Konto hinzufügen</em>
     <br>
   </td>
 </tr>
@@ -95,7 +95,7 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
     <div>
     <a href="create-a-report.md"><strong>Erstellen eines Berichts</strong></a>
     </div>
-    <em>Berichte erstellen und planen, um Einblick in die Nutzung von Adobe Sign durch Ihr Unternehmen zu gewinnen</em>
+    <em>Berichte erstellen und planen, um Einblick in die Nutzung von Acrobat Sign in Ihrem Unternehmen zu gewinnen</em>
     <br>
   </td>
   <td>
@@ -191,12 +191,12 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
   </td> 
   <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
-      <img alt="Adobe Sign Text-Tagging" src="../assets/Text-Tagging.png" />
+      <img alt="Acrobat Sign-Text-Tagging" src="../assets/Text-Tagging.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Adobe Sign Text-Tagging</strong></a>
+    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign-Text-Tagging</strong></a>
     <div>
-    <em>Adobe Sign-Formularfelder durch Text-Tags mit Adobe Acrobat erstellen</em>
+    <em>Acrobat Sign-Formularfelder durch Text-Tags mit Adobe Acrobat erstellen</em>
     <br>
   </td>
   <td>

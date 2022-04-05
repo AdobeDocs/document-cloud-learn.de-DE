@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Erweitertes Bild für Sign](../assets/Hero-Advanced.png)
 
-Erfahren Sie, wie Sie ein Dokument zur Signatur an Hunderte von Empfängern gleichzeitig senden, ein signaturfähiges Dokument für Ihre Website einrichten, Signaturtransaktionen verwalten und Dokumentvorlagen erstellen und verwalten. Diese Tutorials richten sich an alle, die sich bereits mit den Grundlagen des Versendens und Einholens von Unterschriften auskennen und mehr über die Möglichkeiten erfahren möchten, mit denen Adobe Sign sie unterstützt.
+Erfahren Sie, wie Sie ein Dokument zur Signatur an Hunderte von Empfängern gleichzeitig senden, ein signaturfähiges Dokument für Ihre Website einrichten, Signaturtransaktionen verwalten und Dokumentvorlagen erstellen und verwalten. Diese Tutorials richten sich an alle, die sich bereits mit den Grundlagen des Versendens und Einholens von Unterschriften auskennen und mehr über die Möglichkeiten erfahren möchten, mit denen Acrobat Sign ihnen dabei helfen kann.
 
 ## Senden
 
@@ -78,12 +78,12 @@ Erfahren Sie, wie Sie ein Dokument zur Signatur an Hunderte von Empfängern glei
   </td> 
   <td>
     <a href="adobe-sign-text-tagging.md">
-      <img alt="Adobe Sign Text-Tagging" src="../assets/Text-Tagging.png" />
+      <img alt="Acrobat Sign-Text-Tagging" src="../assets/Text-Tagging.png" />
   </a>
     <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Adobe Sign Text-Tagging</strong></a>
+    <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign-Text-Tagging</strong></a>
     </div>
-    <em>Adobe Sign-Formularfelder durch Text-Tags mit Adobe Acrobat erstellen</em>
+    <em>Acrobat Sign-Formularfelder durch Text-Tags mit Adobe Acrobat erstellen</em>
     <br>
   </td> 
 </table>

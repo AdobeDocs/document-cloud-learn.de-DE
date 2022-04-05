@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Branchen und Abteilungen - Übersicht
 
-![Adobe Sign-Branchenbild](../assets/Hero-Industry.png)
+![Acrobat Sign-Branchenbild](../assets/Hero-Industry.png)
 
 Erfahrt, wie ihr die e-Signatur-Erlebnisse in eurem Unternehmen transformieren könnt, indem ihr die Nutzungsszenarien, Rezepte und Webinare dieser realen Branche und Abteilungen erkundet.
 
@@ -49,7 +49,7 @@ Erfahrt, wie ihr die e-Signatur-Erlebnisse in eurem Unternehmen transformieren k
     <div>
     <a href="use-case-showcase.md"><strong>Nutzungsszenarien</strong></a>
     </div>
-    <em>Sessions live oder aufgezeichnet, in denen Sie neue Nutzungsszenarien und Trends für Adobe Sign kennenlernen</em>
+    <em>Seht euch Live- oder aufgezeichnete Sessions an, in denen ihr neue Nutzungsszenarien und Trends für Acrobat Sign kennenlernt</em>
     <br>
   </td>
 </tr>

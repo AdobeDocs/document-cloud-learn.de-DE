@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33811.jpg
 exl-id: 8d882a5d-01b8-4cd4-b55f-2ef1e537dec5
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Öffentliche Aufträge und Bestellanforderungsformulare
 
-Ersetzen Sie die Papierverarbeitung schnell durch standardkonforme digitale Workflows inklusive Auditberichten. Erfahre, wie du mit dem Workflow Designer-Tool von Adobe Sign den gesamten Prozess effizienter gestalten kannst.
+Ersetzen Sie die Papierverarbeitung schnell durch standardkonforme digitale Workflows inklusive Auditberichten. Erfahrt, wie ihr mit dem Workflow Designer-Tool von Acrobat Sign den gesamten Prozess optimieren könnt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33811?hidetitle=true)
 

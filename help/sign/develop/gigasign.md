@@ -1,22 +1,22 @@
 ---
-title: Sammeln Sie umfangreiche Dokumente mit GigaSign
-description: Mit Gigasign können Sie Dokumente zur Signatur an Tausende von Personen gleichzeitig senden, erfassen und verfolgen.
+title: Sammeln von Dokumenten mit hohem Volumen mit GigaSign
+description: Mit Gigasign könnt ihr Dokumente zur Unterzeichnung an mehrere Tausend Personen gleichzeitig senden, erfassen und nachverfolgen
 role: User, Admin
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: 7d82422e442cbbed9420050c30ca70821e9a2cdd
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Sammeln von Dokumenten mit großen Mengen mithilfe von GigaSign
+# Sammeln von Dokumenten mit großen Volumen mit GigaSign
 
-Mit Gigasign können Sie Dokumente zur Signatur an Tausende von Personen gleichzeitig senden, sammeln und verfolgen. Es ist für die Kommunikation mit Ihren Mitarbeitern und Kunden in großen Mengen konzipiert und unterstützt bis zu 2.500 Empfänger bei jedem Massenversand. GigaSign verwendet die Adobe Sign-API, um die gleichen Funktionen wie MegaSign bereitzustellen, und bietet Unterstützung für mehrere Unterzeichner, Empfängergruppen, Empfängerrollen, Vereinbarungsnamen, Kohlenstoffkopie und mehr.
+Mit Gigasign könnt ihr Dokumente zur Unterzeichnung an mehrere Tausend Personen gleichzeitig senden, erfassen und nachverfolgen. Es wurde für die großvolumige Kommunikation mit Ihren Mitarbeitern und Kunden entwickelt und unterstützt bis zu 2.500 Empfänger bei jedem Massenversand. GigaSign verwendet die Acrobat Sign-API, um die gleiche Funktionalität wie MegaSign zu bieten, und bietet Unterstützung für mehrere Unterzeichner, Empfängergruppen, Empfängerrollen, Vereinbarungsnamen, Carbon Copy und mehr.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?hidetitle=true)
 
@@ -26,28 +26,28 @@ Mit Gigasign können Sie Dokumente zur Signatur an Tausende von Personen gleichz
 
 [Download-Link für Java 1.8 (nur bei Bedarf)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target=&quot;_blank&quot;}
 
-[IP-Adressen in der weißen Liste (nur wenn erforderlich)](https://helpx.adobe.com/de/sign/system-requirements.html#IPs){target=&quot;_blank&quot;}
+[IP-Adressen in weiße Liste (nur bei Bedarf)](https://helpx.adobe.com/de/sign/system-requirements.html#IPs){target=&quot;_blank&quot;}
 
-## Grundlegende Installationsanweisungen
+## Grundlegende Setup-Anweisungen
 
-1. Melden Sie sich bei Ihrem Adobe Sign-Konto an.
+1. Melden Sie sich bei Ihrem Acrobat Sign-Konto an.
 
-1. Klicken Sie auf **[!UICONTROL Gruppe]** oder **[!UICONTROL Konto]**, je nachdem, was Sie oben sehen.
+1. Klicken **[!UICONTROL Gruppe]** oder **[!UICONTROL Konto]**, je nachdem, was Sie oben sehen.
 
-1. Geben Sie im Suchfeld auf der linken Seite des Bildschirms &quot;Zugriffstoken&quot;ein.
+1. Gib im Suchfeld links &quot;Access tokens&quot; ein.
 
-1. Drücken Sie auf der rechten Seite das Pluszeichen (+).
+1. Tippe rechts auf das Pluszeichen.
 
-1. Erstellen Sie einen Schlüssel mit den benötigten Bereichen (User_Read, Agreement_Read, Agreement_Write, Agreement_Send, Library_Read).
+1. Erstellen Sie einen Schlüssel mit den erforderlichen Geltungsbereichen (User_Read, Agreement_Read, Agreement_Write, Agreement_Send, Library_Read).
 
-1. Doppelklicken Sie auf den von Ihnen erstellten Schlüssel und kopieren Sie den VOLLSTÄNDIGEN Text (er wird vom Bildschirm nach rechts verschoben, um sicherzustellen, dass Sie ihn vollständig erhalten).
+1. Doppelklicken Sie auf den von Ihnen erstellten Schlüssel und kopieren Sie den VOLLSTÄNDIGEN Text (er verschwindet nach rechts vom Bildschirm, stellen Sie also sicher, dass Sie alles erhalten).
 
 1. Öffnen Sie GigaSign.
 
-1. Klicken Sie rechts oben auf das Symbol **[!UICONTROL Einstellungen]**.
+1. Klicken Sie auf **[!UICONTROL Einstellungen]** oben rechts.
 
 1. Fügen Sie den Integrationsschlüssel in die erste Zeile ein.
 
-1. Geben Sie die E-Mail-Adresse des Kontos ein, mit dem der Schlüssel in der zweiten Zeile erstellt wurde.
+1. Geben Sie die E-Mail-Adresse des Kontos ein, mit dem dieser Schlüssel in der zweiten Zeile erstellt wurde.
 
-1. Klicken Sie auf **[!UICONTROL Senden]**.
+1. Klicken **[!UICONTROL Senden]**.

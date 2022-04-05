@@ -1,76 +1,76 @@
 ---
 title: Entwicklungsübersicht
-description: Erfahren Sie, wie Sie mit Adobe Sign APIs benutzerdefinierte Applikationen für Teams, Partner und Kunden erstellen
+description: Erfahren Sie, wie Sie Acrobat Sign-APIs verwenden, um benutzerdefinierte Anwendungen für Ihre Teams, Partner und Kunden zu erstellen
 role: Developer
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 3f23da91f1b4c90e8c70e564653c6be44d1f5b58
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 12%
 
 ---
 
-# Entwicklungsübersicht
+# Entwicklung - Übersicht
 
-![Entwicklungsbild signieren](../assets/Hero-Develop.png)
+![Entwicklungsbild unterschreiben](../assets/Hero-Develop.png)
 
-40 % der Vereinbarungen in Adobe Sign werden mithilfe von APIs erstellt. Verwenden Sie APIs, um benutzerdefinierte Anwendungen für Ihre Teams, Partner und Kunden zu erstellen.
+40 % der Vereinbarungen in Acrobat Sign werden mit APIs erstellt. Mit APIs könnt ihr eigene Applikationen für eure Teams, Partner und Kunden erstellen.
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank">
-      <img alt="Entwicklerkonto erstellen" src="../assets/Develop_Getting-Started.png" />
+      <img alt="Erstellen eines Entwicklerkontos" src="../assets/Develop_Getting-Started.png" />
     </a>
     <div>
-    <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank"><strong>Entwicklerkonto erstellen</strong></a>
+    <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank"><strong>Erstellen eines Entwicklerkontos</strong></a>
     </div>
     <em>Erste Schritte mit einem Entwicklerkonto</em>
     <br>
   </td>
   <td>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank">
-      <img alt="Möglichkeiten" src="../assets/Develop_Learn.png" />
+      <img alt="Weitere Möglichkeiten" src="../assets/Develop_Learn.png" />
     </a>
     <div>
-    <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>Möglichkeiten</strong></a>
+    <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>Weitere Möglichkeiten</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie die Funktionalität von Adobe Sign in eine externe Applikation integrieren können.</em>
+    <em>Erfahren Sie, wie Sie die Funktionen von Acrobat Sign in jede beliebige externe Anwendung einbinden können.</em>
     <br>
   </td>  
   <td>
     <a href="gigasign.md">
-      <img alt="Sammeln von Dokumenten mit großen Mengen mithilfe von GigaSign" src="../assets/gigasign.jpg" />
+      <img alt="Sammeln von Dokumenten mit großen Volumen mit GigaSign" src="../assets/gigasign.jpg" />
     </a>
     <div>
-    <a href="gigasign.md"><strong>Sammeln von Dokumenten mit großen Mengen mithilfe von GigaSign</strong></a>
+    <a href="gigasign.md"><strong>Sammeln von Dokumenten mit großen Volumen mit GigaSign</strong></a>
     </div>
-    <em>Dokumente zur Signatur an Tausende Personen gleichzeitig senden, erfassen und verfolgen</em>
+    <em>Dokumente zur Unterzeichnung versenden, einholen und verfolgen - an mehrere Tausend Personen gleichzeitig</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="embeddedesignature.md">
-      <img alt="Erlebnisse für eingebettete E-Signaturen und Dokumente erstellen" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
+      <img alt="Integrierte Erlebnisse für elektronische Unterschriften und Dokumente erstellen" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
     </a>
     <div>
-    <a href="embeddedesignature.md"><strong>Erlebnisse für eingebettete E-Signaturen und Dokumente erstellen</strong></a>
+    <a href="embeddedesignature.md"><strong>Integrierte Erlebnisse für elektronische Unterschriften und Dokumente erstellen</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie mithilfe von Adobe Sign APIs E-Signatur- und Dokumenterlebnisse in Ihre Webplattformen und Content- und Dokumentenmanagementsysteme einbetten</em>
+    <em>Hier erfahren Sie, wie Sie mit Acrobat Sign-APIs Erlebnisse für elektronische Unterschriften und Dokumente in Ihre Web-Plattformen sowie in Content- und Dokumentenmanagementsysteme einbetten.</em>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/Grayspacer.png" />
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Abstand" src="../assets/Grayspacer.png" />
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>

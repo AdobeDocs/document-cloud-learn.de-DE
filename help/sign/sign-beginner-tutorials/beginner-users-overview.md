@@ -6,7 +6,7 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![Bild zu den ersten Schritten in Sign](../assets/Hero-GettingStarted.png)
 
-Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versendest, unterschreibst und nachverfolgst. Verschaffen Sie sich einen Überblick über Adobe Sign, und versenden Sie das Dokument an eine oder mehrere Personen. Dieser Inhalt soll Ihnen den Einstieg in E-Signatur-Workflows erleichtern.
+Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versendest, unterschreibst und nachverfolgst. Verschaffen Sie sich einen Überblick über Acrobat Sign, und versenden Sie das Dokument an eine oder mehrere Personen. Dieser Inhalt soll Ihnen den Einstieg in E-Signatur-Workflows erleichtern.
 
 ## Senden
 
@@ -25,12 +25,12 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Kurze Einführung in Adobe Sign" src="../assets/Quick-Tour.png" />
+      <img alt="Kurze Einführung in Acrobat Sign" src="../assets/Quick-Tour.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Kurze Einführung in Adobe Sign</strong></a>
+    <a href="quick-tour.md"><strong>Kurze Einführung in Acrobat Sign</strong></a>
     </div>
-    <em>Sehen Sie sich kurz die Benutzeroberfläche von Adobe Sign an, um sofort loszulegen</em>
+    <em>Sehen Sie sich kurz die Oberfläche von Acrobat Sign an, um zu beginnen</em>
     <br>
   </td>
   <td>
@@ -57,12 +57,12 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
 <tr>
   <td>
     <a href="new-sender.md">
-      <img alt="Erste Schritte mit Adobe Sign für neue Absender" src="../assets/gettingstartednew.png" />
+      <img alt="Erste Schritte mit Acrobat Sign für neue Absender" src="../assets/gettingstartednew.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>Erste Schritte mit Adobe Sign für neue Absender</strong></a>
+    <a href="new-sender.md"><strong>Erste Schritte mit Acrobat Sign für neue Absender</strong></a>
     </div>
-    <em>Dieses umfassende Tutorial ist ein guter Ausgangspunkt für neue Absender in Adobe Sign</em>
+    <em>Dieses umfassende Tutorial ist ein guter Ausgangspunkt für neue Absender in Acrobat Sign.</em>
     <br>
   </td>
   <td>
@@ -89,7 +89,7 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
     <div>
     <a href="electronically-sign-a-document.md"><strong>Dokumente elektronisch unterschreiben</strong></a>
     </div>
-    <em>Erfahren Sie, wie einfach es ist, ein Dokument zu unterschreiben, das Ihnen mit Adobe Sign gesendet wurde</em>
+    <em>Erfahren Sie, wie einfach es ist, ein Dokument zu unterschreiben, das Ihnen mit Acrobat Sign gesendet wurde</em>
     <br>
   </td>
   <td>
@@ -109,7 +109,7 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
     <div>
     <a href="sign-in-person.md"><strong>Persönliche Signaturen erhalten</strong></a>
     </div>
-    <em>Unterschrift einer anderen Person über die mobile Adobe Sign-App einholen</em>
+    <em>Unterschrift einer anderen Person über die mobile Acrobat Sign-App einholen</em>
     <br>
   </td>
 </tr>

@@ -1,5 +1,5 @@
 ---
-title: Erinnerungen mithilfe des Adobe Sign für Salesforce- und Marketo-Konfigurationshandbuchs senden
+title: Erinnerungen mithilfe des Acrobat Sign für Salesforce- und des Marketo-Konfigurationshandbuchs senden
 description: Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung von Marketo senden, wenn ein Vertrag nach einer bestimmten Zeit nicht signiert wurde.
 role: Admin
 product: adobe sign
@@ -8,16 +8,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
-source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '953'
 ht-degree: 1%
 
 ---
 
-# Erinnerungen mithilfe des Adobe Sign für Salesforce- und Marketo-Konfigurationshandbuchs senden
+# Erinnerungen mithilfe des Acrobat Sign für Salesforce- und des Marketo-Konfigurationshandbuchs senden
 
-Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung von Marketo senden, wenn ein Vertrag nach einer bestimmten Zeit nicht signiert wurde. Diese Integration verwendet Adobe Sign, Adobe Sign für Salesforce, Marketo sowie die Marketo und Salesforce Sync.
+Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung von Marketo senden, wenn ein Vertrag nach einer bestimmten Zeit nicht signiert wurde. Diese Integration verwendet Acrobat Sign, Acrobat Sign für Salesforce, Marketo sowie die Marketo und Salesforce Sync.
 
 ## Voraussetzungen
 
@@ -25,13 +25,13 @@ Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung von Marketo senden, wenn ein V
 
    Informationen und das neueste Plug-in für Salesforce Sync sind verfügbar [hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Installieren Sie Adobe Sign für Salesforce.
+1. Installieren Sie Acrobat Sign für Salesforce.
 
    Informationen zu diesem Plug-in sind verfügbar [hier.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 ## Benutzerdefiniertes Objekt suchen
 
-Wenn die Marketo Salesforce-Synchronisationskonfiguration und die Konfiguration von Adobe Sign für Salesforce abgeschlossen sind, werden im Marketo Admin-Terminal mehrere neue Optionen angezeigt.
+Wenn die Marketo Salesforce-Synchronisationskonfiguration und die Konfiguration von Acrobat Sign für Salesforce abgeschlossen sind, werden im Marketo Admin-Terminal mehrere neue Optionen angezeigt.
 
 ![Admin](assets/adminTab.png)
 
@@ -201,4 +201,4 @@ Weil der Kampagnenfilter **Tage ohne Vorzeichen** verwendet wurde, können Sie e
 
 >[!TIP]
 >
->Dieses Tutorial ist Teil des Kurses [Schnellere Vertriebszyklen - mit Adobe Sign für Salesforce und Marketo.](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) das auf Experience League kostenlos erhältlich ist!
+>Dieses Tutorial ist Teil des Kurses [Schnellere Vertriebszyklen - mit Acrobat Sign für Salesforce und Marketo.](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) das auf Experience League kostenlos erhältlich ist!

@@ -1,13 +1,12 @@
 ---
 title: Erstellen eines benutzerdefinierten Workflows
-description: Lernt, wie ihr Dokumenten-Workflows so zuschneidet und automatisiert, dass ihr schnell elektronische Unterschriften erhaltet und Formulardaten erfasst.
+description: Lernt, wie ihr Dokumenten-Workflows so gestaltet und automatisiert, dass ihr schnell elektronische Unterschriften erhaltet und Formulardaten erfasst.
 role: User, Admin
 product: adobe sign
-solution: Acrobat Sign
 level: Experienced
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -27,4 +26,4 @@ Die folgenden zusätzlichen Nutzungsszenarien sind in der Praxis verfügbar:
 
 >[!TIP]
 >
->Dieses Video ist Teil des Kurses [Erste Schritte mit Adobe Sign für Administratoren](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) das auf Experience League kostenlos erhältlich ist!
+>Dieses Video ist Teil des Kurses [Erste Schritte mit Acrobat Sign für Administratoren](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) das auf Experience League kostenlos erhältlich ist!
