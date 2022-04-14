@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -62,13 +62,18 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
     <div>
     <a href="new-sender.md"><strong>Erste Schritte mit Acrobat Sign für neue Absender</strong></a>
     </div>
-    <em>Dieses umfassende Tutorial ist ein guter Ausgangspunkt für neue Absender in Acrobat Sign.</em>
+    <em>Dieses umfassende Tutorial ist ein guter Ausgangspunkt für neue Absender in Acrobat Sign</em>
     <br>
   </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+ <td>
+    <a href="modify-in-flight.md">
+      <img alt="Ändern eines Dokuments nach dem Senden" src="../assets/Modifying-sending.png" />
+    </a>
     <div>
+    <a href="modify-in-flight.md"><strong>Ändern eines Dokuments nach dem Senden</strong></a>
+    </div>
     <br>
+    <em>Ändern von Dokumenten, die bereits in Bearbeitung sind</em>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Grayspacer.png" />
@@ -167,14 +172,9 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
     <br>
   </td>
   <td>
-    <a href="modify-in-flight.md">
-      <img alt="Ändern eines bereits zum Unterschreiben gesendeten Dokuments" src="../assets/Modifying-sending.png" />
-    </a>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
-    <a href="modify-in-flight.md"><strong>Ändern eines bereits zum Unterschreiben gesendeten Dokuments</strong></a>
-    </div>
     <br>
-    <em>Arbeitsablauf für ein Dokument ändern, das bereits ausgeführt wird</em>
   </td>
 </tr>
 </table>

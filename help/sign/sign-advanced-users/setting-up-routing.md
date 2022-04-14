@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-9942.jpg
 exl-id: bf7771ef-1abe-423c-8b0f-ebdee555b53a
-source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
+source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ Erfahren Sie, wie Sie die Signierreihenfolge für mehrere Unterzeichner einricht
 
 >[!NOTE]
 >
->Hybrid-Routing ist nur für Enterprise-Abos verfügbar. Möglicherweise müssen Sie sich an Ihren Acrobat Sign-Administrator wenden, um die in diesem Tutorial beschriebenen spezifischen Einstellungen zu aktivieren.
+>Hybrid-Routing ist nur für Enterprise-Abos verfügbar. Möglicherweise muss Ihr Acrobat Sign-Administrator diese Funktionen im Abschnitt Sendeeinstellungen der Kontoeinstellungen aktivieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342249?hidetitle=true)
