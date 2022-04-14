@@ -7,16 +7,21 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: fccb3631326f0a7d6196f20c40b96270a6de23a4
+source-git-commit: 600c63c455acf3f4d0884b62a883b7ed94670fe9
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
 
 # Ändern eines Dokuments nach dem Senden
 
-Erfahren Sie, wie Sie ein Dokument ändern, das bereits zum Unterschreiben versendet wurde, z. B. wenn versehentlich ein falsches Dokument versendet wurde.
+Erfahren Sie, wie Sie ein Dokument ändern, das bereits zum Unterschreiben versendet wurde, z. B. wenn versehentlich ein falsches Dokument versendet wurde. Das Ändern von Vereinbarungen kann nur für Dokumente verwendet werden, die die folgenden Kriterien erfüllen:
+
+* Das Dokument wurde nicht signiert, genehmigt oder delegiert.
+* Das Dokument enthält keine digitale Signatur oder handschriftliche Signatur
+* Das Dokument wurde nicht von einem benutzerdefinierten Workflow initiiert.
+
 
 >[!NOTE]
 >
