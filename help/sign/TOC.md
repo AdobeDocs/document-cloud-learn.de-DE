@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
+source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '421'
 ht-degree: 6%
 
 ---
@@ -27,6 +27,7 @@ ht-degree: 6%
       + [Senden an mehrere Empfänger](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [Erste Schritte mit Acrobat Sign für neue Absender](sign-beginner-tutorials/new-sender.md)
       + [Ändern eines Dokuments nach dem Senden](sign-beginner-tutorials/modify-in-flight.md)
+      + [Unterzeichner ersetzen](sign-beginner-tutorials/replace-signer.md)
    + Signing {#getting-started-signing}
       + [Dokumente elektronisch unterschreiben](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Ein Dokument ausfüllen und unterschreiben](sign-beginner-tutorials/fill-and-sign.md)
@@ -44,7 +45,7 @@ ht-degree: 6%
       + [Hinzufügen eines Genehmigers](sign-advanced-users/add-an-approver.md)
       + [Sammeln von Signaturen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Einrichten eines Webformulars](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Acrobat Sign Text-Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
+      + [Acrobat Sign-Text-Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
    + Verwalten {#advanced-tasks-managing}
       + [Verwalten von Dokumentvorlagen](sign-advanced-users/edit-a-template.md)
 + verwalten {#admin-set-up}
@@ -98,7 +99,7 @@ ht-degree: 6%
       + [Erinnerungen mithilfe des Videotutorials Acrobat Sign für Salesforce und Marketo senden](integrations/marketo-salesforce-reminder-video.md)
       + [Erinnerungen mithilfe des Konfigurationsleitfadens für Acrobat Sign für Salesforce und Marketo senden](integrations/marketo-salesforce-reminder.md)
       + [Senden von Benachrichtigungen mit Acrobat Sign für Microsoft Dynamics und Marketo](integrations/marketo-dynamics-sms.md)
-      + [Mit Acrobat Sign für Microsoft Dynamics 365 und Marketo Erinnerungen versenden](integrations/marketo-dynamics-reminder.md)
+      + [Erinnerungen mit Acrobat Sign für Microsoft Dynamics 365 und Marketo senden](integrations/marketo-dynamics-reminder.md)
 + Branchen und Abteilungen {#expand}
    + [Übersicht](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}

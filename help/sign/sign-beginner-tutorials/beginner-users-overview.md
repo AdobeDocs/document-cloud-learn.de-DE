@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
+source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '351'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
     <div>
     <a href="quick-tour.md"><strong>Kurze Einführung in Acrobat Sign</strong></a>
     </div>
-    <em>Sehen Sie sich kurz die Oberfläche von Acrobat Sign an, um zu beginnen</em>
+    <em>Sehen Sie sich kurz die Benutzeroberfläche von Acrobat Sign an, um sofort loszulegen</em>
     <br>
   </td>
   <td>
@@ -75,10 +75,15 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
     <br>
     <em>Ändern von Dokumenten, die bereits in Bearbeitung sind</em>
   </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+ <td>
+    <a href="replace-signer.md">
+      <img alt="Unterzeichner ersetzen" src="../assets/replace-signer.png" />
+    </a>
     <div>
+    <a href="replace-signer.md"><strong>Unterzeichner ersetzen</strong></a>
+    </div>
     <br>
+    <em>Erfahren Sie, wie Sie den Unterzeichner eines Dokuments ändern, das bereits in Bearbeitung ist</em>
   </td>
 </tr>
 </table>
