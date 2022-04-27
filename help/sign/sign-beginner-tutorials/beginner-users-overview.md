@@ -1,15 +1,15 @@
 ---
-title: Erste Schritte mit Acrobat Sign.
+title: Erste Schritte mit Acrobat Sign
 description: Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versendest, unterschreibst und nachverfolgst
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
 workflow-type: tm+mt
-source-wordcount: '351'
-ht-degree: 0%
+source-wordcount: '345'
+ht-degree: 1%
 
 ---
 
@@ -25,12 +25,12 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Kurze Einführung in Acrobat Sign" src="../assets/Quick-Tour.png" />
+      <img alt="Grundlagen des Arbeitsbereichs" src="../assets/workspace_1280.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Kurze Einführung in Acrobat Sign</strong></a>
+    <a href="quick-tour.md"><strong>Grundlagen des Arbeitsbereichs</strong></a>
     </div>
-    <em>Sehen Sie sich kurz die Benutzeroberfläche von Acrobat Sign an, um sofort loszulegen</em>
+    <em>Sehen Sie sich kurz den Arbeitsbereich von Acrobat Sign an, um sofort zu arbeiten.</em>
     <br>
   </td>
   <td>

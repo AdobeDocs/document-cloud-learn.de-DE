@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
 workflow-type: tm+mt
-source-wordcount: '421'
-ht-degree: 6%
+source-wordcount: '418'
+ht-degree: 7%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 6%
 + Erste Schritte {#getting-started}
    + [Übersicht](sign-beginner-tutorials/beginner-users-overview.md)
    + Wird gesendet {#getting-started-sending}
-      + [Kurze Einführung in Acrobat Sign](sign-beginner-tutorials/quick-tour.md)
+      + [Grundlagen des Arbeitsbereichs](sign-beginner-tutorials/quick-tour.md)
       + [Senden an einen einzelnen Empfänger](sign-beginner-tutorials/send-to-single-recipient.md)
       + [Senden an mehrere Empfänger](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [Erste Schritte mit Acrobat Sign für neue Absender](sign-beginner-tutorials/new-sender.md)
@@ -128,5 +128,5 @@ ht-degree: 6%
    + [Übersicht](deploy-overview.md)
 + Mobil {#mobile}
    + [Übersicht](mobile/mobile-overview.md)
-   + Tutorials zu Mobile {#mobile-tutorials}
+   + Tutorials für Mobilgeräte {#mobile-tutorials}
       + [Liquid Mode in Acrobat Sign](mobile/liquidmode.md)
