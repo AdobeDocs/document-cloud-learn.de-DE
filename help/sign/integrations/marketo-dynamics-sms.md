@@ -2,22 +2,22 @@
 title: Senden von Benachrichtigungen mit Acrobat Sign für Microsoft Dynamics 365 und Marketo
 description: Erfahren Sie, wie Sie eine Textnachricht, eine E-Mail oder eine Push-Benachrichtigung senden, damit der Unterzeichner weiß, dass eine Vereinbarung in Bearbeitung ist.
 role: Admin
-product: adobe sign
+product: acrobat sign
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: 60582eeaf8437ca1206f45b0b6daf96629c16b61
+source-git-commit: f63e7630f43cf7a5d049c286458f9f3549b29869
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 1%
 
 ---
 
-# Senden von Benachrichtigungen mit Adobe Sign für Microsoft Dynamics 365 und Marketo
+# Senden von Benachrichtigungen mit Acrobat Sign für Microsoft Dynamics 365 und Marketo
 
-Erfahren Sie, wie Sie mit Adobe Sign, Adobe Sign für Microsoft Dynamic, Marketo und Marketo Microsoft Dynamics Sync eine Textnachricht, eine E-Mail oder eine Push-Benachrichtigung senden, um den Unterzeichner darüber zu informieren, dass eine Vereinbarung in Bearbeitung ist. Um Benachrichtigungen von Marketo zu senden, müssen Sie zunächst eine Marketo-SMS-Verwaltungsfunktion erwerben oder konfigurieren. In dieser exemplarischen Vorgehensweise werden [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), aber es sind auch andere Marketo SMS-Lösungen verfügbar.
+Erfahren Sie, wie Sie mit Acrobat Sign, Acrobat Sign für Microsoft Dynamic, Marketo und Marketo Microsoft Dynamics Sync eine Textnachricht, eine E-Mail oder eine Push-Benachrichtigung senden, um den Unterzeichner darüber zu informieren, dass eine Vereinbarung in Bearbeitung ist. Um Benachrichtigungen von Marketo zu senden, müssen Sie zunächst eine Marketo-SMS-Verwaltungsfunktion erwerben oder konfigurieren. In dieser exemplarischen Vorgehensweise werden [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), aber es sind auch andere Marketo SMS-Lösungen verfügbar.
 
 ## Voraussetzungen
 
@@ -25,13 +25,13 @@ Erfahren Sie, wie Sie mit Adobe Sign, Adobe Sign für Microsoft Dynamic, Marketo
 
    Informationen und das neueste Plug-in für Microsoft Dynamics Sync sind verfügbar [hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
-1. Installieren Sie Adobe Sign für Microsoft Dynamics.
+1. Installieren Sie Acrobat Sign für Microsoft Dynamics.
 
    Informationen zu diesem Plug-in sind verfügbar [hier.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## Benutzerdefiniertes Objekt suchen
 
-Sobald die Konfigurationen von Marketo Microsoft Dynamics Sync und Adobe Sign for Dynamics abgeschlossen sind, werden zwei neue Optionen im Marketo Admin-Terminal angezeigt.
+Sobald die Konfigurationen von Marketo Microsoft Dynamics Sync und Acrobat Sign for Dynamics abgeschlossen sind, werden zwei neue Optionen im Marketo Admin-Terminal angezeigt.
 
 ![Admin](assets/adminTerminal.png)
 
@@ -152,4 +152,4 @@ Rufen Sie diese Parameter von Ihrem Konto ab und öffnen Sie jetzt Ihre Marketo-
 1. Ihre SMS-Benachrichtigungskampagne für Leads, die einer Vereinbarung hinzugefügt werden, ist jetzt eingerichtet.
 >[!TIP]
 >
->Dieses Tutorial ist Teil des Kurses [Schnellere Vertriebszyklen - mit Adobe Sign für Microsoft Dynamics und Marketo.](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) das auf Experience League kostenlos erhältlich ist!
+>Dieses Tutorial ist Teil des Kurses [Schnellere Vertriebszyklen - mit Acrobat Sign für Microsoft Dynamics und Marketo.](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) das auf Experience League kostenlos erhältlich ist!
