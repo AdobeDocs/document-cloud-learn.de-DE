@@ -1,13 +1,13 @@
 ---
 title: Sign-Integrationen - Übersicht
-description: Hier erfahren Sie, wie Sie Acrobat Sign zu Ihren vorhandenen Systemen, Prozessen und Anwendungen hinzufügen.
+description: Acrobat Sign zu Ihren vorhandenen Systemen, Prozessen und Anwendungen hinzufügen
 role: User
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 799dbf108a41b7e2286b99df49d259aa0b382f0e
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 0%
@@ -162,7 +162,7 @@ Sie können Acrobat Sign in anderen Anwendungen verwenden, die Ihr Unternehmen b
     <div>
     <a href="workday.md"><strong>Konfigurieren von Acrobat Sign mit Workday</strong></a>
     </div>
-    <em>Hier erfahren Sie, wie Sie Acrobat Sign so konfigurieren, dass es direkt in Workday funktioniert und alle Ihre Personalunterlagen nahtlos verwaltet</em>
+    <em>Hier erfahren Sie, wie Sie Acrobat Sign so konfigurieren, dass es direkt in Workday funktioniert, um all Ihre Personalunterlagen nahtlos zu verwalten.</em>
     <br>
   </td>
   <td>
@@ -197,7 +197,7 @@ Sie können Acrobat Sign in anderen Anwendungen verwenden, die Ihr Unternehmen b
       <img alt="Videotutorial zum Senden von Erinnerungen mit Acrobat Sign für Salesforce und Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Videotutorial zum Senden von Erinnerungen mit Acrobat Sign für Salesforce und Marketo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Erinnerungen mithilfe des Videotutorials Adobe Sign für Salesforce und Marketo senden</strong></a>
     </div>
     <em>Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung von Marketo senden, wenn ein Vertrag nach einer bestimmten Zeit nicht signiert wurde.</em>
     <br>
@@ -216,10 +216,10 @@ Sie können Acrobat Sign in anderen Anwendungen verwenden, die Ihr Unternehmen b
 <tr>
   <td>
     <a href="marketo-dynamics-reminder.md">
-      <img alt="Erinnerungen mit Acrobat Sign für Microsoft Dynamics und Marketo senden" src="../assets/Integrate-Dynamics-Reminder.jpg" />
+      <img alt="Mit Acrobat Sign für Microsoft Dynamics und Marketo Erinnerungen versenden" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-reminder.md"><strong>Erinnerungen mit Acrobat Sign für Microsoft Dynamics und Marketo senden</strong></a>
+    <a href="marketo-dynamics-reminder.md"><strong>Mit Acrobat Sign für Microsoft Dynamics und Marketo Erinnerungen versenden</strong></a>
     </div>
     <em>Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung senden, wenn eine Vereinbarung nach einer bestimmten Zeit nicht signiert wird.</em>
     <br>
