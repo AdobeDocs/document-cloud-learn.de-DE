@@ -7,10 +7,10 @@ solution: Acrobat
 level: Intermediate
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 16%
+source-wordcount: '152'
+ht-degree: 9%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 16%
 
 ![Sign - Bild bereitstellen](assets/Hero-Deploy.png)
 
-Artikel mit Best Practices, die wertvolle Informationen zur Bereitstellung von Acrobat Sign in eurem Unternehmen bieten
+Artikel mit Best Practices, die wertvolle Informationen zur Bereitstellung von Acrobat Sign in eurem Unternehmen bieten.
 
 <table style="table-layout:fixed">
 <tr>
@@ -33,11 +33,11 @@ Artikel mit Best Practices, die wertvolle Informationen zur Bereitstellung von A
     <br>
   </td>
   <td>
-    <a href="https://helpx.adobe.com/de/sign/using/adobe-sign-training-best-practice.html" target="_blank">
+    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank">
       <img alt="Bewährte Verfahren" src="assets/Deploy_BP.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>Best Practices</strong></a>
+    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>Best Practices</strong></a>
     </div>
     <em>Überprüfen Sie wertvolle Einblicke und Kenntnisse, die durch die Zusammenarbeit unseres Customer Success Managers mit unseren Kunden bei der Bereitstellung von Acrobat Sign gewonnen wurden.</em>
     <br>
@@ -49,7 +49,7 @@ Artikel mit Best Practices, die wertvolle Informationen zur Bereitstellung von A
     <div>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobe Trust Center</strong></a>
     </div>
-    <em>Ständige Bemühungen um Sicherheit, Rechtsgültigkeit und Standards für Acrobat Sign</em>
+    <em>Sicherheit, Rechtsgültigkeit und Standards für Acrobat Sign</em>
     <br>
   </td>
 </tr>
@@ -59,7 +59,7 @@ Artikel mit Best Practices, die wertvolle Informationen zur Bereitstellung von A
       <img alt="Acrobat Sign - Grundlagen" src="assets/SignStudyGuide.png" />
     </a>
     <div>
-    <a href="assets/SignStudyGuide.pdf"><strong>Acrobat Sign - Grundlagen</strong></a>
+    <a href="assets/SignStudyGuide.pdf"><strong>Acrobat Sign Essentials Studienführer</strong></a>
     </div>
     <em>Acrobat Sign-Studienhandbuch für die Acrobat Sign Essentials-Bewertung (AD3-D104)</em>
     <br>

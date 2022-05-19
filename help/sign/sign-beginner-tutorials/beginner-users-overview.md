@@ -1,12 +1,12 @@
 ---
-title: Erste Schritte mit Acrobat Sign
+title: Erste Schritte mit Acrobat Sign.
 description: Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versendest, unterschreibst und nachverfolgst
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
+source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 1%
@@ -72,8 +72,8 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
     <div>
     <a href="modify-in-flight.md"><strong>Ändern eines Dokuments nach dem Senden</strong></a>
     </div>
-    <br>
     <em>Ändern von Dokumenten, die bereits in Bearbeitung sind</em>
+    <br>
   </td>
  <td>
     <a href="replace-signer.md">
@@ -82,8 +82,8 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
     <div>
     <a href="replace-signer.md"><strong>Unterzeichner ersetzen</strong></a>
     </div>
-    <br>
     <em>Erfahren Sie, wie Sie den Unterzeichner eines Dokuments ändern, das bereits in Bearbeitung ist</em>
+     <br>
   </td>
 </tr>
 </table>
