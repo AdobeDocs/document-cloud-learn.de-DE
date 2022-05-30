@@ -1,5 +1,5 @@
 ---
-title: Erinnerungen mithilfe des Acrobat Sign für Salesforce- und des Marketo-Konfigurationshandbuchs senden
+title: Erinnerungen mithilfe des Acrobat Sign für Salesforce- und Marketo-Konfigurationshandbuchs senden
 description: Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung von Marketo senden, wenn ein Vertrag nach einer bestimmten Zeit nicht signiert wurde.
 role: Admin
 product: adobe sign
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 ---
 
-# Erinnerungen mithilfe des Acrobat Sign für Salesforce- und des Marketo-Konfigurationshandbuchs senden
+# Erinnerungen mithilfe des Acrobat Sign für Salesforce- und Marketo-Konfigurationshandbuchs senden
 
 Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung von Marketo senden, wenn ein Vertrag nach einer bestimmten Zeit nicht signiert wurde. Diese Integration verwendet Acrobat Sign, Acrobat Sign für Salesforce, Marketo sowie die Marketo und Salesforce Sync.
 

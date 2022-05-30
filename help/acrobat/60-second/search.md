@@ -1,6 +1,6 @@
 ---
 title: Mehrere PDF-Dateien gleichzeitig durchsuchen
-description: Starten Sie eine Suche in einer PDF-Datei, öffnen Sie die erweiterte Suche und durchsuchen Sie einen ganzen Ordner mit PDF-Dateien.
+description: Starten Sie eine Suche in einer PDF-Datei, öffnen Sie die erweiterte Suche und suchen Sie einen ganzen Ordner mit PDF-Dateien
 role: User
 product: adobe acrobat
 level: Beginner
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Mehrere PDF-Dateien gleichzeitig durchsuchen
 
-In diesem 60-Sekunden-Tutorial lernen Sie, wie Sie eine PDF-Datei durchsuchen, die erweiterte Suche öffnen und einen ganzen Ordner mit PDF-Dateien durchsuchen.
+In diesem 60-Sekunden-Videolehrgang erfahren Sie, wie Sie eine Suche in einer PDF-Datei starten, dann die erweiterte Suche öffnen und einen ganzen PDF-Dateiordner durchsuchen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336363?hidetitle=true)

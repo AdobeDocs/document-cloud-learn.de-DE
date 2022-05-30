@@ -45,7 +45,7 @@ ht-degree: 7%
       + [Hinzufügen eines Genehmigers](sign-advanced-users/add-an-approver.md)
       + [Sammeln von Signaturen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Einrichten eines Webformulars](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Acrobat Sign-Text-Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
+      + [Acrobat Sign Text-Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
    + Verwalten {#advanced-tasks-managing}
       + [Verwalten von Dokumentvorlagen](sign-advanced-users/edit-a-template.md)
 + verwalten {#admin-set-up}
@@ -66,7 +66,7 @@ ht-degree: 7%
       + [Kontozugriff freigeben](admin/share-account-access.md)
       + [Erweiterte Kontofreigabe](admin/advanced-account-sharing.md)
       + [Bio-Pharma-Einstellungen verwenden](admin/use-bio-pharma-settings.md)
-      + [Acrobat Sign-Text-Tagging](sign-advanced-users/adobe-sign-text-tagging.md)
+      + [Acrobat Sign Text-Tagging](sign-advanced-users/adobe-sign-text-tagging.md)
 + Digitale ID {#digital-id}
    + [Übersicht](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}
@@ -99,7 +99,7 @@ ht-degree: 7%
       + [Erinnerungen mithilfe des Videotutorials Acrobat Sign für Salesforce und Marketo senden](integrations/marketo-salesforce-reminder-video.md)
       + [Erinnerungen mithilfe des Konfigurationsleitfadens für Acrobat Sign für Salesforce und Marketo senden](integrations/marketo-salesforce-reminder.md)
       + [Senden von Benachrichtigungen mit Acrobat Sign für Microsoft Dynamics und Marketo](integrations/marketo-dynamics-sms.md)
-      + [Erinnerungen mit Acrobat Sign für Microsoft Dynamics 365 und Marketo senden](integrations/marketo-dynamics-reminder.md)
+      + [Mit Acrobat Sign für Microsoft Dynamics 365 und Marketo Erinnerungen versenden](integrations/marketo-dynamics-reminder.md)
 + Branchen und Abteilungen {#expand}
    + [Übersicht](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}

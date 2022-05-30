@@ -1,6 +1,6 @@
 ---
-title: Hinzufügen von Formularfeldern zu PDF-Dateien ohne Tags
-description: Diese On-Demand-Sitzung geht weiter in das Erstellen manueller Formularfelder und zusätzlicher Formularfeldeigenschaften
+title: Hinzufügen von Formularfeldern zu einem PDF ohne Tags
+description: In dieser On-Demand-Session werden manuelle Formularfelder und zusätzliche Formularfeldeigenschaften erstellt.
 role: User
 product: adobe acrobat
 level: Experienced
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# Hinzufügen von Formularfeldern zu PDF-Dateien ohne Tags
+# Hinzufügen von Formularfeldern zu einem PDF ohne Tags
 
-Diese On-Demand-Sitzung geht näher auf die Erstellung manueller Formularfelder und zusätzlicher Formularfeldeigenschaften ein.
+In dieser On-Demand-Session werden manuelle Formularfelder und zusätzliche Formularfeldeigenschaften erstellt.
 
-Klicken Sie [hier](../assets/accessibilitysession6.zip), um eine ZIP-Datei der Beispieldateien für diese Sitzung herunterzuladen.
+Klicken [hier](../assets/accessibilitysession6.zip) , um eine ZIP-Datei der praktischen Dateien für diese Sitzung herunterzuladen.
 
-Wählen Sie das Bild aus, um das Video in einer separaten Registerkarte des Browsers anzuzeigen.
+Wählen Sie das Bild aus, um das Video in einer separaten Browser-Registerkarte anzuzeigen.
 
-[![Session 6 Video](../assets/Accessibilitysession6_YT.png)](https://youtu.be/xh4pJQiY0nw){target=&quot;_blank&quot;}
+[![Video zu Session 6](../assets/Accessibilitysession6_YT.png)](https://youtu.be/xh4pJQiY0nw){target=&quot;_blank&quot;}

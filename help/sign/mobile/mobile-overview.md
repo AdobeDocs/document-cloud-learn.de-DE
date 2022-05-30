@@ -1,5 +1,5 @@
 ---
-title: Überblick über Mobile
+title: Überblick über Mobilgeräte
 description: Dokumente zur Unterzeichnung versenden, den Status verfolgen und in Echtzeit Benachrichtigungen erhalten - auf dem Smartphone oder Tablet
 role: User
 product: adobe sign
@@ -14,9 +14,9 @@ ht-degree: 29%
 
 ---
 
-# Überblick über Mobile
+# Überblick über Mobilgeräte
 
-![Mobile-Bild unterschreiben](../assets/Hero-Mobile.png)
+![Mobile Sign-Image](../assets/Hero-Mobile.png)
 
 Dokumente zur Unterzeichnung versenden, den Status verfolgen und in Echtzeit Benachrichtigungen erhalten - auf dem Smartphone oder Tablet.
 
@@ -37,7 +37,7 @@ Dokumente zur Unterzeichnung versenden, den Status verfolgen und in Echtzeit Ben
       <img alt="Für iOS herunterladen" src="assets/Mobile_iOS.png" />
     </a>
     <div>
-    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Acrobat Sign Mobile-App für iOS herunterladen</strong></a>
+    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Acrobat Sign-App für iOS herunterladen</strong></a>
     <br>
   </td>
   <td>
@@ -45,7 +45,7 @@ Dokumente zur Unterzeichnung versenden, den Status verfolgen und in Echtzeit Ben
       <img alt="Für Android herunterladen" src="assets/Mobile_Android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>Acrobat Sign Mobile-App für Android herunterladen</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>Acrobat Sign-App für Android herunterladen</strong></a>
     <br>
   </td>
 </tr>

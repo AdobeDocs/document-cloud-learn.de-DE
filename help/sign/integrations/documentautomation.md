@@ -30,10 +30,10 @@ Erfahren Sie, wie Sie die Connectors für Acrobat Sign und Adobe PDF Tools für 
   </td>
   <td>
     <a href="documentautomation.md#part2">
-        <img alt="Teil 2: Automatisierter Genehmigungsprozess für elektronische Unterschriften mit Acrobat Sign." src="assets/documentautomation/AutomationPart2_thumb.jpg" />
+        <img alt="Teil 2: Automatisierter Genehmigungsprozess für elektronische Unterschriften mit Acrobat Sign" src="assets/documentautomation/AutomationPart2_thumb.jpg" />
     </a>
     <div>
-    <a href="documentautomation.md#part2"><strong>Teil 2: Automatisierter Genehmigungsprozess für elektronische Unterschriften mit Acrobat Sign.</strong></a>
+    <a href="documentautomation.md#part2"><strong>Teil 2: Automatisierter Genehmigungsprozess für elektronische Unterschriften mit Acrobat Sign</strong></a>
     </div>
   </td>
   <td>
@@ -58,9 +58,9 @@ Erfahren Sie, wie Sie die Connectors für Acrobat Sign und Adobe PDF Tools für 
 ## Voraussetzungen
 
 * Vertrautheit mit Microsoft 365 und Power Automate
-* Acrobat Sign-Kenntnisse
+* Acrobat Sign Knowledge
 * Microsoft 365-Konto mit Zugriff auf SharePoint und Power Automate (Basic für Acrobat Sign, Premium für Adobe PDF Tools)
-* Acrobat Sign für Unternehmen oder Acrobat Sign - Entwicklerkonto
+* Entwicklerkonto für Acrobat Sign für Unternehmen oder Acrobat Sign
 
 **Übungen 1 und 2**
 
@@ -83,12 +83,12 @@ Im ersten Teil verwendest du eine Power Automate Flow-Vorlage, um einen automati
 
 1. Auswählen **Eine abgeschlossene Acrobat Sign-Vereinbarung in der SharePoint-Bibliothek speichern**.
 
-   ![Screenshot der Aktion &quot;Acrobat Sign speichern&quot;, die den Vertrag mit der SharePoint-Bibliothek abgeschlossen hat](assets/documentautomation/automation_2.png)
+   ![Screenshot des abgeschlossenen Vertrags zum Speichern einer Acrobat Sign in der SharePoint-Bibliotheksaktion](assets/documentautomation/automation_2.png)
 
 1. Überprüfen Sie den Bildschirm und konfigurieren Sie alle erforderlichen Verbindungen. Aktivieren Sie die Acrobat Sign-Verbindung.
 1. Klicken Sie auf das blaue `+` Symbol.
 
-   ![Screenshot der Verbindung zwischen Acrobat Sign und SharePoint Flow](assets/documentautomation/automation_3.png)
+   ![Screenshot der Flussverbindung zwischen Acrobat Sign und SharePoint](assets/documentautomation/automation_3.png)
 
 1. Geben Sie Ihre E-Mail-Adresse für das Acrobat Sign-Konto ein und klicken Sie im neuen Fenster auf das Kennwortfeld.
 
@@ -125,7 +125,7 @@ Im ersten Teil verwendest du eine Power Automate Flow-Vorlage, um einen automati
 
 Sie werden diesen Flow im nächsten Teil testen.
 
-## Teil 2: Automatisierter Genehmigungsprozess für elektronische Unterschriften mit Acrobat Sign. {#part2}
+## Teil 2: Automatisierter Genehmigungsprozess für elektronische Unterschriften mit Acrobat Sign {#part2}
 
 Im zweiten Teil bauen wir den ersten Teil mit einem robusteren Flow auf und testen beide Flows, um sie in Aktion zu sehen.
 

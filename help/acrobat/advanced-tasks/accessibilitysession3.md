@@ -1,6 +1,6 @@
 ---
 title: Komplexe Tabellen
-description: Diese On-Demand-Sitzung behandelt eines der häufigsten und schwierigeren Probleme bei der Behebung von PDF-Dokumenten für die Barrierefreiheit - komplexe Tabellen
+description: In dieser On-Demand-Session wird eines der häufigsten und schwierigeren Probleme bei der Behebung einer PDF für Barrierefreiheit behandelt - komplexe Tabellen
 role: User
 product: adobe acrobat
 level: Experienced
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Komplexe Tabellen
 
-Diese On-Demand-Sitzung behandelt eines der häufigeren und schwierigeren Probleme bei der Behebung von PDF-Dokumenten für die Barrierefreiheit - komplexe Tabellen.
+In dieser On-Demand-Session wird eines der häufigsten und schwierigeren Probleme bei der Korrektur eines PDF für Barrierefreiheit behandelt - nämlich komplexe Tabellen.
 
-Klicken Sie [hier](../assets/accessibilitysession3.zip), um eine ZIP-Datei der Beispieldateien für diese Sitzung herunterzuladen.
+Klicken [hier](../assets/accessibilitysession3.zip) , um eine ZIP-Datei der praktischen Dateien für diese Sitzung herunterzuladen.
 
-Wählen Sie das Bild aus, um das Video in einer separaten Registerkarte des Browsers anzuzeigen.
+Wählen Sie das Bild aus, um das Video in einer separaten Browser-Registerkarte anzuzeigen.
 
-[![Session 3 Video](../assets/Accessibilitysession3_YT.png)](https://youtu.be/kcM_jyHGd6Y){target=&quot;_blank&quot;}
+[![Video zu Session 3](../assets/Accessibilitysession3_YT.png)](https://youtu.be/kcM_jyHGd6Y){target=&quot;_blank&quot;}

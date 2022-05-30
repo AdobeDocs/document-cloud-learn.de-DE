@@ -1,5 +1,5 @@
 ---
-title: Einstieg in Acrobat Sign für Administratoren
+title: Einstieg in Acrobat Sign Administratoren
 description: Übersicht über die sieben wichtigsten Bereiche, in denen Administratoren schnell mit Acrobat Sign arbeiten können
 role: Admin
 product: adobe sign
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Einstieg in Acrobat Sign-Administratoren
 
-Lernt die sieben Schlüsselbereiche kennen, auf die sich Administratoren konzentrieren sollten, um sofort mit Acrobat Sign zu arbeiten.
+Lernen Sie die sieben Schlüsselbereiche kennen, auf die sich Administratoren konzentrieren sollten, um schnell in Acrobat Sign loszulegen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33657?hidetitle=true)
 

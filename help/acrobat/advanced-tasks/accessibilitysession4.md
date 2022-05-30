@@ -1,6 +1,6 @@
 ---
 title: Gescannte Dokumente und komplexe Listen
-description: Diese On-Demand-Sitzung behandelt die komplexeren Probleme, auf die häufig Menschen stoßen, z. B. gescannte Dokumente und komplexe Listen
+description: In dieser On-Demand-Session werden komplexere Probleme behandelt, auf die häufig zugegriffen wird, z. B. gescannte Dokumente und komplexe Listen
 role: User
 product: adobe acrobat
 level: Experienced
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Gescannte Dokumente und komplexe Listen
 
-Diese On-Demand-Sitzung behandelt die komplexeren Probleme, auf die häufig Menschen stoßen, wie gescannte Dokumente und komplexe Listen.
+In dieser On-Demand-Session werden komplexere Probleme behandelt, auf die häufig zugegriffen wird, z. B. gescannte Dokumente und komplexe Listen.
 
-Klicken Sie [hier](../assets/accessibilitysession4.zip), um eine ZIP-Datei der Beispieldateien für diese Sitzung herunterzuladen.
+Klicken [hier](../assets/accessibilitysession4.zip) , um eine ZIP-Datei der praktischen Dateien für diese Sitzung herunterzuladen.
 
-Wählen Sie das Bild aus, um das Video in einer separaten Registerkarte des Browsers anzuzeigen.
+Wählen Sie das Bild aus, um das Video in einer separaten Browser-Registerkarte anzuzeigen.
 
-[![Session 4 Video](../assets/Accessibilitysession4_YT.png)](https://youtu.be/RuBk6DqJBFc){target=&quot;_blank&quot;}
+[![Video zu Session 4](../assets/Accessibilitysession4_YT.png)](https://youtu.be/RuBk6DqJBFc){target=&quot;_blank&quot;}

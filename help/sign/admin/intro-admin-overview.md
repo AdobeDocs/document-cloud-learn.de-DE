@@ -18,7 +18,7 @@ ht-degree: 1%
 
 ![Administratorabbild für Sign](../assets/Hero-Admin.png)
 
-Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einrichten von Gruppen, das Freigeben des Zugriffs und das Einrichten eines Workflows, eines externen Archivs sowie über freigegebene Ereignisse und Warnungen. Diese Tutorials sind für Administratoren gedacht, die die Installationsphase bereits hinter sich haben und mit der Verwaltung von Acrobat Sign beginnen können. Unter Erweiterte Aufgaben werden Themen behandelt, die über den Abschnitt Einrichtung des Administrators hinausgehen und in die Definition globaler Einstellungen, den Kontozugriff und die Freigabe sowie die Textkennzeichnung übergehen.
+Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einrichten von Gruppen, das Freigeben des Zugriffs und das Einrichten eines Workflows, eines externen Archivs sowie über freigegebene Ereignisse und Warnungen. Diese Tutorials richten sich an Administratoren, die die Installationsphase bereits hinter sich haben und mit der Verwaltung von Acrobat Sign beginnen können. Unter Erweiterte Aufgaben werden Themen behandelt, die über den Abschnitt Einrichtung des Administrators hinausgehen und in die Definition globaler Einstellungen, den Kontozugriff und die Freigabe sowie die Textkennzeichnung übergehen.
 
 ## Erste Schritte
 
@@ -95,7 +95,7 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
     <div>
     <a href="create-a-report.md"><strong>Erstellen eines Berichts</strong></a>
     </div>
-    <em>Berichte erstellen und planen, um Einblick in die Nutzung von Acrobat Sign in Ihrem Unternehmen zu gewinnen</em>
+    <em>Berichte erstellen und planen, um Einblick in die Nutzung von Acrobat Sign durch Ihr Unternehmen zu gewinnen</em>
     <br>
   </td>
   <td>
@@ -191,10 +191,10 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
   </td> 
   <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
-      <img alt="Acrobat Sign-Text-Tagging" src="../assets/Text-Tagging.png" />
+      <img alt="Acrobat Sign Text-Tagging" src="../assets/Text-Tagging.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign-Text-Tagging</strong></a>
+    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign Text-Tagging</strong></a>
     <div>
     <em>Acrobat Sign-Formularfelder durch Text-Tags mit Adobe Acrobat erstellen</em>
     <br>

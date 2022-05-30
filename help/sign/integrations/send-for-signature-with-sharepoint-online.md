@@ -22,4 +22,4 @@ Lernen Sie, wie Sie Dokumenten-Workflows optimieren, indem Sie Dokumente direkt 
 
 >[!TIP]
 >
->Dieses Video ist Teil des Kurses [Verwenden von Acrobat Sign in Microsoft-Anwendungen](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) das auf Experience League kostenlos erhältlich ist!
+>Dieses Video ist Teil des Kurses [Verwenden von Acrobat Sign in Microsoft-Applikationen](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) das auf Experience League kostenlos erhältlich ist!

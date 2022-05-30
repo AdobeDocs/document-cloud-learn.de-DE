@@ -1,6 +1,6 @@
 ---
-title: Acrobat Sign für Workday konfigurieren
-description: Hier erfahren Sie, wie Sie Acrobat Sign so konfigurieren, dass es direkt in Workday funktioniert und alle Ihre Personalunterlagen nahtlos verwaltet
+title: Konfigurieren von Acrobat Sign für Workday
+description: Hier erfahren Sie, wie Sie Acrobat Sign so konfigurieren, dass es direkt in Workday funktioniert, um all Ihre Personalunterlagen nahtlos zu verwalten.
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Acrobat Sign für Workday konfigurieren
+# Konfigurieren von Acrobat Sign für Workday
 
 Mit Acrobat Sign für Workday optimiert ihr Unterschriftsprozesse und steigert die Produktivität im Team. In diesem Video-Tutorial lernen Sie, wie Sie Acrobat Sign so konfigurieren, dass es direkt in Workday funktioniert und Ihre Personalunterlagen nahtlos verwaltet.
 

@@ -1,6 +1,6 @@
 ---
 title: Erstellen eingebetteter Erlebnisse mit elektronischen Unterschriften und Dokumenten
-description: Hier erfahren Sie, wie Sie mit Acrobat Sign-APIs Erlebnisse für elektronische Unterschriften und Dokumente in Ihre Web-Plattformen sowie in Content- und Dokumentenmanagementsysteme einbetten.
+description: Erfahrt, wie ihr mit Acrobat Sign-APIs Erlebnisse für elektronische Unterschriften und Dokumente in eure Web-Plattformen sowie Content- und Dokumentenmanagementsysteme einbettet.
 role: User, Developer
 level: Intermediate
 topic: Integrations
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 # Integrierte Erlebnisse für elektronische Unterschriften und Dokumente erstellen
 
-Erfahrt, wie ihr mit Acrobat Sign-APIs Erlebnisse für elektronische Unterschriften und Dokumente in eure Web-Plattformen sowie in Content- und Dokumentenmanagementsysteme einbettet. Dieses praktische Tutorial besteht aus vier Teilen, die unter den folgenden Links beschrieben werden:
+Erfahrt, wie ihr mit Acrobat Sign-APIs Erlebnisse für elektronische Unterschriften und Dokumente in eure Web-Plattformen sowie Content- und Dokumentenmanagementsysteme einbettet. Dieses praktische Tutorial besteht aus vier Teilen, die unter den folgenden Links beschrieben werden:
 
 <table style="table-layout:fixed">
 <tr>
@@ -75,7 +75,7 @@ Im zweiten Teil des Tutorials lernst du, wie du Web-Formulare mit wenig oder gar
 1. Über das Entwicklerkonto auf Acrobat Sign zugreifen
 1. Klicken **Webformular veröffentlichen** auf der Startseite.
 
-   ![Screenshot Acrobat Sign-Startseite](assets/embeddedesignature/embed_1.png)
+   ![Screenshot Acrobat Sign Homepage](assets/embeddedesignature/embed_1.png)
 
 1. Vereinbarung erstellen
 
@@ -98,9 +98,9 @@ Zuerst müssen Sie den Zugriff einrichten. Mit Acrobat Sign gibt es zwei Möglic
 
 Nachdem Sie nun Zugriff haben und mit der API interagieren können, sehen Sie, was mit der API möglich ist.
 
-1. Navigieren Sie zur Registerkarte [Acrobat Sign-REST-API Version 6 - Methoden](http://adobesign.com/public/docs/restapi/v6).
+1. Navigieren Sie zur Registerkarte [Acrobat Sign REST-API Version 6 - Methoden](http://adobesign.com/public/docs/restapi/v6).
 
-   ![Screenshot der Navigation in den Acrobat Sign REST API Version 6-Methoden](assets/embeddedesignature/embed_5.png)
+   ![Screenshot der Navigation mit den Methoden der Acrobat Sign REST-API Version 6](assets/embeddedesignature/embed_5.png)
 
 1. Verwenden Sie das Token als &quot;Bearer&quot;-Wert.
 
@@ -186,7 +186,7 @@ http://bit.ly/Summit21-T126
 
 Umfasst:
 * Acrobat Sign-Entwicklerkonto
-* Acrobat Sign-API - Dokumentation
+* Acrobat Sign API-Dokumente
 * Beispielcode
 * Visual Studio-Code
 * Python

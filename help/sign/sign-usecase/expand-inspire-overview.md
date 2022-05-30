@@ -49,7 +49,7 @@ Erfahrt, wie ihr die e-Signatur-Erlebnisse in eurem Unternehmen transformieren k
     <div>
     <a href="use-case-showcase.md"><strong>Nutzungsszenarien</strong></a>
     </div>
-    <em>Seht euch Live- oder aufgezeichnete Sessions an, in denen ihr neue Nutzungsszenarien und Trends für Acrobat Sign kennenlernt</em>
+    <em>Sessions live oder aufgezeichnet, in denen Sie neue Nutzungsszenarien und Trends für Acrobat Sign kennenlernen</em>
     <br>
   </td>
 </tr>

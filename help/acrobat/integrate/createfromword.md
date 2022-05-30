@@ -1,6 +1,6 @@
 ---
-title: PDF-Dateien erstellen aus [!DNL Microsoft Word]
-description: Mit dem Acrobat Add-on für können Sie mühelos umfangreiche, robuste PDF-Dateien mit verknüpften Inhaltsverzeichnissen und Querverweisen, Lesezeichen und sogar Anhängen erstellen. [!DNL Microsoft Word]
+title: Erstellen von PDF-Dateien aus [!DNL Microsoft Word]
+description: Umfangreiche, zuverlässige PDF-Dateien mit verknüpften Inhaltsverzeichnissen, Querverweisen, Lesezeichen und sogar Anhängen lassen sich mit dem Acrobat-Add-on für [!DNL Microsoft Word]
 role: User
 product: adobe acrobat
 level: Beginner
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# PDF-Dateien erstellen aus [!DNL Microsoft Word]
+# Erstellen von PDF-Dateien aus [!DNL Microsoft Word]
 
-Erfahren Sie, wie Sie mit dem Acrobat Add-on für [!DNL Microsoft Word].
+Erfahren Sie, wie Sie mit dem Acrobat-Add-on für [!DNL Microsoft Word].
 
 >[!VIDEO](https://video.tv.adobe.com/v/331736?hidetitle=true)
 
 >[!TIP]
 >
->Dieses Video ist Teil des Kurses [Intelligenter mit Acrobat DC und Microsoft arbeiten 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) die auf der Experience League kostenlos erhältlich ist!
+>Dieses Video ist Teil des Kurses [Intelligenter arbeiten mit Acrobat DC und Microsoft 365.](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) das auf Experience League kostenlos erhältlich ist!

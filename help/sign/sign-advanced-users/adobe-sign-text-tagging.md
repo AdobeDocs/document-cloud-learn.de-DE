@@ -20,7 +20,7 @@ In diesem aufgezeichneten Webinar (keine Registrierung erforderlich) erfahren Si
 
 [![Session ansehen](../assets/Text-Tagging.png)](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
 
-[Aufgezeichnetes Webinar zum Tagging von Acrobat Sign-Text](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
+[Aufgezeichnetes Webinar zum Acrobat Sign-Tagging von Text](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
 
 >[!TIP]
 >

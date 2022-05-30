@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Erstellen von Dokumentvorlagen
 
-Erfahrt, wie ihr eine wiederverwendbare Dokumentvorlage erstellt und zur zukünftigen Verwendung in eurer Acrobat Sign-Bibliothek hinzufügt. Dokumentvorlagen bieten Geschwindigkeit und Konsistenz bei Ihren Sign-Transaktionen und ermöglichen die Verwaltung von Dokumentänderungen und -änderungen.
+Erfahre, wie du eine wiederverwendbare Dokumentvorlage erstellst und sie in deine Acrobat Sign-Bibliothek einfügst. Dokumentvorlagen bieten Geschwindigkeit und Konsistenz bei Ihren Sign-Transaktionen und ermöglichen die Verwaltung von Dokumentänderungen und -änderungen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/38037?hidetitle=true)
 
 >[!TIP]
 >
->Dieses Video ist Teil des Kurses [Erste Schritte mit Acrobat Sign.](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) das auf Experience League kostenlos erhältlich ist!
+>Dieses Video ist Teil des Kurses [Erste Schritte mit Acrobat Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) das auf Experience League kostenlos erhältlich ist!

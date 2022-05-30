@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Sign - Bild integrieren](../assets/Hero-Integrate.png)
 
-Sie können Acrobat Sign in anderen Anwendungen verwenden, die Ihr Unternehmen bereits verwendet, z. B. Microsoft, Salesforce, Workday und Marketo, um nur einige zu nennen. In diesen Anleitungen und Tutorials zur Integration erfahrt ihr, wie ihr eure Workflows für elektronische Unterschriften vereinfachen könnt.
+Sie können Acrobat Sign in anderen Anwendungen verwenden, die Ihre Organisation bereits verwendet, z. B. Microsoft, Salesforce, Workday und Marketo, um nur einige zu nennen. In diesen Anleitungen und Tutorials zur Integration erfahrt ihr, wie ihr eure Workflows für elektronische Unterschriften vereinfachen könnt.
 
 >[!NOTE]
 > Wenn Sie auf keine dieser Funktionen zugreifen können, wenden Sie sich an den Administrator Ihrer Organisation, um sicherzustellen, dass die Integration aktiviert ist.
@@ -194,7 +194,7 @@ Sie können Acrobat Sign in anderen Anwendungen verwenden, die Ihr Unternehmen b
   </td>
   <td>
     <a href="marketo-salesforce-reminder-video.md">
-      <img alt="Videotutorial zum Senden von Erinnerungen mit Acrobat Sign für Salesforce und Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
+      <img alt="Erinnerungen mithilfe des Videotutorials Acrobat Sign für Salesforce und Marketo senden" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
     <a href="marketo-salesforce-reminder.md"><strong>Erinnerungen mithilfe des Videotutorials Adobe Sign für Salesforce und Marketo senden</strong></a>

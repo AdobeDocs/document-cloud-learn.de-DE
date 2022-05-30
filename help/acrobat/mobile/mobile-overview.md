@@ -1,5 +1,5 @@
 ---
-title: Überblick über Acrobat Mobile
+title: Überblick über Acrobat für Mobilgeräte
 description: PDF auf dem Smartphone oder Tablet erstellen, ausfüllen und unterschreiben
 role: User
 product: adobe acrobat
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ---
 
-# Überblick über Mobile
+# Überblick über Mobilgeräte
 
-![Acrobat Mobile Image](../assets/Hero-Mobile.png)
+![Acrobat-Mobilabbild](../assets/Hero-Mobile.png)
 
 Erstelle, fülle und unterschreibe PDF auf deinem Smartphone oder Tablet.
 
