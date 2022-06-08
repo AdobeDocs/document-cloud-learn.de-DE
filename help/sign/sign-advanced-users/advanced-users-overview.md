@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
+source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -39,7 +39,7 @@ Erfahren Sie, wie Sie ein Dokument zur Signatur an Hunderte von Empfängern glei
       <img alt="An eine andere Person delegieren" src="../assets/Delegating.png" />
     </a>  
     <div>
-    <a href="delegate-signature.md"><strong>An eine andere Person delegieren</strong></a>
+    <a href="delegate-signature.md"><strong>Verwenden der Delegatorrolle</strong></a>
     </div>
     <em>Verwenden Sie die Rolle "Delegierender", um ein Dokument an einen Vermittler zu senden, der das Dokument dann zur Signatur weiterleiten kann.</em>
     <br>
