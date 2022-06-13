@@ -7,10 +7,10 @@ solution: Acrobat
 level: Intermediate
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
+source-git-commit: 4ecbad448752f43a2deab48bf87de8076b0df9c2
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 9%
+source-wordcount: '115'
+ht-degree: 10%
 
 ---
 
@@ -33,16 +33,6 @@ Artikel mit Best Practices, die wertvolle Informationen zur Bereitstellung von A
     <br>
   </td>
   <td>
-    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank">
-      <img alt="Bewährte Verfahren" src="assets/Deploy_BP.png" />
-    </a>
-    <div>
-    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>Best Practices</strong></a>
-    </div>
-    <em>Überprüfen Sie wertvolle Einblicke und Kenntnisse, die durch die Zusammenarbeit unseres Customer Success Managers mit unseren Kunden bei der Bereitstellung von Acrobat Sign gewonnen wurden.</em>
-    <br>
-  </td>  
-  <td>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank">
       <img alt="Adobe Trust Center" src="assets/Deploy_Trust.png" />
     </a>
@@ -52,26 +42,14 @@ Artikel mit Best Practices, die wertvolle Informationen zur Bereitstellung von A
     <em>Sicherheit, Rechtsgültigkeit und Standards für Acrobat Sign</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="assets/SignStudyGuide.pdf">
-      <img alt="Acrobat Sign - Grundlagen" src="assets/SignStudyGuide.png" />
+      <img alt="Acrobat Sign Essentials Studienführer" src="assets/SignStudyGuide.png" />
     </a>
     <div>
     <a href="assets/SignStudyGuide.pdf"><strong>Acrobat Sign Essentials Studienführer</strong></a>
     </div>
-    <em>Acrobat Sign-Studienhandbuch für die Acrobat Sign Essentials-Bewertung (AD3-D104)</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="assets/Grayspacer.png" />
-    <div>
+    <em>Acrobat Sign-Studienführer für die Acrobat Sign Essentials-Bewertung (AD3-D104)</em>
     <br>
   </td>
 </tr>
