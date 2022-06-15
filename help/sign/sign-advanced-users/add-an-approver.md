@@ -1,5 +1,5 @@
 ---
-title: Hinzufügen eines Genehmigers
+title: Verwenden der Genehmigerrolle
 description: Informieren Sie sich, wie Sie Ihrem Vertragsgenehmigungsprozess eine Genehmigerrolle hinzufügen.
 role: User
 product: adobe sign
@@ -7,18 +7,18 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17367.jpg
 exl-id: e3d46b27-c30b-47eb-8d84-3d99813f3096
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 561ad5b567ac7ea5de32e96ecc8e9b2038389910
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 22%
 
 ---
 
-# Hinzufügen eines Genehmigers
+# Verwenden der Genehmigerrolle
 
-Erfahren Sie, wie Sie ein Dokument über einen Genehmigungsprozess senden. In diesem Beispiel sehen Sie, wie Sie einen Einstellungsvertrag über HR, Mitarbeiter und den Einstellungsmanager senden.
+Erfahren Sie, wie Sie ein Dokument über einen Genehmigungsprozess senden. In diesem Beispiel erfahren Sie, wie Sie einen Mietvertrag über HR, einen potenziellen Mitarbeiter und den Personalleiter senden. Die Empfängerrolle „Genehmiger“ eignet sich in Situationen, in denen eine Person einem Dokument das „Okay“ geben muss, bevor es an die Unterzeichner weitergesegnet wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/17367?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/343854?hidetitle=true)
 
 >[!TIP]
 >
