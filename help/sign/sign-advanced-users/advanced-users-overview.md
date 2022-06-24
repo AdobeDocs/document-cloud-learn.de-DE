@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 561ad5b567ac7ea5de32e96ecc8e9b2038389910
+source-git-commit: ac39f9930a2ee655afe2643b78cf00277460ac8c
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '244'
 ht-degree: 2%
 
 ---
@@ -68,10 +68,10 @@ Erfahren Sie, wie Sie ein Dokument zur Signatur an Hunderte von Empfängern glei
   </td>
   <td>
     <a href="webform.md">
-      <img alt="Einrichten eines Webformulars" src="../assets/Webform.png" />
+      <img alt="Erstellen eines Webformulars" src="../assets/Webform.png" />
     </a>
     <div>
-    <a href="webform.md"><strong>Einrichten eines Webformulars</strong></a>
+    <a href="webform.md"><strong>Erstellen eines Webformulars</strong></a>
     </div>
     <em>Erstellen Sie ein Dokument, das direkt auf Ihrer Website elektronisch signiert werden kann</em>
     <br>
