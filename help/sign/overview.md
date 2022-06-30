@@ -1,23 +1,23 @@
 ---
-title: Lernprogramme
-description: Eine Sammlung von Tutorials, Webinaren und Nutzungsszenarien, die entwickelt wurden, um sowohl Anfänger als auch Administratoren schnell auf den neuesten Stand zu bringen bei Acrobat Sign
+title: Acrobat Sign Tutorials
+description: Eine Sammlung von Tutorials, Webinaren und Use Cases, die entwickelt wurden, um sowohl Anfänger als auch Administratoren schnell auf den neuesten Stand zu bringen
 role: User, Admin
 product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '200'
 ht-degree: 4%
 
 ---
 
-# Acrobat Sign-Tutorials
+# Tutorials zu Acrobat Sign
 
-![Acrobat Sign-Heldenbild](assets/Hero_Sign.jpg)
+![Acrobat Sign Hero Image](assets/Hero_Sign.jpg)
 
-Acrobat Sign, eine Lösung für Adobe Document Cloud, lässt sich mit Integrationen, APIs, erweiterter Authentifizierung und zusätzlichen Verwaltungsfunktionen auf die Anforderungen eures Unternehmens abstimmen. Hier finden Sie eine Vielzahl von Lernerlebnissen, die sowohl Anfänger als auch Administratoren schnell auf den neuesten Stand bringen, wenn es um Acrobat Sign geht.
+Acrobat Sign, eine Lösung für Adobe Document Cloud, lässt sich mit Integrationen, APIs, erweiterter Authentifizierung, zusätzlichen Verwaltungsfunktionen und mehr auf die Anforderungen eures Unternehmens abstimmen. Hier finden Sie eine Vielzahl von Lernerlebnissen, die sowohl Anfänger als auch Administratoren schnell auf den neuesten Stand bringen, wenn es um Acrobat Sign geht.
 
 ## Lernpfade
 
@@ -72,7 +72,7 @@ Acrobat Sign, eine Lösung für Adobe Document Cloud, lässt sich mit Integratio
     <div>
     <a href="integrations/integrations-overview.md"><strong>Integrationen</strong></a>
     </div>
-    <em>Fügt Acrobat Sign direkt zu den Programmen hinzu, die eure Organisation bereits verwendet</em>
+    <em>Acrobat Sign direkt in andere Programme einbinden, die eure Organisation bereits verwendet</em>
     <br>
   </td>
   <td>
@@ -104,7 +104,7 @@ Acrobat Sign, eine Lösung für Adobe Document Cloud, lässt sich mit Integratio
     <div>
     <a href="deploy-overview.md"><strong>Bereitstellen</strong></a>
     </div>
-    <em>Einblicke und Best Practices für die Bereitstellung von Acrobat Sign in eurem Unternehmen</em>
+    <em>Einblicke und Best Practices für die Bereitstellung von Acrobat Sign in Ihrem Unternehmen</em>
     <br>
   </td>
   <td>
