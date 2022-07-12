@@ -7,7 +7,7 @@ topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 60c676687a59e9b8f999b0e71fa9e03e94f043d4
+source-git-commit: f68fc211dc315a7d7ef508787c80fbe9882fcdc3
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 3%
@@ -33,6 +33,8 @@ Im ersten Teil lernst du, wie du mit allem anfängst, was du für die Teile 2-4 
    * Windows - Chocolatey
    * Alle — https://www.python.org/downloads/
 
++++
+
 ## Teil 2: Wenig oder kein Code - die Leistungsfähigkeit von Webformularen
 
 Im zweiten Teil des Tutorials lernst du die Optionen kennen, mit denen du Web-Formulare mit wenig oder ohne Code ausfüllen kannst. Es ist immer ratsam, zu sehen, ob du es zunächst vermeiden kannst, Code zu schreiben.
@@ -54,6 +56,8 @@ Im zweiten Teil des Tutorials lernst du die Optionen kennen, mit denen du Web-Fo
 1. Experimentieren Sie mit dynamischem Hinzufügen von Abfrageparametern.
 
    ![Screenshot des Hinzufügens von Abfrageparametern](assets/embeddedesignature/embed_3.png)
+
++++
 
 ## Teil 3: Vereinbarung mit einem Formular senden und Daten zusammenführen
 
@@ -110,6 +114,8 @@ Der Code ist recht einfach. Es verwendet ein Bibliotheksdokument (Vorlage) als D
 
 ![Screenshot des Codes zum dynamischen Hinzufügen von Signaturen](assets/embeddedesignature/embed_11.png)
 
++++
+
 ## Teil 4: Einbetten von Signaturerlebnissen, Umleitungen und mehr
 
 In vielen Fällen möchten Sie möglicherweise zulassen, dass der auslösende Teilnehmer eine Vereinbarung sofort unterzeichnet. Dies ist nützlich für kundenorientierte Anwendungen und Terminals.
@@ -135,6 +141,8 @@ Nach dem Aktualisieren des Vereinbarungserstellungsprozesses wird im letzten Sch
 ![Screenshot, der besagt, dass es Best Practice ist, eine Wiederholungsschleife einzurichten](assets/embeddedesignature/embed_15.png)
 
 Wenn alles zusammengestellt ist, ist die Lösung ziemlich einfach. Sie treffen eine Vereinbarung und generieren dann eine Signatur-URL, auf die der Unterzeichner klicken und das Signaturritual beginnen kann.
+
++++
 
 ## Weitere Themen
 
