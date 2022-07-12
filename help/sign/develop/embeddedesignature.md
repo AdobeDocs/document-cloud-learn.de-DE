@@ -7,57 +7,22 @@ topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 60c676687a59e9b8f999b0e71fa9e03e94f043d4
 workflow-type: tm+mt
-source-wordcount: '928'
+source-wordcount: '876'
 ht-degree: 3%
 
 ---
 
 # Integrierte Erlebnisse für elektronische Unterschriften und Dokumente erstellen
 
-Erfahrt, wie ihr mit Acrobat Sign-APIs Erlebnisse für elektronische Unterschriften und Dokumente in eure Web-Plattformen sowie Content- und Dokumentenmanagementsysteme einbettet. Dieses praktische Tutorial besteht aus vier Teilen, die unter den folgenden Links beschrieben werden:
+Erfahrt, wie ihr mit Acrobat Sign-APIs Erlebnisse für elektronische Unterschriften und Dokumente in eure Web-Plattformen sowie Content- und Dokumentenmanagementsysteme einbettet. Dieses praktische Tutorial besteht aus vier Teilen.
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="embeddedesignature.md#part1">
-        <img alt="Was du brauchst" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
-    </a>
-    <div>
-    <a href="embeddedesignature.md#part1"><strong>Teil 1: Was du brauchst</strong></a>
-    </div>
-  </td>
-  <td>
-    <a href="embeddedesignature.md#part2">
-        <img alt="Teil 2: Wenig oder kein Code - die Leistungsfähigkeit von Webformularen" src="assets/embeddedesignature/EmbedPart2_thumb.png" />
-    </a>
-    <div>
-    <a href="embeddedesignature.md#part2"><strong>Teil 2: Wenig oder kein Code - die Leistungsfähigkeit von Webformularen</strong></a>
-    </div>
-  </td>
-  <td>
-   <a href="embeddedesignature.md#part3">
-      <img alt="Teil 3: Vereinbarung mit einem Formular senden, Daten zusammenführen" src="assets/embeddedesignature/EmbedPart3_thumb.png" />
-   </a>
-    <div>
-    <a href="embeddedesignature.md#part3"><strong>Teil 3: Vereinbarung mit einem Formular senden und Daten zusammenführen</strong></a>
-    </div>
-  </td>
-  <td>
-   <a href="embeddedesignature.md#part4">
-      <img alt="Teil 4: Einbetten von Signaturerlebnissen, Umleitungen und mehr" src="assets/embeddedesignature/EmbedPart4_thumb.png" />
-   </a>
-    <div>
-    <a href="embeddedesignature.md#part4"><strong>Teil 4: Einbetten von Signaturerlebnissen, Umleitungen und mehr</strong></a>
-    </div>
-  </td>
-</tr>
-</table>
-
-## Teil 1: Was du brauchst {#part1}
+## Teil 1: Was Sie benötigen
 
 Im ersten Teil lernst du, wie du mit allem anfängst, was du für die Teile 2-4 brauchst. Wir beginnen mit dem Abrufen von API-Zugangsberechtigungen.
+
++++Details zum Abrufen von API-Zugangsberechtigungen anzeigen
 
 * [Acrobat Sign-Entwicklerkonto](https://acrobat.adobe.com/de/de/sign/developer-form.html)
 * [Startcode](https://github.com/benvanderberg/adobe-sign-api-tutorial)
@@ -68,12 +33,15 @@ Im ersten Teil lernst du, wie du mit allem anfängst, was du für die Teile 2-4 
    * Windows - Chocolatey
    * Alle — https://www.python.org/downloads/
 
-## Teil 2: Wenig oder kein Code - die Leistungsfähigkeit von Webformularen {#part2}
+## Teil 2: Wenig oder kein Code - die Leistungsfähigkeit von Webformularen
 
-Im zweiten Teil des Tutorials lernst du, wie du Web-Formulare mit wenig oder gar keinem Code gestalten kannst. Es ist immer ratsam, zu sehen, ob du es zunächst vermeiden kannst, Code zu schreiben.
+Im zweiten Teil des Tutorials lernst du die Optionen kennen, mit denen du Web-Formulare mit wenig oder ohne Code ausfüllen kannst. Es ist immer ratsam, zu sehen, ob du es zunächst vermeiden kannst, Code zu schreiben.
+
++++Anzeigen von Details zum Erstellen eines Webformulars
 
 1. Über das Entwicklerkonto auf Acrobat Sign zugreifen
-1. Klicken **Webformular veröffentlichen** auf der Startseite.
+
+1. Auswählen **Webformular veröffentlichen** auf der Startseite.
 
    ![Screenshot Acrobat Sign Homepage](assets/embeddedesignature/embed_1.png)
 
@@ -82,13 +50,16 @@ Im zweiten Teil des Tutorials lernst du, wie du Web-Formulare mit wenig oder gar
    ![Screenshot der Erstellung eines Webformulars](assets/embeddedesignature/embed_2.png)
 
 1. Betten Sie den Vertrag in eine einfache HTML-Seite ein.
+
 1. Experimentieren Sie mit dynamischem Hinzufügen von Abfrageparametern.
 
    ![Screenshot des Hinzufügens von Abfrageparametern](assets/embeddedesignature/embed_3.png)
 
-## Teil 3: Vereinbarung mit einem Formular senden und Daten zusammenführen {#part3}
+## Teil 3: Vereinbarung mit einem Formular senden und Daten zusammenführen
 
 Im dritten Teil werden Vereinbarungen dynamisch erstellt.
+
++++Details zur dynamischen Erstellung von Vereinbarungen anzeigen
 
 Zuerst müssen Sie den Zugriff einrichten. Mit Acrobat Sign gibt es zwei Möglichkeiten, eine Verbindung über API herzustellen. OAuth-Token und Integrationsschlüssel. Sofern Sie nicht einen ganz bestimmten Grund haben, OAuth mit Ihrer Anwendung zu verwenden, sollten Sie zuerst die Integrationsschlüssel überprüfen.
 
@@ -139,9 +110,11 @@ Der Code ist recht einfach. Es verwendet ein Bibliotheksdokument (Vorlage) als D
 
 ![Screenshot des Codes zum dynamischen Hinzufügen von Signaturen](assets/embeddedesignature/embed_11.png)
 
-## Teil 4: Einbetten von Signaturerlebnissen, Umleitungen und mehr {#part4}
+## Teil 4: Einbetten von Signaturerlebnissen, Umleitungen und mehr
 
 In vielen Fällen möchten Sie möglicherweise zulassen, dass der auslösende Teilnehmer eine Vereinbarung sofort unterzeichnet. Dies ist nützlich für kundenorientierte Anwendungen und Terminals.
+
++++Details zur Einbettung des Signiererlebnisses anzeigen
 
 Wenn Sie nicht möchten, dass die erste sendende E-Mail ausgelöst wird, können Sie das Verhalten einfach verwalten, indem Sie den API-Aufruf ändern.
 
@@ -163,7 +136,7 @@ Nach dem Aktualisieren des Vereinbarungserstellungsprozesses wird im letzten Sch
 
 Wenn alles zusammengestellt ist, ist die Lösung ziemlich einfach. Sie treffen eine Vereinbarung und generieren dann eine Signatur-URL, auf die der Unterzeichner klicken und das Signaturritual beginnen kann.
 
-### Weitere Themen
+## Weitere Themen
 
 * [JS Events](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Webhook-Ereignisse
@@ -179,14 +152,3 @@ Wenn alles zusammengestellt ist, ist die Lösung ziemlich einfach. Sie treffen e
       ![Screenshot der Navigation zu Power Automate](assets/embeddedesignature/embed_16.png)
 
    * Oder fügen Sie eine [während des Fluges](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)
-
-## Weitere Ressourcen
-
-http://bit.ly/Summit21-T126
-
-Umfasst:
-* Acrobat Sign-Entwicklerkonto
-* Acrobat Sign API-Dokumente
-* Beispielcode
-* Visual Studio-Code
-* Python
