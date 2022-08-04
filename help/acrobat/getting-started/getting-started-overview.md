@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '431'
 ht-degree: 6%
 
 ---
@@ -25,12 +25,22 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Grundlagen des Arbeitsbereichs" src="../assets/Workspace_1280.png" />
+      <img alt="Grundlagen des Arbeitsbereichs" src="../assets/NewWorkspace.png" />
     </a>
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Grundlagen des Arbeitsbereichs</strong></a>
     </div>
     <em>Erfahre, wie du über den Arbeitsbereich von Acrobat auf Dateien und Tools zugreifen kannst - auf dem Desktop, im Web, auf deinem Smartphone oder Tablet.</em>
+    <br>
+  </td>
+  <td>
+    <a href="new-workspace.md">
+      <img alt="Neue Arbeitsbereichserfahrung" src="../assets/Acrobatweb_1280.png" />
+    </a>
+    <div>
+    <a href="new-workspace.md"><strong>Neue Arbeitsbereichserfahrung</strong></a>
+    </div>
+    <em>Erfahren Sie mehr über das neue Arbeitsbereichserlebnis, das Sie in Acrobat aktivieren können</em>
     <br>
   </td>
   <td>
@@ -43,7 +53,9 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
     <em>Erfahren Sie, wie Sie mit den Web-Tools von Acrobat in Ihrem Browser von überall aus Anfragen für Geschäftsdokumente bearbeiten können.</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+   <td>
     <a href="productivity.md">
       <img alt="Unterwegs produktiv sein." src="../assets/Productivity_1280.png" />
     </a>
@@ -53,9 +65,7 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
     <em>Mehr Möglichkeiten auf dem Tablet oder Smartphone mit der Acrobat Reader-App</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="../integrate/integrate-overview.md#microsoft">
       <img alt="Arbeiten mit Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
     </a>
@@ -75,6 +85,8 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
     <em>Erweitere deine Projekte, indem du Kommentare einholst, im Team mit anderen zusammenarbeitest und den Fortschritt der Bearbeitung mitverfolgt - in Echtzeit und von überall.</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="combine-to-pdf.md">
       <img alt="Combine Files auf PDF" src="../assets/Combine.jpg" />
@@ -85,9 +97,7 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
     <em>Unterschiedliche Dateitypen auf einer einzigen PDF zusammenführen</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="create-pdf.md">
       <img alt="PDF-Dateien erstellen" src="../assets/Create.jpg" />
     </a>
@@ -107,6 +117,8 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
     <em>PDF-Datei mit Kommentaren versehen und für andere freigeben</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="edit-pdf.md">
       <img alt="Bearbeiten einer PDF-Datei" src="../assets/Edit.jpg" />
@@ -117,8 +129,6 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
     <em>Text und Bilder in PDF-Dateien bearbeiten</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="export-pdf.md">
       <img alt="Exportieren einer PDF in bearbeitbare Formate" src="../assets/Export.jpg" />
@@ -139,7 +149,9 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
     <em>Ein in einem anderen Programm erstelltes Dokument in ein ausfüllbares PDF-Formular umwandeln</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="scan-and-ocr.md">
       <img alt="Scannen und OCR" src="../assets/Scan.jpg" />
     </a>
@@ -149,9 +161,7 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
     <em>Reduzierung großer Dateien und Optimierung Ihrer PDF ohne Qualitätseinbußen bei der Freigabe, Veröffentlichung oder Archivierung</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="organize.md">
       <img alt="Seiten organisieren" src="../assets/Organize.jpg" />
     </a>
@@ -171,6 +181,8 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
     <em>Fügen Sie ein Kennwort auf Ihrem PDF hinzu, um andere vor dem Öffnen oder Bearbeiten der Datei zu schützen</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="fill-and-sign.md">
       <img alt="PDF-Formular ausfüllen und unterschreiben" src="../assets/FillSign_1280.png" />
@@ -181,8 +193,6 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
     <em>PDF-Formular schnell ausfüllen und unterschreiben</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="signatures.md">
       <img alt="Unterschriften einholen" src="../assets/Signatures_1280.png" />
@@ -203,7 +213,9 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
     <em>Immer wissen, welche Dateien auf Unterschriften warten und welche unterschrieben wurden</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="where-do-pdfs-come-from.md">
       <img alt="Woher kommen die PDF?" src="../assets/WherePDFs.jpg" />
     </a>
@@ -211,6 +223,18 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
     <a href="where-do-pdfs-come-from.md"><strong>Woher kommen die PDF?</strong></a>
     </div>
     <em>Woher kommen PDF und ihre Verwendung?</em>
+    <br>
+  </td>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
