@@ -8,17 +8,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 40125.jpg
 exl-id: dc6b8cc8-6d9d-46a0-add2-dc5ada06fbaf
-source-git-commit: 14c0cab2c17cae777e7ea5aaaa97fcc0dfca41f4
+source-git-commit: 74c1d80d2a165240218b9538aee90662634ba35a
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Zum Unterschreiben senden in [!DNL Microsoft Teams]
 
-Hier erfahren Sie, wie Sie Vereinbarungen zum Unterschreiben senden, den Status von Vereinbarungen überprüfen und Erinnerungen direkt aus dem [!DNL Microsoft Teams].
-Dieses Beispiel zeigt, wie ein Hypothekenmakler einen Darlehensantrag direkt in Teams zur Unterzeichnung versendet. Diese enge Integration beschleunigt den Hypothekarkreditprozess - auch bei der Arbeit mit Hypothekenantragstellern in einer Remote-Arbeitsumgebung.
+Hier erfahren Sie, wie Sie Vereinbarungen zum Unterschreiben senden, den Status von Vereinbarungen überprüfen und Erinnerungen direkt aus dem [!DNL Microsoft Teams]. Dieses Beispiel zeigt, wie ein Hypothekenmakler einen Darlehensantrag direkt in Teams zur Unterzeichnung versendet. Diese enge Integration beschleunigt den Hypothekarkreditprozess - auch bei der Arbeit mit Hypothekenantragstellern in einer Remote-Arbeitsumgebung.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346545?hidetitle=true)
 
