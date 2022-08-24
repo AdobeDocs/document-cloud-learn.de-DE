@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 2594c9b50be3801021f89d60f0fc42389a63c86e
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -31,6 +31,16 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
     <a href="quick-tour.md"><strong>Grundlagen des Arbeitsbereichs</strong></a>
     </div>
     <em>Sehen Sie sich kurz den Arbeitsbereich von Acrobat Sign an, um sofort zu arbeiten.</em>
+    <br>
+  </td>
+  <td>
+    <a href="new-sender.md">
+      <img alt="Erste Schritte mit Acrobat Sign für neue Absender" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>Erste Schritte mit Acrobat Sign für neue Absender</strong></a>
+    </div>
+    <em>Dieses umfassende Tutorial ist ein guter Ausgangspunkt für neue Absender in Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -56,13 +66,13 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
 </tr>
 <tr>
   <td>
-    <a href="new-sender.md">
-      <img alt="Erste Schritte mit Acrobat Sign für neue Absender" src="../assets/gettingstartednew.png" />
+    <a href="adding-fields.md">
+      <img alt="Hinzufügen von Feldern zu Ihren Dokumenten" src="../assets/AddingFields.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>Erste Schritte mit Acrobat Sign für neue Absender</strong></a>
+    <a href="adding-fields.md"><strong>Hinzufügen von Feldern zu Ihren Dokumenten</strong></a>
     </div>
-    <em>Dieses umfassende Tutorial ist ein guter Ausgangspunkt für neue Absender in Acrobat Sign</em>
+    <em>Erfahren Sie, wie Sie Ihren Dokumenten verschiedene Feldtypen hinzufügen</em>
     <br>
   </td>
  <td>
@@ -84,6 +94,11 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
     </div>
     <em>Erfahren Sie, wie Sie den Unterzeichner eines Dokuments ändern, das bereits in Bearbeitung ist</em>
      <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
   </td>
 </tr>
 </table>
@@ -122,8 +137,6 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
     <em>Unterschrift einer anderen Person über die mobile Acrobat Sign-App einholen</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="delegate-signing.md">
       <img alt="Unterschrift an eine andere Person delegieren" src="../assets/Delegatesigning.png" />
@@ -134,6 +147,8 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
     <em>Erfahren Sie, wie Sie die Unterzeichnung eines Dokuments an eine andere Person delegieren</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
       <img alt="Was ist eine digitale Signatur?" src="../assets/Whatisdigsig_1280.jpg" />
@@ -154,6 +169,21 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
     <em>Dokumente mit Stempeln als genehmigt oder abgeschlossen markieren</em>
      <br>
   </td> 
+  <td>
+    <a href="sign-with-a-stamp.md">
+      <img alt="Signieren mit einem Stempel" src="../assets/Stamp.png" />
+    </a>
+    <div>
+    <a href="sign-with-a-stamp.md"><strong>Signieren mit einem Stempel</strong></a>
+    </div>
+    <em>Dokumente mit Stempeln als genehmigt oder abgeschlossen markieren</em>
+     <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>  
 </table>
 
@@ -179,6 +209,11 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
     <a href="../sign-advanced-users/create-a-template.md"><strong>Erstellen von Dokumentvorlagen</strong></a>
     </div>
     <em>Wiederverwendbare Dokumentvorlagen erstellen, um Ihrem Unternehmen Geschwindigkeit und Konsistenz zu verleihen</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
