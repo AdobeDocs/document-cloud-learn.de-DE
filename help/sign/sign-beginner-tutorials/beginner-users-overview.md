@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 2594c9b50be3801021f89d60f0fc42389a63c86e
+source-git-commit: 85bbf4b7eca9e08d30fa941869a50bea1b248eb1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '422'
+ht-degree: 1%
 
 ---
 
@@ -66,6 +66,16 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
 </tr>
 <tr>
   <td>
+    <a href="sending-options.md">
+      <img alt="Sendeoptionen konfigurieren" src="../assets/Sendingoptions.png" />
+    </a>
+    <div>
+    <a href="sending-options.md"><strong>Sendeoptionen konfigurieren</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie verschiedene Optionen konfigurieren, wenn Sie ein Dokument zur Signatur senden</em>
+    <br>
+  </td>
+  <td>
     <a href="adding-fields.md">
       <img alt="Hinzufügen von Feldern zu Ihren Dokumenten" src="../assets/AddingFields.png" />
     </a>
@@ -75,7 +85,7 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
     <em>Erfahren Sie, wie Sie Ihren Dokumenten verschiedene Feldtypen hinzufügen</em>
     <br>
   </td>
- <td>
+  <td>
     <a href="modify-in-flight.md">
       <img alt="Ändern eines Dokuments nach dem Senden" src="../assets/Modifying-sending.png" />
     </a>
@@ -85,7 +95,7 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
     <em>Ändern von Dokumenten, die bereits in Bearbeitung sind</em>
     <br>
   </td>
- <td>
+  <td>
     <a href="replace-signer.md">
       <img alt="Unterzeichner ersetzen" src="../assets/replace-signer.png" />
     </a>
@@ -94,11 +104,6 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
     </div>
     <em>Erfahren Sie, wie Sie den Unterzeichner eines Dokuments ändern, das bereits in Bearbeitung ist</em>
      <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
   </td>
 </tr>
 </table>
