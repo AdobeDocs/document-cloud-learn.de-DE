@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: ac39f9930a2ee655afe2643b78cf00277460ac8c
+source-git-commit: e44f36c10c666fc4734df0521dc7c25ae60ce960
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 1%
+source-wordcount: '416'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 ![Administratorabbild für Sign](../assets/Hero-Admin.png)
 
-Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einrichten von Gruppen, das Freigeben des Zugriffs und das Einrichten eines Workflows, eines externen Archivs sowie über freigegebene Ereignisse und Warnungen. Diese Tutorials richten sich an Administratoren, die die Installationsphase bereits hinter sich haben und mit der Verwaltung von Acrobat Sign beginnen können. Unter Erweiterte Aufgaben werden Themen behandelt, die über den Abschnitt Einrichtung des Administrators hinausgehen und in die Definition globaler Einstellungen, den Kontozugriff und die Freigabe sowie die Textkennzeichnung übergehen.
+Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einrichten von Gruppen, das Freigeben des Zugriffs und das Einrichten eines Workflows, eines externen Archivs sowie über freigegebene Ereignisse und Warnungen. Diese Tutorials richten sich an Administratoren, die die Installationsphase bereits hinter sich haben und mit der Verwaltung von Acrobat Sign beginnen können. Unter Erweiterte Aufgaben werden Themen behandelt, die über die Einrichtung des Administrators hinausgehen und sich auf die Definition globaler Einstellungen, den Kontozugriff und die Freigabe sowie die Textformatierung beziehen.
 
 ## Erste Schritte
 
@@ -54,8 +54,6 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
     <em>Benutzer einzeln oder mehrere gleichzeitig zu Ihrem Acrobat Sign-Konto hinzufügen</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-and-manage-groups.md">
       <img alt="Erstellen und Verwalten von Gruppen" src="../assets/Creating-Groups.png" />
@@ -66,7 +64,9 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
     <em>Erstellen von Gruppen, Hinzufügen von Benutzern zu Gruppen und Bearbeiten von Gruppeneinstellungen</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="set-up-your-external-archive.md">
       <img alt="Einrichten eines externen Archivs" src="../assets/ExternalArchive.png" />
     </a>
@@ -86,8 +86,6 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
     <em>Aus Zeitgründen eine wiederverwendbare Dokumentvorlage erstellen</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-a-report.md">
       <img alt="Erstellen eines Berichts" src="../assets/Report.png" />
@@ -95,7 +93,7 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
     <div>
     <a href="create-a-report.md"><strong>Erstellen eines Berichts</strong></a>
     </div>
-    <em>Berichte erstellen und planen, um Einblick in die Nutzung von Acrobat Sign durch Ihr Unternehmen zu gewinnen</em>
+    <em>Berichte erstellen und planen, um Einblick in die Verwendung von Acrobat Sign in Ihrem Unternehmen zu erhalten</em>
     <br>
   </td>
   <td>
@@ -108,6 +106,18 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
     <em>Erstellen Sie ein Dokument, das direkt auf Ihrer Website elektronisch signiert werden kann</em>
     <br>
   </td>
+</tr>
+<tr>
+  <td>
+    <a href="../sign-advanced-users/modify-webform.md">
+      <img alt="Vorhandenes Webformular ändern" src="../assets/Modifywebform.png" />
+    </a>
+    <div>
+    <a href="../sign-advanced-users/modify-webform.md"><strong>Vorhandenes Webformular ändern</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie ein vorhandenes Webformular deaktivieren, bearbeiten und wieder aktivieren</em>
+    <br>
+  </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
       <img alt="Mehrere Signaturen gleichzeitig senden und erfassen" src="../assets/Megasign.png" />
@@ -118,8 +128,6 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
     <em>Mehrere Hundert Unterschriften auf einmal für jedes Dokument einholen</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="Einrichten eines Workflows" src="../assets/BuildingWorkflow.png" />
@@ -128,11 +136,6 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
     <a href="building-a-custom-workflow.md"><strong>Einrichten eines Workflows</strong></a>
     </div>
     <em>Automatisiert Dokumenten-Workflows, um elektronische Unterschriften und Daten schnell einzuholen.</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
@@ -177,8 +180,6 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
     <em>Richten Sie die Kontofreigabe ein, damit Administratoren und Benutzer ihre Sende-, Änderungs- und Anzeigeberechtigungen delegieren können.</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="use-bio-pharma-settings.md">
       <img alt="Verwenden von Bio-Pharma-Einstellungen" src="../assets/Bio_1280.png" />
@@ -189,7 +190,9 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
     <em>Richten Sie Bio-Pharma-Einstellungen ein, die es Ihnen ermöglichen, die Anforderungen von FDA 21 CFR Part 11 zu erfüllen.</em>
     <br>
   </td> 
-  <td>
+</tr>
+<tr>
+   <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
       <img alt="Acrobat Sign Text-Tagging" src="../assets/Text-Tagging.png" />
     </a>
@@ -197,6 +200,16 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign Text-Tagging</strong></a>
     <div>
     <em>Acrobat Sign-Formularfelder durch Text-Tags mit Adobe Acrobat erstellen</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>
