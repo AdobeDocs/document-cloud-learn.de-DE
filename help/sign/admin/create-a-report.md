@@ -1,27 +1,26 @@
 ---
-title: Erstellen eines Berichts
-description: Erfahren Sie, wie Sie Berichte in Acrobat Sign ausführen, speichern und planen.
+title: Erstellen eines Berichtsdiagramms
+description: Erfahren Sie, wie Sie Ihre eigenen benutzerdefinierten Berichte und Datenexporte erstellen, speichern und verwalten.
 role: User, Admin
-product: adobe sign
 level: Intermediate
 thumbnail: 17357.jpg
 exl-id: 337320ae-6e0c-45f9-8e1f-751a293375ad
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 17%
 
 ---
 
-# Erstellen eines Berichts
+# Erstellen eines Berichtsdiagramms
 
-Erfahren Sie, wie Sie Berichte in Acrobat Sign ausführen, speichern und planen.
+Erfahren Sie, wie Sie Ihre eigenen benutzerdefinierten Berichte und Datenexporte erstellen, speichern und in einer personalisierten Ansicht mit dem neuen Berichtserlebnis verwalten. Die Verfügbarkeit von Berichtsdiagrammen hängt von der Berechtigungsstufe der Benutzer im Acrobat Sign-System ab.
 
 >[!NOTE]
 >
 >Die Berichterstellung ist nur für Abos auf Business- und Enterprise-Ebene verfügbar.
 
->[!VIDEO](https://video.tv.adobe.com/v/17357?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33812?hidetitle=true)
 
 >[!TIP]
 >
