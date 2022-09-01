@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
+source-git-commit: 6c54ff6963cfa41b1c486aeb8c94861448abb627
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '403'
 ht-degree: 8%
 
 ---
@@ -20,20 +20,21 @@ ht-degree: 8%
    + [Überall arbeiten - mit Acrobat Web](getting-started/acrobatweb.md)
    + [Unterwegs produktiv sein.](getting-started/productivity.md)
    + [Arbeiten mit [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
-   + [In Echtzeit zusammenarbeiten](getting-started/collaborate.md)
-   + [Combine Files auf PDF](getting-started/combine-to-pdf.md)
+   + [Woher kommen die PDF?](getting-started/where-do-pdfs-come-from.md)
    + [Erstellen einer PDF-Datei](getting-started/create-pdf.md)
-   + [Auf einem PDF kommentieren](getting-started/comment-on-pdf-files.md)
-   + [Bearbeiten einer PDF-Datei](getting-started/edit-pdf.md)
-   + [Exportieren einer PDF in bearbeitbare Formate](getting-started/export-pdf.md)
-   + [Ausfüllbares Formular erstellen](getting-started/create-fillable-forms.md)
-   + [Scannen und OCR](getting-started/scan-and-ocr.md)
+   + [Combine Files auf PDF](getting-started/combine-to-pdf.md)
    + [Seiten organisieren](getting-started/organize.md)
-   + [Protect einer PDF-Datei mit einem Kennwort](getting-started/password-protect.md)
+   + [Bearbeiten einer PDF-Datei](getting-started/edit-pdf.md)
+   + [Layout automatisch anpassen](getting-started/auto-adjust-layout.md)
+   + [Exportieren einer PDF in bearbeitbare Formate](getting-started/export-pdf.md)
+   + [In Echtzeit zusammenarbeiten](getting-started/collaborate.md)
+   + [Auf einem PDF kommentieren](getting-started/comment-on-pdf-files.md)
+   + [Ausfüllbares Formular erstellen](getting-started/create-fillable-forms.md)
    + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
+   + [Scannen und OCR](getting-started/scan-and-ocr.md)
+   + [Protect einer PDF-Datei mit einem Kennwort](getting-started/password-protect.md)
    + [Unterschriften einholen](getting-started/signatures.md)
    + [Dokumente verfolgen](getting-started/track.md)
-   + [Woher kommen die PDF?](getting-started/where-do-pdfs-come-from.md)
 + Erweiterte Aufgaben {#advanced-tasks}
    + [Übersicht](advanced-tasks/advanced-tasks-overview.md)
    + [Hinzufügen von Lesezeichen und Hyperlinks](advanced-tasks/bookmarks.md)
