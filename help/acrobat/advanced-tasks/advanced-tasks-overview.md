@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '343'
 ht-degree: 3%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erlernen, Erfahren Sie, wie Sie eine Aktion erstellen, um Routineaufgaben zu wiederholen, vertrauliche Informationen zu entfernen, große Dateien zu reduzieren und zu optimieren, Formulardaten schnell zu erfassen und universell zugängliche PDF-Dateien zu erstellen.
 
-## Tutorials zu Acrobat
+## Tutorials zu erweiterten Aufgaben
 
 <table style="table-layout:fixed">
 <tr>
@@ -53,9 +53,7 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Produktivität des Dokumenten-Workflows durch den Einsatz benutzerdefinierter Befehle und Werkzeuge verbessern</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="advancedforms.md">
       <img alt="Erweiterte Formularfelder" src="../assets/Advancedforms_1280.png" />
     </a>
@@ -65,6 +63,8 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Fortgeschrittene Techniken zur Erstellung professioneller PDF forms kennenlernen.</em>
     <br>
   </td>
+</tr>
+<tr>
  <td>
     <a href="optimizeseo.md">
       <img alt="Optimizen PDF für SEO (Search Engine Optimization)" src="../assets/seo_1280.png" />
@@ -85,8 +85,6 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Fügen Sie verschiedene Formularfeldtypen hinzu, legen Sie Formularfeldeigenschaften fest und fügen Sie Sicherheit hinzu, um hochwertige, professionelle Formulare zu erstellen</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="enhance.md">
       <img alt="PDF verbessern" src="../assets/Enhance_1280.png" />
@@ -107,6 +105,8 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Schnelle und genaue Erkennung der Unterschiede zwischen zwei PDF-Dateien</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="action.md">
       <img alt="Aktionsassistent" src="../assets/Action.jpg" />
@@ -117,9 +117,7 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <em>Sparen Sie Zeit und Tastenanschläge, indem Sie mithilfe einer Aktion automatisch einen Satz von Befehlen auf eine oder mehrere Dateien anwenden</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="redact.md">
       <img alt="Schwärzen und bereinigen" src="../assets/Redact.jpg" />
     </a>
@@ -172,7 +170,12 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
     <br>
   </td>
   <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td> 
+  <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>  

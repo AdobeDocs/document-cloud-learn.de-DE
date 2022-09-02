@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
+source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -54,8 +54,6 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
     <em>Word-Dateien und -Formulare in PDF konvertieren und automatisch Formularfelder erstellen</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="accessible.md">
       <img alt="Acrobat macht barrierefreie PDF" src="../assets/60sec_Accessible_1280.jpg" />
@@ -66,6 +64,8 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
     <em>Prüfen Sie, ob auf einen PDF zugegriffen werden kann</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="exportwordphone.md">
       <img alt="Export PDF zu Word auf dem Smartphone." src="../assets/60sec_Exportphone_1280.jpg" />
@@ -86,8 +86,6 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
     <em>Konvertieren einer gescannten PDF, sodass Sie auf der PDF nach Text suchen können</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="combine-to-one-pdf.md">
       <img alt="Dateien auf einer PDF zusammenführen" src="../assets/60sec_Combine_1280.jpg" />
@@ -108,6 +106,8 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
     <em>Text und Bilder bearbeiten, ohne die PDF herunterladen zu müssen</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="search.md">
       <img alt="Mehrere PDF-Dateien gleichzeitig durchsuchen" src="../assets/60sec_Search_1280.jpg" />
@@ -118,8 +118,6 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
     <em>Starten Sie eine Suche in einer PDF-Datei, öffnen Sie die erweiterte Suche und suchen Sie einen ganzen Ordner mit PDF-Dateien</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="photo.md">
       <img alt="PDF mit wenigen Klicks erstellen" src="../assets/60sec_Photo_1280.jpg" />
@@ -149,7 +147,7 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
     </div>
     <em>Erfahren Sie, wie Sie mit Adobe Scan ein gedrucktes Formular signieren</em>
     <br>
-  </td>  
+  </td>
 </tr>
 <tr>
   <td>
@@ -181,9 +179,7 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
     </div>
     <em>Erweiterte Grafikbearbeitung auf dem PDF mit Illustrator</em>
     <br>
-  </td> 
-</tr>
-<tr>
+  </td>
   <td>
     <a href="organize.md">
       <img alt="Seiten schnell organisieren." src="../assets/60sec_Organize_1280.jpg" />
@@ -194,15 +190,5 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
     <em>Erfahren Sie, wie Sie das Werkzeug "Seiten verwalten" verwenden, um eine Vogelperspektive auf Ihren PDF zu erhalten</em>
     <br>
   </td>
-  <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>  
 </tr>
 </table>
