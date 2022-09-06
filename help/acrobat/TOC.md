@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 6c54ff6963cfa41b1c486aeb8c94861448abb627
+source-git-commit: 7d25edcbbd49ebc182f74c24fecb2288386204ab
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '406'
 ht-degree: 8%
 
 ---
@@ -24,6 +24,7 @@ ht-degree: 8%
    + [Erstellen einer PDF-Datei](getting-started/create-pdf.md)
    + [Combine Files auf PDF](getting-started/combine-to-pdf.md)
    + [Seiten organisieren](getting-started/organize.md)
+   + [Benutzerdefinierte Seite hinzufügen](getting-started/add-custom-page.md)
    + [Bearbeiten einer PDF-Datei](getting-started/edit-pdf.md)
    + [Layout automatisch anpassen](getting-started/auto-adjust-layout.md)
    + [Exportieren einer PDF in bearbeitbare Formate](getting-started/export-pdf.md)
