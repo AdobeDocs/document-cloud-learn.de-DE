@@ -5,16 +5,16 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-10835.jpg
-source-git-commit: 6c54ff6963cfa41b1c486aeb8c94861448abb627
+source-git-commit: 94aa3f7b6d0d6764bf431c3148ce58edfc2da428
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
 # Layout automatisch anpassen
 
-Erfahren Sie mehr über den neuen Bearbeitungsmodus, mit dem Inhalte umfließen und das Layout auf Seiten Ihres PDF automatisch angepasst wird.
+Erfahren Sie mehr über den neuen Bearbeitungsmodus, mit dem Inhalte umfließen und das Layout auf Seiten Ihres PDF automatisch angepasst wird. In diesem Video-Tutorial wird die Datei [Neuer Arbeitsbereich](new-workspace.md).
 
 >[!NOTE]
 >
