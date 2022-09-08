@@ -6,14 +6,14 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
+source-git-commit: b1bb0e7c027fbd383f8bd0a32ac6d2ffda671941
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 2%
 
 ---
 
-# Seiten organisieren
+# Organisieren von Seiten
 
 Verwendung **[!UICONTROL Seiten verwalten.]** in Acrobat , um Seiten auf Ihrem PDF hinzuzufügen, zu ersetzen, zu extrahieren, zu drehen, zu löschen und zu verschieben.
 
