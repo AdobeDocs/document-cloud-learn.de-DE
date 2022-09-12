@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: b1bb0e7c027fbd383f8bd0a32ac6d2ffda671941
+source-git-commit: 546be0ae0539aa774e51bd7251b46e3f864401c3
 workflow-type: tm+mt
 source-wordcount: '484'
 ht-degree: 7%
@@ -124,12 +124,12 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
     </td>
     <td>
       <a href="organize.md">
-        <img alt="Organisieren von Seiten" src="../assets/Organize.jpg" />
+        <img alt="Organisieren von Seiten" src="../assets/Organize.png" />
       </a>
       <div>
       <a href="organize.md"><strong>Organisieren von Seiten</strong></a>
       </div>
-      <em>Auf dem PDF Seiten hinzufügen, ersetzen, extrahieren, drehen, löschen und verschieben</em>
+      <em>Auf dem PDF können Sie Seiten hinzufügen, ersetzen, extrahieren, drehen, löschen und neu anordnen.</em>
       <br>
     </td>
     <td>
