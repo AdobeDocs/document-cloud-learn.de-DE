@@ -8,14 +8,14 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4827c827ee06c94c38290d5f0e716e8a8328bd48
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '688'
 ht-degree: 1%
 
 ---
 
-# Senden von Benachrichtigungen mit Acrobat Sign für Salesforce und Marketo
+# Benachrichtigungen mit Acrobat Sign für [!DNL Salesforce] und [!DNL Marketo]
 
 Erfahren Sie, wie Sie eine Textnachricht, eine E-Mail oder eine Push-Benachrichtigung senden, um den Unterzeichnern mitzuteilen, dass eine Vereinbarung in Bearbeitung ist, indem Sie Acrobat Sign, Acrobat Sign für Salesforce, Marketo und Marketo Salesforce Sync verwenden. Um Benachrichtigungen von Marketo zu senden, müssen Sie zunächst eine Marketo-SMS-Verwaltungsfunktion erwerben oder konfigurieren. In dieser exemplarischen Vorgehensweise werden [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), aber es sind auch andere Marketo SMS-Lösungen verfügbar.
 
@@ -31,7 +31,7 @@ Erfahren Sie, wie Sie eine Textnachricht, eine E-Mail oder eine Push-Benachricht
 
 ## Benutzerdefiniertes Objekt suchen
 
-Sobald die Konfigurationen von Marketo Salesforce Sync und Acrobat Sign für Salesforce abgeschlossen sind, werden im Marketo Admin-Terminal mehrere neue Optionen angezeigt.
+Sobald die Marketo Salesforce-Synchronisationskonfiguration und die Konfiguration von Acrobat Sign für Salesforce abgeschlossen sind, werden im Marketo Admin-Terminal mehrere neue Optionen angezeigt.
 
 ![Admin](assets/adminTab.png)
 

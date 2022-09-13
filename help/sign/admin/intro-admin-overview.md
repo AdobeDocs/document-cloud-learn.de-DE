@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
+source-git-commit: 0c7bec15754d1d09484762d656f1551da839728b
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 0%
@@ -73,7 +73,7 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
     <div>
     <a href="set-up-your-external-archive.md"><strong>Einrichten eines externen Archivs</strong></a>
     </div>
-    <em>Erstellen eines externen Archivs für Sicherungskopien von Vereinbarungen, die gesendet wurden</em>
+    <em>Erstellen eines externen Archivs für Sicherungskopien von Vereinbarungen, die signiert wurden</em>
     <br>
   </td>
   <td>

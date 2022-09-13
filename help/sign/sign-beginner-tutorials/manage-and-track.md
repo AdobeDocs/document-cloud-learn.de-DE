@@ -7,19 +7,19 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 0c7bec15754d1d09484762d656f1551da839728b
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
 # Vereinbarungen verwalten und verfolgen
 
-Erfahren Sie, wie Sie in Acrobat Sign zum Unterschreiben gesendete Dokumente verwalten und verfolgen. Ihr erhaltet Statusaktualisierungen und Benachrichtigungen in Echtzeit zu jedem Dokument, mit dem ihr arbeitet.
+Erfahren Sie, wie Sie in Acrobat Sign zum Unterschreiben gesendete Dokumente verwalten und verfolgen. Ihr erhaltet Statusaktualisierungen und Benachrichtigungen in Echtzeit für jedes Dokument, das ihr unterschreibt oder zum Unterschreiben versendet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338695?hidetitle=true)
 
 >[!TIP]
 >
->Dieses Video ist Teil des Kurses [Erste Schritte mit Acrobat Sign.](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) das auf Experience League kostenlos erhältlich ist!
+>Dieses Video ist Teil des Kurses [Erste Schritte mit Acrobat Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) das auf Experience League kostenlos erhältlich ist!
