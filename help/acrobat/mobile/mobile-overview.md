@@ -8,9 +8,9 @@ topic-revisit: mobile
 thumbnail: KT-6863.jpg
 kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 790253a6c1bf5a7e1dbb2e526b8d8b3d3825396e
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,33 @@ Erstelle, fülle und unterschreibe PDF auf deinem Smartphone oder Tablet.
      <a href="../getting-started/productivity.md"><strong>Unterwegs produktiv sein.</strong></a>
     </div>
     <em>Mehr Möglichkeiten auf dem Tablet oder Smartphone mit der Acrobat Reader-App</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+## Tutorials zu Adobe Scan-Apps
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="scan-mobile-app.md">
+      <img alt="Alles auf PDF scannen" src="../assets/Scanmobile.png" />
+    </a>
+    <div>
+     <a href="scan-mobile-app.md"><strong>Alles auf PDF scannen</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie ein Papierdokument mit der kostenlosen mobilen Adobe Scan-App in eine PDF-Datei konvertieren</em>
     <br>
   </td>
   <td>

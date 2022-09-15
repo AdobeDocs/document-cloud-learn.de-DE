@@ -2,10 +2,10 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 7d25edcbbd49ebc182f74c24fecb2288386204ab
+source-git-commit: 3b2b8993fefea4a719cb0a642245d9339684eebf
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 8%
+source-wordcount: '410'
+ht-degree: 9%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 8%
    + [Auf einem PDF kommentieren](getting-started/comment-on-pdf-files.md)
    + [Ausfüllbares Formular erstellen](getting-started/create-fillable-forms.md)
    + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
-   + [Scannen und OCR](getting-started/scan-and-ocr.md)
+   + [Scan &amp; OCR](getting-started/scan-and-ocr.md)
    + [Protect einer PDF-Datei mit einem Kennwort](getting-started/password-protect.md)
    + [Unterschriften einholen](getting-started/signatures.md)
    + [Dokumente verfolgen](getting-started/track.md)
@@ -114,3 +114,4 @@ ht-degree: 8%
 + Mobil {#mobile}
    + [Übersicht](mobile/mobile-overview.md)
    + [Unterwegs produktiv sein.](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
+   + [Alles auf PDF scannen](mobile/scan-mobile-app.md)
