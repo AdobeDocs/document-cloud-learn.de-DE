@@ -1,20 +1,23 @@
 ---
-title: Produktivität unterwegs
-description: Mit der Acrobat Reader-App für Mobilgeräte von Ihrem Tablet oder Mobiltelefon aus mehr erreichen
+title: Unterwegs produktiv sein.
+description: Mehr Möglichkeiten auf dem Tablet oder Smartphone mit der Acrobat Reader-App
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-9155.jpg
 kt: 9155
-source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
+exl-id: 143170eb-09c6-4b13-90d3-ab1a658d1572
+source-git-commit: 8de1e15d50d0c89dd5f90d6fea12b4edab7d11c8
 workflow-type: tm+mt
-source-wordcount: '38'
+source-wordcount: '48'
 ht-degree: 0%
 
 ---
 
-# Produktivität unterwegs
+# Unterwegs produktiv sein.
 
-Machen Sie mit der Acrobat Reader-App mehr aus Ihrem Tablet oder Mobiltelefon.
+Mehr Möglichkeiten auf dem Tablet oder Smartphone mit der Acrobat Reader-App.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337972?hidetitle=true)
+
+![QR-Code](../assets/Acrobatqrcode.jpg)      Scannen Sie den QR-Code, um die App zu erhalten.
