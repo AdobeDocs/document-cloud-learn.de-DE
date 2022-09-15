@@ -5,7 +5,7 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-10838.jpg
-source-git-commit: 8de1e15d50d0c89dd5f90d6fea12b4edab7d11c8
+source-git-commit: 875f3076c9c1b77a0e86786374fbb14cd1b34cc8
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -18,4 +18,6 @@ Erfahre, wie du mit der kostenlosen Adobe Scan-App jedes Papierdokument in einen
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409254?hidetitle=true)
 
-![QR-Code](../assets/Scanqrcode.jpg)      Scannen Sie den QR-Code, um die App zu erhalten.
+![QR-Code](../assets/Scanqrcode.jpg)
+
+Scannen Sie den QR-Code, um die App zu erhalten.
