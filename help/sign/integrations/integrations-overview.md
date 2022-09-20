@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 16514daae1250663dcee1e441873ac07ee9a3906
+source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -120,12 +120,12 @@ Sie können Acrobat Sign in anderen Anwendungen verwenden, die Ihre Organisation
 <tr>
   <td>
     <a href="create-an-agreement-template.md">
-      <img alt="Erstellen einer Dokumentvorlage in Acrobat Sign für Salesforce" src="../assets/SF-Template.png" />
+      <img alt="Erfahren Sie, wie Sie mit Document Builder für [!DNL Salesforce]" src="../assets/SF-Template.png" />
     </a>
     <div>
-    <a href="create-an-agreement-template.md"><strong>Erstellen einer Dokumentvorlage in Acrobat Sign für Salesforce</strong></a>
+    <a href="create-an-agreement-template.md"><strong>Erfahren Sie, wie Sie mit Document Builder für [!DNL Salesforce]</strong></a>
     </div>
-    <em>Wiederverwendbare Dokumentvorlage erstellen, um Geschwindigkeit und Konsistenz sicherzustellen</em>
+    <em>Erfahren Sie, wie Sie mit Document Builder für [!DNL Salesforce]</em>
     <br>
   </td>
   <td>
@@ -140,12 +140,12 @@ Sie können Acrobat Sign in anderen Anwendungen verwenden, die Ihre Organisation
   </td>
   <td>
     <a href="set-up-merging-map.md">
-      <img alt="Einrichten von Zusammenführungszuordnungen" src="../assets/SF-MergeMapping.png" />
+      <img alt="Einrichten der Zusammenführungszuordnung in Salesforce" src="../assets/SF-MergeMapping.png" />
     </a>
     <div>
-    <a href="set-up-merging-map.md"><strong>Einrichten von Zusammenführungszuordnungen</strong></a>
+    <a href="set-up-merging-map.md"><strong>Einrichten der Zusammenführungszuordnung in Salesforce</strong></a>
     </div>
-    <em>Führen Sie Salesforce-Daten direkt in einer Vereinbarung zusammen</em>
+    <em>Erfahren Sie, wie Sie Salesforce-Daten direkt in einem Acrobat Sign-Dokument zusammenführen</em>
     <br>
   </td>
 </tr>

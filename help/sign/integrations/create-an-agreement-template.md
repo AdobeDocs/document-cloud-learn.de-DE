@@ -1,22 +1,22 @@
 ---
-title: Erstellen einer Dokumentvorlage in Acrobat Sign für Salesforce
-description: Erfahren Sie, wie Sie eine wiederverwendbare Dokumentvorlage erstellen, um Geschwindigkeit und Konsistenz sicherzustellen.
+title: Document Builder für [!DNL Salesforce]
+description: Erfahren Sie, wie Sie mit Document Builder für Salesforce eine wiederverwendbare Dokumentvorlage erstellen.
 role: User, Admin
 product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 topic-revisit: Integrations
-thumbnail: 17349.jpg
+thumbnail: KT-10598.jpg
 exl-id: c97d0652-fee5-4533-8567-377e04eabbf2
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# Erstellen einer Dokumentvorlage in Acrobat Sign für [!DNL Salesforce]
+# Document Builder für [!DNL Salesforce]
 
-Erfahren Sie, wie Sie eine Dokumentvorlage für Acrobat Sign in [!DNL Salesforce]. Dokumentvorlagen bieten Geschwindigkeit und Konsistenz bei Ihren Sign-Transaktionen und ermöglichen die Verwaltung von Dokumentänderungen und -änderungen.
+Erfahren Sie, wie Sie mit Document Builder für Salesforce eine wiederverwendbare Dokumentvorlage erstellen. Wiederverwendbare Dokumentvorlagen ermöglichen eine schnelle und konsistente Verwaltung von Sign-Transaktionen und ermöglichen zudem die Verwaltung von Dokumentversionen und -änderungen.
 
->[!VIDEO](https://video.tv.adobe.com/v/17349?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409414?hidetitle=true)
