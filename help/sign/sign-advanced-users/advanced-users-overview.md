@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 4c797e03a02a71bafe1fb3d38c35af88909d4e03
+source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 3%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -113,6 +113,16 @@ Erfahren Sie, wie Sie ein Dokument zur Signatur an Hunderte von Empfängern glei
 
 <table style="table-layout:fixed">
 <tr>
+<td>
+    <a href="creating-a-report.md">
+      <img alt="Erstellen eines Berichts" src="../assets/Report.png" />
+    </a>
+    <div>
+    <a href="creating-a-report.md"><strong>Erstellen eines Berichts</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie eigene Berichte erstellen, um Einblick in den Signiervorgang zu erhalten</em>
+    <br>
+  </td>
   <td>
     <a href="edit-a-template.md">
       <img alt="Verwalten von Dokumentvorlagen" src="../assets/ManageTemplate.png" />
@@ -134,19 +144,14 @@ Erfahren Sie, wie Sie ein Dokument zur Signatur an Hunderte von Empfängern glei
     <br>
   </td>  
   <td>
-    <a href="creating-a-report.md">
-      <img alt="Erstellen eines Berichts" src="../assets/Report.png" />
+    <a href="manage-webform-data.md">
+      <img alt="Verwalten von Webformulardaten" src="../assets/Managewebform.png" />
     </a>
     <div>
-    <a href="creating-a-report.md"><strong>Erstellen eines Berichts</strong></a>
+    <a href="manage-webform-data.md"><strong>Verwalten von Webformulardaten</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie eigene Berichte erstellen, um Einblick in den Signiervorgang zu erhalten</em>
+    <em>Erfahren Sie, wie Sie Daten aus einem Webformular nachverfolgen, verwalten und exportieren.</em>
     <br>
   </td>  
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
 </table>

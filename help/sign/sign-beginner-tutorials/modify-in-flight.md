@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: 600c63c455acf3f4d0884b62a883b7ed94670fe9
+source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Erfahren Sie, wie Sie ein Dokument ändern, das bereits zum Unterschreiben verse
 
 >[!NOTE]
 >
->Das Ändern eines Dokuments nach dem Senden ist nur für Abos auf Enterprise-Ebene verfügbar. Ihr Acrobat Sign-Administrator muss möglicherweise die Option **Vereinbarungen ändern** in der **Sendeeinstellungen** Abschnitt des **Kontoeinstellungen** , um diese Funktion zu verwenden.
+>Das Ändern eines Dokuments nach dem Senden ist nur für Abos auf Enterprise-Ebene verfügbar. Ihr Acrobat Sign-Administrator muss **Vereinbarungen ändern** in der **Sendeeinstellungen** Abschnitt des **Kontoeinstellungen** , um diese Funktion zu verwenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342299?hidetitle=true)
 
