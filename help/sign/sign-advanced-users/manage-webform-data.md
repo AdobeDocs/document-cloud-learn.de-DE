@@ -6,9 +6,9 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-10981.jpg
-source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
+source-git-commit: 23ca497130a78091219ba3a611a37658f10ea629
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ Erfahren Sie, wie Sie Daten in einem [Webformular](webform.md). Dieses Tutorial 
 
 >[!NOTE]
 >
->Ihr Acrobat Sign-Administrator muss **Weitere Teilnehmer zulassen** in der **Webformulare** Abschnitt des **Globale Einstellungen** , um den Workflow für zusätzliche Teilnehmer zu verwenden.
+>Nur Abos der Business- und Enterprise-Ebene haben die Möglichkeit, Webformularzugriff und Unterzeichneroptionen zu konfigurieren. Die Webformularzugriff- und Signaturgeberoptionen werden auf Konto- oder Gruppenebene unter Konto > Kontoeinstellungen > Globale Einstellungen > Webformulare aktiviert oder deaktiviert.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409607?hidetitle=true)
