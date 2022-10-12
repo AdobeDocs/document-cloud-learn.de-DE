@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
+source-git-commit: a58a3fd44e87b1e07aca9471fe713b51c1e05365
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '448'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
     <div>
     <a href="get-started-admin.md"><strong>Erste Schritte für neue Administratoren</strong></a>
     </div>
-    <em>In diesem umfassenden Video-Handbuch erfahren Sie mehr über alle Tools, die Sie für die Einführung von Acrobat Sign in Ihrem Unternehmen benötigen.</em>
+    <em>In diesem umfassenden Video-Leitfaden erfahrt ihr, welche Tools für die Einführung von Acrobat Sign in eurem Unternehmen erforderlich sind.</em>
     <br>
   </td>
   <td>
