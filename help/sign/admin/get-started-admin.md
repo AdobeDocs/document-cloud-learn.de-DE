@@ -5,9 +5,9 @@ role: Admin
 product: adobe sign
 level: Beginner
 thumbnail: KT-11289.jpg
-source-git-commit: b5f9e469d0e26fa4a9ef97b2d273f76ed590bad6
+source-git-commit: 0e2bde4dcecc7315fd233c7a5056c1e14456fd98
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -25,9 +25,8 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60"><strong>Zugriff auf die Admin Console</strong></a>
-        </div>
+         <br>
         <em>13:00</em>
-        <br>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105">
@@ -36,9 +35,8 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105"><strong>Berechtigung von Acrobat Sign für einen Benutzer</strong></a>
-        </div>
-        <em>13:45</em>
         <br>
+        <em>13:45</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191">
@@ -47,9 +45,8 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191"><strong>Überblick über das Acrobat Sign-Webportal</strong></a>
-        </div>
-        <em>03:11</em>
         <br>
+        <em>03:11</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358">
@@ -58,9 +55,8 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358"><strong>Globale Einstellungen und Konfigurationen</strong></a>
-        </div>
-        <em>05:58</em>
         <br>
+        <em>05:58</em>
     </td>
   </tr>
   </table>
