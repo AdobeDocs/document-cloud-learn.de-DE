@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: ccca5df76b9cfb5864d850f1e84f2f8a54bcdb3a
+source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,16 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="get-started-admin.md">
+      <img alt="Erste Schritte für neue Administratoren" src="../assets/Gettingstartedadmin_1280.png" />
+    </a>
+    <div>
+    <a href="get-started-admin.md"><strong>Erste Schritte für neue Administratoren</strong></a>
+    </div>
+    <em>In diesem umfassenden Video-Handbuch erfahren Sie mehr über alle Tools, die Sie für die Einführung von Acrobat Sign in Ihrem Unternehmen benötigen.</em>
+    <br>
+  </td>
   <td>
     <a href="up-and-running-admin.md">
       <img alt="Einstieg in Administratoren" src="../assets/Up-Running.png" />
@@ -54,7 +64,9 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
     <em>Benutzer einzeln oder mehrere gleichzeitig zu Ihrem Acrobat Sign-Konto hinzufügen</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="create-and-manage-groups.md">
       <img alt="Erstellen und Verwalten von Gruppen" src="../assets/Creating-Groups.png" />
     </a>
@@ -64,9 +76,7 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
     <em>Erstellen von Gruppen, Hinzufügen von Benutzern zu Gruppen und Bearbeiten von Gruppeneinstellungen</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="set-up-your-external-archive.md">
       <img alt="Einrichten eines externen Archivs" src="../assets/ExternalArchive.png" />
     </a>
@@ -96,6 +106,8 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
     <em>Erfahren Sie, wie Sie Ihre eigenen benutzerdefinierten Berichte und Datenexporte erstellen, speichern und verwalten.</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="Erstellen eines Webformulars" src="../assets/Webform.png" />
@@ -106,8 +118,6 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
     <em>Erstellen Sie ein Dokument, das direkt auf Ihrer Website elektronisch signiert werden kann</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="Vorhandenes Webformular ändern" src="../assets/Modifywebform.png" />
@@ -128,7 +138,7 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
     <em>Mehrere Hundert Unterschriften auf einmal für jedes Dokument einholen</em>
     <br>
   </td>
-  <td>
+   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="Einrichten eines Workflows" src="../assets/BuildingWorkflow.png" />
     </a>
@@ -136,11 +146,6 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
     <a href="building-a-custom-workflow.md"><strong>Einrichten eines Workflows</strong></a>
     </div>
     <em>Automatisiert Dokumenten-Workflows, um elektronische Unterschriften und Daten schnell einzuholen.</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
