@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 5a3fb2653be5123db740962ffce0d45f6ab71538
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Digitales ID-Bild unterschreiben](../assets/Hero-DigitalID.png)
 
-Ähnlich wie ein Reisepass in elektronischer Form ermöglicht Ihnen eine digitale Identität (digitale ID) den sicheren Nachweis, dass Sie derjenige sind, der Sie vorgeben zu sein. Eine digitale ID bietet zudem bei der elektronischen Unterzeichnung in Acrobat Sign eine größere Sicherheit, dass Sie die elektronische Signatur für das betreffende Dokument autorisiert haben. Die folgenden Tutorials zeigen Ihnen, wie Sie digitale IDs aus der ganzen Welt mit Acrobat Sign verwenden.
+Ähnlich wie ein Reisepass in elektronischer Form ermöglicht Ihnen eine digitale Identität (digitale ID) den sicheren Nachweis, dass Sie derjenige sind, der Sie vorgeben zu sein. Eine digitale ID bietet zusätzliche Sicherheit bei der elektronischen Unterzeichnung in Acrobat Sign, wenn du die Autorisierung deiner elektronischen Unterschrift auf einem bestimmten Dokument vorgenommen hast. Die folgenden Tutorials zeigen Ihnen, wie Sie digitale IDs aus der ganzen Welt mit Acrobat Sign verwenden.
 
 >[!NOTE]
 >
@@ -82,6 +82,23 @@ ht-degree: 0%
   </td>
 </tr>
 </table>
+
+## [!DNL D-Trust]
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="d-trust.md">
+      <img alt="Registrieren und signieren Sie mit D-Trust" src="assets/Dtrust.png" />
+    </a>
+    <div>
+    <a href="d-trust.md"><strong>Registrieren und signieren Sie mit D-Trust</strong></a>
+    </div>
+    <em>Weitere Informationen zur Registrierung Ihrer Identität bei [!DNL D-Trust], und verwenden Sie dann den Katalog [!DNL D-Trust] Unterschreiben eines Dokuments in Acrobat Sign</em>
+    <br>
+  </td>
+  </tr>
+  </table>
 
 ## [!DNL Intesi Group]
 
