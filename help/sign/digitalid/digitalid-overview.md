@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: b5f60a8d6607b5ecdbd5a0da6e4877a9bae1c2cf
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,11 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Bevor Sie eine digitale ID mit einer Cloud-Signatur verwenden können, fragen Sie den Administrator Ihres Unternehmens, ob die Lösung des Anbieters in Acrobat Sign aktiviert ist.
+
+## Neuerungen
+
+* [Registrieren und signieren Sie mit D-Trust](d-trust.md)
+Weitere Informationen zur Registrierung Ihrer Identität bei [!DNL D-Trust], und verwenden Sie dann den Katalog [!DNL D-Trust] Unterschreiben eines Dokuments in Acrobat Sign
 
 ## [!DNL Aadhaar]
 

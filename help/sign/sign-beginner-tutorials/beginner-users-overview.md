@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 2a81d3fe9dcdbe239d6f7957b2641473137a585e
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '440'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,13 @@ ht-degree: 1%
 ![Bild zu den ersten Schritten in Sign](../assets/Hero-GettingStarted.png)
 
 Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versendest, unterschreibst und nachverfolgst. Verschaffen Sie sich einen Überblick über Acrobat Sign, und versenden Sie das Dokument an eine oder mehrere Personen. Dieser Inhalt soll Ihnen den Einstieg in E-Signatur-Workflows erleichtern.
+
+## Neuerungen
+
+* [Mit Stempel unterschreiben](sign-with-a-stamp.md)
+Erfahren Sie, wie Sie Stempel verwenden, um ein Dokument als genehmigt oder abgeschlossen zu markieren
+* [Unterzeichner ersetzen](replace-signer.md)
+Erfahren Sie, wie Sie den Unterzeichner eines Dokuments ändern, das bereits in Bearbeitung ist
 
 ## Senden
 
