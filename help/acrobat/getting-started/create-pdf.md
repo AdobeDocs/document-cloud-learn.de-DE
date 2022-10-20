@@ -1,20 +1,26 @@
 ---
 title: Erstellen einer PDF-Datei
-description: PDF aus verschiedenen Dokumenttypen erstellen
+description: PDF aus allen Dokumenttypen erstellen
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
+source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 12%
+source-wordcount: '72'
+ht-degree: 8%
 
 ---
 
 # Erstellen einer PDF-Datei
 
-Erfahren Sie, wie Sie PDF aus verschiedenen Dokumenttypen erstellen. Beginnen Sie mit einer Datei, die in Microsoft Office oder einer Creative Cloud-App erstellt wurde, oder verwenden Sie ein Bild, einen Scan oder sogar eine Website.
+Lernen Sie, wie Sie PDF aus verschiedenen Dokumenttypen erstellen können. Beginnen Sie mit einer in Microsoft Office erstellten Datei oder einer Creative Cloud-App, oder verwenden Sie ein Bild, einen Scan oder sogar eine Website.
+
+>[!TIP]
+>
+>Benutzen Sie Microsoft Office ständig? Hier [Integrationen](../integrate/integrate-overview.md#microsoft) , mit denen Sie PDF direkt in Ihren bevorzugten Office-Anwendungen erstellen können.
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/35491?hidetitle=true)

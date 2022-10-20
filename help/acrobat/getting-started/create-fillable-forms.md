@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6831.jpg
 exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
-source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
+source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -36,3 +36,7 @@ Wandeln Sie ein gescanntes Papierformular oder ein in einer InDesign-, Microsoft
 1. Auswählen **[!UICONTROL Bearbeiten]** , um die Arbeit fortzusetzen, oder wählen Sie **[!UICONTROL Datei]** **>** **[!UICONTROL Speichern unter]** , um das PDF-Formular zu speichern.
 
    ![Formularschritt 4](../assets/Form_4.png)
+
+>[!TIP]
+>
+>Hier könnt ihr Formulare genauer ausarbeiten. [fortgeschrittene Techniken](../advanced-tasks/advancedforms.md).
