@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 3b2b8993fefea4a719cb0a642245d9339684eebf
+source-git-commit: c8d43af1f50591c26325fa4e1fd50115eae6e3be
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 9%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 9%
    + [Combine Files auf PDF](getting-started/combine-to-pdf.md)
    + [Seiten organisieren](getting-started/organize.md)
    + [Benutzerdefinierte Seite hinzufügen](getting-started/add-custom-page.md)
-   + [Bearbeiten einer PDF-Datei](getting-started/edit-pdf.md)
+   + [PDF bearbeiten](getting-started/edit-pdf.md)
    + [Layout automatisch anpassen](getting-started/auto-adjust-layout.md)
    + [Exportieren einer PDF in bearbeitbare Formate](getting-started/export-pdf.md)
    + [In Echtzeit zusammenarbeiten](getting-started/collaborate.md)
@@ -85,10 +85,11 @@ ht-degree: 9%
    + [PDF erstellen aus [!DNL Microsoft Word]](integrate/createfromword.md)
    + [PDF erstellen in [!DNL Office] für das Web](integrate/createofficeweb.md)
    + [PDF-Zusammenarbeit in [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
-   + [Arbeiten mit SharePoint-Dateien](integrate/acrobatandsp.md)
-   + [Konvertieren von E-Mail-Nachrichten und Anhängen in PDF in Outlook](integrate/outlook.md)
-   + [Erstellen von PDF-Inhalten beim Durchsuchen von Microsoft Edge](integrate/edge.md)
-   + [Adobe Acrobat für Google Drive](integrate/acrobatandgoogle.md)
+   + [Arbeite mit deinen [!DNL SharePoint] files](integrate/acrobatandsp.md)
+   + [E-Mail-Nachrichten und Anhänge in PDF-Dateien konvertieren [!DNL Outlook]](integrate/outlook.md)
+   + [Erstellen Sie PDF-Inhalte beim Durchsuchen mit [!DNL Microsoft Edge]](integrate/edge.md)
+   + [Adobe Acrobat für [!DNL Google Drive]](integrate/acrobatandgoogle.md)
+   + [Arbeiten mit Dateien aus [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + Branchen und Abteilungen {#by-industry}
    + [Übersicht](industry/industry-overview.md)
    + Regierungseinrichtungen {#gov}
