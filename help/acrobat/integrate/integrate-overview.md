@@ -7,10 +7,10 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: b3e77a9a056caf743f1affa2f1e93d9ce9cda04a
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -56,8 +56,6 @@ Erfahre, wie alle Team-Mitglieder mit PDF-Dateien arbeiten können - direkt in [
     <em>Optimierung von Dokumenten-Workflows mit [!DNL SharePoint] und Acrobat</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="acrobatandteams.md">
       <img alt="PDF-Zusammenarbeit in [!DNL Microsoft Teams]" src="../assets/MicrosoftTeams.png" />
@@ -68,6 +66,8 @@ Erfahre, wie alle Team-Mitglieder mit PDF-Dateien arbeiten können - direkt in [
     <em>Sie können mit Kollegen zusammenarbeiten, indem Sie PDF anzeigen, kommentieren und überprüfen, ohne jemals [!DNL Microsoft Teams]</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="outlook.md">
       <img alt="Konvertieren von E-Mail-Nachrichten und Anhängen in PDF in Outlook" src="../assets/Outlook.jpg" />
@@ -86,6 +86,11 @@ Erfahre, wie alle Team-Mitglieder mit PDF-Dateien arbeiten können - direkt in [
     <a href="edge.md"><strong>Erstellen Sie PDF-Inhalte beim Durchsuchen mit [!DNL Microsoft Edge]</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie Webseiten mit der Adobe Acrobat-Erweiterung für [!DNL Microsoft Edge]</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>
