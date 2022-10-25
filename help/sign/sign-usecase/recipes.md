@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: dd27b6a410af8397fe0d7315fd284bae8a586ab9
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -56,8 +56,6 @@ Beschleunigt die digitalen Workflows in eurem Unternehmen mit diesen Beispielen 
     <em>Ersetzen Sie die Papierverarbeitung schnell durch standardkonforme digitale Workflows mit Prüfberichten</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="usecasegovreemployment.md">
       <img alt="Beschäftigungsbeihilfe" src="../assets/UC_WebformsR.png" />
@@ -68,6 +66,8 @@ Beschleunigt die digitalen Workflows in eurem Unternehmen mit diesen Beispielen 
     <em>Helft Bürgern, die benötigte Hilfe zu erhalten, ohne mit Formularen für vollständig digitale Anträge in Kontakt zu stehen, die in wenigen Tagen ausgefüllt werden können</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="usecasegovpaycheck.md">
       <img alt="Gehaltsscheckschutz" src="../assets/UC_PaycheckProtectionR.png" />
@@ -86,6 +86,16 @@ Beschleunigt die digitalen Workflows in eurem Unternehmen mit diesen Beispielen 
     <a href="usecasegovremote.md"><strong>Remote-Warrant-Anfrage</strong></a>
     </div>
     <em>Verwendet elektronische Unterschriften und Web-Konferenzen zusammen, um die Beantragung und Sicherung von Haftbefehlen durch Richter zu beschleunigen</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -123,6 +133,11 @@ Beschleunigt die digitalen Workflows in eurem Unternehmen mit diesen Beispielen 
     <a href="usecasecomtelework.md"><strong>Telearbeit</strong></a>
     </div>
     <em>Alle Mitarbeiter über Telearbeit informieren und Unterschriften einholen</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

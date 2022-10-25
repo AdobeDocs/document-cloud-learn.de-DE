@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '587'
 ht-degree: 0%
 
 ---
@@ -64,9 +64,7 @@ Erfahren Sie, wie Sie mit Document Builder für Salesforce eine wiederverwendbar
     <em>Ein Dokument direkt in SharePoint Online zum Unterschreiben senden</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="track-an-agreement-with-sharepoint-online.md">
       <img alt="Tracking in SharePoint Online" src="../assets/MS-TrackSP.png" />
     </a>
@@ -76,6 +74,8 @@ Erfahren Sie, wie Sie mit Document Builder für Salesforce eine wiederverwendbar
     <em>Vereinbarungsfortschritt direkt in Microsoft SharePoint verfolgen</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="adobe-sign-teams-mortgage.md">
       <img alt="Senden von Dokumenten zum Unterschreiben in [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
@@ -96,8 +96,6 @@ Erfahren Sie, wie Sie mit Document Builder für Salesforce eine wiederverwendbar
     <em>Hier erfahren Sie, wie Sie unterzeichnete Dokumente automatisch in einer [!DNL SharePoint] Bibliothek mit [!DNL Power Automate]</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="documentautomation.md">
       <img alt="Dokumentautomatisierung mit [!DNL Acrobat Sign for Microsoft Power Platform]" src="../assets/SF-Button.png" />
@@ -106,16 +104,6 @@ Erfahren Sie, wie Sie mit Document Builder für Salesforce eine wiederverwendbar
     <a href="documentautomation.md"><strong>Dokumentautomatisierung mit [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie die [!DNL Acrobat Sign] und [!DNL Adobe PDF Tools] Steckverbinder für [!DNL Microsoft Power] Apps</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -155,8 +143,6 @@ Erfahren Sie, wie Sie mit Document Builder für Salesforce eine wiederverwendbar
     <em>Erfahren Sie, wie Sie Salesforce-Daten direkt in einem Acrobat Sign-Dokument zusammenführen</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-a-custom-button.md">
       <img alt="Erstellen einer benutzerdefinierten Schaltfläche" src="../assets/SF-Button.png" />
@@ -165,16 +151,6 @@ Erfahren Sie, wie Sie mit Document Builder für Salesforce eine wiederverwendbar
     <a href="create-a-custom-button.md"><strong>Erstellen einer benutzerdefinierten Schaltfläche</strong></a>
     </div>
     <em>Erstellen Sie eine benutzerdefinierte Schaltfläche, die den Sendevorgang startet und eine Vereinbarung in Salesforce automatisch ausfüllt.</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -192,6 +168,11 @@ Erfahren Sie, wie Sie mit Document Builder für Salesforce eine wiederverwendbar
     <a href="workday.md"><strong>Konfigurieren von Acrobat Sign mit Workday</strong></a>
     </div>
     <em>Hier erfahren Sie, wie Sie Acrobat Sign so konfigurieren, dass es direkt in Workday funktioniert, um all Ihre Personalunterlagen nahtlos zu verwalten.</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -241,9 +222,7 @@ Erfahren Sie, wie Sie mit Document Builder für Salesforce eine wiederverwendbar
     <em>Erfahren Sie, wie Sie eine E-Mail-Erinnerung von Marketo senden, wenn ein Vertrag nach einem bestimmten Zeitraum nicht signiert wird.</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="marketo-dynamics-reminder.md">
       <img alt="Mit Acrobat Sign für Microsoft Dynamics und Marketo Erinnerungen versenden" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
@@ -253,6 +232,8 @@ Erfahren Sie, wie Sie mit Document Builder für Salesforce eine wiederverwendbar
     <em>Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung senden, wenn eine Vereinbarung nach einer bestimmten Zeit nicht signiert wird.</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="marketo-dynamics-sms.md">
       <img alt="Senden von Benachrichtigungen mit Acrobat Sign für Microsoft Dynamics und Marketo" src="../assets/Integrate-Dynamics-SMS.jpg" />
@@ -261,6 +242,16 @@ Erfahren Sie, wie Sie mit Document Builder für Salesforce eine wiederverwendbar
     <a href="marketo-dynamics-sms.md"><strong>Senden von Benachrichtigungen mit Acrobat Sign für Microsoft Dynamics und Marketo</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie eine Textnachricht, eine E-Mail oder eine Push-Benachrichtigung senden, damit der Unterzeichner weiß, dass eine Vereinbarung in Bearbeitung ist.</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>

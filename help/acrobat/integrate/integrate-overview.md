@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '302'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ Erfahre, wie alle Team-Mitglieder mit PDF-Dateien arbeiten können - direkt in [
     </div>
     <em>Erfahren Sie, wie Sie PDF-Dateien erstellen können, ohne Ihr [!DNL Microsoft Office] für Web-Anwendungen</em>
     <br>
-  </td>  
+  </td> 
   <td>
     <a href="acrobatandsp.md">
       <img alt="Arbeite mit deinen [!DNL SharePoint] files" src="../assets/SharePoint.png" />
@@ -55,7 +55,7 @@ Erfahre, wie alle Team-Mitglieder mit PDF-Dateien arbeiten können - direkt in [
     </div>
     <em>Optimierung von Dokumenten-Workflows mit [!DNL SharePoint] und Acrobat</em>
     <br>
-  </td>  
+  </td>
 </tr>
 <tr>
   <td>
@@ -88,6 +88,11 @@ Erfahre, wie alle Team-Mitglieder mit PDF-Dateien arbeiten können - direkt in [
     <em>Erfahren Sie, wie Sie Webseiten mit der Adobe Acrobat-Erweiterung für [!DNL Microsoft Edge]</em>
     <br>
   </td>
+  <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -117,13 +122,48 @@ Erfahren Sie, wie Sie in kürzerer Zeit mehr erledigen können - mit den wichtig
     <div>
     <br>
   </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+## Dropbox
+
+Erfahren Sie, wie einfach es ist, auf Dateien zuzugreifen und mit ihnen zu arbeiten, die in [!DNL Dropbox].
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="acrobat-dropbox.md">
+      <img alt="Arbeiten mit Dateien aus [!DNL Dropbox]" src="../assets/Dropbox.png" />
+    </a>
+    <div>
+    <a href="acrobat-dropbox.md"><strong>Arbeiten mit Dateien aus [!DNL Dropbox]</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie Änderungen an Ihrem [!DNL Dropbox] -Dateien aus Acrobat</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
 ## Box
 
 Erfahren Sie, wie Acrobat und [Box](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;} erleichtert allen Mitarbeitern in eurer Organisation die Arbeit.
-
-## Dropbox
-
-Hier erfahren Sie, wie einfach es ist, auf PDF im [Dropbox](https://www.adobe.com/documentcloud/integrations/dropbox.html){target=&quot;_blank&quot;}.

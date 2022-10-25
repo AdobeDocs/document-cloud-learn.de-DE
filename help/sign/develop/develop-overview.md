@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 12%
+source-wordcount: '168'
+ht-degree: 13%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 12%
     <div>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>Weitere Möglichkeiten</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie die Funktionen von Acrobat Sign in jede beliebige externe Anwendung einbinden können.</em>
+    <em>Erfahren Sie, wie Sie die Funktionen von Acrobat Sign in jede beliebige externe Anwendung integrieren können.</em>
     <br>
   </td>  
   <td>
@@ -52,26 +52,14 @@ ht-degree: 12%
     <em>Dokumente zur Unterzeichnung versenden, einholen und verfolgen - an mehrere Tausend Personen gleichzeitig</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="embeddedesignature.md">
       <img alt="Integrierte Erlebnisse für elektronische Unterschriften und Dokumente erstellen" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
     </a>
     <div>
     <a href="embeddedesignature.md"><strong>Integrierte Erlebnisse für elektronische Unterschriften und Dokumente erstellen</strong></a>
     </div>
-    <em>Hier erfahren Sie, wie Sie mit Acrobat Sign-APIs Erlebnisse für elektronische Unterschriften und Dokumente in Ihre Web-Plattformen sowie in Content- und Dokumentenmanagementsysteme einbetten.</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
+    <em>Erfahrt, wie ihr mit Acrobat Sign-APIs Erlebnisse für elektronische Unterschriften und Dokumente in eure Web-Plattformen sowie Content- und Dokumentenmanagementsysteme einbettet.</em>
     <br>
   </td>
 </tr>

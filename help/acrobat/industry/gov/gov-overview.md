@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-9910.jpg
 kt: 9910
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ Unsere Tutorials zu Acrobat sind speziell für Bund, Länder und Gemeinden konzi
     </div>
     <em>Einfache und mühelose Workflows für die Zusammenarbeit an Dokumenten erstellen</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="protect-digital-documents.md">
       <img alt="Tipp: Digitale Dokumente zu Protect" src="../../assets/Tip3.png" />
@@ -64,6 +62,7 @@ Unsere Tutorials zu Acrobat sind speziell für Bund, Länder und Gemeinden konzi
     <em>Kennwort zum PDF hinzufügen, um das Kopieren, Bearbeiten oder Drucken zu verhindern</em>
     <br>
   </td>
+</tr>
   <td>
     <a href="work-with-forms-and-signatures.md">
       <img alt="Tipp 4: Arbeiten mit Formularen und Signaturen" src="../../assets/Tip4.png" />
@@ -82,6 +81,16 @@ Unsere Tutorials zu Acrobat sind speziell für Bund, Länder und Gemeinden konzi
     <a href="scan-and-edit-on-mobile.md"><strong>Tipp 5: Dokumente auf dem Smartphone oder Tablet scannen und bearbeiten</strong></a>
     </div>
     <em>Mit Adobe Scan und den Acrobat Reader-Apps arbeiten</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -120,10 +129,8 @@ Unsere Tutorials zu Acrobat sind speziell für Bund, Länder und Gemeinden konzi
     </div>
     <em>Best Practices zum Erstellen von PDF-Dateien, die in [!DNL Microsoft Word]</em>
     <br>
-  </td>  
-</tr>
-<tr>
-  <td>
+  </td>
+   <td>
     <a href="finishing-in-acrobat.md">
       <img alt="Barrierefreie PDF: Fertigstellung in Acrobat" src="../../assets/Accessibilityacrobat.png" />
     </a>
@@ -133,6 +140,8 @@ Unsere Tutorials zu Acrobat sind speziell für Bund, Länder und Gemeinden konzi
     <em>Erfahren Sie, wie Sie den Zugriff auf Ihre PDF-Datei mit den Tools in Acrobat Pro abschließen.</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="making-pdf-ballots-accessible.md">
       <img alt="Zugänglichere PDF-Abstimmung" src="../../assets/Accessibleballots.png" />
@@ -143,6 +152,16 @@ Unsere Tutorials zu Acrobat sind speziell für Bund, Länder und Gemeinden konzi
     <em>Dieses Webinar behandelt die wichtigsten Bereiche der Barrierefreiheit von PDF, die notwendig sind, damit Benutzer von Hilfstechnologien wie Bildschirmlesesoftware ihre Stimmzettel lesen und ausfüllen können</em>
     <br>
   </td>  
+  <td>
+   <img alt="Spacer" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
   <td>
    <img alt="Spacer" src="../../assets/Grayspacer.png" />
     <div>
