@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
 # Dateien auf einer einzigen PDF zusammenführen
 
-Erfahren Sie, wie Sie viele verschiedene Dateitypen (PDF, Word, Excel, PowerPoint, JPEG usw.) auf einer einzigen PDF. Durch die Kombination mehrerer Dateien zu einer einzigen PDF kannst du Inhalte, die du an andere sendest, verwalten und verwalten und auf diese Weise für ein besseres Anwendererlebnis sorgen.
+Für die Bereitstellung der besten Kundenerlebnisse müssen Inhalte schneller denn je erstellt werden. Erfahren Sie, wie Sie viele verschiedene Dateitypen (PDF, Word, Excel, PowerPoint, JPEG usw.) auf einer einzigen PDF. Durch die Kombination mehrerer Dateien zu einer einzigen PDF kannst du Inhalte, die du an andere sendest, verwalten und verwalten und auf diese Weise für ein besseres Anwendererlebnis sorgen.
 
 >[!TIP]
 >

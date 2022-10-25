@@ -1,20 +1,20 @@
 ---
-title: PDF kommentieren
-description: Hier erfahren Sie, wie Sie Kommentare hinzufügen und dann eine PDF für andere freigeben, um sie zu überprüfen
+title: Auf einem PDF kommentieren
+description: Erfahren Sie, wie Sie Kommentare hinzufügen und eine PDF für andere zum Review freigeben
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 35492.jpg
 exl-id: 75c51400-9ff9-46cf-a3a3-9d521c3eb35c
-source-git-commit: ef4a9f39084c7803a9e277182534376298e8fc7f
+source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
-# PDF kommentieren
+# Auf einem PDF kommentieren
 
-Erfahren Sie, wie Sie einer PDF-Datei Kommentare hinzufügen - und diese dann für andere freigeben, um zusätzliche Kommentare in Echtzeit zu erfassen.
+Nahtlose Zusammenarbeit ist entscheidend für die schnelle und skalierbare Bereitstellung von Inhalten. Erfahre, wie du einer PDF-Datei Kommentare hinzufügst - und die Datei dann für andere freigibst, um in Echtzeit weitere Kommentare dazu zu erfassen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35492?hidetitle=true)
