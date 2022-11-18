@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 5a3fb2653be5123db740962ffce0d45f6ab71538
+source-git-commit: ffdc34a1f9e2f0ceef795b6af7072b36a583a80d
 workflow-type: tm+mt
-source-wordcount: '482'
-ht-degree: 8%
+source-wordcount: '486'
+ht-degree: 9%
 
 ---
 
@@ -25,11 +25,12 @@ ht-degree: 8%
       + [Grundlagen des Arbeitsbereichs](sign-beginner-tutorials/quick-tour.md)
       + [Erste Schritte mit Acrobat Sign für neue Absender](sign-beginner-tutorials/new-sender.md)
       + [Senden an einen einzelnen Empfänger](sign-beginner-tutorials/send-to-single-recipient.md)
-      + [Senden an mehrere Empfänger](sign-beginner-tutorials/send-to-multiple-recipients.md)
+      + [Senden an mehrere Empfangende](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [Hinzufügen von Feldern zu Ihren Dokumenten](sign-beginner-tutorials/adding-fields.md)
       + [Sendeoptionen konfigurieren](sign-beginner-tutorials/sending-options.md)
       + [Ändern eines Dokuments nach dem Senden](sign-beginner-tutorials/modify-in-flight.md)
       + [Unterzeichner ersetzen](sign-beginner-tutorials/replace-signer.md)
+      + [Termine und Erinnerungen festlegen](sign-beginner-tutorials/set-deadlines-reminders.md)
    + Signing {#getting-started-signing}
       + [Dokumente elektronisch unterschreiben](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Ein Dokument ausfüllen und unterschreiben](sign-beginner-tutorials/fill-and-sign.md)

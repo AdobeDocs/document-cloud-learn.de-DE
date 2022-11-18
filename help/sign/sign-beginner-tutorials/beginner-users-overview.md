@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: ffdc34a1f9e2f0ceef795b6af7072b36a583a80d
 workflow-type: tm+mt
-source-wordcount: '440'
-ht-degree: 1%
+source-wordcount: '471'
+ht-degree: 5%
 
 ---
 
@@ -21,10 +21,10 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
 
 ## Neuerungen
 
+* [Termine und Erinnerungen festlegen](set-deadlines-reminders.md)
+Erfahren Sie, wie Sie regelmäßige E-Mail-Erinnerungen und Fristen senden, um Ihre Dokumente schnell signieren zu lassen
 * [Mit Stempel unterschreiben](sign-with-a-stamp.md)
 Erfahren Sie, wie Sie Stempel verwenden, um ein Dokument als genehmigt oder abgeschlossen zu markieren
-* [Unterzeichner ersetzen](replace-signer.md)
-Erfahren Sie, wie Sie den Unterzeichner eines Dokuments ändern, das bereits in Bearbeitung ist
 
 ## Senden
 
@@ -62,10 +62,10 @@ Erfahren Sie, wie Sie den Unterzeichner eines Dokuments ändern, das bereits in 
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="Senden an mehrere Empfänger" src="../assets/Sending-to-multiple-recipients.png" />
+      <img alt="Senden an mehrere Empfangende" src="../assets/Sending-to-multiple-recipients.png" />
     </a>
     <div>
-    <a href="send-to-multiple-recipients.md"><strong>Senden an mehrere Empfänger</strong></a>
+    <a href="send-to-multiple-recipients.md"><strong>Senden an mehrere Empfangende</strong></a>
     </div>
     <em>Dokumente an mehrere Empfänger in der gewünschten Reihenfolge senden</em>
     <br>
@@ -112,6 +112,33 @@ Erfahren Sie, wie Sie den Unterzeichner eines Dokuments ändern, das bereits in 
     <em>Erfahren Sie, wie Sie den Unterzeichner eines Dokuments ändern, das bereits in Bearbeitung ist</em>
      <br>
   </td>
+</tr>
+<tr>
+  <td>
+      <a href="set-deadlines-reminders.md">
+        <img alt="Termine und Erinnerungen festlegen" src="../assets/Reminders.png" />
+      </a>
+      <div>
+      <a href="set-deadlines-reminders.md"><strong>Termine und Erinnerungen festlegen</strong></a>
+      </div>
+      <em>Erfahren Sie, wie Sie regelmäßige E-Mail-Erinnerungen und Fristen senden, um Ihre Dokumente schnell signieren zu lassen</em>
+      <br>
+    </td> 
+  <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
 </tr>
 </table>
 
