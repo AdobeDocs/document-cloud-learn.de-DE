@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 546be0ae0539aa774e51bd7251b46e3f864401c3
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '484'
-ht-degree: 7%
+source-wordcount: '493'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 7%
 
 ![Acrobat - Erste Schritte](../assets/Hero-GettingStarted.png)
 
-In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acrobat verwenden. Von der Erstellung eines Dokuments bis zum Schutz Ihrer PDF-Dateien - dieser Inhalt ist darauf ausgelegt, Ihnen den Einstieg in PDF-Arbeitsabläufe zu erleichtern.
+In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acrobat verwenden. Von der Erstellung eines Dokuments bis zum Schutz oder [Bearbeiten Ihrer PDF-Dateien](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}, dieser Inhalt wurde entwickelt, um Ihnen das PDF von Arbeitsabläufen zu erleichtern.
 
 ## Tutorials zu ersten Schritten
 
@@ -124,10 +124,10 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
     </td>
     <td>
       <a href="organize.md">
-        <img alt="Organisieren von Seiten" src="../assets/Organize.png" />
+        <img alt="Seiten verwalten" src="../assets/Organize.png" />
       </a>
       <div>
-      <a href="organize.md"><strong>Organisieren von Seiten</strong></a>
+      <a href="organize.md"><strong>Seiten verwalten</strong></a>
       </div>
       <em>Auf dem PDF können Sie Seiten hinzufügen, ersetzen, extrahieren, drehen, löschen und neu anordnen.</em>
       <br>
@@ -151,10 +151,10 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
   <tr>
     <td>
       <a href="edit-pdf.md">
-        <img alt="Bearbeiten einer PDF-Datei" src="../assets/Edit.jpg" />
+        <img alt="PDF bearbeiten" src="../assets/Edit.jpg" />
       </a>
       <div>
-      <a href="edit-pdf.md"><strong>Bearbeiten einer PDF-Datei</strong></a>
+      <a href="edit-pdf.md"><strong>PDF bearbeiten</strong></a>
       </div>
       <em>Text und Bilder in PDF-Dateien bearbeiten</em>
       <br>
@@ -250,10 +250,10 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
   </td>
   <td>
     <a href="scan-and-ocr.md">
-      <img alt="Scannen und OCR" src="../assets/Scan.jpg" />
+      <img alt="Scan &amp; OCR" src="../assets/Scan.jpg" />
     </a>
     <div>
-    <a href="scan-and-ocr.md"><strong>Scannen und OCR</strong></a>
+    <a href="scan-and-ocr.md"><strong>Scan &amp; OCR</strong></a>
     </div>
     <em>Reduzierung großer Dateien und Optimierung Ihrer PDF ohne Qualitätseinbußen bei der Freigabe, Veröffentlichung oder Archivierung</em>
     <br>

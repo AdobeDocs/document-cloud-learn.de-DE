@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 6%
+source-wordcount: '93'
+ht-degree: 11%
 
 ---
 
 # PDF bearbeiten
 
-Erfahren Sie, wie Sie Text und Bilder in PDF-Dateien bearbeiten. Klicken oder tippen Sie, um einen neuen Absatz hinzuzufügen, Tippfehler zu korrigieren oder PDF-Seiten neu anzuordnen. Du kannst sogar Bilder oder Fotos beschneiden und austauschen.
+Erfahren Sie, wie Sie [Text und Bilder in PDF-Dateien bearbeiten](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}. Klicken oder tippen Sie, um einen neuen Absatz hinzuzufügen, Tippfehler zu korrigieren oder PDF-Seiten neu anzuordnen. Du kannst sogar Bilder oder Fotos beschneiden und austauschen.
 
 >[!TIP]
 >

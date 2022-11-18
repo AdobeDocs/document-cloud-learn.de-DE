@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-7269.jpg
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '740'
-ht-degree: 4%
+source-wordcount: '747'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 [!DNL Adobe Sign Individual] (auch als Adobe Sign Pro bezeichnet) wird von allen Acrobat DC-Berechtigungen, die in ETLA (Enterprise Term License Agreement) Angeboten enthalten sind, erst ab August 2020 entzogen und bis zum 20. November 2020 fortgesetzt. [!DNL Adobe Sign Individual] bietet keine Funktionen für Unternehmensanforderungen und sollte durch Adobe Sign Enterprise für Unternehmenskunden ersetzt werden. Dies umfasst Acrobat DC, das als eigenständige Anwendung lizenziert ist, und Acrobat DC, das als Teil von Creative Cloud für Unternehmen lizenziert ist - alle Applikationen.
 
-Zugriff auf [!DNL Adobe Sign Individual] in Acrobat über die **Adobe Sign** -Werkzeug oder die **Fill &amp; Sign** (Signaturen anfordern).
+Zugriff auf [!DNL Adobe Sign Individual] in Acrobat über die **Adobe Sign** -Werkzeug oder die **Fill &amp; Sign** -Werkzeug ([Unterschriften einholen.](https://www.adobe.com/de/acrobat/online/request-signature.html){target=&quot;_blank&quot;}).
 
 ![[!DNL Adobe Sign Individual] Zugriff in Acrobat DC](../assets/Deploy_SignEntitle1.png)
 
@@ -46,7 +46,7 @@ Darüber hinaus bietet Adobe Sign Enterprise mehr Funktionen als auf der [!DNL A
 * Anpassung und Optimierung.
    * Erweiterte Authentifizierung, erweiterte Authentifizierung für Unterzeichner, erweiterte Authentifizierung der Identität von Unterzeichnern, Workflow-Designer, erweiterte Sprachunterstützung usw.
 
-Adobe Sign ist die weltweit führende Lösung für die Erfassung rechtsgültiger Unterschriften. Adobe Sign ist so konzipiert, dass alle Anforderungen an elektronische Unterschriften in eurem Unternehmen erfüllt werden. IT-Tools unterstützen euch und eure Anwender dabei, elektronische Unterschriften zu verwenden, die die regionalen und branchenspezifischen Anforderungen an elektronische Unterschriften erfüllen. Bitte besuchen Sie [hier](https://helpx.adobe.com/de/enterprise/using/adobe-sign-for-enterprise.html) für weitere Informationen zum Verwalten von Anmelden über [Adobe Admin Console](https://helpx.adobe.com/de/enterprise/using/admin-console.html).
+Adobe Sign ist die weltweit führende Lösung für die Erfassung rechtsgültiger Unterschriften. Adobe Sign ist so konzipiert, dass es allen Anforderungen an elektronische Unterschriften in Ihrem Unternehmen gerecht wird und über IT-Tools verfügt, die sich an den Administrator anpassen, um sicherzustellen, dass Sie und Ihre Anwender elektronische Unterschriften verwenden, die die verschiedenen Regional- und Branchenvorgaben für elektronische Unterschriften erfüllen. Bitte besuchen Sie [hier](https://helpx.adobe.com/de/enterprise/using/adobe-sign-for-enterprise.html) für weitere Informationen zum Verwalten von Anmelden über [Adobe Admin Console](https://helpx.adobe.com/de/enterprise/using/admin-console.html).
 
 Wenden Sie sich an Ihren Ansprechpartner in der Adobe, um zu besprechen, wie Sie die Funktionen für elektronische Unterschriften Ihres Unternehmens weiterhin über unsere breiter angelegte Plattform für digitale Dokumente bereitstellen können, die Acrobat DC und Adobe Sign Enterprise umfasst.
 

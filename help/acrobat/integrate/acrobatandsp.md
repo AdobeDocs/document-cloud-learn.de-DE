@@ -7,16 +7,16 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 0%
+source-wordcount: '128'
+ht-degree: 3%
 
 ---
 
 # Arbeite mit deinen [!DNL SharePoint] files
 
-Optimierung von Dokumenten-Workflows mit [!DNL SharePoint] und Acrobat mithilfe der [Adobe Acrobat für Microsoft 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). Sichere Konvertierung. [!DNL Microsoft 365] PDF-Dateien in PDF, Dokumente zu einer Datei zusammenführen, Seiten kommentieren oder neu anordnen - direkt aus [!DNL SharePoint] online.
+Optimierung von Dokumenten-Workflows mit [!DNL SharePoint] und Acrobat mithilfe der [Adobe Acrobat für Microsoft 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). Sichere Konvertierung. [!DNL Microsoft 365] für PDF, [PDF-Dokumente kombinieren](https://www.adobe.com/de/acrobat/online/merge-pdf.html){target=&quot;_blank&quot;} in einer Datei zusammenfassen, Seiten kommentieren und neu anordnen - direkt von [!DNL SharePoint] online.
 
 >[!NOTE]
 >

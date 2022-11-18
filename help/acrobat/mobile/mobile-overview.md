@@ -8,10 +8,10 @@ topic-revisit: mobile
 thumbnail: KT-6863.jpg
 kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 0%
+source-wordcount: '240'
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 ![Acrobat-Mobilabbild](../assets/Hero-Mobile.png)
 
-Erstelle, fülle und unterschreibe PDF auf deinem Smartphone oder Tablet.
+Erstellen, Füllen und [PDF](https://www.adobe.com/de/acrobat/online/sign-pdf.html){target=&quot;_blank&quot;} auf Ihrem Mobilgerät verwenden.
 
 ## Tutorials zu Acrobat Reader-Apps
 

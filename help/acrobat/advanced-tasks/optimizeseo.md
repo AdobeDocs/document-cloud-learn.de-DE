@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '756'
-ht-degree: 0%
+source-wordcount: '771'
+ht-degree: 1%
 
 ---
 
@@ -49,7 +49,7 @@ Schlüssel hinzufügen **[!UICONTROL Dokumenteigenschaften]** wie folgt:
 
 1. Auswählen **[!UICONTROL Datei > Eigenschaften]** oder verwenden Sie den Tastaturbefehl *Strg + D* unter Windows oder *Cmd + D* auf Mac und wählen Sie die Option **[!UICONTROL Beschreibung]** &quot; ändern.
 1. Geben Sie einen für Stichwörter optimierten Titel in das Feld **[!UICONTROL Titel:]** ein.
-1. Stellen Sie sicher, dass **[!UICONTROL Autor:]** gibt keine bestimmte Person in Ihrer Organisation an.
+1. Stellen Sie sicher, dass **[!UICONTROL Autor:]** identifiziert keine bestimmte Person in Ihrer Organisation.
 1. Geben Sie eine stichwortoptimierte Zusammenfassung Ihres Dokuments in das Dialogfeld &quot; **[!UICONTROL Betrifft:]** ein.
 Versuchen Sie, die Zusammenfassung mit einem Aktionsverb wie Lernen, Entdecken, Entdecken usw. zu beginnen.
 1. Auswählen **[!UICONTROL Zusätzliche Metadaten]** , um gegebenenfalls Copyright- oder Public-Domain-Informationen hinzuzufügen.
@@ -86,7 +86,7 @@ Taggen Sie eine PDF wie folgt:
 
 ## 4. Für das Web vorbereiten
 
-Optimieren Sie die Interaktion mit Ihrem PDF, indem Sie ihn für die Anzeige im Web vorbereiten und die Dateigröße reduzieren.
+Optimieren Sie die Interaktion mit Ihrem PDF, indem Sie ihn für die Anzeige im Web vorbereiten. [Reduzieren der PDF-Dateigröße](https://www.adobe.com/de/acrobat/online/compress-pdf.html){target=&quot;_blank&quot;}.
 
 +++Details zur Vorbereitung Ihres PDF für das Web anzeigen
 
@@ -122,7 +122,7 @@ Der Dateiname wird Teil der URL, wenn eine PDF im Internet veröffentlicht wird.
 
 ## 6. Sichern Sie Ihren PDF
 
-Der letzte Schritt besteht darin, Ihren PDF zu schützen, um nicht autorisierte Änderungen zu verhindern.
+Der letzte Schritt besteht darin, [PDF schützen](https://www.adobe.com/de/acrobat/online/password-protect-pdf.html){target=&quot;_blank&quot;}, um nicht autorisierte Änderungen zu verhindern.
 
 +++Zum Sichern Ihres PDF
 
