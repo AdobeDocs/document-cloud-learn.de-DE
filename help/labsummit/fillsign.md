@@ -3,9 +3,9 @@ title: Formulare auf dem Desktop, Smartphone oder Tablet ausfüllen und untersch
 description: Formulare auf dem Desktop, im Browser oder in der Mobile App ausfüllen, unterzeichnen und direkt abschicken
 solution: Acrobat Sign
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Hier sind die [Demodateien](assets/03_FillSignScan.zip) für diese Übung.
 
 **Schritt 4:** Nehmen Sie mit der weißen Schaltfläche ein Bild auf und tippen Sie anschließend auf **[!UICONTROL Foto verwenden]**. Tippen **[!UICONTROL Fertig]** in der oberen rechten Ecke.
 
-**Schritt 5:** Tippen Sie unten in der App auf das **[!UICONTROL Beschneiden]** und verwenden Sie die Hilfslinien, um das Bild zuzuschneiden. Tippen **[!UICONTROL Fertig]** wenn Sie fertig sind.
+**Schritt 5:** Tippen Sie unten in der App auf das **[!UICONTROL Beschneiden]** und verwenden Sie die Hilfslinien, um [Bild zuschneiden.](https://www.adobe.com/acrobat/online/crop-pdf.html). Tippen **[!UICONTROL Fertig]** wenn Sie fertig sind.
 
 ![lokales Dokumentbild](assets/localdoc.jpg)
 

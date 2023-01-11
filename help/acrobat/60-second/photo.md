@@ -1,21 +1,21 @@
 ---
-title: Erstellen einer PDF-Datei mit Fotos in einem Sofort
-description: Erfahren Sie, wie Sie eine Reihe von JPGs per Drag & Drop auf das Acrobat-Symbol ziehen, um eine PDF-Datei zu erstellen
+title: PDF mit Fotos im Handumdrehen erstellen
+description: Ziehe mehrere JPG auf das Acrobat-Icon, um einen PDF zu erstellen.
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-8575.jpg
 KT: 8575
 exl-id: 598c9008-5c8a-46e5-86af-d814e8060e3a
-source-git-commit: 2de5b609b3f23bb5796786b6bc413a831c2b78c3
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# PDF mit Fotos erstellen
+# PDF mit wenigen Klicks erstellen
 
-In diesem 60-Sekunden-Tutorial lernen Sie, wie Sie mehrere JPGs per Drag &amp; Drop auf das Acrobat-Symbol ziehen. Klicken Sie auf &quot;Ja&quot;, um eine mehrseitige PDF-Datei zu erstellen. Dann können Sie einfach weitere JPG-Dateien in das Seitenbedienfeld ziehen, um der PDF-Datei weitere Seiten hinzuzufügen.
+In diesem 60-Sekunden-Tutorial lernen Sie, wie Sie mehrere JPG per Drag-and-Drop auf das Acrobat-Symbol ziehen. Klicken Sie auf &quot;Ja&quot;, um eine mehrseitige PDF zu erstellen. Anschließend können Sie einfach weitere JPG-Dateien in das Seitenbedienfeld ziehen, um [der PDF weitere Seiten hinzufügen](https://www.adobe.com/de/acrobat/online/add-pages-to-pdf.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/336365?hidetitle=true)
