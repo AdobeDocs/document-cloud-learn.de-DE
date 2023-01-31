@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: fce850ea8ef83e3f384c3b8a8629d9e5b96a7dcb
+source-git-commit: a044ba6053cc1b7966381b051b40641b23931fc0
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '469'
 ht-degree: 5%
 
 ---
@@ -21,10 +21,10 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
 
 ## Neuerungen
 
+* [Erste Schritte mit Acrobat Sign](new-sender.md)
+Verwenden Sie Acrobat Sign zum ersten Mal? Dieses Tutorial ist ein guter Einstieg.
 * [Termine und Erinnerungen festlegen](set-deadlines-reminders.md)
 Erfahren Sie, wie Sie regelmäßige E-Mail-Erinnerungen und Fristen senden, um Ihre Dokumente schnell signieren zu lassen
-* [Mit Stempel unterschreiben](sign-with-a-stamp.md)
-Erfahren Sie, wie Sie Stempel verwenden, um ein Dokument als genehmigt oder abgeschlossen zu markieren
 
 ## Senden
 
