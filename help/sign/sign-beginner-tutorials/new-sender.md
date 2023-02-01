@@ -8,7 +8,7 @@ level: Beginner
 thumbnail: KT-8989.jpg
 kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: f44c72201a0baf86f74e66e28f313bda38fc5a0a
+source-git-commit: efc55a167156f713d5ef6d23a45cb74f7567f223
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -38,14 +38,14 @@ Dieses detaillierte Tutorial behandelt die folgenden Themen:
         <em>Bei 0:00 beginnen</em>
     </td>
      <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=55">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=56">
       <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=55"><strong>Startseite</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=56"><strong>Startseite</strong></a>
          <br>
-        <em>Bei 0:55 beginnen</em>
+        <em>Bei 0:56 beginnen</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=153">
@@ -77,7 +77,7 @@ Dieses detaillierte Tutorial behandelt die folgenden Themen:
   <td>
      <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=551"><strong>Ausfüllbare Felder hinzufügen</strong></a>
          <br>
-        <em>Ab 8:22 Uhr</em>
+        <em>Ab 9:11 Uhr</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=719">
