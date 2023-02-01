@@ -8,7 +8,7 @@ level: Beginner
 thumbnail: KT-8989.jpg
 kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: e9bb38448e07d1db43fe02a344fabe7a3abe3c64
+source-git-commit: f44c72201a0baf86f74e66e28f313bda38fc5a0a
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -38,34 +38,34 @@ Dieses detaillierte Tutorial behandelt die folgenden Themen:
         <em>Bei 0:00 beginnen</em>
     </td>
      <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=54">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=55">
       <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=54"><strong>Startseite</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=55"><strong>Startseite</strong></a>
          <br>
-        <em>Bei 0:54 beginnen</em>
+        <em>Bei 0:55 beginnen</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=152">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=153">
       <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=152"><strong>Profil einrichten</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=153"><strong>Profil einrichten</strong></a>
         <br>
-        <em>Ab 2:32 Uhr</em>
+        <em>Ab 2:33 Uhr</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=271">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=272">
       <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=271"><strong>Sendeeinstellungen</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=272"><strong>Sendeeinstellungen</strong></a>
         <br>
-        <em>Ab 4:31 Uhr</em>
+        <em>Ab 4:32 Uhr</em>
     </td>
   </tr>
   <tr>
@@ -80,24 +80,24 @@ Dieses detaillierte Tutorial behandelt die folgenden Themen:
         <em>Ab 8:22 Uhr</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=718">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=719">
       <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=718"><strong>Signiererlebnis</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=719"><strong>Signiererlebnis</strong></a>
         <br>
-        <em>Ab 11:58 Uhr</em>
+        <em>Ab 11:59 Uhr</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=773">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=774">
       <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=773"><strong>Dokumente verwalten und verfolgen</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=774"><strong>Dokumente verwalten und verfolgen</strong></a>
         <br>
-        <em>Ab 12:53 Uhr</em>
+        <em>Ab 12:54 Uhr</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=898">
