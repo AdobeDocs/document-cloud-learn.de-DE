@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 0741b4ca7e98b1f2205e94f6511607f13471eede
+source-git-commit: fe8ce2c16d06f13d07bff5e625ac773447793536
 workflow-type: tm+mt
 source-wordcount: '1076'
 ht-degree: 0%
@@ -31,9 +31,9 @@ Datum: 18. Mai 2023 Erfahrt mehr über die Grundlagen von elektronischen Untersc
 **[Fortgeschrittene Schulung zur Authoring-Umgebung](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/30c06b3c-60f7-4293-9cd2-2544104d9140/85ffced9-7613-4382-b3a3-43ba227af5ba){target="_blank"}**
 Datum: 20. April 2023 Erfahren Sie mehr über die Optionen in der Acrobat Sign-Authoring-Umgebung. Themen:
 
-    * Überblick über die Vorbereitung Ihrer Acrobat Sign-Dokumentvorlagen mit Acrobat, Text-Tagging und der Acrobat Sign Authoring-Umgebung.
-    * Vertiefen Sie Ihre Kenntnisse in der Authoring-Umgebung und decken Sie die Bereiche Klonen und Kopieren, Hinzufügen von Spezialfeldern, Zuweisen von Feldern und Einrichten von Bedingungs- und Berechnungsfeldern ab.
-    * Vorlagen zum Unterschreiben senden, Dokumentvorlage und Formularfeldvorlage vergleichen
+* Überblick über das Vorbereiten Ihrer Acrobat Sign-Dokumentvorlagen mit Acrobat, Text-Tagging und der Acrobat Sign Authoring-Umgebung.
+* Vertiefen Sie Ihre Kenntnisse in der Authoring-Umgebung und decken Sie die Bereiche Klonen und Kopieren, Hinzufügen von Spezialfeldern, Zuweisen von Feldern und Einrichten von Bedingungs- und Berechnungsfeldern ab.
+* So senden Sie Vorlagen zum Unterschreiben und vergleichen die Dokumentvorlage mit der Formularfeldvorlage.
 
 **[Ausfüllbares, signierbares Webformular veröffentlichen](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/265580bf-245a-4751-9b51-c6877192d13a/9ae41cae-a53e-4b71-a748-2df0ee2e14c8){target="_blank"}**
 Datum: 16. März 2023. Erfahrt, wie ihr ein Webformular erstellt, das jeder ausfüllen und unterschreiben kann, ohne die Transaktion veranlassen oder die E-Mail-Adresse des Unterzeichners wissen zu müssen. Außerdem erfahren Sie, wie Sie eine Dokumentvorlage vorbereiten, die für einzelne Signaturtransaktionen sowie für die Veröffentlichung unter einer eindeutigen URL für eine allgemeine Freigabe verwendet werden kann.
@@ -44,9 +44,9 @@ Datum: 16. Februar 2023. Mit der Massenversand-Funktion in Acrobat Sign sparen S
 **[Vereinbarungen für die elektronische Unterzeichnung vorbereiten](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/c08f6e7e-2ced-48b8-8245-548302fe2df3/15f504a9-3420-4372-83c8-168115f15cbb){target="_blank"}**
 Datum: 19. Januar 2023. Drei einfache Methoden zum Einrichten von Dokumenten für elektronische Unterschriften lernen. Ob PDF, Microsoft 365-Dateien oder eine einfache Bilddatei: In dieser Session erhältst du die Tools, die du brauchst, um ein Dokument unterschreiben zu lassen. Wir werden drei Methoden behandeln:
 
-    * Adobe Acrobat Signs einfache Drag-and-Drop-Authoring-Umgebung
-    * Einrichten eines PDF-Formulars in Adobe Acrobat
-    * Text-Tags für schnelles Erstellen von Dokumenten verwenden
+* Einfache Drag-and-Drop-Authoring-Umgebung von Adobe Acrobat Sign
+* Einrichten eines PDF-Formulars in Adobe Acrobat
+* Text-Tags zur schnellen Erstellung von Dokumenten verwenden
 
 **[Mit elektronischen Unterschriften in Microsoft-Programmen arbeiten](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/efedc73e-796d-4caf-a35b-110cb0d2f415/0ede0086-d92f-4163-94a2-125abeae2c9b){target="_blank"}**
 Datum: 8. Dezember 2022 Erweitern Sie Ihre Nutzungsmöglichkeiten von Microsoft-Applikationen wie Word, Outlook und SharePoint, indem Sie Adobe Acrobat Sign zu Ihren bestehenden Workflows hinzufügen. In dieser Session erfahrt ihr, wie ihr Dokumentenprozesse in gängigen Microsoft-Programmen optimiert. So müsst ihr nicht nur im Kontext wechseln, um eine Unterschrift zu erhalten oder einen Status zu überprüfen.

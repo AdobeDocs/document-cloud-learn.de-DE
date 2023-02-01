@@ -5,7 +5,7 @@ product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 0741b4ca7e98b1f2205e94f6511607f13471eede
+source-git-commit: fe8ce2c16d06f13d07bff5e625ac773447793536
 workflow-type: tm+mt
 source-wordcount: '1107'
 ht-degree: 1%
@@ -23,38 +23,38 @@ Adobe Acrobat Skill Builder sind 30-minütige Sessions, die deine PDF-Workflows 
 **[PDF forms 101: Ausfüllbares Forms erstellen](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/795f4bc7-db42-4022-a624-8a53c51174c6/9d685d0f-4a5b-4236-a1ef-081d1403fb41){target="_blank"}**
 Datum: 29. Juni 2023 Wandelt eure alten Formulare und Papierdokumente in digitale, ausfüllbare PDF um. Acrobat bietet zahlreiche Methoden und Tools für die digitale Transformation. Themen:
 
-    * Erstellen einer Formularvorlage aus verschiedenen Dateien (PDF, gescanntes Bild, Word)
-    * Grundlegendes zu verfügbaren Feldtypen (Text, Kontrollkästchen, Optionsfelder, Dropdown-Listen, Kalender)
-    * Arbeiten mit Feldeigenschaften und Produktivitätswerkzeugen (Darstellung, Formatierung, Berechnungen, Validierungen)
+* Erstellen von Formularvorlagen aus verschiedenen Dateien (PDF, gescanntes Bild, Word)
+* Grundlegendes zu verfügbaren Feldtypen (Text, Kontrollkästchen, Optionsfelder, Dropdown-Listen, Kalender)
+* Arbeiten mit Feldeigenschaften und Produktivitätswerkzeugen (Darstellung, Formatierung, Berechnungen, Validierungen)
 
 **[PDF interaktiv machen.](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/4ff4d607-8c9f-47dd-ac4f-3b351a0a0fe3/2eb92255-d963-4ff7-b278-2a95a11db755){target="_blank"}**
 Datum: 25. Mai 2023 Machen Sie Ihre PDF für Ihre Zielgruppe leichter und überzeugender zu interagieren. In dieser Session erfahrt ihr, wie ihr PDF mit Interaktivität versehen könnt:
 
-    * Das Hinzufügen von Hyperlinks und Lesezeichen vereinfacht die Dokumentnavigation
-    * Videos, Sounds und 3D-Effekte in deinen PDF
-    * Organisation verschiedener Inhaltstypen in einem einzigen Dokument
+* Hyperlinks und Lesezeichen erleichtern die Navigation in Dokumenten
+* Einschließlich Video, Sound, 3D und mehr in Ihren PDF
+* Organisieren verschiedener Inhaltstypen in einem einzigen Dokument
 
 **[Wiederverwenden von PDF-Inhalten: Bearbeiten und exportieren](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/aac3b9af-7d54-4ea5-a6fa-61bc7acea87f/8d7341ee-ff0f-492a-b3fd-935bd11d4ed0){target="_blank"}**
 Datum: 27. April 2023 Warum das Rad neu erstellen, wenn Sie PDF einfach bearbeiten und exportieren können? In dieser Session erfährst du, wie du vorhandene PDF mit den Bearbeitungs- und Exportwerkzeugen von Acrobat ändern kannst. Themen:
 
-    * Text und Bilder bearbeiten
-    * Hyperlinks und Lesezeichen hinzufügen, um die Navigation im Dokument zu erleichtern
-    * Export in bekannte Formate wie Microsoft Word, PowerPoint und Excel
-    * Ein gesamtes Dokument exportieren oder einen bestimmten Text, Bilder oder Tabellen auswählen
+* Text und Bilder bearbeiten
+* Hyperlinks und Lesezeichen hinzufügen, um die Navigation im Dokument zu erleichtern
+* Exportiere Dokumente in gängige Formate wie Microsoft Word, PowerPoint und Excel.
+* Gesamtes Dokument exportieren oder bestimmten Text, Bilder oder Tabellen auswählen
 
 **[PDF-Zusammenarbeit: Dokumente teilen, überprüfen und gemeinsam bearbeiten.](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/0ef4709b-0a04-418e-a185-7efdd676c2dd/6a95bece-6f24-46f5-a17f-b408464281be){target="_blank"}**
 Datum: 23. März 2023 Erste Schritte mit Adobe Acrobat und PDF. Lernt die Grundlagen der Oberfläche von Acrobat kennen. Erfahrt, wie ihr mit wichtigen Funktionen produktiver arbeitet. Themen:
 
-    * PDF aus Bilddateien und Dokumenten erstellen - einschließlich Word, Excel und PowerPoint
-    * Mehrere Dateien - PDF, Word, Bilder und vieles mehr - zu einer bearbeitbaren PDF kombinieren
-    * Mit Acrobat Web und Acrobat Mobile kannst du jederzeit und überall arbeiten.
+* Erstelle PDF aus Bilddateien und anderen Dokumenten - z. B. Word, Excel und PowerPoint
+* Mehrere Dateien - PDF, Word, Bilder und vieles mehr - zu einer bearbeitbaren PDF kombinieren
+* Mit Acrobat Web und Acrobat Mobile kannst du jederzeit und überall produktiv sein.
 
 **[Erste Schritte mit Acrobat](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/5d8acc24-47a1-4db8-b419-8587bfb12708/fe8ec392-f29a-4e25-b7a3-61f48eea45ab){target="_blank"}**
 Datum: 23. Februar 2023 Erste Schritte mit Adobe Acrobat und PDF. Lernt die Grundlagen der Oberfläche von Acrobat kennen. Erfahrt, wie ihr mit wichtigen Funktionen produktiver arbeitet. Themen:
 
-    * PDF aus Bilddateien und Dokumenten erstellen - einschließlich Word, Excel und PowerPoint
-    * Mehrere Dateien - PDF, Word, Bilder und vieles mehr - zu einer bearbeitbaren PDF kombinieren
-    * Mit Acrobat Web und Acrobat Mobile kannst du jederzeit und überall arbeiten.
+* Erstelle PDF aus Bilddateien und anderen Dokumenten - z. B. Word, Excel und PowerPoint
+* Mehrere Dateien - PDF, Word, Bilder und vieles mehr - zu einer bearbeitbaren PDF kombinieren
+* Mit Acrobat Web und Acrobat Mobile kannst du jederzeit und überall produktiv sein.
 
 **[Produktivität an jedem Ort.](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/9ab6c7a2-5ca2-4670-9a33-2ac11a1cb542/0b591876-aeae-45af-b41a-07a8326043f2){target="_blank"}**
 Datum: 26. Januar 2023 In dieser Session erfährst du, wie du über jeden Webbrowser oder dein Mobilgerät auf deine bevorzugten Acrobat-Tools zugreifen kannst. Mit Acrobat im Internet können Sie von überall aus arbeiten. Und mit der mobilen Acrobat-App können Sie Ihre Produktivität auch unterwegs steigern.
