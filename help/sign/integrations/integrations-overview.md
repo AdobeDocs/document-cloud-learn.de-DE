@@ -23,7 +23,7 @@ Sie können Acrobat Sign in anderen Anwendungen verwenden, die Ihre Organisation
 >[!NOTE]
 > Wenn Sie auf keine dieser Funktionen zugreifen können, wenden Sie sich an den Administrator Ihrer Organisation, um sicherzustellen, dass die Integration aktiviert ist.
 
-## Neuerungen
+## Neue Funktionen
 
 * [Dokumente zur Beglaubigung senden](send-document-notarize.md)
 In diesem dreiteiligen Tutorial erfahren Sie, wie Sie ein Dokument zur Beglaubigung senden, das Erlebnis des Unterzeichners anzeigen und die Ergebnisse erhalten.
