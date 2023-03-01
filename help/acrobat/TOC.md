@@ -5,14 +5,14 @@ breadcrumb-title: Acrobat Tutorials
 source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
 workflow-type: tm+mt
 source-wordcount: '412'
-ht-degree: 8%
+ht-degree: 0%
 
 ---
 
 
 # Tutorials zu Acrobat {#acrobat-learning}
 
-+ [Übersicht](overview.md)
++ [Overview](overview.md)
 + Erste Schritte {#getting-started}
    + [Übersicht](getting-started/getting-started-overview.md)
    + [Grundlagen des Arbeitsbereichs](getting-started/get-to-know-the-acrobat-dc-interface.md)
@@ -21,18 +21,18 @@ ht-degree: 8%
    + [Unterwegs produktiv sein.](getting-started/productivity.md)
    + [Arbeiten mit [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Woher kommen die PDF?](getting-started/where-do-pdfs-come-from.md)
-   + [Erstellen einer PDF-Datei](getting-started/create-pdf.md)
+   + [PDF erstellen](getting-started/create-pdf.md)
    + [Combine Files auf PDF](getting-started/combine-to-pdf.md)
    + [Seiten organisieren](getting-started/organize.md)
    + [Benutzerdefinierte Seite hinzufügen](getting-started/add-custom-page.md)
-   + [PDF bearbeiten](getting-started/edit-pdf.md)
+   + [Bearbeiten einer PDF](getting-started/edit-pdf.md)
    + [Layout automatisch anpassen](getting-started/auto-adjust-layout.md)
    + [Exportieren einer PDF in bearbeitbare Formate](getting-started/export-pdf.md)
    + [In Echtzeit zusammenarbeiten](getting-started/collaborate.md)
    + [Auf einem PDF kommentieren](getting-started/comment-on-pdf-files.md)
    + [Ausfüllbares Formular erstellen](getting-started/create-fillable-forms.md)
    + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
-   + [Scan &amp; OCR](getting-started/scan-and-ocr.md)
+   + [Scannen und OCR](getting-started/scan-and-ocr.md)
    + [Protect einer PDF-Datei mit einem Kennwort](getting-started/password-protect.md)
    + [Unterschriften einholen](getting-started/signatures.md)
    + [Dokumente verfolgen](getting-started/track.md)
@@ -46,7 +46,7 @@ ht-degree: 8%
    + [Arbeiten mit Formularfeldern](advanced-tasks/workforms.md)
    + [PDF verbessern](advanced-tasks/enhance.md)
    + [Unterschiede zwischen zwei PDF erkennen](advanced-tasks/compare.md)
-   + [Aktionsassistent](advanced-tasks/action.md)
+   + [Action Wizard](advanced-tasks/action.md)
    + [Schwärzen und bereinigen](advanced-tasks/redact.md)
    + [Dateigröße reduzieren und optimieren.](advanced-tasks/reduce.md)
    + [Arbeiten mit Formulardaten](advanced-tasks/formdata.md)
@@ -78,7 +78,7 @@ ht-degree: 8%
    + [Bearbeiten einer Grafik auf dem PDF](60-second/editgraphic.md)
    + [Seiten schnell organisieren.](60-second/organize.md)
 + Skill Builders {#skill-builders}
-   + [Webinare](skill-builder/skill-builder-webinars.md)
+   + [Schulungsvideos (in englischer Sprache)](skill-builder/skill-builder-webinars.md)
 + Integrationen {#integrations}
    + [Übersicht](integrate/integrate-overview.md)
    + [PDF erstellen aus [!DNL Microsoft Word]](integrate/createfromword.md)
@@ -101,7 +101,7 @@ ht-degree: 8%
          + [Tipp #3 - Digitale Protect-Dokumente](industry/gov/protect-digital-documents.md)
          + [Tipp #4 - Arbeiten Sie mit Formularen und Signaturen](industry/gov/work-with-forms-and-signatures.md)
          + [Tipp #5 - Scannen und Bearbeiten auf Mobilgeräten](industry/gov/scan-and-edit-on-mobile.md)
-      + Barrierefreiheit {#pdfs}
+      + Eingabehilfe {#pdfs}
          + [Barrierefreie PDF](industry/gov/making-pdfs-accessible.md)
          + [#1 - Erläuterungen zur Barrierefreiheit](industry/gov/understanding-accessibility.md)
          + [#2 - Authoring in Word](industry/gov/authoring-in-word.md)
@@ -112,7 +112,7 @@ ht-degree: 8%
 + Bereitstellen {#deploy}
    + [Übersicht](deploy/deploy-overview.md)
    + [Wichtige Updates für Acrobat DC-Produkte für ETLA-Kunden](deploy/signentitlementchanges.md)
-+ Mobil {#mobile}
++ Mobile Endgeräte {#mobile}
    + [Übersicht](mobile/mobile-overview.md)
    + [Unterwegs produktiv sein.](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Alles auf PDF scannen](mobile/scan-mobile-app.md)
