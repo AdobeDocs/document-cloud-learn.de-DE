@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: 88482ea5eadc93ff3bfcf995f0725e94c3a660cc
 workflow-type: tm+mt
-source-wordcount: '587'
+source-wordcount: '615'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ Sie können Acrobat Sign in anderen Anwendungen verwenden, die Ihre Organisation
 
 ## Neuerungen
 
+* [Dokumente zur Beglaubigung senden](send-document-notarize.md)
+In diesem dreiteiligen Tutorial erfahren Sie, wie Sie ein Dokument zur Beglaubigung senden, das Erlebnis des Unterzeichners anzeigen und die Ergebnisse erhalten.
 * [Automatisches Archivieren von Dateien in SharePoint mit Power Automate](auto-archive-sharepoint-power-automate.md)
 Erfahren Sie, wie Sie unterzeichnete Dokumente mit Power Automate automatisch in einer SharePoint-Bibliothek archivieren.
-* [Document Builder für Salesforce](create-an-agreement-template.md)
-Erfahren Sie, wie Sie mit Document Builder für Salesforce eine wiederverwendbare Dokumentvorlage erstellen.
 
 ## Tutorials zur Integration mit Microsoft
 
@@ -104,6 +104,38 @@ Erfahren Sie, wie Sie mit Document Builder für Salesforce eine wiederverwendbar
     <a href="documentautomation.md"><strong>Dokumentautomatisierung mit [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie die [!DNL Acrobat Sign] und [!DNL Adobe PDF Tools] Steckverbinder für [!DNL Microsoft Power] Apps</em>
+    <br>
+  </td>
+</tr>
+</table>
+
+## [!DNL Notarize] Integrations-Tutorials
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="send-document-notarize.md">
+      <img alt="Dokumente zur Beglaubigung senden" src="../assets/Notarize.png" />
+    </a>
+    <div>
+    <a href="send-document-notarize.md"><strong>Dokumente zur Beglaubigung senden</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie ein Dokument zur Beglaubigung senden</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
