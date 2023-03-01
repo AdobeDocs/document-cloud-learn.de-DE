@@ -8,20 +8,20 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: fce850ea8ef83e3f384c3b8a8629d9e5b96a7dcb
+source-git-commit: 32a3410b392e0bbe792fdf2c43752e3970b20c46
 workflow-type: tm+mt
-source-wordcount: '483'
-ht-degree: 9%
+source-wordcount: '488'
+ht-degree: 0%
 
 ---
 
 
 # Acrobat Sign Tutorials {#sign-learning-hub}
 
-+ [Übersicht](overview.md)
++ [Overview](overview.md)
 + Erste Schritte {#getting-started}
    + [Übersicht](sign-beginner-tutorials/beginner-users-overview.md)
-   + Wird gesendet {#getting-started-sending}
+   + Senden läuft {#getting-started-sending}
       + [Grundlagen des Arbeitsbereichs](sign-beginner-tutorials/quick-tour.md)
       + [Erste Schritte mit Acrobat Sign](sign-beginner-tutorials/new-sender.md)
       + [Senden an einen einzelnen Empfänger](sign-beginner-tutorials/send-to-single-recipient.md)
@@ -31,7 +31,7 @@ ht-degree: 9%
       + [Ändern eines Dokuments nach dem Senden](sign-beginner-tutorials/modify-in-flight.md)
       + [Unterzeichner ersetzen](sign-beginner-tutorials/replace-signer.md)
       + [Termine und Erinnerungen festlegen](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + Signing {#getting-started-signing}
+   + Unterzeichnungen {#getting-started-signing}
       + [Dokumente elektronisch unterschreiben](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Ein Dokument ausfüllen und unterschreiben](sign-beginner-tutorials/fill-and-sign.md)
       + [Persönliche Signaturen erhalten](sign-beginner-tutorials/sign-in-person.md)
@@ -43,7 +43,7 @@ ht-degree: 9%
       + [Erstellen von Dokumentvorlagen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + Erweiterte Aufgaben {#advanced-tasks}
    + [Übersicht](sign-advanced-users/advanced-users-overview.md)
-   + Wird gesendet {#advanced-tasks-sending}
+   + Senden {#advanced-tasks-sending}
       + [Einrichten der Unterschriftsreihenfolge](sign-advanced-users/setting-up-routing.md)
       + [Verwenden der Delegatorrolle](sign-advanced-users/delegate-signature.md)
       + [Verwenden der Genehmigerrolle](sign-advanced-users/add-an-approver.md)
@@ -87,7 +87,7 @@ ht-degree: 9%
       + [Signieren mit Digidentity](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
       + [Registrieren und signieren Sie mit [!DNL D-Trust]](digitalid/d-trust.md)
-   + Intesi Group {#intesi}
+   + Intesi Group {#intesi}
       + [Abrufen einer digitalen ID von der Intesi Group (Advanced)](digitalid/intesi-advanced.md)
       + [Abrufen einer digitalen ID von der Intesi Group (qualifiziert)](digitalid/intesi-qualified.md)
       + [Signieren mit der Intesi Group](digitalid/intesi-sign.md)
@@ -101,6 +101,8 @@ ht-degree: 9%
       + [Zum Unterschreiben senden in [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
       + [Dateien automatisch archivieren in [!DNL SharePoint] mit [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Automatisierung von Dokumenten mit Acrobat Sign für Microsoft Power Platform.](integrations/documentautomation.md)
+   + Notarize {#notarize}
+      + [Dokumente zur Beglaubigung senden](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
       + [Document Builder für Salesforce](integrations/create-an-agreement-template.md)
       + [Einrichten von Datenzuordnungen](integrations/set-up-data-mapping.md)
@@ -117,7 +119,7 @@ ht-degree: 9%
 + Branchen und Abteilungen {#expand}
    + [Übersicht](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}
-      + [Webinare](sign-usecase/innovation-series.md)
+      + [Schulungsvideos (in englischer Sprache)](sign-usecase/innovation-series.md)
    + Nutzungsszenarien {#recipes}
       + [Übersicht](sign-usecase/recipes.md)
       + Regierungseinrichtungen {#gov}
@@ -140,7 +142,7 @@ ht-degree: 9%
       + [Integrierte Erlebnisse für elektronische Unterschriften und Dokumente erstellen](develop/embeddedesignature.md)
 + Bereitstellen {#deploy}
    + [Übersicht](deploy-overview.md)
-+ Mobil {#mobile}
++ Mobile Endgeräte {#mobile}
    + [Übersicht](mobile/mobile-overview.md)
    + Tutorials für Mobilgeräte {#mobile-tutorials}
       + [Liquid Mode in Acrobat Sign](mobile/liquidmode.md)
