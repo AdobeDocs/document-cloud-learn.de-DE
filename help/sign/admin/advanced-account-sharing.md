@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: 40186.jpg
 exl-id: a10c42e9-8aec-4784-a374-23c69a3f8111
-source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
+source-git-commit: 41d3a43952dd2bae2747c9a74416f3f24e938f17
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 1%
@@ -20,7 +20,7 @@ Erfahren Sie, wie Sie eine erweiterte Kontofreigabe einrichten, sodass Administr
 
 >[!NOTE]
 >
->Die erweiterte Kontofreigabe ist nur für Abos auf Enterprise-Ebene verfügbar. Der technische Support kann die erweiterte Freigabe aktivieren. Sobald sie jedoch aktiviert ist, ändert sie die Beziehungen der freigegebenen Objekte auf eine Weise, die nicht rückgängig gemacht werden kann. Aus diesem Grund wird empfohlen, dass Sie sich an Ihren Customer Success Manager wenden und ein Testkonto einrichten lassen, mit dem Sie die Funktionalität testen und überprüfen können, ob sie alles zulässt, was Sie erreichen möchten.
+>Die erweiterte Kontofreigabe ist nur für Abos auf Enterprise-Ebene verfügbar. Der technische Support kann die erweiterte Freigabe aktivieren. Sobald sie jedoch aktiviert ist, ändert sie die Beziehungen der freigegebenen Objekte auf eine Weise, die nicht rückgängig gemacht werden kann. Aus diesem Grund wird empfohlen, dass Sie sich an Ihr Adobe-Account-Team wenden und ein Testkonto einrichten lassen, mit dem Sie die Funktionen testen und überprüfen können, ob sie alles zulassen, was Sie erreichen möchten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40186?hidetitle=true)
 
