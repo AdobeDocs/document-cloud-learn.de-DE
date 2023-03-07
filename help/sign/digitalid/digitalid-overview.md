@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 9ff23e33bed24593b2675e6aba177ebe41f39b1b
+source-git-commit: 50527e5500d940494bc0792eac8eba87e1082982
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,8 @@ ht-degree: 0%
 
 ## Neue Funktionen
 
+* [Registrieren und Signieren mit Digidentity](digidentity-sign.md)
+Erfahren Sie, wie Sie Ihre [!DNL Digidentity] digitale ID mit Acrobat Sign
 * [Registrieren und signieren Sie mit D-Trust](d-trust.md)
 Weitere Informationen zur Registrierung Ihrer Identität bei [!DNL D-Trust], und verwenden Sie dann den Katalog [!DNL D-Trust] Unterschreiben eines Dokuments in Acrobat Sign
 
