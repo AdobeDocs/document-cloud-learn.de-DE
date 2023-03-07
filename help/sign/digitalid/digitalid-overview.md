@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: ed9ff5078db36fd41021b656f58356edeefa5cea
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >Bevor Sie eine digitale ID mit einer Cloud-Signatur verwenden können, fragen Sie den Administrator Ihres Unternehmens, ob die Lösung des Anbieters in Acrobat Sign aktiviert ist.
 
-## Neuerungen
+## Neue Funktionen
 
 * [Registrieren und signieren Sie mit D-Trust](d-trust.md)
 Weitere Informationen zur Registrierung Ihrer Identität bei [!DNL D-Trust], und verwenden Sie dann den Katalog [!DNL D-Trust] Unterschreiben eines Dokuments in Acrobat Sign
@@ -65,24 +65,19 @@ Weitere Informationen zur Registrierung Ihrer Identität bei [!DNL D-Trust], und
 
 <table style="table-layout:fixed">
 <tr>
- <td>
-    <a href="digidentity-reg.md">
-      <img alt="Abrufen einer digitalen ID von [!DNL Digidentity]" src="assets/Digidentityreg_1280.png" />
+  <td>
+    <a href="digidentity-sign.md">
+      <img alt="Registrieren und unterschreiben Sie mit einem [!DNL Digidentity] digitale ID" src="assets/Digidentitysign_1280.png" />
     </a>
     <div>
-    <a href="digidentity-reg.md"><strong>Abrufen einer digitalen ID von [!DNL Digidentity]</strong></a>
+    <a href="digidentity-sign.md"><strong>Registrieren und unterschreiben Sie mit einem [!DNL Digidentity] digitale ID</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie ein digitales Signaturzertifikat von [!DNL Digidentity]</em>
+    <em>Erfahren Sie, wie Sie Ihre [!DNL Digidentity] digitale ID mit Acrobat Sign</em>
     <br>
   </td>
   <td>
-    <a href="digidentity-sign.md">
-      <img alt="Signieren mit [!DNL Digidentity]" src="assets/Digidentitysign_1280.png" />
-    </a>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
-    <a href="digidentity-sign.md"><strong>Signieren mit [!DNL Digidentity]</strong></a>
-    </div>
-    <em>Erfahren Sie, wie Sie Ihr [!DNL Digidentity] digitale ID mit Acrobat Sign</em>
     <br>
   </td>
   <td>

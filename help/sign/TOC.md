@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 32a3410b392e0bbe792fdf2c43752e3970b20c46
+source-git-commit: ed9ff5078db36fd41021b656f58356edeefa5cea
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '486'
 ht-degree: 10%
 
 ---
@@ -83,8 +83,7 @@ ht-degree: 10%
    + Aadhaar {#aadhaar}
       + [Signieren mit Aadhaar](digitalid/aadhaar-sign.md)
    + Digidentity {#digidentity}
-      + [Abrufen einer digitalen ID von Digidentity](digitalid/digidentity-reg.md)
-      + [Signieren mit Digidentity](digitalid/digidentity-sign.md)
+      + [Registrieren und unterschreiben Sie mit einem [!DNL Digidentity] digitale ID](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
       + [Registrieren und signieren Sie mit [!DNL D-Trust]](digitalid/d-trust.md)
    + Intesi Group {#intesi}
