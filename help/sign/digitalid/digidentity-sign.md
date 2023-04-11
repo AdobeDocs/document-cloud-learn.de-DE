@@ -8,7 +8,7 @@ level: Beginner
 thumbnail: KT-8670.jpg
 kt: 8670
 exl-id: 4c1641bc-3298-45f0-95ed-7071e6158e5e
-source-git-commit: 50527e5500d940494bc0792eac8eba87e1082982
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -21,4 +21,4 @@ Digidentity ist ein EU-qualifizierter Trust Service Provider (QTSP). Der Digiden
 
 In diesem Video-Tutorial erfährst du, wie es vom Eingang der E-Mail mit der Registrierungseinladung zur Authentifizierung und Anwenden einer Cloud-Signatur mit einer digitalen ID in Acrobat Sign weitergeht.
 
->[!VIDEO](https://video.tv.adobe.com/v/336991?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/336991?quality=12&learn=on&hidetitle=true)

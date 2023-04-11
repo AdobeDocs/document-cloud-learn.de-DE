@@ -1,20 +1,21 @@
 ---
-title: Foto auf dem PDF bearbeiten
-description: Erfahren Sie, wie Sie mit Photoshop Fotos auf Ihrem PDF bearbeiten können
+title: Ein Foto auf dem PDF bearbeiten.
+description: Erfahren Sie, wie Sie mit Photoshop erweiterte Änderungen an einem Foto auf dem PDF vornehmen können.
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-9276.jpg
 KT: 9276
-source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
+exl-id: 05b2b256-2a1f-464e-8409-6d74e423cb65
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
-# Foto auf dem PDF bearbeiten
+# Ein Foto auf dem PDF bearbeiten.
 
-In diesem 60-Sekunden-Tutorial lernen Sie, wie Sie mit Photoshop ein Foto auf Ihrem PDF bearbeiten können. Vom PDF-bearbeiten-Werkzeug bis zum Photoshop, und wieder zurück, ist der Vorgang nahtlos und ermöglicht Ihnen, Ihre Arbeit schnell und einfach zu erledigen.
+In diesem 60-Sekunden-Tutorial lernen Sie, wie Sie mit Photoshop ein Foto auf Ihrem PDF weiter bearbeiten können. Vom PDF-Werkzeug &quot;Bearbeiten&quot; bis hin zu Photoshop und dann wieder zurück - der Prozess ist nahtlos und ermöglicht es Ihnen, Ihre Arbeit schnell und einfach zu erledigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/338276?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338276?quality=12&learn=on&hidetitle=true)

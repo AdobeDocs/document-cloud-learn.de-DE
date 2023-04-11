@@ -6,7 +6,8 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-10981.jpg
-source-git-commit: 23ca497130a78091219ba3a611a37658f10ea629
+exl-id: e0e09718-1e4f-45d2-a0a4-43468ea4ed29
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -21,4 +22,4 @@ Erfahren Sie, wie Sie Daten in einem [Webformular](webform.md). Dieses Tutorial 
 >
 >Nur Abos der Business- und Enterprise-Ebene haben die Möglichkeit, Webformularzugriff und Unterzeichneroptionen zu konfigurieren. Die Webformularzugriff- und Signaturgeberoptionen werden auf Konto- oder Gruppenebene unter Konto > Kontoeinstellungen > Globale Einstellungen > Webformulare aktiviert oder deaktiviert.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409607?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409607?quality=12&learn=on&hidetitle=true)

@@ -6,7 +6,7 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-5506.jpg
 exl-id: 8669881a-b69b-4455-912d-b3551207a696
-source-git-commit: 4827c827ee06c94c38290d5f0e716e8a8328bd48
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Hier erfahren Sie, wie Sie ein externes Archiv für Sicherungskopien von Vereinbarungen erstellen, die signiert wurden. Sie können Kopien in einer beliebigen E-Mail-Adresse oder in [!DNL Box] und Evernote. Eine Kopie der signierten und abgeschlossenen E-Mail wird an die von Ihnen angegebene E-Mail-Adresse oder den Cloud-Dienst gesendet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409072?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409072?quality=12&learn=on&hidetitle=true)

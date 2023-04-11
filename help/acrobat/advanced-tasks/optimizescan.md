@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9344.jpg
 kt: 9344
-source-git-commit: a659861d626e5b6799959ec2b4208bbbdf574885
+exl-id: cf8e8696-ddba-48e3-acba-3c69541eb483
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
@@ -21,4 +22,4 @@ Egal, ob Ihr Dokument von einer Kamera oder einem Scanner stammt: Erfahren Sie, 
 >
 >Wenn Sie über Acrobat Pro verfügen, führen Sie im Action Wizard-Tool die Option Gescannte Dokumente optimieren aus, um diesen Prozess zu automatisieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/340823?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340823?quality=12&learn=on&hidetitle=true)

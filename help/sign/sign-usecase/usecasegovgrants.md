@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33810.jpg
 exl-id: 47471402-6a7b-4e25-947f-5b5ffdc393fd
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Bieten Sie Unternehmen schnellen Support, indem Sie Selfservice-Zugriff auf Antragsformulare für Zuschüsse, Darlehen und Steuerstundung gewähren. Erfahren Sie, wie Sie ein Online-Webformular erstellen, das ausgefüllt werden kann **und** signiert, ohne etwas zu drucken oder zu versenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/33810?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33810?quality=12&learn=on&hidetitle=true)
 
 Hier können Sie das schrittweise PDF-Rezept für Unternehmenszuschüsse und -darlehen herunterladen.
 

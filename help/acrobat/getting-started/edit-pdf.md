@@ -1,21 +1,21 @@
 ---
-title: PDF bearbeiten
+title: Bearbeiten einer PDF-Datei
 description: Erfahren Sie, wie Sie Text und Bilder in PDF-Dateien bearbeiten
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 11%
 
 ---
 
-# PDF bearbeiten
+# Bearbeiten einer PDF-Datei
 
-Erfahren Sie, wie Sie [Text und Bilder in PDF-Dateien bearbeiten](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}. Klicken oder tippen Sie, um einen neuen Absatz hinzuzufügen oder einen Tippfehler zu korrigieren. Du kannst sogar Bilder [oder ein Foto zuschneiden](https://www.adobe.com/acrobat/online/crop-pdf.html).
+Erfahren Sie, wie Sie [Text und Bilder in PDF-Dateien bearbeiten](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target="_blank"}. Klicken oder tippen Sie, um einen neuen Absatz hinzuzufügen oder einen Tippfehler zu korrigieren. Du kannst sogar Bilder [oder ein Foto zuschneiden](https://www.adobe.com/acrobat/online/crop-pdf.html).
 
 >[!TIP]
 >
@@ -23,7 +23,7 @@ Erfahren Sie, wie Sie [Text und Bilder in PDF-Dateien bearbeiten](https://www.ad
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35493?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35493?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

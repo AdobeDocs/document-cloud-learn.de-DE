@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '130'
 ht-degree: 3%
 
 ---
 
 # Dateien auf einer einzigen PDF zusammenführen
 
-Für die Bereitstellung der besten Kundenerlebnisse müssen Inhalte schneller denn je erstellt werden. Erfahren Sie, wie Sie viele verschiedene Dateitypen (PDF, Word, Excel, PowerPoint, JPEG usw.) auf einer einzigen PDF. [Dateien auf einer PDF zusammenführen](https://www.adobe.com/de/acrobat/online/merge-pdf.html)Mit {target=&quot;_blank&quot;} können Sie Inhalte, die Sie an andere senden, verwalten und steuern und so ein besseres Erlebnis schaffen.
+Für die Bereitstellung der besten Kundenerlebnisse müssen Inhalte schneller denn je erstellt werden. Erfahren Sie, wie Sie viele verschiedene Dateitypen (PDF, Word, Excel, PowerPoint, JPEG usw.) auf einer einzigen PDF. [Dateien auf einer PDF zusammenführen](https://www.adobe.com/de/acrobat/online/merge-pdf.html){target="_blank"} ermöglicht es Ihnen, Inhalte, die Sie an andere senden, zu verwalten und zu kontrollieren und so ein besseres Erlebnis zu schaffen.
 
 >[!TIP]
 >
@@ -23,7 +23,7 @@ Für die Bereitstellung der besten Kundenerlebnisse müssen Inhalte schneller de
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35452?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35452?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

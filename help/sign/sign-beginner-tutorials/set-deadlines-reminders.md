@@ -6,7 +6,8 @@ product: adobe sign
 solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-10605.jpg
-source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
+exl-id: 495184e8-e614-405b-8dd8-4b85d8f82758
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 6%
@@ -21,4 +22,4 @@ Hier erfährst du, wie du in regelmäßigen Abständen E-Mails mit Erinnerungen 
 >
 >Enterprise- und Business-Pläne können die Erinnerungsoption während des Sendevorgangs selektiv anzeigen oder die konten- oder gruppenweite Automatisierung aktivieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411445?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411445quality=12&learn=on&hidetitle=true)

@@ -7,18 +7,18 @@ level: Beginner
 thumbnail: KT-8576.jpg
 KT: 8576
 exl-id: 8d927cd6-f944-45b7-81c9-4f70e1ed5276
-source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 4%
 
 ---
 
 # PPT- in PDF-Dateien umwandeln
 
-In diesem 60-Sekunden-Video-Tutorial erfahren Sie, wie Sie eine E-Mail konvertieren [PowerPoint-Anbindung an PDF](https://www.adobe.com/de/acrobat/online/ppt-to-pdf.html){target=&quot;_blank&quot;} auf Ihrem Smartphone. Wenn die Datei zurückkehrt, können Sie sie anzeigen und auf Freigeben tippen, um sie an Ihr Team zu senden - ohne PowerPoint auf Ihrem Smartphone zu haben.
+In diesem 60-Sekunden-Video-Tutorial erfahren Sie, wie Sie eine E-Mail konvertieren [PowerPoint-Anbindung an PDF](https://www.adobe.com/de/acrobat/online/ppt-to-pdf.html){target="_blank"} auf deinem Smartphone. Wenn die Datei zurückkehrt, können Sie sie anzeigen und auf Freigeben tippen, um sie an Ihr Team zu senden - ohne PowerPoint auf Ihrem Smartphone zu haben.
 
->[!VIDEO](https://video.tv.adobe.com/v/336366?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/336366?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

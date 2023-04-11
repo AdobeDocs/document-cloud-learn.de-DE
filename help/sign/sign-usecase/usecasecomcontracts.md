@@ -7,18 +7,18 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33980.jpg
 exl-id: 44e3cf09-891c-4bdc-be58-3265adc53f10
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
 # Handelsverträge und Auftragsformulare
 
-Ersetzen Sie die Papierverarbeitung schnell durch standardkonforme digitale Workflows inklusive Auditberichten. Erfahrt, wie ihr mit dem Workflow Designer-Tool von Acrobat Sign den gesamten Prozess optimieren könnt.
+Ersetzen Sie die Papierverarbeitung schnell durch standardkonforme digitale Workflows inklusive Auditberichten. Lerne Acrobat Sign Workflow Designer kennen, mit dem du Arbeitsabläufe optimieren kannst.
 
->[!VIDEO](https://video.tv.adobe.com/v/33980?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
 
 Hier können Sie das schrittweise PDF von Verträgen und Anfrageformularen herunterladen.
 

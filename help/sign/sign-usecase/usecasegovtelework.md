@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33808.jpg
 exl-id: 4efd2d9a-715b-4d1a-9c6b-0ff5795cbf3b
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Erfahrt, wie ihr Unterschriften aller Mitarbeiter effizient einholt, etwa für Verträge im Homeoffice oder für Richtlinien-Updates. Zunächst erstellen Sie eine wiederverwendbare Dokumentvorlage, auf die Sie schnell über Ihre Dokumentbibliothek zugreifen können. Zweitens senden Sie die neue Dokumentvorlage mit Mega Sign zur Signatur an Hunderte von Mitarbeitern gleichzeitig.
 
->[!VIDEO](https://video.tv.adobe.com/v/33808?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33808?quality=12&learn=on&hidetitle=true)
 
 Klicken Sie hier, um das schrittweise PDF-Rezept für Telearbeit-Vereinbarungen herunterzuladen.
 
