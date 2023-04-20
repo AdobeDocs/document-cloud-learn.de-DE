@@ -5,10 +5,10 @@ product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: fe8ce2c16d06f13d07bff5e625ac773447793536
+source-git-commit: ae9f644a5437475954c68444bed39c7d4ea21905
 workflow-type: tm+mt
-source-wordcount: '1107'
-ht-degree: 1%
+source-wordcount: '1111'
+ht-degree: 0%
 
 ---
 
@@ -20,6 +20,42 @@ Adobe Acrobat Skill Builder sind 30-minütige Sessions, die deine PDF-Workflows 
 
 ## Monatliche Sitzungen
 
+**[Einfache Automatisierung mit Action Wizard](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/41d505bb-252a-4e26-9576-6ae82293e6c9/97be1628-5cb6-44be-ac61-c0cc26fbb58d){target="_blank"}**
+Datum: 16. November 2023 Wiederholt keine einfachen manuellen Aufgaben mehr. In dieser Session lernst du, wie du Action Wizard in Acrobat Pro einsetzt, um PDF-Dateien im Stapel zu verarbeiten und serielle, sich wiederholende Aufgaben automatisch auszuführen, z. B. den Zugriff auf Dokumente, den Schutz von Dokumenten, die Dateioptimierung, die Archivierung und vieles mehr. Sie erfahren Folgendes:
+
+* Was sind Aktionen?
+* Wie Sie vorkonfigurierte Aktionen verwenden
+* Eigene Aktionen erstellen
+* Aktionen für andere freigeben
+
+**[Papierdokumente freischalten: Skalierte Digitalisierung](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/46e148fe-92c0-4d79-ac83-8888e9f0521e/dfcf3b90-4390-4c6e-abd9-20ba6e913dc1){target="_blank"}**
+Datum: 26. Oktober 2023 Müssen für dich oder dein Unternehmen unzählige Papierdokumente in die digitale Welt gebracht werden, damit sie für dich und andere leichter zugänglich sind? Erfahren Sie, wie Acrobat mithilfe von Texterkennung (Optical Character Recognition, OCR) gescannte Dateien in durchsuchbare, bearbeitbare und wiederverwendbare PDF-Dokumente umwandelt, die genau wie die Originaldatei aussehen. Außerdem erhalten wir Tipps zur OCR-Technologie in großem Umfang und zur Automatisierung von Digitalisierungs-Workflows mit Power Automate und der Adobe PDF Services API.
+
+**[Microsoft mit Acrobat-Add-ins optimal nutzen](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/8b4ea780-6e4d-48b6-8c70-ea10245a5a64/b4fe64de-3614-4a6d-94c6-ff6612ac07fb){target="_blank"}**
+Datum: 28. September 2023 Mit den direkt in Microsoft 365 integrierten Acrobat-Tools und -Services kann jeder Geschäftstransaktionen durchführen und schneller zusammenarbeiten, ohne zwischen den Programmen wechseln zu müssen. Wir zeigen dir, wie du PDF-Workflows zu deinen täglichen Microsoft-Programmen hinzufügst. Dazu gehören:
+
+* Microsoft Teams (Zusammenarbeit an PDF)
+* SharePoint (Erstellen, Kombinieren, Organisieren und Exporte PDF)
+* Word, Excel, PowerPoint (Erstellen und Zusammenarbeit auf PDF)
+* Outlook (PDF erstellen)
+
+**[Integrierte PDF-Sicherheit entdecken](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/b454ab64-9c2e-4aec-bcf9-ca82e3a6b869/3a456ace-042e-41c8-8e8c-d285e9ba0ab8){target="_blank"}**
+Datum: 24. August 2023 Verringerter Zeitaufwand für die Gewährleistung der Sicherheit und Einhaltung gesetzlicher Dokumente durch automatisierte, vollständige Audit-Protokolle, Schwärzung zum Entfernen vertraulicher Informationen, anpassbare PDF-Sicherheitsfunktionen wie Anzeige, Wasserzeichen, Zugriffskontrollen und Verschlüsselung.
+
+* PDF-Sicherheit in Microsoft 365-Anwendungen (Word, Excel, PPT, Outlook)
+* PDF-Sicherheit in Adobe Apps (InDesign, Illustrator, Photoshop, InCopy)
+* Kennwort zum Anzeigen, Bearbeiten usw. hinzufügen
+* Dem Empfänger verfügbare Aktionen
+* Mehrere Protect-Dateien (mehrere gleichzeitig)
+* Vertrauliche Informationen vom PDF entfernen (Schwärzen, Bereinigen, Ausblenden vertraulicher Informationen)
+
+**[PDF forms 201: Formularkenntnisse erweitern](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/32518a73-e152-42b5-825c-b31ce53ab1f2/b9966934-6a5b-49c2-a9b0-d434543ce7f4){target="_blank"}**
+Datum: 27. Juli 2023 Erfahrt mehr über die erweiterten Optionen von Acrobat. Vertiefe deine PDF forms mit den neuen Anforderungen. Themen:
+
+* Mit Online-Formularen Daten und Unterschriften von überall erfassen.
+* Arbeiten mit JavaScript für komplexere Aktionen
+* Interaktion von Empfängern mit Formularen in verschiedenen Viewern oder Browsern
+
 **[PDF forms 101: Ausfüllbares Forms erstellen](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/795f4bc7-db42-4022-a624-8a53c51174c6/9d685d0f-4a5b-4236-a1ef-081d1403fb41){target="_blank"}**
 Datum: 29. Juni 2023 Wandelt eure alten Formulare und Papierdokumente in digitale, ausfüllbare PDF um. Acrobat bietet zahlreiche Methoden und Tools für die digitale Transformation. Themen:
 
@@ -27,12 +63,12 @@ Datum: 29. Juni 2023 Wandelt eure alten Formulare und Papierdokumente in digital
 * Grundlegendes zu verfügbaren Feldtypen (Text, Kontrollkästchen, Optionsfelder, Dropdown-Listen, Kalender)
 * Arbeiten mit Feldeigenschaften und Produktivitätswerkzeugen (Darstellung, Formatierung, Berechnungen, Validierungen)
 
-**[PDF interaktiv machen.](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/4ff4d607-8c9f-47dd-ac4f-3b351a0a0fe3/2eb92255-d963-4ff7-b278-2a95a11db755){target="_blank"}**
-Datum: 25. Mai 2023 Machen Sie Ihre PDF für Ihre Zielgruppe leichter und überzeugender zu interagieren. In dieser Session erfahrt ihr, wie ihr PDF mit Interaktivität versehen könnt:
+**[Erstellen barrierefreier PDF](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/4ff4d607-8c9f-47dd-ac4f-3b351a0a0fe3/2eb92255-d963-4ff7-b278-2a95a11db755){target="_blank"}**
+Datum: 25. Mai 2023 Stellen Sie sicher, dass Ihre PDF-Inhalte für alle Benutzer zugänglicher und ansprechender sind. Unabhängig davon, ob Sie ein barrierefreies Dokument erstellen oder die Barrierefreiheitsfunktionen in Acrobat anwenden müssen, zeigen wir Ihnen, wie Sie kompatible PDF erstellen, die den universellen Zugriff auf Ihre Dokumente ermöglichen. Themen:
 
-* Hyperlinks und Lesezeichen erleichtern die Navigation in Dokumenten
-* Einschließlich Video, Sound, 3D und mehr in Ihren PDF
-* Organisieren verschiedener Inhaltstypen in einem einzigen Dokument
+* Suchen nach und Hinzufügen von Tags auf Ihrem PDF
+* Erstellen barrierefreier PDF aus Microsoft Word oder Adobe InDesign
+* Funktionen des Barrierefreiheits-Tools von Acrobat
 
 **[Wiederverwenden von PDF-Inhalten: Bearbeiten und exportieren](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/aac3b9af-7d54-4ea5-a6fa-61bc7acea87f/8d7341ee-ff0f-492a-b3fd-935bd11d4ed0){target="_blank"}**
 Datum: 27. April 2023 Warum das Rad neu erstellen, wenn Sie PDF einfach bearbeiten und exportieren können? In dieser Session erfährst du, wie du vorhandene PDF mit den Bearbeitungs- und Exportwerkzeugen von Acrobat ändern kannst. Themen:
@@ -58,24 +94,3 @@ Datum: 23. Februar 2023 Erste Schritte mit Adobe Acrobat und PDF. Lernt die Grun
 
 **[Produktivität an jedem Ort.](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/9ab6c7a2-5ca2-4670-9a33-2ac11a1cb542/0b591876-aeae-45af-b41a-07a8326043f2){target="_blank"}**
 Datum: 26. Januar 2023 In dieser Session erfährst du, wie du über jeden Webbrowser oder dein Mobilgerät auf deine bevorzugten Acrobat-Tools zugreifen kannst. Mit Acrobat im Internet können Sie von überall aus arbeiten. Und mit der mobilen Acrobat-App können Sie Ihre Produktivität auch unterwegs steigern.
-
-**[Mit PDF in Microsoft-Programmen arbeiten.](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/f7e3961b-e322-4253-bfa4-ff1957a08d99/c1111644-e958-41bf-ad6e-dffafafa7fa0){target="_blank"}**
-Datum: 15. Dezember 2022 Acrobat ist vollständig in Microsoft 365-Applikationen integriert, sodass Sie nicht zwischen den Bildschirmen wechseln müssen und im Laufe Ihrer Arbeit mehr erledigen können. In dieser Session von Skill Builder lernst du, wie du PDF-Workflows zu deinen täglich verwendeten Microsoft-Programmen hinzufügen kannst, darunter Teams, Outlook, SharePoint, Word, PowerPoint und Excel.
-
-**[PDF-Zusammenarbeit: Dokumente teilen, überprüfen und gemeinsam bearbeiten.](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/d1eb8544-6268-4855-8500-2370b1e68045/0dd92858-0587-49f4-be60-8d48c140ef39){target="_blank"}**
-Datum: 17. November 2022 In diesem Skill Builder geht es um die Zusammenarbeit an digitalen Dokumenten. Lerne, wie du mit deinem Team Dokumente überprüfen kannst, und lasse dich von den Kommentierungswerkzeugen inspirieren, die dir zur Verfügung stehen. Wir beschäftigen uns auch mit dem Review von PDF mit anderen in Microsoft Teams und wie Sie von überall aus über die mobile Acrobat-App und Acrobat Web Feedback geben können.
-
-**[PDF-Inhalte wiederverwenden: Bearbeiten und exportieren](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/68a9bbf2-91ca-40f0-baa1-812dd0730e0b/48c2399c-7392-4d7d-ba51-f623dead313a){target="_blank"}**
-Datum: 27. Oktober 2022. Erfahrt, wie ihr [bestehende PDF ändern](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target="_blank"}: Bearbeite Text und Bilder. Füge Hyperlinks und Lesezeichen hinzu. Wandle Dokumente in Microsoft Word-, PowerPoint- und Excel-Dateien um.
-
-**[Erste Schritte mit Acrobat](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/360c9159-3f6f-47ae-8320-d0ad391883e1/e54db15b-af50-40ff-a274-6e927a22c6e7){target="_blank"}**
-Datum: 22. September 2022 Erste Schritte mit Adobe Acrobat und PDF. In diesem Video lernen Sie die Oberfläche von Acrobat kennen und erfahren, wie Sie: * [PDF aus Bilddateien erstellen](https://www.adobe.com/de/acrobat/online/convert-pdf.html){target="_blank"} and documents — including Word, Excel, and PowerPoint. * [Combine multiple files](https://www.adobe.com/de/acrobat/online/merge-pdf.html){target="_blank"} - PDF, Word, Bilder und vieles mehr - auf einer editierbaren PDF. * Mit Acrobat Web und Mobile kannst du jederzeit und überall arbeiten.
-
-**[PDF-Sicherheit](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/ad3778d2-f2c3-4966-98ed-8b1bb90e4b2b/180ad785-1b5b-4c80-80ab-1df345f082ff){target="_blank"}**
-Datum: 25. August 2022 Alle Infos, die du brauchst, auf [Schutz Ihres PDF](https://www.adobe.com/de/acrobat/online/password-protect-pdf.html){target="_blank"} Inhalt. In dieser Session werden Techniken zum Hinzufügen von Kennwörtern vorgestellt, die das Anzeigen, Bearbeiten oder Drucken von PDF verhindern. Außerdem wird erläutert, wie vertrauliche Informationen - auch aus nicht sichtbaren Metadaten - dauerhaft entfernt werden.
-
-**[Einfache Automatisierung mit Action Wizard](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/45ef14f7-e5e4-4fe0-ba26-905adac092a2/24bf421e-f489-47dc-a5a4-d8d70858348c){target="_blank"}**
-Datum: 28. Juli 2022 Wiederholt keine einfachen manuellen Aufgaben mehr! In dieser Session erfährst du, wie du Action Wizard in Acrobat einsetzt, um PDF-Dateien im Stapel zu verarbeiten und serielle, sich wiederholende Aufgaben automatisch auszuführen.
-
-**[Lesbarkeit für alle: Erstellen barrierefreier PDF](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/18c111bd-9c63-4636-a4fd-8dc045a20423/8484f6c9-e2c9-4e1c-8d03-c2ca1d4db77c){target="_blank"}**
-Datum: 23. Juni 2022. Mit neuen Barrierefreiheitsfunktionen für PDF können alle Leser auf die Inhalte zugreifen. In dieser Session erfahrt ihr, wie ihr mit Acrobat konforme, barrierefreie PDF erstellen könnt.
