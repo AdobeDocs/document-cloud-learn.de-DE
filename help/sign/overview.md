@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: ae9f644a5437475954c68444bed39c7d4ea21905
 workflow-type: tm+mt
 source-wordcount: '200'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 ![Acrobat Sign Hero Image](assets/Hero_Sign.jpg)
 
-Acrobat Sign, eine Lösung für Adobe Document Cloud, lässt sich mit Integrationen, APIs, erweiterter Authentifizierung, zusätzlichen Verwaltungsfunktionen und mehr auf die Anforderungen eures Unternehmens abstimmen. Hier finden Sie eine Vielzahl von Lernerlebnissen, die sowohl Anfänger als auch Administratoren schnell auf den neuesten Stand bringen, wenn es um Acrobat Sign geht.
+Acrobat Sign, eine Lösung für Adobe Document Cloud, lässt sich mit Integrationen, APIs, erweiterter Authentifizierung, zusätzlichen Verwaltungsfunktionen und mehr an die Anforderungen Ihres Unternehmens anpassen. Hier finden Sie eine Vielzahl von Lernerlebnissen, die sowohl Anfänger als auch Administratoren schnell auf den neuesten Stand bringen, wenn es um Acrobat Sign geht.
 
 ## Lernpfade
 
@@ -109,10 +109,10 @@ Acrobat Sign, eine Lösung für Adobe Document Cloud, lässt sich mit Integratio
   </td>
   <td>
     <a href="mobile/mobile-overview.md">
-      <img alt="Mobil" src="assets/AS_Title_Mobile.png" />
+      <img alt="Mobile Endgeräte" src="assets/AS_Title_Mobile.png" />
     </a>
     <div>
-    <a href="mobile/mobile-overview.md"><strong>Mobil</strong></a>
+    <a href="mobile/mobile-overview.md"><strong>Mobile Endgeräte</strong></a>
     </div>
     <em>Dokumente auf dem Smartphone oder Tablet versenden, verfolgen und in Echtzeit aktualisieren</em>
     <br>
