@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
+source-git-commit: c3c425ff21cbe50d63521d980b8f37b4c7eadf2e
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '630'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ Sie können Acrobat Sign in anderen Anwendungen verwenden, die Ihre Organisation
 
 ## Neue Funktionen
 
+* [Acrobat Sign + Workday Eingliederung neuer Mitarbeiter](acrobat-sign-workday-onboarding.md)
+Onboarding-Workflows mit Acrobat Sign und Workday optimieren
 * [Dokumente zur Beglaubigung senden](send-document-notarize.md)
 In diesem dreiteiligen Tutorial erfahren Sie, wie Sie ein Dokument zur Beglaubigung senden, das Erlebnis des Unterzeichners anzeigen und die Ergebnisse erhalten.
-* [Automatisches Archivieren von Dateien in SharePoint mit Power Automate](auto-archive-sharepoint-power-automate.md)
-Erfahren Sie, wie Sie unterzeichnete Dokumente mit Power Automate automatisch in einer SharePoint-Bibliothek archivieren.
 
 ## Tutorials zur Integration mit Microsoft
 
