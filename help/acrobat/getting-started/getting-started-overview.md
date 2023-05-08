@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: da1cbeba135380abf5179734efdb86b294887004
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 8%
+source-wordcount: '491'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 8%
 
 ![Acrobat - Erste Schritte](../assets/Hero-GettingStarted.png)
 
-In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acrobat verwenden. Von der Erstellung eines Dokuments bis zum Schutz oder [Bearbeiten Ihrer PDF-Dateien](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}, dieser Inhalt wurde entwickelt, um Ihnen das PDF von Arbeitsabläufen zu erleichtern.
+In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acrobat verwenden. Von der Erstellung eines Dokuments bis zum Schutz oder [Bearbeiten Ihrer PDF-Dateien](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target="_blank"}, dieser Inhalt wurde entwickelt, um Ihnen das PDF von Arbeitsabläufen zu erleichtern.
 
 ## Tutorials zu ersten Schritten
 
@@ -107,7 +107,7 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
         <img alt="PDF-Dateien erstellen" src="../assets/Create.jpg" />
       </a>
       <div>
-      <a href="create-pdf.md"><strong>Erstellen einer PDF-Datei</strong></a>
+      <a href="create-pdf.md"><strong>PDF erstellen</strong></a>
       </div>
       <em>Erstellen von PDF aus Dokumenten aller Art</em>
       <br>
@@ -124,10 +124,10 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
     </td>
     <td>
       <a href="organize.md">
-        <img alt="Seiten verwalten" src="../assets/Organize.png" />
+        <img alt="Organisieren von Seiten" src="../assets/Organize.png" />
       </a>
       <div>
-      <a href="organize.md"><strong>Seiten verwalten</strong></a>
+      <a href="organize.md"><strong>Organisieren von Seiten</strong></a>
       </div>
       <em>Auf dem PDF können Sie Seiten hinzufügen, ersetzen, extrahieren, drehen, löschen und neu anordnen.</em>
       <br>
@@ -151,10 +151,10 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
   <tr>
     <td>
       <a href="edit-pdf.md">
-        <img alt="PDF bearbeiten" src="../assets/Edit.jpg" />
+        <img alt="Bearbeiten einer PDF-Datei" src="../assets/Edit.jpg" />
       </a>
       <div>
-      <a href="edit-pdf.md"><strong>PDF bearbeiten</strong></a>
+      <a href="edit-pdf.md"><strong>Bearbeiten einer PDF-Datei</strong></a>
       </div>
       <em>Text und Bilder in PDF-Dateien bearbeiten</em>
       <br>
@@ -250,10 +250,10 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
   </td>
   <td>
     <a href="scan-and-ocr.md">
-      <img alt="Scan &amp; OCR" src="../assets/Scan.jpg" />
+      <img alt="Scannen und OCR" src="../assets/Scan.jpg" />
     </a>
     <div>
-    <a href="scan-and-ocr.md"><strong>Scan &amp; OCR</strong></a>
+    <a href="scan-and-ocr.md"><strong>Scannen und OCR</strong></a>
     </div>
     <em>Reduzierung großer Dateien und Optimierung Ihrer PDF ohne Qualitätseinbußen bei der Freigabe, Veröffentlichung oder Archivierung</em>
     <br>
@@ -291,12 +291,12 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
     <br>
   </td>
   <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-   <img alt="Spacer" src="../assets/Whitespacer.png" />
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
