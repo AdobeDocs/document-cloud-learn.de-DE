@@ -7,9 +7,9 @@ level: Intermediate
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
+source-git-commit: 2b997c56c852c93f39e523c7b71d597ebb75c615
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,17 @@ Acrobat Sign Skill Builder sind eine 30-minütige Session, mit der ihr eure elek
 
 ## Monatliche Sitzungen
 
-**[Mit elektronischen Unterschriften in Microsoft-Programmen arbeiten](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb)
+**[Mit elektronischen Unterschriften in Microsoft-Programmen arbeiten](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb){target="_blank"}**
 Datum: 19. Oktober 2023 Erweitern Sie die Art und Weise, wie Sie Ihre Microsoft-Anwendungen wie Word, Outlook und SharePoint verwenden, indem Sie Adobe Acrobat Sign zu Ihren bestehenden Workflows hinzufügen. In dieser Session erfahrt ihr, wie ihr Dokumentenprozesse in gängigen Microsoft-Programmen optimiert. So müsst ihr nicht nur im Kontext wechseln, um eine Unterschrift zu erhalten oder einen Status zu überprüfen.
 
-**[Vereinbarungen verwalten: Echtzeitansicht des Vereinbarungsstatus](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710)
+**[Vereinbarungen verwalten: Echtzeitansicht des Vereinbarungsstatus](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710){target="_blank"}**
 Datum: 21. September 2023 Informiert euch über die Vor- und Nachteile von Tools zur Vereinbarungsverwaltung und Best Practices, damit ihr den Status eurer Vereinbarungen jederzeit einsehen könnt. Themen:
 
 * Welche Aktionen Sie auf der Registerkarte &quot;Verwalten&quot; für Dokumente durchführen können
 * So verarbeiten und verwenden Sie Daten aus Webformularen und Massensendungen
 * Suchen und Filtern nach benötigten Dokumenten
 
-**[Erweiterte Tipps zum Senden von Dokumenten zum Unterschreiben](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a)
+**[Erweiterte Tipps zum Senden von Dokumenten zum Unterschreiben](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a){target="_blank"}**
 Datum: 17. August 2023 Erfahrt mehr über alle Optionen, die beim Senden von Vereinbarungen zum Unterschreiben verfügbar sind. Themen:
 
 * Senden an mehrere Empfangende
@@ -40,7 +40,7 @@ Datum: 17. August 2023 Erfahrt mehr über alle Optionen, die beim Senden von Ver
 * CC-Feld hinzufügen
 * Kennwortschutz und viele weitere Funktionen
 
-**[Acrobat Sign-Integrationen: Salesforce und Workday](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4)
+**[Acrobat Sign-Integrationen: Salesforce und Workday](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4){target="_blank"}**
 Datum: 20. Juli 2023. Sehen Sie sich einige der beliebtesten und leistungsstärksten Acrobat Sign-Integrationen mit Salesforce und Workday an. In dieser Session wird untersucht, wie ihr Geschäftstransaktionen beschleunigen könnt, indem ihr manuelle, ineffiziente Aufgaben vermeidet und zu 100 % digitale Workflows und Prozesse für elektronische Signaturen direkt in den Tools entwickelt, die ihr bereits einsetzt.
 
 **[Erweitertes Reporting für Adobe Acrobat Sign](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/fa28b18d-ab38-47d4-8ae8-3e0161550bd3/60081eb2-f8a3-45b6-9d75-4f3a53b4c53a){target="_blank"}**
