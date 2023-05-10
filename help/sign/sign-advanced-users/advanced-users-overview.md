@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 854e70d1dd1d6535e1f8a8b53cfc6907862f5569
+source-git-commit: b1254c2dbb82932319d62c78e683b8a395e7eece
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '413'
 ht-degree: 3%
 
 ---
@@ -20,12 +20,12 @@ ht-degree: 3%
 
 Erfahren Sie, wie Sie ein Dokument zur Signatur an Hunderte von Empfängern gleichzeitig senden, ein signaturfähiges Dokument für Ihre Website einrichten, Signaturtransaktionen verwalten und Dokumentvorlagen erstellen und verwalten. Diese Tutorials richten sich an alle, die sich bereits mit den Grundlagen des Versendens und Einholens von Unterschriften auskennen und mehr über die Möglichkeiten erfahren möchten, mit denen Acrobat Sign sie unterstützt.
 
-## Neuerungen
+## Neue Funktionen
 
+* [Authentifizierungsmethoden in Acrobat Sign](authentication-methods.md)
+In diesem Artikel werden verschiedene Methoden zur Authentifizierung der Unterschrift eines Dokuments in Acrobat Sign erläutert.
 * [Onlinezahlungen einrichten](set-up-online-payments.md)
 Erfahren Sie, wie Sie Online-Zahlungen in Ihren Dokumenten einrichten und akzeptieren.
-* [Erstellen eines Berichts](creating-a-report.md)
-Erfahren Sie, wie Sie eigene Berichte erstellen, um Einblick in den Signiervorgang zu erhalten
 
 ## Senden
 
@@ -62,6 +62,18 @@ Erfahren Sie, wie Sie eigene Berichte erstellen, um Einblick in den Signiervorga
     <br>
   </td>
   <td>
+    <a href="authentication-methods.md">
+      <img alt="Authentifizierungsmethoden in Acrobat Sign" src="../assets/authentication.png" />
+    </a>
+    <div>
+    <a href="authentication-methods.md"><strong>Authentifizierungsmethoden in Acrobat Sign</strong></a>
+    </div>
+    <em>Erfahren Sie mehr über die in Acrobat Sign verfügbaren Methoden zur Identitätsauthentifizierung</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="set-up-online-payments.md">
       <img alt="Onlinezahlungen einrichten" src="../assets/Payments.png" />
     </a>
@@ -71,38 +83,38 @@ Erfahren Sie, wie Sie eigene Berichte erstellen, um Einblick in den Signiervorga
     <em>Erfahren Sie, wie Sie Online-Zahlungen in Ihren Dokumenten einrichten und akzeptieren.</em>
     <br>
   </td>
+  <td>
+      <a href="megasign.md">
+        <img alt="Mehrere Signaturen gleichzeitig senden und erfassen" src="../assets/Megasign.png" />
+      </a>
+      <div>
+      <a href="megasign.md"><strong>Mehrere Signaturen gleichzeitig senden und erfassen</strong></a>
+      </div>
+      <em>Hole in wenigen Schritten Hunderte von Unterschriften auf einmal für jedes Dokument ein</em>
+      <br>
+    </td>
+    <td>
+      <a href="webform.md">
+        <img alt="Erstellen eines Webformulars" src="../assets/Webform.png" />
+      </a>
+      <div>
+      <a href="webform.md"><strong>Erstellen eines Webformulars</strong></a>
+      </div>
+      <em>Erstellen Sie ein Dokument, das direkt auf Ihrer Website elektronisch signiert werden kann</em>
+      <br>
+    </td>
+    <td>
+      <a href="adobe-sign-text-tagging.md">
+        <img alt="Acrobat Sign Text-Tagging" src="../assets/Text-Tagging.png" />
+    </a>
+      <div>
+      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign Text-Tagging</strong></a>
+      </div>
+      <em>Acrobat Sign-Formularfelder durch Text-Tags mit Adobe Acrobat erstellen</em>
+      <br>
+    </td>
 </tr>
 <tr>
- <td>
-    <a href="megasign.md">
-      <img alt="Mehrere Signaturen gleichzeitig senden und erfassen" src="../assets/Megasign.png" />
-    </a>
-    <div>
-    <a href="megasign.md"><strong>Mehrere Signaturen gleichzeitig senden und erfassen</strong></a>
-    </div>
-    <em>Hole in wenigen Schritten Hunderte von Unterschriften auf einmal für jedes Dokument ein</em>
-    <br>
-  </td>
-  <td>
-    <a href="webform.md">
-      <img alt="Erstellen eines Webformulars" src="../assets/Webform.png" />
-    </a>
-    <div>
-    <a href="webform.md"><strong>Erstellen eines Webformulars</strong></a>
-    </div>
-    <em>Erstellen Sie ein Dokument, das direkt auf Ihrer Website elektronisch signiert werden kann</em>
-    <br>
-  </td>
-  <td>
-    <a href="adobe-sign-text-tagging.md">
-      <img alt="Acrobat Sign Text-Tagging" src="../assets/Text-Tagging.png" />
-  </a>
-    <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign Text-Tagging</strong></a>
-    </div>
-    <em>Acrobat Sign-Formularfelder durch Text-Tags mit Adobe Acrobat erstellen</em>
-    <br>
-  </td>
   <td>
     <a href="text-tagging-word.md">
       <img alt="Verwenden von Text-Tagging in [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
@@ -111,6 +123,21 @@ Erfahren Sie, wie Sie eigene Berichte erstellen, um Einblick in den Signiervorga
     <a href="text-tagging-word.md"><strong>Verwenden von Text-Tagging in [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie eine wiederverwendbare Dokumentvorlage erstellen, indem Sie Acrobat Sign-Text-Tags in [!DNL Microsoft Word]</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
