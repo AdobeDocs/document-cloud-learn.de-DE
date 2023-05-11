@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: e7b475f9d0abce1c88dbb3377f783f53bf794b52
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '510'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einrichten von Gruppen, das Freigeben des Zugriffs und das Einrichten eines Workflows, eines externen Archivs sowie über freigegebene Ereignisse und Warnungen. Diese Tutorials richten sich an Administratoren, die die Installationsphase bereits hinter sich haben und mit der Verwaltung von Acrobat Sign beginnen können. Unter Erweiterte Aufgaben werden Themen behandelt, die über die Einrichtung des Administrators hinausgehen und sich auf die Definition globaler Einstellungen, den Kontozugriff und die Freigabe sowie die Textformatierung beziehen.
 
-## Neuerungen
+## Neue Funktionen
 
 * [Erste Schritte für neue Administratoren](get-started-admin.md)
 In diesem umfassenden Video-Leitfaden erfahrt ihr, welche Tools für die Einführung von Acrobat Sign in eurem Unternehmen erforderlich sind.
@@ -63,7 +63,7 @@ Automatisiert Dokumenten-Workflows, um elektronische Unterschriften und Daten sc
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="Hinzufügen von Benutzern" src="../assets/Adding-Users.png" />
+      <img alt="Benutzer hinzufügen" src="../assets/Adding-Users.png" />
     </a>
     <div>
     <a href="add-users-to-your-account.md"><strong>Benutzer hinzufügen</strong></a>
@@ -116,6 +116,16 @@ Automatisiert Dokumenten-Workflows, um elektronische Unterschriften und Daten sc
 </tr>
 <tr>
   <td>
+    <a href="report-options.md">
+      <img alt="Berichtsoptionen für Benutzer" src="../assets/report-options.png" />
+    </a>
+    <div>
+    <a href="report-options.md"><strong>Berichtsoptionen für Benutzer</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie Berichtsoptionen für Benutzer einrichten.</em>
+    <br>
+  </td>
+  <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="Erstellen eines Webformulars" src="../assets/Webform.png" />
     </a>
@@ -145,7 +155,9 @@ Automatisiert Dokumenten-Workflows, um elektronische Unterschriften und Daten sc
     <em>Mehrere Hundert Unterschriften auf einmal für jedes Dokument einholen</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="building-a-custom-workflow.md">
       <img alt="Einrichten eines Workflows" src="../assets/BuildingWorkflow.png" />
     </a>
@@ -155,7 +167,21 @@ Automatisiert Dokumenten-Workflows, um elektronische Unterschriften und Daten sc
     <em>Automatisiert Dokumenten-Workflows, um elektronische Unterschriften und Daten schnell einzuholen.</em>
     <br>
   </td>
-</tr>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </table>
 
 ## Erweiterte Aufgaben
