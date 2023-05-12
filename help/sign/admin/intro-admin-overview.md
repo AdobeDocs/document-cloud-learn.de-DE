@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
+source-git-commit: 2c3dafbd034627ab25186b56c9fd2a276ab3daa5
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '489'
 ht-degree: 1%
 
 ---
@@ -24,8 +24,8 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
 
 * [Berichtsoptionen](report-options.md)
 Erfahren Sie, wie Sie Berichtsoptionen für Benutzer einrichten.
-* [Erste Schritte für neue Administratoren](get-started-admin.md)
-In diesem umfassenden Video-Leitfaden erfahrt ihr, welche Tools für die Einführung von Acrobat Sign in eurem Unternehmen erforderlich sind.
+* [Benutzer hinzufügen](add-users-to-your-account.md)
+Benutzer für Acrobat Sign hinzufügen und verwalten
 
 ## Erste Schritte
 
