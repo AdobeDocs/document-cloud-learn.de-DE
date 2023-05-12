@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 69dc12c570059a7adcbc0d66450abe1889ea26a7
+source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '503'
 ht-degree: 1%
 
 ---
@@ -22,10 +22,10 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
 
 ## Neue Funktionen
 
+* [Berichtsoptionen](report-options.md)
+Erfahren Sie, wie Sie Berichtsoptionen für Benutzer einrichten.
 * [Erste Schritte für neue Administratoren](get-started-admin.md)
 In diesem umfassenden Video-Leitfaden erfahrt ihr, welche Tools für die Einführung von Acrobat Sign in eurem Unternehmen erforderlich sind.
-* [Einrichten eines Workflows](building-a-custom-workflow.md)
-Automatisiert Dokumenten-Workflows, um elektronische Unterschriften und Daten schnell einzuholen.
 
 ## Erste Schritte
 
