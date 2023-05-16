@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
+source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 3%
+source-wordcount: '366'
+ht-degree: 2%
 
 ---
 
@@ -18,6 +18,11 @@ ht-degree: 3%
 ![Acrobat - Erste Schritte](../assets/Hero-AdvancedTasks.png)
 
 Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erlernen, Erfahren Sie, wie Sie eine Aktion erstellen, um Routineaufgaben zu wiederholen, vertrauliche Informationen zu entfernen, große Dateien zu reduzieren und zu optimieren, Formulardaten schnell zu erfassen und universell zugängliche PDF-Dateien zu erstellen.
+
+## Neue Funktionen
+
+* [Überall arbeiten - mit Acrobat Web](optimizeseo.md)
+Erfahren Sie, wie Sie eine PDF für eine verbesserte Auffindbarkeit und ein Suchmaschinen-Ranking im Web optimieren.
 
 ## Tutorials zu erweiterten Aufgaben
 
@@ -109,10 +114,10 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
 <tr>
   <td>
     <a href="action.md">
-      <img alt="Aktionsassistent" src="../assets/Action.jpg" />
+      <img alt="Action Wizard" src="../assets/Action.jpg" />
     </a>
     <div>
-    <a href="action.md"><strong>Aktionsassistent</strong></a>
+    <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
     <em>Sparen Sie Zeit und Tastenanschläge, indem Sie mithilfe einer Aktion automatisch einen Satz von Befehlen auf eine oder mehrere Dateien anwenden</em>
     <br>
@@ -139,7 +144,7 @@ Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erler
   </td>
   <td>
     <a href="formdata.md">
-      <img alt="Aktionsassistent" src="../assets/FormData.jpg" />
+      <img alt="Action Wizard" src="../assets/FormData.jpg" />
     </a>
     <div>
     <a href="formdata.md"><strong>Arbeiten mit Formulardaten</strong></a>

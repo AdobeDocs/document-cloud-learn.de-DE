@@ -7,16 +7,16 @@ level: Beginner
 thumbnail: KT-8498.jpg
 kt: 8498
 exl-id: 8c611578-59e9-4438-ac99-3bb22e661d17
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 1%
 
 ---
 
 # Überall arbeiten - mit Acrobat Web
 
-Remote-Arbeit ist überall ein Muss, damit Inhalte schnell und skaliert bereitgestellt werden können. Lerne, wie du über die Web-Tools von Acrobat Web-basierte Anfragen von überall aus bearbeiten kannst.
+Remote-Arbeit ist überall ein Muss, damit Inhalte schnell und skaliert bereitgestellt werden können. Lerne, wie du über die Web-Tools von Acrobat Web-basierte Anfragen von überall aus bearbeiten kannst. Jetzt testen [acrobat.adobe.com](https://acrobat.adobe.com/de/de).
 
 >[!TIP]
 >

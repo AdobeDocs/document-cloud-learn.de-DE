@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: da1cbeba135380abf5179734efdb86b294887004
+source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '515'
 ht-degree: 5%
 
 ---
@@ -18,6 +18,11 @@ ht-degree: 5%
 ![Acrobat - Erste Schritte](../assets/Hero-GettingStarted.png)
 
 In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acrobat verwenden. Von der Erstellung eines Dokuments bis zum Schutz oder [Bearbeiten Ihrer PDF-Dateien](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target="_blank"}, dieser Inhalt wurde entwickelt, um Ihnen das PDF von Arbeitsabläufen zu erleichtern.
+
+## Neue Funktionen
+
+* [Überall arbeiten - mit Acrobat Web](acrobatweb.md)
+Erfahren Sie, wie Sie mit den Web-Tools von Acrobat in Ihrem Browser von überall aus Anfragen für Geschäftsdokumente bearbeiten können.
 
 ## Tutorials zu ersten Schritten
 
