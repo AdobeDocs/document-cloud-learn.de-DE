@@ -2,19 +2,19 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
+source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
 workflow-type: tm+mt
 source-wordcount: '412'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
 
 # Tutorials zu Acrobat {#acrobat-learning}
 
-+ [Overview](overview.md)
++ [Überblick](overview.md)
 + Erste Schritte {#getting-started}
-   + [Übersicht](getting-started/getting-started-overview.md)
+   + [Überblick](getting-started/getting-started-overview.md)
    + [Grundlagen des Arbeitsbereichs](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Neue Arbeitsbereichserfahrung](getting-started/new-workspace.md)
    + [Überall arbeiten - mit Acrobat Web](getting-started/acrobatweb.md)
@@ -25,7 +25,7 @@ ht-degree: 0%
    + [Combine Files auf PDF](getting-started/combine-to-pdf.md)
    + [Seiten organisieren](getting-started/organize.md)
    + [Benutzerdefinierte Seite hinzufügen](getting-started/add-custom-page.md)
-   + [Bearbeiten einer PDF](getting-started/edit-pdf.md)
+   + [Bearbeiten einer PDF-Datei](getting-started/edit-pdf.md)
    + [Layout automatisch anpassen](getting-started/auto-adjust-layout.md)
    + [Exportieren einer PDF in bearbeitbare Formate](getting-started/export-pdf.md)
    + [In Echtzeit zusammenarbeiten](getting-started/collaborate.md)
@@ -37,7 +37,7 @@ ht-degree: 0%
    + [Unterschriften einholen](getting-started/signatures.md)
    + [Dokumente verfolgen](getting-started/track.md)
 + Erweiterte Aufgaben {#advanced-tasks}
-   + [Übersicht](advanced-tasks/advanced-tasks-overview.md)
+   + [Überblick](advanced-tasks/advanced-tasks-overview.md)
    + [Hinzufügen von Lesezeichen und Hyperlinks](advanced-tasks/bookmarks.md)
    + [Gescannte Dokumente optimieren](advanced-tasks/optimizescan.md)
    + [Benutzerdefinierte Befehle und Werkzeuge](advanced-tasks/custom.md)
@@ -52,7 +52,7 @@ ht-degree: 0%
    + [Arbeiten mit Formulardaten](advanced-tasks/formdata.md)
    + [Barrierefreiheit für PDF überprüfen](advanced-tasks/accessibility.md)
    + Acrobat Accessibility-Reihe {#accessibility-series}
-      + [Übersicht](advanced-tasks/accessibility-series.md)
+      + [Überblick](advanced-tasks/accessibility-series.md)
       + [Einführung in die Barrierefreiheit für PDF](advanced-tasks/accessibilitysession1.md)
       + [Beheben einer nicht zugänglichen PDF](advanced-tasks/accessibilitysession2.md)
       + [Komplexe Tabellen](advanced-tasks/accessibilitysession3.md)
@@ -60,27 +60,27 @@ ht-degree: 0%
       + [Hinzufügen von Formularfeldern zu einem mit Tags versehenen PDF](advanced-tasks/accessibilitysession5.md)
       + [Hinzufügen von Formularfeldern zu einem PDF ohne Tags](advanced-tasks/accessibilitysession6.md)
 + 60-Sekunden-Acrobat {#60-second}
-   + [Übersicht](60-second/60-second-overview.md)
-   + [Effizienteres PDF von Dateien mit wenigen Klicks](60-second/optimize.md)
-   + [Protect Ihrer PDF-Dateien mit einem Kennwort](60-second/protect.md)
-   + [Word-Datei einschließlich Formularfeldern in PDF konvertieren](60-second/wordform.md)
-   + [Acrobat macht barrierefreie PDF](60-second/accessible.md)
-   + [Export PDF zu Word auf dem Smartphone.](60-second/exportwordphone.md)
+   + [Überblick](60-second/60-second-overview.md)
+   + [PDF mit Acrobat Web bearbeiten](60-second/edit.md)
    + [Text in einer gescannten PDF-Datei erkennen](60-second/textrecognition.md)
    + [Dateien auf einer PDF zusammenführen](60-second/combine-to-one-pdf.md)
-   + [PDF mit Acrobat Web bearbeiten](60-second/edit.md)
-   + [Mehrere PDF-Dateien gleichzeitig durchsuchen](60-second/search.md)
-   + [PDF mit wenigen Klicks erstellen](60-second/photo.md)
-   + [PPT- in PDF-Dateien umwandeln](60-second/phone.md)
-   + [Papierdokument elektronisch unterschreiben](60-second/sign.md)
-   + [PDF-Kommentare in InDesign laden](60-second/indesign.md)
+   + [Seiten schnell organisieren.](60-second/organize.md)
    + [Ein Foto auf dem PDF bearbeiten.](60-second/editphoto.md)
    + [Bearbeiten einer Grafik auf dem PDF](60-second/editgraphic.md)
-   + [Seiten schnell organisieren.](60-second/organize.md)
+   + [Export PDF zu Word auf dem Smartphone.](60-second/exportwordphone.md)
+   + [Word-Datei einschließlich Formularfeldern in PDF konvertieren](60-second/wordform.md)
+   + [PDF mit wenigen Klicks erstellen](60-second/photo.md)
+   + [PPT- in PDF-Dateien umwandeln](60-second/phone.md)
+   + [Effizienteres PDF von Dateien mit wenigen Klicks](60-second/optimize.md)
+   + [Papierdokument elektronisch unterschreiben](60-second/sign.md)
+   + [Protect Ihrer PDF-Dateien mit einem Kennwort](60-second/protect.md)
+   + [Acrobat macht barrierefreie PDF](60-second/accessible.md)
+   + [Mehrere PDF-Dateien gleichzeitig durchsuchen](60-second/search.md)
+   + [PDF-Kommentare in InDesign laden](60-second/indesign.md)
 + Skill Builders {#skill-builders}
    + [Schulungsvideos (in englischer Sprache)](skill-builder/skill-builder-webinars.md)
 + Integrationen {#integrations}
-   + [Übersicht](integrate/integrate-overview.md)
+   + [Überblick](integrate/integrate-overview.md)
    + [PDF erstellen aus [!DNL Microsoft Word]](integrate/createfromword.md)
    + [PDF erstellen in [!DNL Office] für das Web](integrate/createofficeweb.md)
    + [PDF-Zusammenarbeit in [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
@@ -91,9 +91,9 @@ ht-degree: 0%
    + [Adobe Acrobat für [!DNL Google Drive]](integrate/acrobatandgoogle.md)
    + [Arbeiten mit Dateien aus [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + Branchen und Abteilungen {#by-industry}
-   + [Übersicht](industry/industry-overview.md)
+   + [Überblick](industry/industry-overview.md)
    + Regierungseinrichtungen {#gov}
-      + [Übersicht](industry/gov/gov-overview.md)
+      + [Überblick](industry/gov/gov-overview.md)
       + 5 Tipps für Produktivität an jedem Ort mit Acrobat {#tips}
          + [5 Tipps für Produktivität an jedem Ort mit Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [Tipp #1 - Tools herunterladen](industry/gov/get-your-tools.md)
@@ -101,18 +101,18 @@ ht-degree: 0%
          + [Tipp #3 - Digitale Protect-Dokumente](industry/gov/protect-digital-documents.md)
          + [Tipp #4 - Arbeiten Sie mit Formularen und Signaturen](industry/gov/work-with-forms-and-signatures.md)
          + [Tipp #5 - Scannen und Bearbeiten auf Mobilgeräten](industry/gov/scan-and-edit-on-mobile.md)
-      + Eingabehilfe {#pdfs}
+      + Barrierefreiheit {#pdfs}
          + [Barrierefreie PDF](industry/gov/making-pdfs-accessible.md)
          + [#1 - Erläuterungen zur Barrierefreiheit](industry/gov/understanding-accessibility.md)
          + [#2 - Authoring in Word](industry/gov/authoring-in-word.md)
          + [#3 - Fertigstellung in Acrobat](industry/gov/finishing-in-acrobat.md)
          + [Zugänglichere PDF-Abstimmung](industry/gov/making-pdf-ballots-accessible.md)
 + entwickeln {#develop}
-   + [Übersicht](develop/develop-overview.md)
+   + [Überblick](develop/develop-overview.md)
 + Bereitstellen {#deploy}
-   + [Übersicht](deploy/deploy-overview.md)
+   + [Überblick](deploy/deploy-overview.md)
    + [Wichtige Updates für Acrobat DC-Produkte für ETLA-Kunden](deploy/signentitlementchanges.md)
 + Mobile Endgeräte {#mobile}
-   + [Übersicht](mobile/mobile-overview.md)
+   + [Überblick](mobile/mobile-overview.md)
    + [Unterwegs produktiv sein.](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Alles auf PDF scannen](mobile/scan-mobile-app.md)
