@@ -2,10 +2,10 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
+source-git-commit: 3f9dc206aee94fa9a8b9a7938ef4ca0f4de89164
 workflow-type: tm+mt
-source-wordcount: '412'
-ht-degree: 7%
+source-wordcount: '434'
+ht-degree: 6%
 
 ---
 
@@ -67,6 +67,9 @@ ht-degree: 7%
    + [Seiten schnell organisieren.](60-second/organize.md)
    + [Ein Foto auf dem PDF bearbeiten.](60-second/editphoto.md)
    + [Bearbeiten einer Grafik auf dem PDF](60-second/editgraphic.md)
+   + [PDF in Word umwandeln](60-second/convert-pdf-word.md)
+   + [PDF in Excel konvertieren](60-second/convert-pdf-excel.md)
+   + [PDF in PowerPoint umwandeln](60-second/convert-pdf-powerpoint.md)
    + [Export PDF zu Word auf dem Smartphone.](60-second/exportwordphone.md)
    + [Word-Datei einschließlich Formularfeldern in PDF konvertieren](60-second/wordform.md)
    + [PDF mit wenigen Klicks erstellen](60-second/photo.md)
@@ -75,6 +78,7 @@ ht-degree: 7%
    + [Papierdokument elektronisch unterschreiben](60-second/sign.md)
    + [Protect Ihrer PDF-Dateien mit einem Kennwort](60-second/protect.md)
    + [Acrobat macht barrierefreie PDF](60-second/accessible.md)
+   + [PDF einem Standardformat anpassen](60-second/conform.md)
    + [Mehrere PDF-Dateien gleichzeitig durchsuchen](60-second/search.md)
    + [PDF-Kommentare in InDesign laden](60-second/indesign.md)
 + Skill Builders {#skill-builders}

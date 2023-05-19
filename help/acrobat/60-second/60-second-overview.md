@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
+source-git-commit: 8d96841361809a5b4e6fd894a3d9cb3fef27ce2c
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '643'
 ht-degree: 0%
 
 ---
@@ -106,6 +106,35 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="convert-pdf-word.md">
+      <img alt="PDF in Word umwandeln" src="../assets/60sec_convertword.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-word.md"><strong>PDF in Word umwandeln</strong></a>
+    </div>
+    <em>Konvertieren einer PDF-Datei in ein vollständig editierbares Microsoft Word-Dokument</em>
+    <br>
+  </td>
+ <td>
+    <a href="convert-pdf-excel.md">
+      <img alt="PDF in Excel konvertieren" src="../assets/60sec_convertexcel.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-excel.md"><strong>PDF in Excel konvertieren</strong></a>
+    </div>
+    <em>Konvertieren einer PDF-Datei in ein vollständig bearbeitbares Microsoft Excel-Dokument</em>
+    <br>
+  </td>
+  <td>
+    <a href="convert-pdf-powerpoint.md">
+      <img alt="PDF in PowerPoint umwandeln" src="../assets/60sec_convertppt.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-excel.md"><strong>PDF in PowerPoint umwandeln</strong></a>
+    </div>
+    <em>Konvertieren einer PDF-Datei in ein vollständig bearbeitbares Microsoft PowerPoint-Dokument</em>
+    <br>
+  </td>
     <a href="exportwordphone.md">
       <img alt="Export PDF zu Word auf dem Smartphone." src="../assets/60sec_Exportphone_1280.jpg" />
     </a>
@@ -114,21 +143,6 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
     </div>
     <em>Konvertieren einer PDF-Datei in ein vollständig editierbares Microsoft Word-Dokument mit der Acrobat-App</em>
     <br>
-  </td>
-  <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
   </td>
 </tr>
 </table>
@@ -258,10 +272,15 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
     <em>Prüfen Sie, ob auf einen PDF zugegriffen werden kann</em>
     <br>
   </td>
-  <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
+ <td>
+    <a href="conform.md">
+      <img alt="PDF einem Standardformat anpassen" src="../assets/60sec_standard.png" />
+    </a>
+    <div>
+    <a href="conform.md"><strong>PDF einem Standardformat anpassen</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie PDF-Inhalte anhand von PDF-Standardkriterien wie PDF/X, PDF/A oder PDF/E validieren.</em>
+    <br>
   </td>
   <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
