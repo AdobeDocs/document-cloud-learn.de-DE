@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: d1416b3c1137a44897a5a6e4b74ba9b4e6ee63b4
+source-git-commit: aa2bb2bf7a50fd23d1b71194ffb614c8e8d4e271
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -242,9 +242,14 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
     <br>
   </td>
   <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
+    <a href="redaction.md">
+      <img alt="Schwärzung: Der richtige Weg" src="../assets/60sec_redaction.png" />
+    </a>
+    <div>
+    <a href="redaction.md"><strong>Schwärzung: Der richtige Weg</strong></a>
+    </div>
+    <em>Vertrauliche Informationen richtig von einem PDF entfernen</em>
+    <br>
   </td>
   <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -255,6 +260,53 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
       <img alt="Spacer" src="../assets/Whitespacer.png" />
         <div>
         <br>
+  </td>
+</tr>
+</table>
+
+## Freigabe und Überprüfung.
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="share-comment.md">
+      <img alt="PDF zum Kommentieren freigeben" src="../assets/60sec_sharecomment.png" />
+    </a>
+    <div>
+    <a href="share-comment.md"><strong>PDF zum Kommentieren freigeben</strong></a>
+    </div>
+    <em>Lernen Sie, wie Sie eine PDF freigeben, um schnell Feedback von mehreren Personen in einer einzigen Datei zu erhalten</em>
+    <br>
+  </td>
+  <td>
+    <a href="share-comment-teams.md">
+      <img alt="Freigeben und Kommentieren von PDF-Dateien in Teams" src="../assets/60sec_shareteams.png" />
+    </a>
+    <div>
+    <a href="share-comment-teams.md"><strong>Freigeben und Kommentieren von PDF-Dateien in Teams</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie in Echtzeit an einer PDF-Datei in Microsoft Teams arbeiten</em>
+    <br>
+  </td>
+  <td>
+    <a href="summarize-comments.md">
+      <img alt="Wrangling PDF Kommentare mit Zusammenfassen" src="../assets/60sec_summarize.png" />
+    </a>
+    <div>
+    <a href="summarize-comments.md"><strong>Wrangling PDF Kommentare mit Zusammenfassen</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie eine Zusammenfassung aller Kommentare und Markierungen in Ihrer PDF-Datei erstellen.</em>
+    <br>
+  </td>
+   <td>
+    <a href="indesign.md">
+      <img alt="PDF-Kommentare in InDesign laden" src="../assets/60sec_InDesign_1280.jpg" />
+    </a>
+    <div>
+    <a href="indesign.md"><strong>PDF-Kommentare in InDesign laden</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie PDF-Kommentare nach einem gemeinsamen Acrobat-Review wieder auf InDesign laden.</em>
+    <br>
   </td>
 </tr>
 </table>
@@ -310,15 +362,10 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
     <em>Starten Sie eine Suche in einer PDF-Datei, öffnen Sie die erweiterte Suche und suchen Sie einen ganzen Ordner mit PDF-Dateien</em>
     <br>
   </td>
-  <td>
-    <a href="indesign.md">
-      <img alt="PDF-Kommentare in InDesign laden" src="../assets/60sec_InDesign_1280.jpg" />
-    </a>
-    <div>
-    <a href="indesign.md"><strong>PDF-Kommentare in InDesign laden</strong></a>
-    </div>
-    <em>Erfahren Sie, wie Sie PDF-Kommentare nach einem gemeinsamen Acrobat-Review wieder auf InDesign laden.</em>
-    <br>
+ <td>
+      <img alt="Spacer" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
   </td>
   <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
