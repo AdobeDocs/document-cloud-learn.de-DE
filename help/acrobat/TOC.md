@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 16997696e1947a6dfe45418e60bf868e9db5cb23
+source-git-commit: fae1f29817ef677d3473f31d09278e10283f8b16
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '471'
 ht-degree: 6%
 
 ---
@@ -71,6 +71,8 @@ ht-degree: 6%
    + [PDF in Excel konvertieren](60-second/convert-pdf-excel.md)
    + [PDF in PowerPoint umwandeln](60-second/convert-pdf-powerpoint.md)
    + [Export PDF zu Word auf dem Smartphone.](60-second/exportwordphone.md)
+   + [PDF aus Microsoft Word erstellen](60-second/word-to-pdf.md)
+   + [Erstellen von PDF-Dateien mit Acrobat](60-second/create-from-acrobat.md)
    + [Word-Datei einschließlich Formularfeldern in PDF konvertieren](60-second/wordform.md)
    + [PDF mit wenigen Klicks erstellen](60-second/photo.md)
    + [PPT- in PDF-Dateien umwandeln](60-second/phone.md)
@@ -81,10 +83,11 @@ ht-degree: 6%
    + [Für Kommentare freigeben](60-second/share-comment.md)
    + [Freigeben und Kommentieren von PDF-Dateien in Teams](60-second/share-comment-teams.md)
    + [Wrangling PDF Kommentare mit Zusammenfassen](60-second/summarize-comments.md)
+   + [PDF-Kommentare in InDesign laden](60-second/indesign.md)
    + [Acrobat macht barrierefreie PDF](60-second/accessible.md)
    + [PDF einem Standardformat anpassen](60-second/conform.md)
+   + [Unterschiede mit PDF Vergleichen erkennen](60-second/compare.md)
    + [Mehrere PDF-Dateien gleichzeitig durchsuchen](60-second/search.md)
-   + [PDF-Kommentare in InDesign laden](60-second/indesign.md)
 + Skill Builders {#skill-builders}
    + [Schulungsvideos (in englischer Sprache)](skill-builder/skill-builder-webinars.md)
 + Integrationen {#integrations}

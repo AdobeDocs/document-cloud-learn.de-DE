@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: aa2bb2bf7a50fd23d1b71194ffb614c8e8d4e271
+source-git-commit: fae1f29817ef677d3473f31d09278e10283f8b16
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -153,6 +153,26 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="word-to-pdf.md">
+      <img alt="PDF aus Microsoft Word erstellen" src="../assets/60sec_createfromword.png" />
+    </a>
+    <div>
+     <a href="word-to-pdf.md"><strong>PDF aus Microsoft Word erstellen</strong></a>
+    </div>
+    <em>PDF aus Microsoft Word erstellen</em>
+    <br>
+  </td>
+  <td>
+    <a href="create-from-acrobat.md">
+      <img alt="PDF aus Acrobat erstellen" src="../assets/60sec_createfromacrobat.png" />
+    </a>
+    <div>
+     <a href="create-from-acrobat.md"><strong>PDF aus Acrobat erstellen</strong></a>
+    </div>
+    <em>PDF aus Microsoft 365-Dateien direkt im Acrobat-Client erstellen</em>
+    <br>
+  </td>
+  <td>
     <a href="wordform.md">
       <img alt="Word-Datei einschließlich Formularfeldern in PDF konvertieren" src="../assets/60sec_Wordform_1280.jpg" />
     </a>
@@ -172,6 +192,8 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
       <em>Ziehe mehrere JPG auf das Acrobat-Icon, um einen PDF zu erstellen.</em>
       <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="phone.md">
       <img alt="PPT- in PDF-Dateien umwandeln" src="../assets/60sec_Phone_1280.jpg" />
@@ -191,6 +213,16 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
       </div>
       <em>Verwenden Sie das Optimize PDF-Tool, um die Größe Ihrer PDF-Dateien erheblich zu reduzieren</em>
       <br>
+  </td>
+  <td>
+      <img alt="Spacer" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Spacer" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
@@ -353,6 +385,16 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="compare.md">
+      <img alt="Unterschiede mit PDF Vergleichen erkennen" src="../assets/60sec_compare.png" />
+    </a>
+    <div>
+     <a href="compare.md"><strong>Unterschiede mit PDF Vergleichen erkennen</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie die Unterschiede zwischen zwei PDF-Dateien erkennen, indem Sie das Tool "Dateien vergleichen" in Acrobat verwenden</em>
+    <br>
+  </td>
+ <td>
     <a href="search.md">
       <img alt="Mehrere PDF-Dateien gleichzeitig durchsuchen" src="../assets/60sec_Search_1280.jpg" />
     </a>
@@ -361,11 +403,6 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
     </div>
     <em>Starten Sie eine Suche in einer PDF-Datei, öffnen Sie die erweiterte Suche und suchen Sie einen ganzen Ordner mit PDF-Dateien</em>
     <br>
-  </td>
- <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
   </td>
   <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
