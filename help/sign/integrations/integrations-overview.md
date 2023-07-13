@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
+source-git-commit: 8f2feaee22d7264abe6085695a2df5d3632ad76d
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -77,13 +77,13 @@ In diesem dreiteiligen Tutorial erfahren Sie, wie Sie ein Dokument zur Beglaubig
 </tr>
 <tr>
   <td>
-    <a href="adobe-sign-teams-mortgage.md">
-      <img alt="Senden von Dokumenten zum Unterschreiben in [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
+    <a href="integrate-web-form-sharepoint-online.md">
+      <img alt="Webformular integrieren mit [!DNL SharePoint Online]" src="../assets/Web-form-sp.png" />
     </a>
     <div>
-    <a href="adobe-sign-teams-mortgage.md"><strong>Zum Unterschreiben senden in [!DNL Microsoft Teams]</strong></a>
+    <a href="integrate-web-form-sharepoint-online.md"><strong>Webformular integrieren mit [!DNL SharePoint Online]</strong></a>
     </div>
-    <em>Dokumente direkt aus [!DNL Microsoft Teams]</em>
+    <em>Erfahren Sie, wie Sie die von einem Webformular erfassten Daten einem [!DNL SharePoint] Liste</em>
     <br>
   </td>
   <td>
@@ -106,9 +106,14 @@ In diesem dreiteiligen Tutorial erfahren Sie, wie Sie ein Dokument zur Beglaubig
     <em>Erfahren Sie, wie Sie die [!DNL Acrobat Sign] und [!DNL Adobe PDF Tools] Steckverbinder für [!DNL Microsoft Power] Apps</em>
     <br>
   </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+   <td>
+    <a href="adobe-sign-teams-mortgage.md">
+      <img alt="Senden von Dokumenten zum Unterschreiben in [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
+    </a>
     <div>
+    <a href="adobe-sign-teams-mortgage.md"><strong>Zum Unterschreiben senden in [!DNL Microsoft Teams]</strong></a>
+    </div>
+    <em>Dokumente direkt aus [!DNL Microsoft Teams]</em>
     <br>
   </td>
 </tr>

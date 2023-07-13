@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 9d4c634f9f0b136cbd184051f51f128856a96615
+source-git-commit: 8f2feaee22d7264abe6085695a2df5d3632ad76d
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '488'
 ht-degree: 10%
 
 ---
@@ -96,29 +96,30 @@ ht-degree: 10%
 + Integrationen {#integrations}
    + [Überblick](integrations/integrations-overview.md)
    + Microsoft {#microsoft}
-      + [Ausfüllen und Signieren in Outlook](integrations/fill-and-sign-doc-microsoft-outlook.md)
-      + [In Outlook zum Unterschreiben senden](integrations/send-for-signature-with-outlook.md)
-      + [In SharePoint Online zum Unterschreiben senden](integrations/send-for-signature-with-sharepoint-online.md)
-      + [Tracking in SharePoint Online](integrations/track-an-agreement-with-sharepoint-online.md)
-      + [Zum Unterschreiben senden in [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
+      + [Ausfüllen und Anmelden [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
+      + [Zum Unterschreiben senden in [!DNL Outlook]](integrations/send-for-signature-with-outlook.md)
+      + [Zum Unterschreiben senden in [!DNL SharePoint Online]](integrations/send-for-signature-with-sharepoint-online.md)
+      + [Laufweite [!DNL SharePoint Online]](integrations/track-an-agreement-with-sharepoint-online.md)
+      + [Webformular integrieren mit [!DNL SharePoint Online]](integrations/integrate-web-form-sharepoint-online.md)
       + [Dateien automatisch archivieren in [!DNL SharePoint] mit [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
-      + [Automatisierung von Dokumenten mit Acrobat Sign für Microsoft Power Platform.](integrations/documentautomation.md)
+      + [Dokumentautomatisierung mit Acrobat Sign für [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
+      + [Zum Unterschreiben senden in [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
    + Notarize {#notarize}
       + [Dokumente zur Beglaubigung senden](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
-      + [Document Builder für Salesforce](integrations/create-an-agreement-template.md)
+      + [Document Builder für [!DNL Salesforce]](integrations/create-an-agreement-template.md)
       + [Einrichten von Datenzuordnungen](integrations/set-up-data-mapping.md)
       + [Einrichten von Zusammenführungszuordnungen](integrations/set-up-merging-map.md)
       + [Erstellen einer benutzerdefinierten Schaltfläche](integrations/create-a-custom-button.md)
    + Workday {#workday}
-      + [Konfigurieren von Acrobat Sign mit Workday](integrations/workday.md)
+      + [Konfigurieren von Acrobat Sign mit [!DNL Workday]](integrations/workday.md)
       + [Acrobat Sign + Workday Eingliederung neuer Mitarbeiter](integrations/acrobat-sign-workday-onboarding.md)
    + Marketo {#marketo}
-      + [Senden von Benachrichtigungen mit Acrobat Sign für Salesforce und Marketo](integrations/marketo-salesforce-sms.md)
-      + [Erinnerungen mithilfe des Videotutorials Acrobat Sign für Salesforce und Marketo senden](integrations/marketo-salesforce-reminder-video.md)
-      + [Erinnerungen mithilfe des Konfigurationsleitfadens für Acrobat Sign für Salesforce und Marketo senden](integrations/marketo-salesforce-reminder.md)
-      + [Senden von Benachrichtigungen mit Acrobat Sign für Microsoft Dynamics und Marketo](integrations/marketo-dynamics-sms.md)
-      + [Mit Acrobat Sign für Microsoft Dynamics 365 und Marketo Erinnerungen versenden](integrations/marketo-dynamics-reminder.md)
+      + [Benachrichtigungen mit Acrobat Sign für [!DNL Salesforce] und Marketo](integrations/marketo-salesforce-sms.md)
+      + [Erinnerungen mit Acrobat Sign für [!DNL Salesforce] und Marketo Videotutorial](integrations/marketo-salesforce-reminder-video.md)
+      + [Erinnerungen mit Acrobat Sign für [!DNL Salesforce] und Marketo Konfigurationsanleitung](integrations/marketo-salesforce-reminder.md)
+      + [Benachrichtigungen mit Acrobat Sign für [!DNL Microsoft Dynamics] und Marketo](integrations/marketo-dynamics-sms.md)
+      + [Erinnerungen mit Acrobat Sign für [!DNL Microsoft Dynamics 365] und Marketo](integrations/marketo-dynamics-reminder.md)
 + Branchen und Abteilungen {#expand}
    + [Überblick](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}
