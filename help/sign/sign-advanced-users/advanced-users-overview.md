@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: d2920dd03f17df7f502f3892838a0006feb8c7d0
+source-git-commit: d842a83819a9e8fcec3fd91b7cd6ef4f77dd4774
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '457'
 ht-degree: 3%
 
 ---
@@ -22,10 +22,10 @@ Erfahren Sie, wie Sie ein Dokument zur Signatur an Hunderte von Empfängern glei
 
 ## Neue Funktionen
 
+* [Webformular mit mehreren unbekannten Unterzeichnern erstellen](webform-multiple-signers.md)
+Erfahren Sie, wie Sie ein komplexes Webformular mit mehreren unbekannten Teilnehmern erstellen
 * [Authentifizierungsmethoden in Acrobat Sign](authentication-methods.md)
 In diesem Artikel werden verschiedene Methoden zur Authentifizierung der Unterschrift eines Dokuments in Acrobat Sign erläutert.
-* [Formulardaten verwalten](manage-form-data.md)
-Formulardaten aus Dokumenten zusammenführen
 
 ## Senden
 
