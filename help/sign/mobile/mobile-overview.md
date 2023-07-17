@@ -4,13 +4,14 @@ description: Dokumente zur Unterzeichnung versenden, den Status verfolgen und in
 role: User
 product: adobe sign
 level: Intermediate
+jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 28%
+ht-degree: 34%
 
 ---
 
@@ -37,15 +38,15 @@ Dokumente zur Unterzeichnung versenden, den Status verfolgen und in Echtzeit Ben
       <img alt="Für iOS herunterladen" src="assets/Mobile_iOS.png" />
     </a>
     <div>
-    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Acrobat Sign-App für iOS herunterladen</strong></a>
+    <a href="https://itunes.apple.com/de/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Acrobat Sign-App für iOS herunterladen</strong></a>
     <br>
   </td>
   <td>
     <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=de" target="_blank">
-      <img alt="Für Android herunterladen" src="assets/Mobile_Android.png" />
+      <img alt="Download für Android" src="assets/Mobile_Android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>Acrobat Sign-App für Android herunterladen</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=de" target="_blank"><strong>Acrobat Sign-App für Android herunterladen</strong></a>
     <br>
   </td>
   <td>

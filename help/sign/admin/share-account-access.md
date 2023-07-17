@@ -4,9 +4,10 @@ description: Erfahren Sie, wie Sie den schreibgeschützten Zugriff auf Transakti
 role: User, Admin
 product: adobe sign
 level: Intermediate
+jira: KT-5494
 thumbnail: 40187.jpg
 exl-id: 3154f0d0-3cc7-45ab-9515-bd69f5e46546
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%

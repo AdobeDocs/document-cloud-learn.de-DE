@@ -1,21 +1,22 @@
 ---
-title: Erinnerungen mit Acrobat Sign für Microsoft Dynamics 365 und Marketo senden
+title: Mit Acrobat Sign für Microsoft Dynamics 365 und Marketo Erinnerungen versenden
 description: Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung senden, wenn eine Vereinbarung nach einer bestimmten Zeit nicht signiert wird.
 role: Admin
 product: adobe sign
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
+jira: KT-7250
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '911'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
-# Erinnerungen mit Acrobat Sign für Microsoft Dynamics 365 und Marketo senden
+# Mit Acrobat Sign für Microsoft Dynamics 365 und Marketo Erinnerungen versenden
 
 Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung senden, wenn eine Vereinbarung nach einer bestimmten Zeit nicht signiert wird. Diese Integration verwendet Acrobat Sign, Acrobat Sign für Microsoft Dynamics, Marketo und Marketo Microsoft Dynamics Sync.
 
@@ -31,9 +32,9 @@ Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung senden, wenn eine Vereinbarung
 
 ## Benutzerdefiniertes Objekt suchen
 
-Sobald die Marketo Microsoft Dynamics Sync- und Acrobat Sign for Dynamics-Konfigurationen abgeschlossen sind, werden zwei neue Optionen im Marketo Admin-Terminal angezeigt.
+Sobald die Konfigurationen von Marketo Microsoft Dynamics Sync und Acrobat Sign for Dynamics abgeschlossen sind, werden zwei neue Optionen im Marketo Admin-Terminal angezeigt.
 
-![Admin](assets/adminTerminal.png)
+![Administration](assets/adminTerminal.png)
 
 1. Klicken **[!UICONTROL Dynamics-Entitäten synchronisieren]**.
 

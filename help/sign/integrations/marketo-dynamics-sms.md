@@ -5,12 +5,13 @@ role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
+jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: a1e0b30321760c5e84fb40ac083183b98170d1e1
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '690'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -24,7 +25,7 @@ Erfahren Sie, wie Sie mit Acrobat Sign, Acrobat Sign für Microsoft Dynamic, Mar
 
    Informationen und das neueste Plug-in für Microsoft Dynamics Sync sind verfügbar [hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
-1. Installieren Sie Acrobat Sign für Microsoft Dynamics.
+1. Installation von Acrobat Sign für Microsoft Dynamics.
 
    Informationen zu diesem Plug-in sind verfügbar [hier.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
@@ -32,13 +33,13 @@ Erfahren Sie, wie Sie mit Acrobat Sign, Acrobat Sign für Microsoft Dynamic, Mar
 
 Sobald die Konfigurationen von Marketo Microsoft Dynamics Sync und Acrobat Sign for Dynamics abgeschlossen sind, werden zwei neue Optionen im Marketo Admin-Terminal angezeigt.
 
-![Admin](assets/adminTerminal.png)
+![Administration](assets/adminTerminal.png)
 
 * Klicken **[!UICONTROL Dynamics-Entitäten synchronisieren]**.
 
-   Die Synchronisation muss deaktiviert sein, bevor benutzerdefinierte Entitäten synchronisiert werden. Klicken **[!UICONTROL Schema synchronisieren]** wenn dies Ihr erstes Mal ist. Klicken Sie andernfalls auf **[!UICONTROL Schema aktualisieren]**.
+  Die Synchronisation muss deaktiviert sein, bevor benutzerdefinierte Entitäten synchronisiert werden. Klicken **[!UICONTROL Schema synchronisieren]** wenn dies Ihr erstes Mal ist. Klicken Sie andernfalls auf **[!UICONTROL Schema aktualisieren]**.
 
-   ![Aktualisieren](assets/refreshSchema.png)
+  ![Aktualisieren](assets/refreshSchema.png)
 
 ## Benutzerdefiniertes Objekt synchronisieren
 
@@ -98,7 +99,7 @@ Rufen Sie diese Parameter von Ihrem Konto ab und öffnen Sie jetzt Ihre Marketo-
 
 1. Klicken **[!UICONTROL Administrator]** oben rechts.
 
-   ![Administrator](assets/adminTab.png)
+   ![Administration](assets/adminTab.png)
 
 1. Klicken **[!UICONTROL Webhooks]** und klicken dann auf **[!UICONTROL Neuer Webhook]**.
 

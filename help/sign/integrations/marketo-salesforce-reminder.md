@@ -5,10 +5,11 @@ role: Admin
 product: adobe sign
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
+jira: KT-7248
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '953'
 ht-degree: 1%
@@ -33,7 +34,7 @@ Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung von Marketo senden, wenn ein V
 
 Wenn die Marketo Salesforce-Synchronisationskonfiguration und die Konfiguration von Acrobat Sign für Salesforce abgeschlossen sind, werden im Marketo Admin-Terminal mehrere neue Optionen angezeigt.
 
-![Admin](assets/adminTab.png)
+![Administration](assets/adminTab.png)
 
 ![Objektsynchronisation](assets/salesforceAdmin.png)
 

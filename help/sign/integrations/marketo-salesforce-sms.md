@@ -5,10 +5,11 @@ role: Admin
 product: adobe sign
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
+jira: KT-7247
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: 4827c827ee06c94c38290d5f0e716e8a8328bd48
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '688'
 ht-degree: 1%
@@ -33,7 +34,7 @@ Erfahren Sie, wie Sie eine Textnachricht, eine E-Mail oder eine Push-Benachricht
 
 Sobald die Marketo Salesforce-Synchronisationskonfiguration und die Konfiguration von Acrobat Sign für Salesforce abgeschlossen sind, werden im Marketo Admin-Terminal mehrere neue Optionen angezeigt.
 
-![Admin](assets/adminTab.png)
+![Administration](assets/adminTab.png)
 
 ![Objektsynchronisation](assets/salesforceAdmin.png)
 
@@ -99,7 +100,7 @@ Rufen Sie diese Parameter von Ihrem Konto ab und öffnen Sie jetzt Ihre Marketo-
 
 1. Klicken Sie auf **Administrator** oben rechts.
 
-   ![Administrator](assets/adminTab.png)
+   ![Administration](assets/adminTab.png)
 
 1. Klicken Sie auf **Webhooks**, dann **Neuer Webhook**.
 

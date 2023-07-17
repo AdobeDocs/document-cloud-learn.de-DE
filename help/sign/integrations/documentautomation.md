@@ -5,12 +5,12 @@ role: User, Developer
 level: Intermediate
 topic: Integrations
 thumbnail: KT-7488.jpg
-kt: 7488
+jira: KT-7488
 exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '2436'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -266,7 +266,7 @@ Diese Ordner werden jetzt als Teil Ihres Power Automate -Ablaufs referenziert.
 
    ![Screenshot der Schaltfläche &quot;Erste Schritte&quot;](assets/documentautomation/automation_28.png)
 
-1. Melden Sie sich mit Ihrer Adobe ID an.
+1. Mit der Adobe ID anmelden
 
    ![Screenshot des Anmeldebildschirms](assets/documentautomation/automation_29.png)
 
@@ -345,7 +345,7 @@ Der Ordner &quot;Vorlagen&quot; enthält die Titelseiten-Designs für verschiede
 
    ![Screenshot der Auswahl von &quot;Meine Flows&quot;](assets/documentautomation/automation_39.png)
 
-1. Klicken **Importieren**.
+1. Klicken Sie auf **Importieren**.
 
    ![Screenshot des Importbildschirms](assets/documentautomation/automation_40.png)
 
@@ -353,7 +353,7 @@ Der Ordner &quot;Vorlagen&quot; enthält die Titelseiten-Designs für verschiede
 
    ![Screenshot der Ordnerauswahl](assets/documentautomation/automation_41.png)
 
-1. Klicken **Importieren**.
+1. Klicken Sie auf **Importieren**.
 
 1. Klicken Sie auf das Schraubenschlüsselsymbol unter Aktion neben **Angebot an Kunden senden**.
 
@@ -373,7 +373,7 @@ Der Ordner &quot;Vorlagen&quot; enthält die Titelseiten-Designs für verschiede
 
 Nachdem der Textfluss erstellt wurde, gehen Sie wie folgt vor:
 
-1. Klicken **Bearbeiten**.
+1. Klicken Sie auf **Bearbeiten**.
 
    ![Screenshot der Stelle, an der die Bearbeitung ausgewählt werden soll](assets/documentautomation/automation_44.png)
 
