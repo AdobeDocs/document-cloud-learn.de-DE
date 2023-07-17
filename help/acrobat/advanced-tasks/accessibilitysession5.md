@@ -1,25 +1,25 @@
 ---
-title: Hinzufügen von Formularfeldern zu Tagged PDF
-description: Diese On-Demand-Sitzung konzentriert sich auf das Hinzufügen von Formularfeldern zu einer zuvor mit Tags versehenen PDF-Datei
+title: Hinzufügen von Formularfeldern zu einer PDF mit Tags
+description: In dieser On-Demand-Session geht es um das Hinzufügen von Formularfeldern zu einem bereits mit Tags versehenen PDF
 role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-8612.jpg
-kt: 8612
+jira: KT-8612
 exl-id: 71bf49f5-3de1-4cc6-9ada-61147d4d1ee3
-source-git-commit: 2de5b609b3f23bb5796786b6bc413a831c2b78c3
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 0%
+source-wordcount: '73'
+ht-degree: 6%
 
 ---
 
-# Hinzufügen von Formularfeldern zu Tagged PDF
+# Hinzufügen von Formularfeldern zu einem mit Tags versehenen PDF
 
-Diese On-Demand-Sitzung konzentriert sich auf das Hinzufügen von Formularfeldern zu einer PDF-Datei mit Tags.
+In dieser On-Demand-Session geht es um das Hinzufügen von Formularfeldern zu einem bereits mit Tags versehenen PDF.
 
-Klicken Sie [hier](../assets/accessibilitysession5.zip), um eine ZIP-Datei der Beispieldateien für diese Sitzung herunterzuladen.
+Klicken [hier](../assets/accessibilitysession5.zip) , um eine ZIP-Datei der praktischen Dateien für diese Sitzung herunterzuladen.
 
-Wählen Sie das Bild aus, um das Video in einer separaten Registerkarte des Browsers anzuzeigen.
+Wählen Sie das Bild aus, um das Video in einer separaten Browser-Registerkarte anzuzeigen.
 
-[![Session 5 Video](../assets/Accessibilitysession5_YT.png)](https://youtu.be/vaM9R-mt5Jo){target=&quot;_blank&quot;}
+[![Video zu Session 5](../assets/Accessibilitysession5_YT.png)](https://youtu.be/vaM9R-mt5Jo){target="_blank"}

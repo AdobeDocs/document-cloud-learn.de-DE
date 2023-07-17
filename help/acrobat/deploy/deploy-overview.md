@@ -5,11 +5,12 @@ role: Admin
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6862.jpg
+jira: KT-6862
 exl-id: 571db5c8-bac5-4066-af0f-f7e2d3a9105b
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 0%
+source-wordcount: '111'
+ht-degree: 4%
 
 ---
 
@@ -19,8 +20,8 @@ ht-degree: 0%
 
 Artikel zur Bereitstellung und zu Best Practices mit wertvollen Einblicken und Kenntnissen, die durch die Zusammenarbeit mit unseren Kunden gewonnen wurden.
 
-* Erfahren Sie, wie Sie [Bereitstellen von Adobe Acrobat](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html){target=&quot;_blank&quot;} wenn Sie Adobe® Creative Cloud™ für Teams oder Unternehmen verwenden.
+* Erfahren Sie, wie Sie [Bereitstellen von Adobe Acrobat](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html){target="_blank"} wenn Sie Adobe® Creative Cloud™ für Teams oder Unternehmen verwenden.
 
-* Erfahren Sie mehr über die [Enterprise Toolkit für Acrobat-Produkte.](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target=&quot;_blank&quot;}, um angepasste Produkte in Ihrer gesamten Organisation bereitzustellen, virtualisierte Installationen einzurichten und Unternehmens-PDF-Workflows zu erstellen.
+* Erfahren Sie mehr über die [Enterprise Toolkit für Acrobat-Produkte.](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target="_blank"} , um angepasste Produkte in Ihrer gesamten Organisation bereitzustellen, virtualisierte Installationen einzurichten und PDF-Workflows für Unternehmen zu erstellen.
 
-* Wichtige Änderungen an [In ETLA enthaltene Acrobat DC-Berechtigungen](signentitlementchanges.md)Das Angebot {target=&quot;_blank&quot;} (Enterprise Term License Agreement) gilt vom August 2020 bis zum 20. November 2020.
+* Wichtige Änderungen an [In ETLA enthaltene Acrobat DC-Berechtigungen](signentitlementchanges.md){target="_blank"} (Enterprise Term License Agreement) ist zwischen August 2020 und November 2020 gültig.

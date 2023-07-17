@@ -5,11 +5,11 @@ role: User
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
-kt: 9343
+jira: KT-9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '323'
 ht-degree: 1%
 
 ---
@@ -29,7 +29,7 @@ Beispieldateien zum Üben (ZIP, 342 KB)
 
 ## Hintergrundgrafiken hinzufügen
 
-Verwenden Sie die [PDF-Werkzeug bearbeiten](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}, um Hintergrundgrafiken zu Ihrem PDF hinzuzufügen.
+Verwenden Sie die [PDF-Werkzeug bearbeiten](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target="_blank"} , um Hintergrundgrafiken zu Ihrem PDF hinzuzufügen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
 

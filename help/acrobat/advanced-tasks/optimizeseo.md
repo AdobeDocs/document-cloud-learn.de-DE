@@ -5,10 +5,11 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
+jira: KT-9347
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '767'
 ht-degree: 1%
 
 ---
@@ -33,7 +34,7 @@ PDF-Inhalte sollten eindeutig sein und wie folgt strukturiert sein:
 * Ausführen [Texterkennung](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) auf allen gescannten Dokumenten
 * Für Smartphones geeignete PDF erstellen Um die Anzeige auf dem Smartphone oder Tablet auf Ihrem PDF zu überprüfen, öffnen Sie die Datei im [Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) und aktivieren Sie den Liquid Mode. Fügen Sie bei Bedarf weitere Unterüberschriften hinzu, um die Navigation zu verbessern.
 
-   ![Screenshot des Liquid Mode in der mobilen Acrobat Reader-App](../assets/optimizeseo1.png)
+  ![Screenshot des Liquid Mode in der mobilen Acrobat Reader-App](../assets/optimizeseo1.png)
 
 +++
 
@@ -86,7 +87,7 @@ Taggen Sie eine PDF wie folgt:
 
 ## 4. Für das Web vorbereiten
 
-Optimieren Sie die Interaktion mit Ihrem PDF, indem Sie ihn für die Anzeige im Web vorbereiten. [Reduzieren der PDF-Dateigröße](https://www.adobe.com/de/acrobat/online/compress-pdf.html){target=&quot;_blank&quot;}.
+Optimieren Sie die Interaktion mit Ihrem PDF, indem Sie ihn für die Anzeige im Web vorbereiten. [Reduzieren der PDF-Dateigröße](https://www.adobe.com/de/acrobat/online/compress-pdf.html){target="_blank"}.
 
 +++Details zur Vorbereitung Ihres PDF für das Web anzeigen
 
@@ -122,7 +123,7 @@ Der Dateiname wird Teil der URL, wenn eine PDF im Internet veröffentlicht wird.
 
 ## 6. Sichern Sie Ihren PDF
 
-Der letzte Schritt besteht darin, [PDF schützen](https://www.adobe.com/de/acrobat/online/password-protect-pdf.html){target=&quot;_blank&quot;}, um nicht autorisierte Änderungen zu verhindern.
+Der letzte Schritt besteht darin, [PDF schützen](https://www.adobe.com/de/acrobat/online/password-protect-pdf.html){target="_blank"} um unbefugte Änderungen zu verhindern.
 
 +++Zum Sichern Ihres PDF
 

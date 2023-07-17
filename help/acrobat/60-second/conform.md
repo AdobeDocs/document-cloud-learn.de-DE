@@ -3,8 +3,10 @@ title: PDF einem Standardformat anpassen
 description: Erfahren Sie, wie Sie PDF-Inhalte anhand von PDF-Standardkriterien wie PDF/X, PDF/A oder PDF/E validieren.
 role: User
 product: adobe acrobat
-level: Beginner
-source-git-commit: 3f9dc206aee94fa9a8b9a7938ef4ca0f4de89164
+level: Intermediate
+jira: KT-13287
+exl-id: 19b0c869-cbbb-48a5-8d95-a2262bb83b12
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%

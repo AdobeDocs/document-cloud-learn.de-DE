@@ -6,10 +6,11 @@ product: adobe acrobat
 level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
+jira: KT-6859
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 527ef7363945aa05666cd2ff956366c806a2d627
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '327'
 ht-degree: 1%
 
 ---
@@ -176,4 +177,4 @@ Erfahren Sie, wie einfach es ist, auf Dateien zuzugreifen und mit ihnen zu arbei
 
 ## Box
 
-Erfahren Sie, wie Acrobat und [Box](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;} erleichtert allen Mitarbeitern in eurer Organisation die Arbeit.
+Erfahren Sie, wie Acrobat und [Box](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"} erleichtert allen Mitarbeitern in eurer Organisation die Arbeit.

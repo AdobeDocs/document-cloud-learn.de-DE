@@ -5,11 +5,11 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-8610.jpg
-kt: 8610
+jira: KT-8610
 exl-id: ed5d829e-ab8a-4f1d-ac3a-81034710e438
-source-git-commit: 2de5b609b3f23bb5796786b6bc413a831c2b78c3
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ Klicken [hier](../assets/accessibilitysession3.zip) , um eine ZIP-Datei der prak
 
 Wählen Sie das Bild aus, um das Video in einer separaten Browser-Registerkarte anzuzeigen.
 
-[![Video zu Session 3](../assets/Accessibilitysession3_YT.png)](https://youtu.be/kcM_jyHGd6Y){target=&quot;_blank&quot;}
+[![Video zu Session 3](../assets/Accessibilitysession3_YT.png)](https://youtu.be/kcM_jyHGd6Y){target="_blank"}

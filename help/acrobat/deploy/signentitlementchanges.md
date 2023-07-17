@@ -5,11 +5,12 @@ role: Admin
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-7269.jpg
+jira: KT-7269
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
-source-wordcount: '747'
-ht-degree: 5%
+source-wordcount: '745'
+ht-degree: 6%
 
 ---
 
@@ -17,7 +18,7 @@ ht-degree: 5%
 
 [!DNL Adobe Sign Individual] (auch als Adobe Sign Pro bezeichnet) wird von allen Acrobat DC-Berechtigungen, die in ETLA (Enterprise Term License Agreement) Angeboten enthalten sind, erst ab August 2020 entzogen und bis zum 20. November 2020 fortgesetzt. [!DNL Adobe Sign Individual] bietet keine Funktionen für Unternehmensanforderungen und sollte durch Adobe Sign Enterprise für Unternehmenskunden ersetzt werden. Dies umfasst Acrobat DC, das als eigenständige Anwendung lizenziert ist, und Acrobat DC, das als Teil von Creative Cloud für Unternehmen lizenziert ist - alle Applikationen.
 
-Zugriff auf [!DNL Adobe Sign Individual] in Acrobat über die **Adobe Sign** -Werkzeug oder die **Fill &amp; Sign** -Werkzeug ([Unterschriften einholen.](https://www.adobe.com/de/acrobat/online/request-signature.html){target=&quot;_blank&quot;}).
+Zugriff auf [!DNL Adobe Sign Individual] in Acrobat über die **Adobe Sign** -Werkzeug oder die **Fill &amp; Sign** -Werkzeug ([Unterschriften einholen.](https://www.adobe.com/de/acrobat/online/request-signature.html){target="_blank"}).
 
 ![[!DNL Adobe Sign Individual] Zugriff in Acrobat DC](../assets/Deploy_SignEntitle1.png)
 
@@ -71,8 +72,8 @@ Die Benutzer können sich bei https://documentcloud.adobe.com/ anmelden, um auf 
 
 * [Anmelden bei Adobe Document Cloud](https://helpx.adobe.com/document-cloud/help/sign-in.html)
 * [Verwalten von Dateien (Wo sind meine Dateien?)](https://helpx.adobe.com/document-cloud/help/manage-files.html)
-* [Verwenden [!UICONTROL Acrobat Customization Wizard] zur Konfiguration](https://www.adobe.com/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
-* [Überblick über [!UICONTROL Admin Console]](https://helpx.adobe.com/enterprise/using/admin-console.html)
-* [Verwalten von Adobe Sign auf der [!UICONTROL Admin Console]](https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html)
+* [Verwenden [!UICONTROL Acrobat Customization Wizard] zur Konfiguration](https://www.adobe.com/de/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
+* [Überblick über [!UICONTROL Admin Console]](https://helpx.adobe.com/de/enterprise/using/admin-console.html)
+* [Verwalten von Adobe Sign auf der [!UICONTROL Admin Console]](https://helpx.adobe.com/de/enterprise/using/adobe-sign-for-enterprise.html)
 
 **Überarbeitungen** 20. Mai 2020 Originalbeitrag - August 2019

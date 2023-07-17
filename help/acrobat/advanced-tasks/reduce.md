@@ -5,11 +5,12 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6827.jpg
+jira: KT-6827
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '230'
-ht-degree: 7%
+ht-degree: 0%
 
 ---
 
@@ -37,7 +38,7 @@ Verringert den Wert großer Dateien, und optimiert eure PDF, ohne die Qualität 
 
 1. Auswählen **[!UICONTROL Standard]** im Fenster &quot; **[!UICONTROL Einstellungen]** , um die Standardeinstellungen zu verwenden.
 
-   Wenn Sie im Dialogfeld **[!UICONTROL PDF-Optimierung]** Einstellungen ändern, wechselt die Option im Menü **Einstellungen** automatisch zu **Benutzerdefiniert**.
+   Wenn Sie Einstellungen im Dialogfeld &quot; **[!UICONTROL PDF Optimizer]** die Schaltfläche **Einstellungen** wechselt automatisch zu **Benutzerdefiniert**.
 
 1. Auswählen **[!UICONTROL Vorhandene beibehalten]** im Fenster &quot; **[!UICONTROL Kompatibilität herstellen mit]** , um die aktuelle PDF-Version beizubehalten oder eine bestimmte Acrobat-Version auszuwählen.
 

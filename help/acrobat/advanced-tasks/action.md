@@ -1,19 +1,20 @@
 ---
-title: Aktionsassistent
+title: Action Wizard
 description: Sparen Sie Zeit und Tastenanschläge, indem Sie mithilfe einer Aktion automatisch einen Satz von Befehlen auf eine oder mehrere Dateien anwenden
 role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
+jira: KT-6803
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '218'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Aktionsassistent
+# Action Wizard
 
 Für die Bereitstellung der besten Kundenerlebnisse müssen Inhalte schneller denn je erstellt werden. Sparen Sie Zeit und Tastenanschläge, indem Sie mit einer Aktion automatisch einen Satz von Befehlen auf eine oder mehrere Dateien anwenden.
 
