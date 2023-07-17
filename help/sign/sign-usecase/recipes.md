@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: d52fb4316df05e45f472f43066a84f760cbf7b05
+source-git-commit: 1e5b8a8f33abd0f90ff6831288eb2648a27ec615
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,8 @@ ht-degree: 0%
 ![Banner &quot;Nutzungsszenarien&quot;](../assets/Hero-Recipe.png)
 
 Beschleunigt die digitalen Workflows in eurem Unternehmen mit diesen Beispielen für elektronische Unterschriften von Behörden und Unternehmen. Klicken Sie hier, um eine PDF mit Ressourcen und Details zum Einrichten dieser spezifischen Anwendungsfälle für elektronische Signaturen anzuzeigen.
+
+## Neue Funktionen
 
 * [Bewerbung für ein Regierungsdarlehen mit mehreren unbekannten Unterzeichnern](webform-multiple-signers.md)
 Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerbungen mit öffentlichen Krediten verwendet wird, an dem mehrere unbekannte Teilnehmer beteiligt sind.
