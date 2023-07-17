@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -22,10 +22,23 @@ ht-degree: 0%
 
 Beschleunigt die digitalen Workflows in eurem Unternehmen mit diesen Beispielen für elektronische Unterschriften von Behörden und Unternehmen. Klicken Sie hier, um eine PDF mit Ressourcen und Details zum Einrichten dieser spezifischen Anwendungsfälle für elektronische Signaturen anzuzeigen.
 
+* [Bewerbung für ein Regierungsdarlehen mit mehreren unbekannten Unterzeichnern](webform-multiple-signers.md)
+Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerbungen mit öffentlichen Krediten verwendet wird, an dem mehrere unbekannte Teilnehmer beteiligt sind.
+
 ## Nutzungsszenarien in Regierungseinrichtungen
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="webform-multiple-signers.md">
+      <img alt="Bewerbung für ein Regierungsdarlehen mit mehreren unbekannten Unterzeichnern" src="../assets/UC_Business.png" />
+    </a>
+    <div>
+    <a href="webform-multiple-signers.md"><strong>Bewerbung für ein Regierungsdarlehen mit mehreren unbekannten Unterzeichnern</strong></a>
+    </div>
+    <em>Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerbungen mit öffentlichen Krediten verwendet wird, an dem mehrere unbekannte Teilnehmer beteiligt sind.</em>
+    <br>
+  </td> 
   <td>
     <a href="usecasegovgrants.md">
       <img alt="Unternehmenszuschüsse und -darlehen" src="../assets/UC_Business.png" />
@@ -56,7 +69,9 @@ Beschleunigt die digitalen Workflows in eurem Unternehmen mit diesen Beispielen 
     <em>Ersetzen Sie die Papierverarbeitung schnell durch standardkonforme digitale Workflows mit Prüfberichten</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="usecasegovreemployment.md">
       <img alt="Beschäftigungsbeihilfe" src="../assets/UC_WebformsR.png" />
     </a>
@@ -66,8 +81,6 @@ Beschleunigt die digitalen Workflows in eurem Unternehmen mit diesen Beispielen 
     <em>Helft Bürgern, die benötigte Hilfe zu erhalten, ohne mit Formularen für vollständig digitale Anträge in Kontakt zu stehen, die in wenigen Tagen ausgefüllt werden können</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="usecasegovpaycheck.md">
       <img alt="Gehaltsscheckschutz" src="../assets/UC_PaycheckProtectionR.png" />
@@ -86,11 +99,6 @@ Beschleunigt die digitalen Workflows in eurem Unternehmen mit diesen Beispielen 
     <a href="usecasegovremote.md"><strong>Remote-Warrant-Anfrage</strong></a>
     </div>
     <em>Verwendet elektronische Unterschriften und Web-Konferenzen zusammen, um die Beantragung und Sicherung von Haftbefehlen durch Richter zu beschleunigen</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>

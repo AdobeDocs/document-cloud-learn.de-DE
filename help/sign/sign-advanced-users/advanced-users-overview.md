@@ -8,9 +8,9 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '426'
 ht-degree: 3%
 
 ---
@@ -23,10 +23,10 @@ Erfahren Sie, wie Sie ein Dokument zur Signatur an Hunderte von Empfängern glei
 
 ## Neue Funktionen
 
-* [Webformular mit mehreren unbekannten Unterzeichnern erstellen](webform-multiple-signers.md)
-Erfahren Sie, wie Sie ein komplexes Webformular mit mehreren unbekannten Teilnehmern erstellen
 * [Authentifizierungsmethoden in Acrobat Sign](authentication-methods.md)
 In diesem Artikel werden verschiedene Methoden zur Authentifizierung der Unterschrift eines Dokuments in Acrobat Sign erläutert.
+* [Onlinezahlungen einrichten](set-up-online-payments.md)
+Erfahren Sie, wie Sie Online-Zahlungen in Ihren Dokumenten einrichten und akzeptieren.
 
 ## Senden
 
@@ -104,19 +104,7 @@ In diesem Artikel werden verschiedene Methoden zur Authentifizierung der Untersc
       <em>Hole in wenigen Schritten Hunderte von Unterschriften auf einmal für jedes Dokument ein</em>
       <br>
   </td>
-  <td>
-    <a href="webform-multiple-signers.md">
-        <img alt="Webformular mit mehreren unbekannten Unterzeichnern erstellen" src="../assets/Web-form-unknown.png" />
-    </a>
-    <div>
-    <a href="webform-multiple-signers.md"><strong>Webformular mit mehreren unbekannten Unterzeichnern erstellen</strong></a>
-    </div>
-    <em>Erfahren Sie, wie Sie ein komplexes Webformular mit mehreren unbekannten Teilnehmern erstellen</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
+ <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign Text-Tagging" src="../assets/Text-Tagging.png" />
     </a>
@@ -125,7 +113,9 @@ In diesem Artikel werden verschiedene Methoden zur Authentifizierung der Untersc
       </div>
       <em>Acrobat Sign-Formularfelder durch Text-Tags mit Adobe Acrobat erstellen</em>
       <br>
-    </td>
+  </td>
+</tr>
+<tr>
   <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Acrobat Sign Text-Tagging" src="../assets/Text-Tagging.png" />
@@ -144,6 +134,11 @@ In diesem Artikel werden verschiedene Methoden zur Authentifizierung der Untersc
     <a href="text-tagging-word.md"><strong>Verwenden von Text-Tagging in [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie eine wiederverwendbare Dokumentvorlage erstellen, indem Sie Acrobat Sign-Text-Tags in [!DNL Microsoft Word]</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
