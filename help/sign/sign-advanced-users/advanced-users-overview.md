@@ -8,9 +8,9 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
+source-git-commit: 428983c7cc727096261d3c92897c25c255078261
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '430'
 ht-degree: 3%
 
 ---
@@ -105,13 +105,13 @@ Erfahren Sie, wie Sie Online-Zahlungen in Ihren Dokumenten einrichten und akzept
       <br>
   </td>
  <td>
-      <a href="adobe-sign-text-tagging.md">
-        <img alt="Acrobat Sign Text-Tagging" src="../assets/Text-Tagging.png" />
+      <a href="webform.md">
+        <img alt="Erstellen eines Webformulars" src="../assets/Webform.png" />
     </a>
       <div>
-      <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign Text-Tagging</strong></a>
+      <a href="webform.md"><strong>Erstellen eines Webformulars</strong></a>
       </div>
-      <em>Acrobat Sign-Formularfelder durch Text-Tags mit Adobe Acrobat erstellen</em>
+      <em>Lernen Sie, wie Sie ein Dokument erstellen, das direkt auf Ihrer Website elektronisch unterzeichnet werden kann.</em>
       <br>
   </td>
 </tr>

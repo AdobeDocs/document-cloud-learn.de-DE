@@ -5,14 +5,14 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 jira: KT-13596
-source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
+source-git-commit: 428983c7cc727096261d3c92897c25c255078261
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-# Webformular mit mehreren unbekannten Unterzeichnern erstellen
+# Bewerbung für ein Regierungsdarlehen mit mehreren unbekannten Unterzeichnern
 
 Weitere Informationen [Webformular](../sign-advanced-users/webform.md) wird für einen komplexen Arbeitsablauf für die Beantragung von Staatsanleihen verwendet, an dem mehrere unbekannte Teilnehmer beteiligt sind. Diese Formulare können in eine Website eingebettet oder als Link in einer E-Mail gesendet werden. Sie können auch auf jedem Gerät ausgefüllt werden, an jedem Ort, wodurch Prozesse und Service-Bereitstellung beschleunigt werden.
 
