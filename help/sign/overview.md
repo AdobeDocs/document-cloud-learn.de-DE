@@ -2,12 +2,11 @@
 title: Acrobat Sign Tutorials
 description: Eine Sammlung von Tutorials, Webinaren und Use Cases, die entwickelt wurden, um sowohl Anfänger als auch Administratoren schnell auf den neuesten Stand zu bringen
 role: User, Admin
-product: adobe sign
 level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 5%

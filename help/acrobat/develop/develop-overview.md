@@ -2,12 +2,11 @@
 title: Übersicht über Acrobat-Entwicklung
 description: Entwickeln von Software, die sich mithilfe von JavaScript, Plug-ins oder IAC in Acrobat und Adobe Reader integrieren lässt
 role: Developer
-product: adobe acrobat
 level: Intermediate
 thumbnail: KT-6861.jpg
 jira: KT-6861
 exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%

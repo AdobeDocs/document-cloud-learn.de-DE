@@ -2,12 +2,11 @@
 title: PDF mit Fotos im Handumdrehen erstellen
 description: Ziehe mehrere JPG auf das Acrobat-Icon, um einen PDF zu erstellen.
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-8575.jpg
 jira: KT-8575
 exl-id: 598c9008-5c8a-46e5-86af-d814e8060e3a
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 6%

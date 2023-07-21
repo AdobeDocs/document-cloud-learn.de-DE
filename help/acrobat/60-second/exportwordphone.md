@@ -2,12 +2,11 @@
 title: Export PDF zu Word über dein Smartphone.
 description: Konvertieren einer PDF-Datei in ein vollständig editierbares Microsoft Word-Dokument mit der Acrobat-App
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-9753.jpg
 jira: KT-9753
 exl-id: 8ab6c2ba-8cc0-460d-9f31-c406ddb8f0b3
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 8%

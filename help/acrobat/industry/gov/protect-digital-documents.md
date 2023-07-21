@@ -2,11 +2,10 @@
 title: 5 Tipps für Produktivität an jedem Ort mit Acrobat - Digitale Dokumente zu Protect
 description: Erfahren Sie, wie Sie Ihrem PDF ein Kennwort hinzufügen, um das Kopieren, Bearbeiten oder Drucken zu verhindern
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: 34510.jpg
 exl-id: 3115d182-671a-4d8b-8753-f8aba3c4807e
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 8%

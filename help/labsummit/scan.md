@@ -1,9 +1,11 @@
 ---
 title: Digitalisierung mit Adobe Scan
 description: Tipps und Tricks zur Verwendung von Adobe Document Cloud
-solution: Acrobat Sign
+solution: Acrobat
+role: User
+level: Beginner
 exl-id: cc76a7ed-07d2-4c7a-bebb-ed193e69eaa1
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
@@ -12,7 +14,7 @@ ht-degree: 0%
 
 # Digitalisierung mit Adobe Scan
 
-Übersichtlichkeit beseitigen, organisieren oder teilen! Riesige Papierberge auf dem Schreibtisch oder in den Quittungen deiner Brieftasche sind überflüssig. Die Adobe Scan-App scannt Papierdokumente direkt in die PDF und erkennt automatisch Text.
+Übersichtlichkeit beseitigen, organisieren oder teilen! Riesige Papierberge auf dem Schreibtisch und Geldbeutel gehören der Vergangenheit an. Die Adobe Scan-App scannt Papierdokumente direkt in die PDF und erkennt automatisch Text.
 
 In dieser Übung laden Sie Inhalte von einer Visitenkarte direkt in Ihre Kontakte hoch. Scannen und speichern Sie eine Quittung.
 
@@ -44,7 +46,7 @@ Erfassen Sie eine Visitenkarte, eine Quittung oder ein anderes Papierelement, mi
 
 Die Adobe Scan-App kann auch nützlich sein, um eine Quittung, die Sie später benötigen, zu scannen und zu speichern (z. B. eine Spesenabrechnung oder eine andere Kostenerstattung).
 
-**Schritt 1:** Fotografiere in der geöffneten Adobe Scan-App die Quittung, die du speichern möchtest.
+**Schritt 1:** Fotografiere bei geöffneter Adobe Scan-App die Quittung, die du speichern möchtest.
 
 ![Empfangsabbild abfragen](assets/scanreceipt.png)
 

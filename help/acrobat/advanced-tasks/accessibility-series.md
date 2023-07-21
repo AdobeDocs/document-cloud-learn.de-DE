@@ -2,12 +2,11 @@
 title: Acrobat Accessibility-Reihe
 description: On-Demand-Barrierefreiheitsserie in sechs Sitzungen
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-8364.jpg
 jira: KT-8364
 exl-id: f56fb6f4-bbb8-4698-bc19-047d9245c2ff
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -76,7 +75,7 @@ In dieser sechsteiligen On-Demand-Webinar-Reihe lernen Sie nicht nur die Grundla
   </td>  
   <td>
     <a href="accessibilitysession6.md">
-      <img alt="Hinzufügen von Formularfeldern auf einem PDF ohne Tags" src="../assets/Accessibilitysession6_1280.png" />
+      <img alt="Hinzufügen von Formularfeldern zu einem PDF ohne Tags" src="../assets/Accessibilitysession6_1280.png" />
     </a>
     <div>
     <a href="accessibilitysession6.md"><strong>Hinzufügen von Formularfeldern zu einem PDF ohne Tags</strong></a>

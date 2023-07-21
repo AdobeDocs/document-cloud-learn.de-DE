@@ -2,17 +2,19 @@
 title: PDF-Dateien freigeben und online überprüfen
 description: Tipps und Tricks zur Verwendung von Adobe Document Cloud
 solution: Acrobat
+role: User
+level: Beginner
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '519'
-ht-degree: 23%
+ht-degree: 8%
 
 ---
 
 # PDF-Dateien freigeben und online überprüfen
 
-Mit dem Adobe Document Cloud-Überprüfungsdienst können Sie PDF-Dateien ganz einfach über den Acrobat-Client, das Document Cloud-Web oder die mobile Acrobat Reader-App zum Review freigeben. Wenn Überprüfer auf ihrem Computer auf die URL in der E-Mail-Einladung klicken, können sie mühelos ihr Feedback in einem Browser abgeben, ohne sich anmelden oder zusätzliche Software installieren zu müssen.
+Mit dem Adobe Document Cloud-Überprüfungsdienst können Sie PDF-Dateien ganz einfach über den Acrobat-Client, das Document Cloud-Web oder die mobile Acrobat Reader-App zum Review freigeben. Wenn Überprüfer auf ihrem Computer auf die URL in der E-Mail-Einladung klicken, können sie ihr Feedback ganz einfach in einem Browser abgeben, ohne sich anmelden oder zusätzliche Software installieren zu müssen.
 
 In dieser Übung überprüfen wir, wie
 
@@ -39,13 +41,13 @@ Sie erhalten eine E-Mail-Benachrichtigung, sobald Empfänger Ihre Datei angezeig
 
 ## Prüfererlebnis
 
-Die Überprüfer erhalten eine E-Mail-Einladung mit einem Link zur Überprüfung der PDF. Wenn sie in der Einladung auf den Link oder die Schaltfläche **[!UICONTROL Überprüfen]** klicken, wird die PDF in einem Webbrowser geöffnet. Mit den Kommentarwerkzeugen können sie in der PDF Kommentare hinzufügen. Alternativ können sie Kommentare im Acrobat Reader- oder Acrobat-Client hinzufügen.
+Die Überprüfer erhalten eine E-Mail-Einladung mit einem Link zur entsprechenden PDF. Wenn sie auf den Link oder die **[!UICONTROL Review]** in der Einladung klicken, wird die PDF in einem Webbrowser geöffnet. Sie können Kommentarwerkzeuge verwenden, um Kommentare zur PDF hinzuzufügen. Alternativ können sie Kommentare im Acrobat Reader- oder Acrobat-Client hinzufügen.
 
 ## Anonymen oder öffentlichen Link in einer E-Mail senden
 
 **Schritt 1:** Öffnen Sie die `localFoodTruckmenu_start.pdf` in Adobe Acrobat.
 
-**Schritt 2:** Klicken **[!UICONTROL Link freigeben]** ![linkicon](assets/sendlinkicon.png). Der Freigabe-Link wird sofort erstellt. Sie müssen nicht warten, bis die Datei in die Cloud hochgeladen wurde. Standardmäßig zeigt der Katalog [!UICONTROL Kommentare zulassen] aktiviert ist.
+**Schritt 2:** Klicken **[!UICONTROL Link freigeben]** ![linkicon](assets/sendlinkicon.png). Der freigegebene Link wird sofort generiert. müssen Sie nicht warten, bis die Datei in die Cloud hochgeladen wurde. Standardmäßig zeigt der Katalog [!UICONTROL Kommentare zulassen] aktiviert ist.
 
 ![Bild von Schritt 2L](assets/Step2L.png)
 
@@ -93,4 +95,4 @@ Reviews und Freigeben von Designversionen mit Acrobat. Mit Acrobat kannst du
 * Feedback an zentraler Stelle verwalten.
 * Du brauchst nur einen Browser.
 
-Sende und verfolge Kommentare jederzeit und überall. Empfänger können die Datei auch ohne Acrobat anzeigen. Sie können jemanden über einen Browser zum Kommentieren einladen. Zeit und Aufwand sparen.
+Sende und verfolge Kommentare jederzeit und überall. Empfänger können die Datei auch anzeigen, wenn sie Acrobat nicht haben! Sie können jemanden über einen Browser zum Kommentieren einladen. Zeit und Aufwand sparen.

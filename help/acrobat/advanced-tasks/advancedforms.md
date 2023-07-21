@@ -2,12 +2,11 @@
 title: Erweiterte Formularfelder
 description: Lerne, wie du Berechnungen anlegst, eine Schaltfläche zum Senden einer E-Mail erstellst und Formularseiten schnell aktualisierst, ohne dass du all deine vorhandenen Formularfelder neu erstellst
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-9346.jpg
 jira: KT-9346
 exl-id: 24cc04f6-1cc1-4186-b22f-f96db3d982f1
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 7%
