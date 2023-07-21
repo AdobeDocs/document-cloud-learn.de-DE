@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 3c5ae4ba8e264cf68fc696bd6ad3b1c066ec5a1f
+source-git-commit: ed04a9ec6562c0104e77cedbec2f28bf610a673e
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,8 @@ Beschleunigt die digitalen Workflows in eurem Unternehmen mit diesen Beispielen 
 
 * [Bewerbung für Webformulare für Bildungseinrichtungen](usecase-edu-intern.md)
 Erfahren Sie, wie Sie mit Webformularen den Zugriff der Schüler auf erforderliche Formulare verbessern können.
+* [Erstellen einer Anwendung für Webformulare für Bildungseinrichtungen](usecase-edu-intern-create.md)
+Webformular für ein Praktikum erstellen
 * [Bewerbung für ein Regierungsdarlehen mit mehreren unbekannten Unterzeichnern](webform-multiple-signers.md)
 Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerbungen mit öffentlichen Krediten verwendet wird, an dem mehrere unbekannte Teilnehmer beteiligt sind.
 
@@ -170,10 +172,15 @@ Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerb
     <br>
   </td> 
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <a href="usecase-edu-intern-create.md">
+      <img alt="Erstellen einer Anwendung für Webformulare für Bildungseinrichtungen" src="../assets/Webform-internship-create.png" />
+    </a>
     <div>
+    <a href="usecase-edu-intern-create.md"><strong>Erstellen einer Anwendung für Webformulare für Bildungseinrichtungen</strong></a>
+    </div>
+    <em>Webformular für ein Praktikum erstellen</em>
     <br>
-  </td>
+  </td> 
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
