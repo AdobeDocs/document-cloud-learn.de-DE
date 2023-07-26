@@ -9,9 +9,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 2577034fea81ceaaafd620a983e4b40ae6251d83
 workflow-type: tm+mt
-source-wordcount: '621'
+source-wordcount: '663'
 ht-degree: 0%
 
 ---
@@ -27,10 +27,10 @@ Sie können Acrobat Sign in anderen Anwendungen verwenden, die Ihre Organisation
 
 ## Neue Funktionen
 
+* [Microsoft Dynamics 365 for Customer Service](dynamics-customer-service.md)
+Erfahren Sie, wie Acrobat Sign und [!DNL Microsoft Dynamics 365] für den Kundendienst werden verwendet, um die Kundenzufriedenheit auf einem Self-Service-Kundenwebportal zu verbessern
 * [Webformular integrieren mit [!DNL SharePoint] Online](integrate-web-form-sharepoint-online.md)
-Erfahren Sie, wie Sie die von einem Webformular erfassten Daten einem [!DNL SharePoint] Liste
-* [Acrobat Sign + Workday Eingliederung neuer Mitarbeiter](acrobat-sign-workday-onboarding.md)
-Onboarding-Workflows mit Acrobat Sign und Workday optimieren
+Erfahren Sie, wie Sie die von einem Webformular erfassten Daten einem [!DNL SharePoint] auflisten
 
 ## Tutorials zur Integration mit Microsoft
 
@@ -85,7 +85,7 @@ Onboarding-Workflows mit Acrobat Sign und Workday optimieren
     <div>
     <a href="integrate-web-form-sharepoint-online.md"><strong>Webformular integrieren mit [!DNL SharePoint Online]</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie die von einem Webformular erfassten Daten einem [!DNL SharePoint] Liste</em>
+    <em>Erfahren Sie, wie Sie die von einem Webformular erfassten Daten einem [!DNL SharePoint] auflisten</em>
     <br>
   </td>
   <td>
@@ -105,7 +105,7 @@ Onboarding-Workflows mit Acrobat Sign und Workday optimieren
     <div>
     <a href="documentautomation.md"><strong>Dokumentautomatisierung mit [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie die [!DNL Acrobat Sign] und [!DNL Adobe PDF Tools] Steckverbinder für [!DNL Microsoft Power] Apps</em>
+    <em>Erfahren Sie, wie Sie die [!DNL Acrobat Sign] und [!DNL Adobe PDF Tools] Anschlüsse für [!DNL Microsoft Power] Apps</em>
     <br>
   </td>
    <td>
@@ -116,6 +116,33 @@ Onboarding-Workflows mit Acrobat Sign und Workday optimieren
     <a href="adobe-sign-teams-mortgage.md"><strong>Zum Unterschreiben senden in [!DNL Microsoft Teams]</strong></a>
     </div>
     <em>Dokumente direkt aus [!DNL Microsoft Teams]</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="dynamics-customer-service.md">
+      <img alt="Microsoft Dynamics 365 for Customer Service" src="../assets/Dynamics-customer-service.png" />
+    </a>
+    <div>
+    <a href="dynamics-customer-service.md"><strong>Microsoft Dynamics 365 for Customer Service</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Acrobat Sign und [!DNL Microsoft Dynamics 365] für den Kundendienst werden verwendet, um die Kundenzufriedenheit auf einem Self-Service-Kundenwebportal zu verbessern</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -164,7 +191,7 @@ Onboarding-Workflows mit Acrobat Sign und Workday optimieren
     <div>
     <a href="create-an-agreement-template.md"><strong>Document Builder für [!DNL Salesforce]</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie mit Document Builder für [!DNL Salesforce]</em>
+    <em>Erfahren Sie, wie Sie eine wiederverwendbare Dokumentvorlage mit Document Builder für [!DNL Salesforce]</em>
     <br>
   </td>
   <td>
@@ -184,7 +211,7 @@ Onboarding-Workflows mit Acrobat Sign und Workday optimieren
     <div>
     <a href="set-up-merging-map.md"><strong>Einrichten der Zusammenführungszuordnung in Salesforce</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie Salesforce-Daten direkt in einem Acrobat Sign-Dokument zusammenführen</em>
+    <em>Erfahren Sie, wie Sie Salesforce-Daten direkt in einem Acrobat Sign-Dokument zusammenführen.</em>
     <br>
   </td>
   <td>

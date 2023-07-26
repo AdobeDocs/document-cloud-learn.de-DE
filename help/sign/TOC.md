@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: ed04a9ec6562c0104e77cedbec2f28bf610a673e
+source-git-commit: 2577034fea81ceaaafd620a983e4b40ae6251d83
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '513'
 ht-degree: 10%
 
 ---
@@ -29,12 +29,12 @@ ht-degree: 10%
       + [Hinzufügen von Feldern zu Ihren Dokumenten](sign-beginner-tutorials/adding-fields.md)
       + [Sendeoptionen konfigurieren](sign-beginner-tutorials/sending-options.md)
       + [Ändern eines Dokuments nach dem Senden](sign-beginner-tutorials/modify-in-flight.md)
-      + [Unterzeichner ersetzen](sign-beginner-tutorials/replace-signer.md)
+      + [Ersetzen eines Unterzeichners](sign-beginner-tutorials/replace-signer.md)
       + [Termine und Erinnerungen festlegen](sign-beginner-tutorials/set-deadlines-reminders.md)
    + Signieren {#getting-started-signing}
       + [Dokumente elektronisch unterschreiben](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Ein Dokument ausfüllen und unterschreiben](sign-beginner-tutorials/fill-and-sign.md)
-      + [Persönliche Signaturen erhalten](sign-beginner-tutorials/sign-in-person.md)
+      + [Persönliches Einholen einer Unterschrift](sign-beginner-tutorials/sign-in-person.md)
       + [Unterschrift an eine andere Person delegieren](sign-beginner-tutorials/delegate-signing.md)
       + [Was ist eine digitale Signatur?](sign-beginner-tutorials/sign-with-a-digital-signature.md)
       + [Signieren mit einem Stempel](sign-beginner-tutorials/sign-with-a-stamp.md)
@@ -59,7 +59,7 @@ ht-degree: 10%
       + [Dokumentvorlagen verwalten](sign-advanced-users/edit-a-template.md)
       + [Vorhandenes Webformular ändern](sign-advanced-users/modify-webform.md)
       + [Verwalten von Webformulardaten](sign-advanced-users/manage-webform-data.md)
-+ verwalten {#admin-set-up}
++ verabreichen {#admin-set-up}
    + [Überblick](admin/intro-admin-overview.md)
    + Erste Schritte {#getting-started-admin}
       + [Erste Schritte für neue Administratoren](admin/get-started-admin.md)
@@ -104,6 +104,7 @@ ht-degree: 10%
       + [Dateien automatisch archivieren in [!DNL SharePoint] mit [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Dokumentautomatisierung mit Acrobat Sign für [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
       + [Zum Unterschreiben senden in [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
+      + [Microsoft Dynamics 365 for Customer Service](integrations/dynamics-customer-service.md)
    + Notarize {#notarize}
       + [Dokumente zur Beglaubigung senden](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
@@ -112,7 +113,7 @@ ht-degree: 10%
       + [Einrichten von Zusammenführungszuordnungen](integrations/set-up-merging-map.md)
       + [Erstellen einer benutzerdefinierten Schaltfläche](integrations/create-a-custom-button.md)
    + Workday {#workday}
-      + [Konfigurieren von Acrobat Sign mit [!DNL Workday]](integrations/workday.md)
+      + [Acrobat Sign mit [!DNL Workday]](integrations/workday.md)
       + [Acrobat Sign + Workday Eingliederung neuer Mitarbeiter](integrations/acrobat-sign-workday-onboarding.md)
    + Marketo {#marketo}
       + [Benachrichtigungen mit Acrobat Sign für [!DNL Salesforce] und Marketo](integrations/marketo-salesforce-sms.md)
@@ -129,20 +130,20 @@ ht-degree: 10%
       + Regierungseinrichtungen {#gov}
          + [Bewerbung für ein Regierungsdarlehen mit mehreren unbekannten Unterzeichnern](sign-usecase/webform-multiple-signers.md)
          + [Unternehmenszuschüsse und -darlehen](sign-usecase/usecasegovgrants.md)
-         + [Telearbeit](sign-usecase/usecasegovtelework.md)
+         + [Telearbeit-Vereinbarung](sign-usecase/usecasegovtelework.md)
          + [Verträge und Anforderungsformulare](sign-usecase/usecasegovcontracts.md)
          + [Wiederbeschäftigungsbeihilfe](sign-usecase/usecasegovreemployment.md)
          + [Schutz vor Lohnschecks](sign-usecase/usecasegovpaycheck.md)
          + [Remote-Warrant-Anfrage](sign-usecase/usecasegovremote.md)
-      + Unternehmen {#com}
+      + Kommerziell {#com}
          + [Verträge und Anforderungsformulare](sign-usecase/usecasecomcontracts.md)
          + [Richtlinienvereinbarungen](sign-usecase/usecasecompolicy.md)
-         + [Telearbeit](sign-usecase/usecasecomtelework.md)
+         + [Telearbeit-Vereinbarung](sign-usecase/usecasecomtelework.md)
       + Schulung {#edu}
-         + [Bewerbung für Webformulare für Bildungseinrichtungen](sign-usecase/usecase-edu-intern.md)
-         + [Erstellen einer Anwendung für Webformulare für Bildungseinrichtungen](sign-usecase/usecase-edu-intern-create.md)
+         + [Praktikumsantrag für Webformulare für Bildungseinrichtungen](sign-usecase/usecase-edu-intern.md)
+         + [Erstellen einer Anwendung für ein Praktikum im Webformular für Bildungseinrichtungen](sign-usecase/usecase-edu-intern-create.md)
    + Nutzungsszenarien {#use-case}
-      + [Beispiele](sign-usecase/use-case-showcase.md)
+      + [Schaukasten](sign-usecase/use-case-showcase.md)
 + entwickeln {#develop}
    + [Überblick](develop/develop-overview.md)
    + Benutzerdefinierte APIs. {#custom}
