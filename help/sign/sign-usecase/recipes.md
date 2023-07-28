@@ -7,9 +7,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4632f7ca6a015e33166ba9ae26560fd532865f36
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '441'
 ht-degree: 0%
 
 ---
@@ -22,10 +22,12 @@ Beschleunigt die digitalen Workflows in eurem Unternehmen mit diesen Beispielen 
 
 ## Neue Funktionen
 
-* [Bewerbung für Webformulare für Bildungseinrichtungen](usecase-edu-intern.md)
-Erfahren Sie, wie Sie mit Webformularen den Zugriff der Schüler auf erforderliche Formulare verbessern können.
-* [Erstellen einer Anwendung für Webformulare für Bildungseinrichtungen](usecase-edu-intern-create.md)
-Webformular für ein Praktikum erstellen
+* [Benutzerdefinierter Workflow für den IEP-Prozess für Bildungseinrichtungen](usecase-edu-iep.md)
+Erfahrt, wie Custom Workflow Designer zur Digitalisierung eines IEP-Prozesses (Individualized Education Program) eingesetzt wird.
+* [Praktikumsantrag für Webformulare für Bildungseinrichtungen](usecase-edu-intern.md)
+Erfahren Sie, wie Webformulare den Zugriff von Schülern auf erforderliche Formulare verbessern
+* [Erstellen einer Anwendung für ein Praktikum im Webformular für Bildungseinrichtungen](usecase-edu-intern-create.md)
+Erfahren Sie, wie Sie ein Webformular für ein Praktikum erstellen
 * [Bewerbung für ein Regierungsdarlehen mit mehreren unbekannten Unterzeichnern](webform-multiple-signers.md)
 Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerbungen mit öffentlichen Krediten verwendet wird, an dem mehrere unbekannte Teilnehmer beteiligt sind.
 
@@ -50,15 +52,15 @@ Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerb
     <div>
     <a href="usecasegovgrants.md"><strong>Unternehmenszuschüsse und -darlehen</strong></a>
     </div>
-    <em>Bieten Sie Unternehmen schnelle Unterstützung, indem Sie Selfservice-Zugriff auf Antragsformulare für Zuschüsse, Darlehen und Steuerstundung gewähren</em>
+    <em>Bieten Sie Unternehmen schnelle Unterstützung, indem Sie Self-Service-Zugriff auf Antragsformulare für Zuschüsse, Darlehen und Steuerstundung gewähren.</em>
     <br>
   </td> 
   <td>
     <a href="usecasegovtelework.md">
-      <img alt="Telearbeit" src="../assets/UC_MegasignR.png" />
+      <img alt="Telearbeit-Vereinbarung" src="../assets/UC_MegasignR.png" />
     </a>
     <div>
-    <a href="usecasegovtelework.md"><strong>Telearbeit</strong></a>
+    <a href="usecasegovtelework.md"><strong>Telearbeit-Vereinbarung</strong></a>
     </div>
     <em>Hole Unterschriften aller Mitarbeiter ein, die du für Dokumente zur Telearbeit oder Richtlinien benötigst.</em>
     <br>
@@ -77,12 +79,12 @@ Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerb
 <tr>
  <td>
     <a href="usecasegovreemployment.md">
-      <img alt="Beschäftigungsbeihilfe" src="../assets/UC_WebformsR.png" />
+      <img alt="Wiederbeschäftigungsbeihilfe" src="../assets/UC_WebformsR.png" />
     </a>
     <div>
-    <a href="usecasegovreemployment.md"><strong>Beschäftigungsbeihilfe</strong></a>
+    <a href="usecasegovreemployment.md"><strong>Wiederbeschäftigungsbeihilfe</strong></a>
     </div>
-    <em>Helft Bürgern, die benötigte Hilfe zu erhalten, ohne mit Formularen für vollständig digitale Anträge in Kontakt zu stehen, die in wenigen Tagen ausgefüllt werden können</em>
+    <em>Helft Bürgern, die benötigte Hilfe zu erhalten, ohne mit Formularen für vollständig digitale Anträge in Kontakt zu stehen, die in wenigen Tagen ausgefüllt werden können.</em>
     <br>
   </td>
   <td>
@@ -113,7 +115,7 @@ Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerb
 </tr>
 </table>
 
-## Nutzungsszenarien
+## Gewerbliche Nutzungsszenarien
 
 <table style="table-layout:fixed">
 <tr>
@@ -139,12 +141,12 @@ Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerb
   </td>
   <td>
     <a href="usecasecomtelework.md">
-      <img alt="Telearbeit" src="../assets/UC_MegasignR.png" />
+      <img alt="Telearbeit-Vereinbarung" src="../assets/UC_MegasignR.png" />
     </a>
     <div>
-    <a href="usecasecomtelework.md"><strong>Telearbeit</strong></a>
+    <a href="usecasecomtelework.md"><strong>Telearbeit-Vereinbarung</strong></a>
     </div>
-    <em>Alle Mitarbeiter über Telearbeit informieren und Unterschriften einholen</em>
+    <em>Alle Mitarbeiter über Telearbeit effektiv unterschreiben</em>
     <br>
   </td>
   <td>
@@ -161,27 +163,32 @@ Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerb
 <tr>
   <td>
     <a href="usecase-edu-intern.md">
-      <img alt="Bewerbung für Webformulare für Bildungseinrichtungen" src="../assets/Webform-internship.png" />
+      <img alt="Praktikumsantrag für Webformulare für Bildungseinrichtungen" src="../assets/Webform-internship.png" />
     </a>
     <div>
-    <a href="usecase-edu-intern.md"><strong>Bewerbung für Webformulare für Bildungseinrichtungen</strong></a>
+    <a href="usecase-edu-intern.md"><strong>Praktikumsantrag für Webformulare für Bildungseinrichtungen</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie mit Webformularen den Zugriff der Schüler auf erforderliche Formulare verbessern können.</em>
+    <em>Erfahren Sie, wie Webformulare den Zugriff von Schülern auf erforderliche Formulare verbessern</em>
     <br>
   </td> 
   <td>
     <a href="usecase-edu-intern-create.md">
-      <img alt="Erstellen einer Anwendung für Webformulare für Bildungseinrichtungen" src="../assets/Webform-internship-create.png" />
+      <img alt="Erstellen einer Anwendung für ein Praktikum im Webformular für Bildungseinrichtungen" src="../assets/Webform-internship-create.png" />
     </a>
     <div>
-    <a href="usecase-edu-intern-create.md"><strong>Erstellen einer Anwendung für Webformulare für Bildungseinrichtungen</strong></a>
+    <a href="usecase-edu-intern-create.md"><strong>Erstellen einer Anwendung für ein Praktikum im Webformular für Bildungseinrichtungen</strong></a>
     </div>
-    <em>Webformular für ein Praktikum erstellen</em>
+    <em>Erfahren Sie, wie Sie ein Webformular für ein Praktikum erstellen</em>
     <br>
   </td> 
   <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
+    <a href="usecase-edu-iep.md">
+      <img alt="Benutzerdefinierter Workflow für den IEP-Prozess für Bildungseinrichtungen" src="../assets/Workflow-iep.png" />
+    </a>
     <div>
+    <a href="usecase-edu-iep.md"><strong>Benutzerdefinierter Workflow für den IEP-Prozess für Bildungseinrichtungen</strong></a>
+    </div>
+    <em>Erfahrt, wie Custom Workflow Designer zur Digitalisierung eines IEP-Prozesses (Individualized Education Program) eingesetzt wird.</em>
     <br>
   </td>
   <td>
