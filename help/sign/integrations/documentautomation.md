@@ -1,13 +1,14 @@
 ---
 title: Automatisierung von Dokumenten mit Acrobat Sign für Microsoft Power Platform.
 description: Erfahren Sie, wie Sie die Connectors für Acrobat Sign und Adobe PDF Tools für Microsoft Power Apps aktivieren und verwenden. Workflows zur Automatisierung von Genehmigungs- und Unterschriftsprozessen implementieren - schnell und sicher und ohne Programmierung.
+feature: Integrations, Workflow
 role: User, Developer
 level: Intermediate
 topic: Integrations
 thumbnail: KT-7488.jpg
 jira: KT-7488
 exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '2436'
 ht-degree: 1%
@@ -22,10 +23,10 @@ Erfahren Sie, wie Sie die Connectors für Acrobat Sign und Adobe PDF Tools für 
 <tr>
   <td>
     <a href="documentautomation.md#part1">
-        <img alt="Teil 1: Signierte Vereinbarungen mit Acrobat Sign in SharePoint speichern" src="assets/documentautomation/AutomationPart1_thumb.jpg" />
+        <img alt="Teil 1: Signierte Vereinbarungen in SharePoint mit Acrobat Sign speichern" src="assets/documentautomation/AutomationPart1_thumb.jpg" />
     </a>
     <div>
-    <a href="documentautomation.md#part1"><strong>Teil 1: Signierte Vereinbarungen mit Acrobat Sign in SharePoint speichern</strong></a>
+    <a href="documentautomation.md#part1"><strong>Teil 1: Signierte Vereinbarungen in SharePoint mit Acrobat Sign speichern</strong></a>
     </div>
   </td>
   <td>
@@ -46,10 +47,10 @@ Erfahren Sie, wie Sie die Connectors für Acrobat Sign und Adobe PDF Tools für 
   </td>
   <td>
    <a href="documentautomation.md#part4">
-      <img alt="Teil 4: Automatisierte Zusammenstellung von Dokumenten mit Adobe PDF Tools" src="assets/documentautomation/AutomationPart4_thumb.jpg" />
+      <img alt="Teil 4: Automatisierte Zusammenstellung von Dokumenten mit Adobe PDF Tools." src="assets/documentautomation/AutomationPart4_thumb.jpg" />
    </a>
     <div>
-    <a href="documentautomation.md#part4"><strong>Teil 4: Automatisierte Zusammenstellung von Dokumenten mit Adobe PDF Tools</strong></a>
+    <a href="documentautomation.md#part4"><strong>Teil 4: Automatisierte Zusammenstellung von Dokumenten mit Adobe PDF Tools.</strong></a>
     </div>
   </td>
 </tr>
@@ -72,7 +73,7 @@ Erfahren Sie, wie Sie die Connectors für Acrobat Sign und Adobe PDF Tools für 
 
 Materialien herunterladen [hier](https://github.com/benvanderberg/adobe-sign-pdftools-powerautomate-tutorial)
 
-## Teil 1: Signierte Vereinbarungen mit Acrobat Sign in SharePoint speichern {#part1}
+## Teil 1: Signierte Vereinbarungen in SharePoint mit Acrobat Sign speichern {#part1}
 
 Im ersten Teil verwendest du eine Power Automate Flow-Vorlage, um einen automatisierten Workflow einzurichten, der alle signierten Verträge auf deiner SharePoint-Website speichert.
 
@@ -102,7 +103,7 @@ Im ersten Teil verwendest du eine Power Automate Flow-Vorlage, um einen automati
 
 1. Vollständige Anmeldung.
 1. Klicken **Weiter** , um zum Bearbeitungsbildschirm von Flow zu gelangen.
-1. Benennen Sie den Trigger.
+1. Benennen Sie den Auslöser.
 
    ![Screenshot des Auslösers](assets/documentautomation/automation_5.png)
 
@@ -150,26 +151,26 @@ Im zweiten Teil bauen wir den ersten Teil mit einem robusteren Flow auf und test
 
 1. Konfigurieren **Für eine ausgewählte Datei** wie folgt:
    **Site-Adresse:** Ihre SharePoint-Site
-   **Bibliotheksname:** Ihr Dokumentenrepository
+   **Bibliothek:** Ihr Dokumentenrepository
 1. Fügen Sie wie folgt eine Eingabe hinzu:
-   **Typ**: Email
-   **Name**: E-Mail des Unterzeichners
+   **Typ**: E-Mail
+   **Name**: E-Mail-Adresse des Unterzeichners
 
    ![Screenshot der Konfiguration des Ablaufs](assets/documentautomation/automation_11.png)
 
 1. Konfigurieren **Dateieigenschaften abrufen:** wie folgt:
    **Site-Adresse:** Ihre SharePoint-Site
-   **Bibliotheksname:** Ihr Dokumentenrepository
+   **Bibliothek:** Ihr Dokumentenrepository
 
 1. Scrollen Sie nach unten und suchen Sie nach **Wenn ja**.
 
    ![Screenshot der Konfiguration &quot;Wenn ja&quot;](assets/documentautomation/automation_12.png)
 
-1. Klicken **Aktion hinzufügen** in der **Wenn ja** , um die Schritte hinzuzufügen, die zum Signieren gesendet werden sollen.
+1. Klicken **Aktion hinzufügen** in der &quot; **Wenn ja** , um die Schritte hinzuzufügen, die zum Signieren gesendet werden sollen.
 
    ![Screenshot des Hinzufügens einer Aktion im Feld &quot;Wenn ja&quot;](assets/documentautomation/automation_13.png)
 
-1. Suchen nach **SharePoint Dateiinhalt abrufen** und wählen Sie **Dateiinhalt abrufen**.
+1. Suchen nach **SharePoint - Dateiinhalt abrufen** und wählen Sie **Dateiinhalt abrufen**.
 
    ![Screenshot des Suchfelds](assets/documentautomation/automation_14.png)
 
@@ -185,11 +186,11 @@ Im zweiten Teil bauen wir den ersten Teil mit einem robusteren Flow auf und test
 
 1. Geben Sie &quot;upload&quot; in das Suchfeld für Acrobat Sign ein und wählen Sie **Dokument hochladen und Dokument-ID abrufen**.
 1. Suchen nach der dynamischen Variable **Name** , um den Namen des im Trigger ausgewählten Elements/Dokuments unter **Dateiname**.
-1. Klicken **Expression** im variablen Assistenten unter **Dateiinhalt**.
+1. Klicken **Expression** im variablen Assistenten im Rahmen des **Dateiinhalt**.
 
-   ![Screenshot des Bildschirms Dokument hochladen und Dokument-ID abrufen](assets/documentautomation/automation_17.png)
+   ![Screenshot von Dokument hochladen und Dokument-ID abrufen](assets/documentautomation/automation_17.png)
 
-1. Einen einzelnen Apostroph hinzufügen und zurück klicken, um **Dynamischer Inhalt**, löschen Sie Ihren Apostroph, wählen Sie **Dateiinhalt** und dann auf **OK**.
+1. Einen einzelnen Apostroph hinzufügen und zurück klicken, um **Dynamischer Inhalt**, löschen Sie Ihren Apostroph, wählen Sie **Dateiinhalt** und klicken dann auf **OK**.
 
    Stellen Sie sicher, dass keine zusätzlichen Apostrophe vorhanden sind und es wie in der folgenden Beispieldatei aussieht.
 
@@ -198,11 +199,11 @@ Im zweiten Teil bauen wir den ersten Teil mit einem robusteren Flow auf und test
 1. Gib im Suchbereich von Acrobat Sign &quot;create&quot; ein, um eine weitere Acrobat Sign-Aktion hinzuzufügen.
 1. Auswählen **Dokumente aus hochgeladenem Dokument erstellen und zur Unterzeichnung versenden**.
 
-   ![Screenshot der Suche nach create](assets/documentautomation/automation_19.png)
+   ![Screenshot der Suche nach &quot;Erstellen&quot;](assets/documentautomation/automation_19.png)
 
-1. Konfigurieren Sie die erforderlichen Informationen: Auswählen **Name** aus dem Assistenten für dynamische Variablen in **Vereinbarungsname**.
-Auswählen **Dokument-ID** aus dem Assistenten für dynamische Variablen in **Dokument-ID**.
-Auswählen **E-Mail des Unterzeichners** aus dem Assistenten für dynamische Variablen in **E-Mail des Teilnehmers**.
+1. Konfigurieren Sie die erforderlichen Informationen: Wählen Sie **Name** aus dem dynamischen Variablenassistenten in **Vereinbarungsname**.
+Auswählen **Dokument-ID** aus dem dynamischen Variablenassistenten in **Dokument-ID**.
+Auswählen **E-Mail des Unterzeichners** aus dem dynamischen Variablenassistenten in **E-Mail des Teilnehmers**.
 Geben Sie &quot;1&quot; in **Reihenfolge der Teilnehmer**.
 Auswählen **Unterzeichner** aus der Dropdown-Liste in **Rolle des Teilnehmers**.
 
@@ -210,13 +211,13 @@ Auswählen **Unterzeichner** aus der Dropdown-Liste in **Rolle des Teilnehmers**
 
 1. **Speichern** den Flow fest.
 
-### Testen des Textflusses
+### Testen des Flows
 
 Rufe das Dokument-Repository deiner SharePoint-Website auf, um es zu testen.
 
 1. Wählen Sie das Dokument aus und wählen Sie **Automatisieren** und die **Fluss** erstellt hast.
 
-   ![Screenshot der Auswahl des Menüs &quot;Automatisieren&quot; und des Textflusses](assets/documentautomation/automation_21.png)
+   ![Screenshot der Auswahl des Automatisierungsmenüs und des Textflusses](assets/documentautomation/automation_21.png)
 
 1. Starten Sie den Flow, um die Verbindungen zu validieren (nur beim ersten Flow).
 1. Geben Sie eine nette Nachricht an den Genehmiger in **Nachricht**.
@@ -243,13 +244,13 @@ Im dritten Teil lernen Sie, wie Sie OCR in PDF automatisieren, wenn diese in Mic
 Wechseln Sie zu Microsoft SharePoint, wo Sie Dokumente speichern möchten.
 
 1. Klicken **+ Neu** , um einen neuen Ordner mit dem Namen &quot;Verarbeitete Verträge&quot; zu erstellen.
-1. Klicken **+ Neu** , um einen neuen Ordner mit dem Namen &quot;Alte Verträge&quot; zu erstellen.
+1. Klicken **+ Neu** , um einen neuen Ordner namens &quot;Alte Verträge&quot; zu erstellen.
 
    ![Screenshot neuer Ordner](assets/documentautomation/automation_25.png)
 
 Diese Ordner werden jetzt als Teil Ihres Power Automate -Ablaufs referenziert.
 
-### Textfluss aus Vorlage erstellen
+### Erstellen von Textflüssen aus Vorlagen
 
 1. Melden Sie sich bei https://flow.microsoft.com an.
 1. Klicken **Vorlagen** in der Seitenleiste.
@@ -257,7 +258,7 @@ Diese Ordner werden jetzt als Teil Ihres Power Automate -Ablaufs referenziert.
    ![Screenshot der Vorlagenauswahl](assets/documentautomation/automation_26.png)
 
 1. Auswählen **Konvertieren neu hinzugefügter Dateien in durchsuchbare PDF mit Text in SharePoint**.
-1. Klicken Sie auf **+** neben Adobe PDF Tools.
+1. Klicken Sie auf **+** neben &quot;Adobe PDF Tools&quot;.
 
    ![Screenshot der Auswahl des Symbols &quot;+&quot;](assets/documentautomation/automation_27.png)
 
@@ -270,7 +271,7 @@ Diese Ordner werden jetzt als Teil Ihres Power Automate -Ablaufs referenziert.
 
    ![Screenshot des Anmeldebildschirms](assets/documentautomation/automation_29.png)
 
-1. Geben Sie den Namen der Anmeldeinformationen und die Beschreibung der Anmeldeinformationen ein und klicken Sie auf **Anmeldeinformationen erstellen**.
+1. Geben Sie einen Berechtigungsnamen und eine Berechtigungsbeschreibung ein und klicken Sie auf **Anmeldeinformationen erstellen**.
 
    ![Screenshot des Bildschirms &quot;Zugangsdaten erstellen&quot;](assets/documentautomation/automation_30.png)
 
@@ -288,9 +289,9 @@ Diese Ordner werden jetzt als Teil Ihres Power Automate -Ablaufs referenziert.
 
    Jetzt können Sie eine Ansicht des Workflows anzeigen und müssen ihn für Ihre Umgebung konfigurieren.
 
-1. Wählen Sie das Feld Site-Adresse aus, und wählen Sie unter dem Trigger namens die SharePoint-Site aus, die Sie verwenden. **Wenn eine Datei in einem Ordner erstellt wird**.
+1. Wählen Sie das Feld Site-Adresse aus, und wählen Sie unter dem Trigger namens die SharePoint-Site aus, die Sie verwenden **Wenn eine Datei in einem Ordner erstellt wird**.
 
-   ![Screenshot der Auswahl Wenn eine Datei in einem Ordner erstellt wird Auslöser](assets/documentautomation/automation_34.png)
+   ![Screenshot der Auswahl, wenn eine Datei in einem Ordnerauslöser erstellt wird](assets/documentautomation/automation_34.png)
 
 1. Klicken Sie auf das Ordnersymbol, um zum Ordner Alte Verträge unter Ordner-ID zu navigieren.
 
@@ -298,7 +299,7 @@ Diese Ordner werden jetzt als Teil Ihres Power Automate -Ablaufs referenziert.
 
 1. Bearbeiten Sie die **Datei erstellen** Aktion am Ende des Textflusses:
 
-   Ändern **Site-Adresse** zu Ihrer Site-Adresse.
+   Ändern **Site-Adresse** zu Ihrer Site-Adresse hinzufügen.
 Geben Sie den Speicherort des Ordners &quot;Verarbeitete Verträge&quot; im Ordnerpfad an.
 
 1. Klicken **Speichern** in der rechten oberen Ecke.
@@ -319,15 +320,15 @@ Geben Sie den Speicherort des Ordners &quot;Verarbeitete Verträge&quot; im Ordn
 Wenn Sie jetzt zum Ordner &quot;Verarbeitete Verträge&quot; navigieren, werden Ihre PDF angezeigt, nachdem der Flow einige Sekunden lang ausgeführt wurde. Wenn Sie die PDF öffnen, können Sie sehen, dass der Text ausgewählt werden kann.
 Darüber hinaus indiziert SharePoint das Dokument, sodass Sie den Inhalt Ihrer Dokumente über die Suchleiste in SharePoint durchsuchen können.
 
-## Teil 4: Automatisierte Zusammenstellung von Dokumenten mit Adobe PDF Tools {#part4}
+## Teil 4: Automatisierte Zusammenstellung von Dokumenten mit Adobe PDF Tools. {#part4}
 
-Im vierten Teil dieses Tutorials lernen Sie, wie Sie anhand der Informationen, die Sie bei der Auswahl und beim Starten eines Flows in Microsoft SharePoint erhalten, eine Vielzahl von Dokumenten zusammenführen. In diesem Szenario hat der Textfluss folgende Auswirkungen:
+Im vierten Teil dieses Tutorials lernen Sie, wie Sie anhand der Informationen, die Sie bei der Auswahl eines Textflusses aus Microsoft SharePoint und beim Starten dieses Textflusses angegeben haben, eine Vielzahl von Dokumenten zusammenführen. In diesem Szenario hat der Textfluss folgende Auswirkungen:
 
 * Fragen Sie nach Informationen, um auszuwählen, was in einem Paket für einen Kunden enthalten sein soll.
 * Auf der Grundlage der bereitgestellten Informationen werden zahlreiche Dokumente zusammengeführt. Diese Dokumente enthalten ein Deckblatt und optionale Whitepaper.
 * Das zusammengeführte Dokument wird in SharePoint gespeichert.
 
-### Importieren von Übungsdateien in SharePoint
+### Übungsdateien in SharePoint importieren
 
 1. Öffnen Sie den Ordner E04 in den Übungsdateien.
 1. Importieren Sie die Ordner &quot;Angebot&quot;, &quot;Vorlagen&quot; und &quot;Generierte Dokumente&quot; in SharePoint.
@@ -336,7 +337,7 @@ Im vierten Teil dieses Tutorials lernen Sie, wie Sie anhand der Informationen, d
 
 Diese Ordner werden als Referenz verwendet. Insbesondere verwenden Sie die Datei proposal.docx für Ihr Angebot.
 
-Der Ordner &quot;Vorlagen&quot; enthält die Titelseiten-Designs für verschiedene Städte. Es gibt auch einen Whitepaper-Ordner, der optionale zusätzliche Whitepaper enthält, die bei Auswahl an das Ende angehängt werden.
+Im Ordner &quot;Vorlagen&quot; befindet sich der Ordner &quot;Covers&quot;, der Titelseiten-Designs für verschiedene Städte enthält. Es gibt auch einen Whitepaper-Ordner, der optionale zusätzliche Whitepaper enthält, die bei Auswahl an das Ende angehängt werden.
 
 ### Textfluss in Microsoft Power Automate importieren
 
@@ -355,7 +356,7 @@ Der Ordner &quot;Vorlagen&quot; enthält die Titelseiten-Designs für verschiede
 
 1. Klicken Sie auf **Importieren**.
 
-1. Klicken Sie auf das Schraubenschlüsselsymbol unter Aktion neben **Angebot an Kunden senden**.
+1. Klicken Sie auf das Schraubenschlüsselsymbol unter Aktion neben **Angebot an den Kunden senden**.
 
    ![Screenshot des Schraubenschlüsselsymbols](assets/documentautomation/automation_42.png)
 
@@ -365,7 +366,7 @@ Der Ordner &quot;Vorlagen&quot; enthält die Titelseiten-Designs für verschiede
 
    Wiederholen Sie diesen Vorgang für die anderen Ressourcen des Typs &quot;Verwandte Themen&quot;, und wählen Sie die Verbindung aus.
 
-   ![Screenshot der Dateispeicherung](assets/documentautomation/automation_43.png)
+   ![Screenshot des Speicherns der Datei](assets/documentautomation/automation_43.png)
 
 1. Klicken **Importieren** nachdem Sie alle Ihre Verbindungen hergestellt haben.
 
@@ -384,15 +385,15 @@ Fügen Sie Ihre Bibliothek der Bibliothek hinzu.
 
    ![Screenshot des fertigen Auslösers](assets/documentautomation/automation_45.png)
 
-### VorlageOrdnerpfad festlegen
+### templateFolderPath festlegen
 
 1. Klicken Sie auf die Variable &quot;templateFolderPath&quot;.
 1. Legen Sie den Pfad fest, zu dem sich der Vorlagenordner innerhalb der von Ihnen importierten SharePoint-Site befindet.
 
 ### Cover festlegen Dateiinhalt abrufen
 
-1. Klicken **Abdeckung** , wodurch der Bereich erweitert wird.
-1. Erweitern **Deckblatt: Dateiinhalt abrufen**.
+1. Klicken **Deckblatt** -Aktion, wodurch der Bereich erweitert wird.
+1. Erweitern **Cover: Dateiinhalt abrufen**.
 
    Legen Sie die Site-Adresse auf Ihre SharePoint-Site fest.
 
@@ -416,7 +417,7 @@ Fügen Sie Ihre Bibliothek der Bibliothek hinzu.
 
    ![Screenshot der erweiterten Bedingung &quot;Whitepaper hinzufügen&quot;](assets/documentautomation/automation_48.png)
 
-1. Erweitern **Whitepaper 1: Dateiinhalte über den Pfad abrufen**.
+1. Erweitern **Whitepaper 1: Dateiinhalte über einen Pfad abrufen**.
 Bearbeiten Sie die Site-Adresse für die angegebene SharePoint-Site.
 
 Wiederholen Sie dieselben Schritte für **Bedingung: Whitepaper 2 hinzufügen**.
@@ -425,11 +426,11 @@ Wiederholen Sie dieselben Schritte für **Bedingung: Whitepaper 2 hinzufügen**.
 
 1. Erweitern **Datei erstellen**.
 
-   Bearbeiten Sie Site-Adresse und Ordnerpfad zur SharePoint-Site und zum Pfad, in dem sich der Ordner &quot;Generated Docs&quot; befindet.
+   Bearbeiten Sie die Site-Adresse und den Ordnerpfad zur SharePoint-Site und zum Pfad, in dem sich der Ordner &quot;Generated Docs&quot; befindet.
 
 1. Klicken Sie auf **Speichern**.
 
-### Den Flow testen
+### Testen des Interaktionsflusses
 
 1. Navigieren Sie in SharePoint zum Angebotsordner.
 1. Wählen Sie den Ordner Angebot.docx .
@@ -455,9 +456,9 @@ Navigieren Sie zum Ordner &quot;Dokumente generieren&quot;. Sie sollten jetzt Ih
 
 ### Hinzufügen von Protect und anderen Aktionen zum Flow
 
-Nachdem Sie einen Textfluss erstellt haben, bearbeiten Sie diesen, um das PDF-Dokument mit einem Kennwort zu verschlüsseln. Dies zeigt auch, wie Sie andere Aktionen verwenden können.
+Nachdem Sie einen Textfluss erstellt haben, bearbeiten Sie den Textfluss, um das PDF-Dokument mit einem Kennwort zu verschlüsseln. In diesem Video wird auch erläutert, wie Sie andere Aktionen verwenden können.
 
-1. Navigieren Sie zurück zum Ende des Flows.
+1. Navigieren Sie zurück zum Ende des Textflusses.
 1. Klicken Sie auf **+** Zeichen zwischen **PDF zusammenführen** und **Datei erstellen**.
 
    ![Screenshot der Stelle, an der das Pluszeichen ausgewählt werden soll](assets/documentautomation/automation_54.png)
@@ -474,7 +475,7 @@ Nachdem Sie einen Textfluss erstellt haben, bearbeiten Sie diesen, um das PDF-Do
 
    Im Trigger befindet sich das Feld Kennwort, das Teil des Initiierungsformulars ist. Wir können das hier verwenden.
 
-1. Suchen nach **Kennwortfeld** Dynamischen Inhalt verwenden und ihn in das Feld &quot;Kennwort&quot; platzieren.
+1. Suchen nach **Kennwortfeld** Dynamischen Inhalt verwenden und ihn in das Feld Kennwort platzieren.
 
    ![Screenshot der Kennwortsuche](assets/documentautomation/automation_57.png)
 
@@ -484,7 +485,7 @@ Nachdem Sie einen Textfluss erstellt haben, bearbeiten Sie diesen, um das PDF-Do
 1. Löschen Sie das Feld Dateiinhalt.
 1. Platzieren von dynamischem Inhalt **PDF von Dateiinhalten** von **Protect PDF von der Anzeige**.
 
-### Den Flow testen
+### Testen des Interaktionsflusses
 
 1. Navigieren Sie in SharePoint zum Angebotsordner.
 1. Wählen Sie Angebot.docx.

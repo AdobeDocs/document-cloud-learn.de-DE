@@ -1,12 +1,13 @@
 ---
 title: Optimizen PDF für SEO (Search Engine Optimization)
 description: Erfahren Sie, wie Sie eine PDF für eine verbesserte Auffindbarkeit und ein Suchmaschinen-Ranking im Web optimieren.
+feature: Edit PDF
 role: User
 level: Experienced
-thumbnail: KT-9347.jpg
 jira: KT-9347
+thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 1%
@@ -31,7 +32,7 @@ PDF-Inhalte sollten eindeutig sein und wie folgt strukturiert sein:
 * Interne und externe Hyperlinks (Inhalte Ihrer Website oder anderer Websites) hinzufügen
 * Hinzufügen eines verlinkten Inhaltsverzeichnisses für Dokumente mit mehr als 25 Seiten
 * Ausführen [Texterkennung](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) auf allen gescannten Dokumenten
-* Für Smartphones geeignete PDF erstellen Um die Anzeige auf dem Smartphone oder Tablet auf Ihrem PDF zu überprüfen, öffnen Sie die Datei im [Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) und aktivieren Sie den Liquid Mode. Fügen Sie bei Bedarf weitere Unterüberschriften hinzu, um die Navigation zu verbessern.
+* Für Smartphones geeignete PDF erstellen Um die Anzeige auf dem Smartphone oder Tablet auf Ihrem PDF zu überprüfen, öffnen Sie die Datei im [Acrobat Reader-App](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) und aktivieren Sie den Liquid Mode. Fügen Sie bei Bedarf weitere Unterüberschriften hinzu, um die Navigation zu verbessern.
 
   ![Screenshot des Liquid Mode in der mobilen Acrobat Reader-App](../assets/optimizeseo1.png)
 
@@ -62,13 +63,13 @@ Versuchen Sie, die Zusammenfassung mit einem Aktionsverb wie Lernen, Entdecken, 
 
 ## 3. Markieren Sie Ihren PDF
 
-Wenn Sie Inhalte auf Ihrem PDF mit Tags versehen, wird nicht nur die Datei [Barrierefrei](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) für Menschen mit Behinderungen - sie verbessert auch die SEO.
+Wenn Sie Inhalte auf Ihrem PDF mit Tags versehen, wird nicht nur die Datei [Barrierefrei](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) für Menschen mit Behinderungen - sie verbessert auch die Suchmaschinenoptimierung.
 
 +++Anzeigen von Details zum Markieren eines PDF
 
 Taggen Sie eine PDF wie folgt:
 
-1. Auswählen **[!UICONTROL Barrierefreiheit]** in der **[!UICONTROL Tools]** Mitte.
+1. Auswählen **[!UICONTROL Barrierefreiheit]** in der &quot; **[!UICONTROL Tools]** Mitte.
 1. Auswählen **[!UICONTROL Dokument automatisch taggen]** im rechten Fenster.
 1. Folgen Sie den Reparaturhinweisen im linken Bereich. **[!UICONTROL Erkennungsbericht]**.
 1. Ausführen **[!UICONTROL Alternativtext festlegen]** falls erforderlich.
@@ -122,7 +123,7 @@ Der Dateiname wird Teil der URL, wenn eine PDF im Internet veröffentlicht wird.
 
 ## 6. Sichern Sie Ihren PDF
 
-Der letzte Schritt besteht darin, [PDF schützen](https://www.adobe.com/de/acrobat/online/password-protect-pdf.html){target="_blank"} um unbefugte Änderungen zu verhindern.
+Der letzte Schritt ist [PDF schützen](https://www.adobe.com/de/acrobat/online/password-protect-pdf.html){target="_blank"} um unbefugte Änderungen zu verhindern.
 
 +++Zum Sichern Ihres PDF
 
@@ -130,7 +131,7 @@ Sichern Sie eine PDF wie folgt:
 
 1. Öffnen **[!UICONTROL Dokumenteigenschaften]** (*Strg + D* unter Windows oder *Cmd + D* auf Mac) und wählen Sie die Option **[!UICONTROL Sicherheit]** &quot; ändern.
 1. Prüfen **[!UICONTROL Drucken, Bearbeiten und Drucken des Dokuments. Zum Ändern dieser Einstellungen ist ein Kennwort erforderlich.]**
-1. Unter **[!UICONTROL Zulässige Änderungen:]** auswählen **[!UICONTROL Ohne]**.
+1. Unter **[!UICONTROL Zulässige Änderungen:]** aussuchen **[!UICONTROL Ohne]**.
 1. Prüfen **[!UICONTROL Textzugriff für Bildschirmlesehilfen für Sehbehinderte aktivieren.]**
 1. Geben Sie ein sicheres Kennwort ein und bestätigen Sie es.
 1. Auswählen **[!UICONTROL OK]** und speichern Sie die Datei.
@@ -139,4 +140,4 @@ Sichern Sie eine PDF wie folgt:
 
 +++
 
-Ihr PDF kann jetzt im Web veröffentlicht werden - mit einem optimalen Keyword-Ranking-Potenzial und einer optimalen Interaktion mit den Endbenutzern.
+Ihr PDF kann jetzt im Web veröffentlicht werden - mit einem optimalen Keyword-Ranking-Potenzial und der Möglichkeit zur Interaktion mit den Endbenutzern.

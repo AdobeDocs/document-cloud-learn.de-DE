@@ -1,12 +1,13 @@
 ---
 title: Erweiterte Aufgabenübersicht
 description: Erfahren Sie, wie Sie ein Dokument zur Signatur an Hunderte von Empfängern gleichzeitig senden, ein signaturfähiges Dokument für Ihre Website einrichten, Signaturtransaktionen verwalten und Dokumentvorlagen erstellen und verwalten.
+feature: Web Forms, Workflow, Sign, Payments, Form, Report
 role: User
 level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 3%
@@ -22,7 +23,7 @@ Erfahren Sie, wie Sie ein Dokument zur Signatur an Hunderte von Empfängern glei
 ## Neue Funktionen
 
 * [Authentifizierungsmethoden in Acrobat Sign](authentication-methods.md)
-In diesem Artikel werden verschiedene Methoden zur Authentifizierung der Unterschrift eines Dokuments in Acrobat Sign erläutert.
+In diesem Artikel werden verschiedene Methoden zur Authentifizierung der Identität eines Unterzeichners eines Dokuments in Acrobat Sign erläutert.
 * [Onlinezahlungen einrichten](set-up-online-payments.md)
 Erfahren Sie, wie Sie Online-Zahlungen in Ihren Dokumenten einrichten und akzeptieren.
 
@@ -47,7 +48,7 @@ Erfahren Sie, wie Sie Online-Zahlungen in Ihren Dokumenten einrichten und akzept
     <div>
     <a href="delegate-signature.md"><strong>Verwenden der Delegatorrolle</strong></a>
     </div>
-    <em>Verwenden Sie die Rolle "Delegierender", um ein Dokument an einen Vermittler zu senden, der das Dokument dann zur Signatur weiterleiten kann.</em>
+    <em>Verwenden Sie die Rolle "Delegierender", um ein Dokument an einen Mittler zu senden, der das Dokument dann zur Signatur weiterleiten kann.</em>
     <br>
   </td>
   <td>
@@ -121,7 +122,7 @@ Erfahren Sie, wie Sie Online-Zahlungen in Ihren Dokumenten einrichten und akzept
       <div>
       <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign Text-Tagging</strong></a>
       </div>
-      <em>Acrobat Sign-Formularfelder durch Text-Tags mit Adobe Acrobat erstellen</em>
+      <em>Erstellen von Acrobat Sign-Formularfeldern durch Text-Tagging mit Adobe Acrobat</em>
       <br>
     </td>
   <td>
@@ -158,7 +159,7 @@ Erfahren Sie, wie Sie Online-Zahlungen in Ihren Dokumenten einrichten und akzept
     <div>
     <a href="creating-a-report.md"><strong>Erstellen eines Berichts</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie eigene Berichte erstellen, um Einblick in den Signiervorgang zu erhalten</em>
+    <em>Erfahren Sie, wie Sie eigene Berichte erstellen, um Einblicke in den Signiervorgang zu erhalten</em>
     <br>
   </td>
   <td>

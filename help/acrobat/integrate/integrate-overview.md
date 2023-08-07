@@ -1,14 +1,15 @@
 ---
 title: Übersicht über die Acrobat-Integrationen
-description: Acrobat mit Box, Dropbox, Google Drive, OneDrive und Microsoft integrieren
+description: Acrobat mit Box-, Dropbox-, Google Drive-, OneDrive- und Microsoft-Programmen integrieren
+feature: Integrations, Create PDF, Collaboration, Security
 role: User
 topic: Integrations
 level: Beginner
 topic-revisit: Integrations
-thumbnail: KT-6859.jpg
 jira: KT-6859
+thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 1%
@@ -19,7 +20,7 @@ ht-degree: 1%
 
 ![Acrobat Integrate Image](../assets/Hero-Integrate.png)
 
-Acrobat integrieren mit [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]und [!DNL Microsoft] Apps.
+Integrieren Sie Acrobat mit [!DNL Box], [!DNL Dropbox], [!DNL Google Drive], [!DNL OneDrive]und [!DNL Microsoft] Apps.
 
 ## Microsoft
 
@@ -49,10 +50,10 @@ Erfahre, wie alle Team-Mitglieder mit PDF-Dateien arbeiten können - direkt in [
   </td> 
   <td>
     <a href="acrobatandsp.md">
-      <img alt="Arbeite mit deinen [!DNL SharePoint] files" src="../assets/SharePoint.png" />
+      <img alt="Mit Ihrem [!DNL SharePoint] files" src="../assets/SharePoint.png" />
     </a>
     <div>
-    <a href="acrobatandsp.md"><strong>Arbeite mit deinen [!DNL SharePoint] files</strong></a>
+    <a href="acrobatandsp.md"><strong>Mit Ihrem [!DNL SharePoint] files</strong></a>
     </div>
     <em>Optimierung von Dokumenten-Workflows mit [!DNL SharePoint] und Acrobat</em>
     <br>
@@ -96,7 +97,7 @@ Erfahre, wie alle Team-Mitglieder mit PDF-Dateien arbeiten können - direkt in [
     <div>
     <a href="microsoftsensitivitylabels.md"><strong>Protect PDF mit [!DNL Microsoft Purview Information] Sensitivitätskennzeichen</strong></a>
     </div>
-    <em>PDF schützen durch Hinzufügen, Bearbeiten, Anpassen und Löschen [!DNL Microsoft Purview] Sensitivitätskennzeichnungen direkt in Acrobat</em>
+    <em>PDF schützen durch Hinzufügen, Bearbeiten, Anpassen und Löschen [!DNL Microsoft Purview] Empfindlichkeitsbeschriftungen direkt in Acrobat</em>
     <br>
   </td>
   <td>
@@ -109,7 +110,7 @@ Erfahre, wie alle Team-Mitglieder mit PDF-Dateien arbeiten können - direkt in [
 
 ## Google Drive
 
-Erfahren Sie, wie Sie in kürzerer Zeit mehr erledigen können - mit den wichtigsten Tools für PDF und elektronische Signaturen in [!DNL Google Drive].
+Erfahren Sie, wie Sie in kürzerer Zeit mehr erledigen können - mit den wichtigsten PDF- und E-Signatur-Tools direkt im [!DNL Google Drive].
 
 <table style="table-layout:fixed">
 <tr>
@@ -120,7 +121,7 @@ Erfahren Sie, wie Sie in kürzerer Zeit mehr erledigen können - mit den wichtig
     <div>
     <a href="acrobatandgoogle.md"><strong>Adobe Acrobat für [!DNL Google Drive]</strong></a>
     </div>
-    <em>Erhalten Sie Zugriff auf zeitsparende PDF-Tools und Workflows für elektronische Unterschriften direkt im [!DNL Google Drive] App</em>
+    <em>Erhalten Sie Zugriff auf zeitsparende PDF-Tools und E-Signatur-Workflows direkt im [!DNL Google Drive] App</em>
     <br>
   </td>
   <td>
@@ -143,7 +144,7 @@ Erfahren Sie, wie Sie in kürzerer Zeit mehr erledigen können - mit den wichtig
 
 ## Dropbox
 
-Erfahren Sie, wie einfach es ist, auf Dateien zuzugreifen und mit ihnen zu arbeiten, die in [!DNL Dropbox].
+Erfahren Sie, wie einfach der Zugriff auf und die Arbeit mit Dateien ist, die in [!DNL Dropbox].
 
 <table style="table-layout:fixed">
 <tr>
@@ -154,7 +155,7 @@ Erfahren Sie, wie einfach es ist, auf Dateien zuzugreifen und mit ihnen zu arbei
     <div>
     <a href="acrobat-dropbox.md"><strong>Arbeiten mit Dateien aus [!DNL Dropbox]</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie Änderungen an Ihrem [!DNL Dropbox] -Dateien aus Acrobat</em>
+    <em>Erfahren Sie, wie Sie Änderungen an Ihrem PDF-Dokument öffnen, erstellen, bearbeiten, signieren und speichern können. [!DNL Dropbox] -Dateien aus Acrobat</em>
     <br>
   </td>
   <td>

@@ -1,13 +1,13 @@
 ---
 title: Abrufen einer digitalen ID von [!DNL Intesi Group] (Erweitert)
 description: Hier erfahren Sie, wie Sie ein erweitertes digitales Signaturzertifikat von [!DNL Intesi Group]
+feature: Digital ID
 role: User
 level: Beginner
 jira: KT-8702
 thumbnail: KT-8702.jpg
-kt: 8702
 exl-id: d16736cf-2cd5-4ea9-b961-34ee95faaf82
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 1%
@@ -16,12 +16,12 @@ ht-degree: 1%
 
 # Abrufen einer digitalen ID von [!DNL Intesi Group] (Erweitert)
 
-Hier erfahren Sie, wie Sie ein erweitertes digitales Signaturzertifikat von [!DNL Intesi Group]. Nach der Registrierung und Bestätigung Ihrer Identität [!DNL Intesi Group] Probleme mit einer digitalen ID, die zum Anwenden einer Acrobat Sign-Cloud-Signatur verwendet wird.
+Hier erfahren Sie, wie Sie ein erweitertes digitales Signaturzertifikat von [!DNL Intesi Group]. Nach der Registrierung und Bestätigung Ihrer Identität [!DNL Intesi Group] gibt eine digitale ID aus, mit der eine Acrobat Sign-Cloud-Signatur angewendet wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337065?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
-**Wählen Sie die folgende Abbildung aus, um zu erfahren, wie Sie Ihr erweitertes [!DNL Intesi Group] digitale ID in Acrobat Sign verwenden.**
+**Wählen Sie die folgende Abbildung aus, um zu erfahren, wie Sie Ihr Advanced [!DNL Intesi Group] digitale ID in Acrobat Sign verwenden.**
 
 [![Bild](assets/IntesiSign_400.png)](intesi-sign.md)

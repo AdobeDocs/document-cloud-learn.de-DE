@@ -1,12 +1,13 @@
 ---
 title: Exportieren einer PDF in Microsoft Office-Formate
 description: PDF-Dateien als editierbare Formate wie Microsoft Word, Excel oder PowerPoint exportieren
+feature: Convert PDF
 role: User
 level: Beginner
-thumbnail: 35494.jpg
 jira: KT-5529
+thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 11%
@@ -15,7 +16,7 @@ ht-degree: 11%
 
 # Exportieren einer PDF in Microsoft Office-Formate
 
-Erfahren Sie, wie Sie Ihre PDF-Dateien in bearbeitbare Formate exportieren können, z. B. [Microsoft Word](https://www.adobe.com/de/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/de/acrobat/online/pdf-to-ppt.html)und [Excel](https://www.adobe.com/de/acrobat/online/pdf-to-excel.html). Durch Exportieren in ein anderes Dateiformat können Sie wichtige Änderungen an Ihren Dokumenten vornehmen.
+Erfahren Sie, wie Sie Ihre PDF-Dateien in bearbeitbare Formate, wie z. B. [Microsoft Word](https://www.adobe.com/de/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/de/acrobat/online/pdf-to-ppt.html)und [Excel](https://www.adobe.com/de/acrobat/online/pdf-to-excel.html). Wenn du die Datei in ein anderes Format exportierst, kannst du wichtige Änderungen an deinen Dokumenten vornehmen.
 
 >[!TIP]
 >
@@ -27,7 +28,7 @@ Erfahren Sie, wie Sie Ihre PDF-Dateien in bearbeitbare Formate exportieren könn
 
 >[!TIP]
 >
->Erfahren Sie mehr über das Arbeiten mit [Acrobat und Microsoft 365](../integrate/integrate-overview.md).
+>Erfahren Sie alles über die Arbeit mit [Acrobat und Microsoft 365](../integrate/integrate-overview.md).
 
 >[!TIP]
 >

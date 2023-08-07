@@ -7,7 +7,8 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+feature-set: Document Cloud
+source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
@@ -20,6 +21,6 @@ ht-degree: 0%
 + [Lab-Übersicht und -Einführung](overview.md)
 + Digitale Erlebnisse mit Adobe Document Cloud {#gsd}
    + [Digitale Erlebnisse mit Adobe Document Cloud](gsd.md)
-   + [Beispiel 1: Beliebiges Formular scannen](scan.md)
-   + [Beispiel 2: Formulare ausfüllen und unterschreiben.](fillsign.md)
-   + [Beispiel 3: PDF-Dateien freigeben und online überprüfen](review.md)
+   + [Beispiel 1: Scannen beliebiger Formulare](scan.md)
+   + [Beispiel 2: Formulare ausfüllen und unterschreiben](fillsign.md)
+   + [Beispiel 3: Freigeben von PDF-Dateien und Online-Überprüfung](review.md)

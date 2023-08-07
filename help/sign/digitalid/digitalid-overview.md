@@ -1,13 +1,13 @@
 ---
-title: Überblick über die digitale ID
+title: Überblick über digitale IDs
 description: Digitale IDs aus der ganzen Welt mit Acrobat Sign verwenden
+feature: Digital ID
 role: User
 level: Beginner
 jira: KT-8990
 thumbnail: KT-8990.jpg
-kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%
@@ -22,14 +22,14 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Bevor Sie eine digitale ID mit einer Cloud-Signatur verwenden können, fragen Sie den Administrator Ihres Unternehmens, ob die Lösung des Anbieters in Acrobat Sign aktiviert ist.
+>Bevor Sie eine digitale ID mit einer Cloud-Signatur verwenden können, wenden Sie sich an den Administrator Ihres Unternehmens, um zu bestätigen, dass die Lösung des Anbieters in Acrobat Sign aktiviert ist.
 
 ## Neue Funktionen
 
 * [Registrieren und Signieren mit Digidentity](digidentity-sign.md)
 Erfahren Sie, wie Sie Ihre [!DNL Digidentity] digitale ID mit Acrobat Sign
 * [Registrieren und signieren Sie mit D-Trust](d-trust.md)
-Weitere Informationen zur Registrierung Ihrer Identität bei [!DNL D-Trust], und verwenden Sie dann den Katalog [!DNL D-Trust] Unterschreiben eines Dokuments in Acrobat Sign
+Weitere Informationen zur Registrierung Ihrer Identität bei [!DNL D-Trust], und verwenden Sie dann den Katalog [!DNL D-Trust] Digitale Signatur auf einem Dokument in Acrobat Sign
 
 ## [!DNL Aadhaar]
 
@@ -106,7 +106,7 @@ Weitere Informationen zur Registrierung Ihrer Identität bei [!DNL D-Trust], und
     <div>
     <a href="d-trust.md"><strong>Registrieren und signieren Sie mit D-Trust</strong></a>
     </div>
-    <em>Weitere Informationen zur Registrierung Ihrer Identität bei [!DNL D-Trust], und verwenden Sie dann den Katalog [!DNL D-Trust] Unterschreiben eines Dokuments in Acrobat Sign</em>
+    <em>Weitere Informationen zur Registrierung Ihrer Identität bei [!DNL D-Trust], und verwenden Sie dann den Katalog [!DNL D-Trust] Digitale Signatur auf einem Dokument in Acrobat Sign</em>
     <br>
   </td>
   <td>

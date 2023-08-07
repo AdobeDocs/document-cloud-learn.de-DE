@@ -1,11 +1,12 @@
 ---
 title: PDF-Dateien freigeben und online überprüfen
 description: Tipps und Tricks zur Verwendung von Adobe Document Cloud
+feature: Share, Collaboration
 solution: Acrobat
 role: User
 level: Beginner
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '519'
 ht-degree: 8%
@@ -41,13 +42,13 @@ Sie erhalten eine E-Mail-Benachrichtigung, sobald Empfänger Ihre Datei angezeig
 
 ## Prüfererlebnis
 
-Die Überprüfer erhalten eine E-Mail-Einladung mit einem Link zur entsprechenden PDF. Wenn sie auf den Link oder die **[!UICONTROL Review]** in der Einladung klicken, wird die PDF in einem Webbrowser geöffnet. Sie können Kommentarwerkzeuge verwenden, um Kommentare zur PDF hinzuzufügen. Alternativ können sie Kommentare im Acrobat Reader- oder Acrobat-Client hinzufügen.
+Die Überprüfer erhalten eine E-Mail-Einladung mit einem Link zur entsprechenden PDF. Wenn sie auf den Link oder die **[!UICONTROL Review]** in der Einladung klicken, wird die PDF in einem Webbrowser geöffnet. Sie können Kommentarwerkzeuge verwenden, um Kommentare zur PDF hinzuzufügen. Sie können auch Acrobat Reader- oder Acrobat-Desktop-Applikationen verwenden, um Kommentare hinzuzufügen.
 
 ## Anonymen oder öffentlichen Link in einer E-Mail senden
 
 **Schritt 1:** Öffnen Sie die `localFoodTruckmenu_start.pdf` in Adobe Acrobat.
 
-**Schritt 2:** Klicken **[!UICONTROL Link freigeben]** ![linkicon](assets/sendlinkicon.png). Der freigegebene Link wird sofort generiert. müssen Sie nicht warten, bis die Datei in die Cloud hochgeladen wurde. Standardmäßig zeigt der Katalog [!UICONTROL Kommentare zulassen] aktiviert ist.
+**Schritt 2:** Klicken **[!UICONTROL Link freigeben]** ![linkicon](assets/sendlinkicon.png). Der freigegebene Link wird sofort generiert. Sie müssen nicht warten, bis die Datei in die Cloud hochgeladen wurde. Standardmäßig zeigt der Katalog [!UICONTROL Kommentare zulassen] aktiviert ist.
 
 ![Bild von Schritt 2L](assets/Step2L.png)
 
@@ -63,9 +64,9 @@ Die Überprüfer erhalten eine E-Mail-Einladung mit einem Link zur entsprechende
 
 ![Kommentar-Benutzeroberfläche](assets/commentsui.png)
 
-Ihre Kommentare werden automatisch gespeichert und können von anderen angezeigt werden.
+Ihre Kommentare werden automatisch gespeichert und können von anderen Benutzern angezeigt werden.
 
-## PDF-Kommentare in InDesign importieren
+## Importieren von PDF-Kommentaren auf InDesign
 
 Mit InDesign CC 2019 können Sie Kommentare direkt aus PDF-Dateien importieren. Sie können die Änderungen mit nur einem Klick importieren, akzeptieren und anwenden. Wenn Sie einen Kommentar im neuen Kommentarfenster des PDF auswählen, wird der Kommentar in Ihrer InDesign-Datei gesucht und hervorgehoben.
 
@@ -75,13 +76,13 @@ Mit InDesign CC 2019 können Sie Kommentare direkt aus PDF-Dateien importieren. 
 
 **Schritt 3:** Klicken **[!UICONTROL Datei]** aus dem oberen Menü.
 
-![PDF-Kommentare in Indd](assets/inddpdf.png)
+![PDF von Kommentaren in Indd](assets/inddpdf.png)
 
-**Schritt 4:** Klicken **[!UICONTROL Importieren von PDF-Kommentaren]** aus der Dropdown-Liste aus.
+**Schritt 4:** Klicken **[!UICONTROL PDF-Kommentare importieren]** aus der Dropdown-Liste.
 
 **Schritt 5:** Öffnen Sie die PDF, die die Kommentare enthält.
 
-![PDF-Kommentare in Indd](assets/inddpdfshown.png)
+![PDF von Kommentaren in Indd](assets/inddpdfshown.png)
 
 Kommentare werden in der Benutzeroberfläche angezeigt.
 
@@ -92,7 +93,7 @@ Reviews und Freigeben von Designversionen mit Acrobat. Mit Acrobat kannst du
 * Sende den Link zu einer PDF, damit andere sie überprüfen können.
 * Überall arbeiten - auf dem Desktop, im Browser, auf dem Smartphone oder Tablet.
 * Dateien in einem einzigen Dokument zusammenführen.
-* Feedback an zentraler Stelle verwalten.
+* führe das Feedback mehrerer Personen in einer einzigen Datei zusammen.
 * Du brauchst nur einen Browser.
 
-Sende und verfolge Kommentare jederzeit und überall. Empfänger können die Datei auch anzeigen, wenn sie Acrobat nicht haben! Sie können jemanden über einen Browser zum Kommentieren einladen. Zeit und Aufwand sparen.
+Sende und verfolge Kommentare jederzeit und überall. Empfänger können die Datei auch anzeigen, wenn sie nicht über Acrobat verfügen! Sie können jemanden über einen Browser zum Kommentieren einladen. Zeit und Aufwand sparen.

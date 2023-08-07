@@ -1,12 +1,13 @@
 ---
 title: Auf einem PDF kommentieren
 description: Erfahren Sie, wie Sie Kommentare hinzufügen und eine PDF für andere zum Review freigeben
+feature: Collaboration
 role: User
 level: Beginner
-thumbnail: 35492.jpg
 jira: KT-5527
+thumbnail: 35492.jpg
 exl-id: 75c51400-9ff9-46cf-a3a3-9d521c3eb35c
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%

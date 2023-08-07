@@ -1,11 +1,12 @@
 ---
 title: Acrobat Sign + Workday Eingliederung neuer Mitarbeiter
 description: Onboarding-Workflows mit Acrobat Sign und Workday optimieren
+feature: Integrations
 level: Intermediate
 topic: Integrations
 topic-revisit: Integrations
 exl-id: e8a1b95e-d2ee-4d84-a5d2-79678ffa17e2
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%

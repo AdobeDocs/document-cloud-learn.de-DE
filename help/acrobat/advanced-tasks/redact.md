@@ -1,12 +1,13 @@
 ---
 title: Schwärzen und bereinigen
 description: Hier erfahren Sie, wie Sie private oder vertrauliche Informationen dauerhaft von Ihrem PDF entfernen.
+feature: Security
 role: User
 level: Intermediate
-thumbnail: KT-6804.jpg
 jira: KT-6804
+thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '292'
 ht-degree: 0%
@@ -41,7 +42,7 @@ Erfahren Sie, wie Sie das Werkzeug zum Schwärzen verwenden, um private oder ver
 
    ![Schritt 5a schwärzen](../assets/Redact_4.png)
 
-1. Auswählen **[!UICONTROL Text und Bilder schwärzen]** **>** **[!UICONTROL Text suchen und schwärzen]** , um bestimmte Inhalte zu finden, die schwärzen sollen.
+1. Auswählen **[!UICONTROL Text und Bilder schwärzen]** **>** **[!UICONTROL Text suchen und schwärzen]** , um bestimmte Inhalte zu finden, die geschwärzt werden sollen.
 
    Verwenden Sie das Suchfeld, um nach einem bestimmten Wort oder Ausdruck zu suchen.
 
@@ -49,13 +50,13 @@ Erfahren Sie, wie Sie das Werkzeug zum Schwärzen verwenden, um private oder ver
 
    ![Schritt 5b schwärzen](../assets/Redact_5.png)
 
-1. Auswählen **[!UICONTROL Anwenden]** in der [!UICONTROL Redact] , um die markierten Schwärzungen anzuwenden und die geschwärzte Datei zu speichern.
+1. Auswählen **[!UICONTROL Anwenden]** in der &quot; [!UICONTROL Redact] , um die markierten Schwärzungen anzuwenden und die geschwärzte Datei zu speichern.
 
    ![Schritt 6 schwärzen](../assets/Redact_6.png)
 
 ## Dokument bereinigen
 
-1. Auswählen **[!UICONTROL Dokument bereinigen]** in der [!UICONTROL Redact] oberes Menü.
+1. Auswählen **[!UICONTROL Dokument bereinigen]** in der &quot; [!UICONTROL Redact] oberes Menü.
 
 1. Auswählen **[!UICONTROL OK]** , um das Entfernen ausgeblendeter Informationen zu bestätigen. Oder wählen Sie **[!UICONTROL Hier klicken]** , um ausgeblendete Informationen selektiv zu entfernen.
 

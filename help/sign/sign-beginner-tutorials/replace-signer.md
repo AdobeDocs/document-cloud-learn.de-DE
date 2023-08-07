@@ -1,19 +1,20 @@
 ---
 title: Ersetzen eines Unterzeichners
 description: Hier erfahren Sie, wie Sie einen Unterzeichner ersetzen, wenn beispielsweise beim Senden eines Dokuments zur Signatur die falsche E-Mail-Adresse verwendet wurde.
+feature: Sign, Workflow
 role: User
 level: Beginner
 jira: KT-10264
 thumbnail: KT-10264.jpg
 exl-id: bc9d645b-b99a-4928-b539-3d28b83fc56d
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
-# Unterzeichner ersetzen
+# Ersetzen eines Unterzeichners
 
 Hier erfahren Sie, wie Sie einen Unterzeichner ersetzen, z. B. wenn beim Senden eines Dokuments zur Signatur die falsche E-Mail-Adresse verwendet wurde.
 

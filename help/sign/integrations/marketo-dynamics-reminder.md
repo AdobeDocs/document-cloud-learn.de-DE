@@ -1,6 +1,7 @@
 ---
 title: Mit Acrobat Sign für Microsoft Dynamics 365 und Marketo Erinnerungen versenden
 description: Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung senden, wenn eine Vereinbarung nach einer bestimmten Zeit nicht signiert wird.
+feature: Integrations
 role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
@@ -9,7 +10,7 @@ topic-revisit: Integrations
 jira: KT-7250
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 2%
@@ -24,11 +25,11 @@ Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung senden, wenn eine Vereinbarung
 
 1. Installieren Sie Marketo Microsoft Dynamics Sync.
 
-   Informationen und das neueste Plug-in für Microsoft Dynamics Sync sind verfügbar [hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
+   Informationen und das neueste Plug-in für Microsoft Dynamics Sync sind verfügbar [hier verfügbar.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
 1. Installieren [Acrobat Sign für Microsoft Dynamics](https://appsource.microsoft.com/de-de/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
 
-   Informationen zu diesem Plug-in sind verfügbar [hier.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
+   Informationen zu diesem Plug-in sind verfügbar [hier verfügbar.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## Benutzerdefiniertes Objekt suchen
 
@@ -44,7 +45,7 @@ Sobald die Konfigurationen von Marketo Microsoft Dynamics Sync und Acrobat Sign 
 
 ## Benutzerdefiniertes Objekt synchronisieren
 
-1. Suchen Sie auf der rechten Seite nach [!UICONTROL Blei], [!UICONTROL Kontakt]und [!UICONTROL Konto]-basierte benutzerdefinierte Objekte.
+1. Suchen Sie rechts nach [!UICONTROL Blei], [!UICONTROL Kontakt]und [!UICONTROL Konto]-basierte benutzerdefinierte Objekte.
 
    * **Synchronisation aktivieren** für die Objekte unter **[!UICONTROL Blei]** , wenn Sie eine Erinnerung senden möchten, wenn ein [!UICONTROL Blei] hat keine Vereinbarung in Dynamics signiert.
 
@@ -56,7 +57,7 @@ Sobald die Konfigurationen von Marketo Microsoft Dynamics Sync und Acrobat Sign 
 
    ![Benutzerdefinierte Objekte](assets/enableSyncDynamics.png)
 
-1. Wählen Sie im neuen Fenster die gewünschten Eigenschaften unter Vereinbarung aus, und aktivieren Sie dann die Felder unter **Einschränkung** und **Trigger** , um sie Ihren Marketingaktivitäten vorzustellen.
+1. Wählen Sie im neuen Fenster die gewünschten Eigenschaften unter Vereinbarung aus, und aktivieren Sie dann die Felder unter **Einschränkung** und **Auslöser** , um sie Ihren Marketing-Aktivitäten vorzustellen.
 
    ![Benutzerdefinierte Synchronisation 1](assets/entitySync1.png)
 
@@ -86,11 +87,11 @@ Sobald die Konfigurationen von Marketo Microsoft Dynamics Sync und Acrobat Sign 
 
    ![Neues Programm 2](assets/newProgram2.png)
 
-1. Klicken Sie auf **Meine Tokens** und ziehen Sie **E-Mail-Skript** auf die Arbeitsfläche.
+1. Klicken Sie auf **Meine Tokens** und ziehen Sie dann **Email Script** auf die Arbeitsfläche.
 
-   ![E-Mail-Skript](assets/emailScript.png)
+   ![Email Script](assets/emailScript.png)
 
-1. Geben Sie einen Namen ein, und klicken Sie auf **Klicken, um zu bearbeiten**.
+1. Geben Sie einen Namen ein, und klicken Sie dann auf **Klicken, um zu bearbeiten**.
 
    ![Benennen und bearbeiten](assets/nameAndSave.png)
 
@@ -128,9 +129,9 @@ Sobald die Konfigurationen von Marketo Microsoft Dynamics Sync und Acrobat Sign 
 
 ## Erinnerung erstellen und Personalisierung hinzufügen
 
-Beispiele für die Personalisierung: den Namen des Unterzeichners, den Namen der Vereinbarung, einen Link zur Vereinbarung usw.
+Beispiele für die Personalisierung: der Name des Unterzeichners, der Name der Vereinbarung, ein Link zur Vereinbarung usw.
 
-1. Klicken Sie mit der rechten Maustaste auf das von Ihnen erstellte Programm, und klicken Sie auf **[!UICONTROL Neues lokales Element]** und wählen Sie dann **[!UICONTROL Email]**.
+1. Klicken Sie mit der rechten Maustaste auf das Programm, das Sie erstellt haben, und klicken Sie auf **[!UICONTROL Neues lokales Element]** und wählen Sie dann **[!UICONTROL Email]**.
 
    ![Neue E-Mail](assets/createNewEmail.png)
 
@@ -142,7 +143,7 @@ Beispiele für die Personalisierung: den Namen des Unterzeichners, den Namen der
 
 1. Legen Sie die **[!UICONTROL Von Name]** und **[!UICONTROL Von Adresse]**.
 
-   ![Erinnerungs-E-Mail](assets/reminderEmail.png)
+   ![Erinnerungs-Mail](assets/reminderEmail.png)
 
 1. Klicken Sie auf den Nachrichtentext, um den Editor zu aktivieren.
 
@@ -154,11 +155,11 @@ Beispiele für die Personalisierung: den Namen des Unterzeichners, den Namen der
 
    Sie sollten einen Link zur URL mit dem Vereinbarungsnamen als Beschriftung sehen.
 
-   ![E-Mail-Link](assets/emailLink.png)
+   ![E-Mail](assets/emailLink.png)
 
 ## Einrichten des Smart Campaign-Filters
 
-1. Klicken Sie mit der rechten Maustaste auf das von Ihnen erstellte Programm, und klicken Sie dann auf **[!UICONTROL Neue Smart Campaign]**.
+1. Klicken Sie mit der rechten Maustaste auf das Programm, das Sie erstellt haben, und klicken Sie dann auf **[!UICONTROL Neue Smart Campaign]**.
 
    ![Smart Campaign 1](assets/smartCampaign1.png)
 
@@ -196,9 +197,9 @@ Weil der Kampagnenfilter **Tage bis zum Ablauf** verwendet wurde, können Sie ei
 
    ![E-Mail senden](assets/sendEmail.png)
 
-1. Klicken Sie auf **[!UICONTROL Planen]** in der Smart Campaign. Stellen Sie sicher, dass der Kampagnen-Flow auf nur einmal pro Person im **Smart Campaign-Einstellungen**. Klicken Sie dann auf die Schaltfläche **Wiederholung planen** &quot; ändern.
+1. Klicken Sie auf **[!UICONTROL Planen]** in der Smart Campaign. Stellen Sie sicher, dass der Kampagnen-Flow auf nur einmal pro Person im **Smart Campaign-Einstellungen**. Klicken Sie dann auf die Schaltfläche **Wiederkehrende planen** &quot; ändern.
 
-   ![Registerkarte Zeitplan](assets/scheduleTab.png)
+   ![Registerkarte &quot;Zeitplan&quot;](assets/scheduleTab.png)
 
 1. Legen Sie die **Planen** bis _Täglich_. Wählen Sie bei Bedarf einen Start- und einen Endtag für die Kampagne aus.
 

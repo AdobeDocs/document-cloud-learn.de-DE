@@ -1,14 +1,15 @@
 ---
 title: PDF-Zusammenarbeit in [!DNL Microsoft Teams]
-description: Mit Adobe Acrobat für Teams können Anwender PDF anzeigen, kommentieren und überprüfen, ohne jemals wieder verlassen zu müssen [!DNL Microsoft Teams]
+description: Mit Adobe Acrobat für Teams können Anwender PDF anzeigen, kommentieren und überprüfen und so mit Kollegen zusammenarbeiten, ohne jemals wieder zu verlassen [!DNL Microsoft Teams]
+feature: Integrations, Collaboration
 role: User
 topic: Integrations
 level: Beginner
 topic-revisit: Integrations
-thumbnail: 331277.jpg
 jira: KT-7119
+thumbnail: 331277.jpg
 exl-id: 76eb392d-7357-47c8-b24b-58977e229e8f
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -17,9 +18,9 @@ ht-degree: 0%
 
 # PDF-Zusammenarbeit in [!DNL Microsoft Teams]
 
-Mit Adobe Acrobat für Teams können Anwender PDF anzeigen, kommentieren und überprüfen, ohne jemals wieder verlassen zu müssen [!DNL Microsoft Teams]. Diese Integration umfasst:
+Mit Adobe Acrobat für Teams können Anwender PDF anzeigen, kommentieren und überprüfen und so mit Kollegen zusammenarbeiten, ohne jemals wieder zu verlassen [!DNL Microsoft Teams]. Diese Integration umfasst:
 
-* Hohe Qualität der Anzeige: Dies ist die einzige PDF-Anzeige, mit der Sie hochwertige PDF-Dateien direkt in [!DNL Microsoft Teams], für ein zufriedenstellendes und nahtloses Arbeitserlebnis
+* Hohe Qualität der Anzeige: Dies ist die einzige PDF-Anzeige, mit der Sie Hi-Fidelity-PDF direkt in [!DNL Microsoft Teams], für ein zufriedenstellendes und nahtloses Arbeitserlebnis
 * PDF-Reviews optimieren - Feedback von Kanalmitgliedern wird auf einer einzigen PDF gesammelt, direkt in [!DNL Microsoft Teams] anstatt Feedback über mehrere Anhänge zu sammeln und abzustimmen
 * Benachrichtigungen über den Fortschritt erhalten - Benachrichtigungen in Teams, wenn andere an Ihren Dokumenten aktiv werden
 * Benachrichtigung von Überprüfern: Überprüfer werden benachrichtigt, wenn andere auf ihre Kommentare antworten.
@@ -27,7 +28,7 @@ Mit Adobe Acrobat für Teams können Anwender PDF anzeigen, kommentieren und üb
 
 >[!TIP]
 >
->Weitere Microsoft [Integrationen](../integrate/integrate-overview.md#microsoft).
+>Weitere Microsoft-Programme [Integrationen](../integrate/integrate-overview.md#microsoft).
 
 <br> 
 

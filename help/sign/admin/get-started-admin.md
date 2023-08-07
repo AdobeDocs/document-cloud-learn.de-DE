@@ -1,12 +1,13 @@
 ---
 title: Erste Schritte für neue Administratoren
-description: In diesem umfassenden Video-Leitfaden erfahrt ihr, welche Tools für die Einführung von Acrobat Sign in eurem Unternehmen erforderlich sind.
+description: In diesem umfassenden Video-Leitfaden erfahrt ihr alles, was ihr braucht, um mit Acrobat Sign zu arbeiten.
+feature: Administration, Deploy
 role: Admin
 level: Beginner
 jira: KT-11289
 thumbnail: KT-11289.jpg
 exl-id: 71a00fa1-2814-4f8b-87e1-61bbce752308
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -21,17 +22,17 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
 <tr>
   <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60">
-      <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
+      <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60"><strong>Zugriff auf die Admin Console</strong></a>
          <br>
-        <em>Bei 1:00 beginnen</em>
+        <em>Beginnen um 1:00</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105">
-      <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
+      <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
@@ -41,7 +42,7 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191">
-      <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
+      <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
@@ -51,7 +52,7 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358">
-      <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
+      <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
@@ -63,7 +64,7 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
   <tr>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=460">
-      <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
+      <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
@@ -73,7 +74,7 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=502">
-      <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
+      <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
@@ -83,17 +84,17 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=543">
-      <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
+      <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=543"><strong>Sicherheitseinstellungen</strong></a>
         <br>
-        <em>Um 9:03 Uhr beginnen</em>
+        <em>Beginnen Sie um 9:03</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=595">
-      <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
+      <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
@@ -105,7 +106,7 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
   <tr>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=720">
-      <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
+      <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
@@ -115,7 +116,7 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=755">
-      <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
+      <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
@@ -125,7 +126,7 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=783">
-      <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
+      <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
@@ -135,7 +136,7 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=917">
-      <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
+      <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
@@ -147,7 +148,7 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
 <tr>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=1145">
-      <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
+      <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
     </td>
     <td>

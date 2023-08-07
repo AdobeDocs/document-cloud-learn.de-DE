@@ -1,6 +1,7 @@
 ---
 title: Senden von Benachrichtigungen mit Acrobat Sign für Salesforce und Marketo
 description: Erfahren Sie, wie Sie eine Textnachricht, eine E-Mail oder eine Push-Benachrichtigung senden, damit der Unterzeichner weiß, dass eine Vereinbarung in Bearbeitung ist.
+feature: Integrations
 role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
@@ -9,7 +10,7 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '688'
 ht-degree: 1%
@@ -18,17 +19,17 @@ ht-degree: 1%
 
 # Benachrichtigungen mit Acrobat Sign für [!DNL Salesforce] und [!DNL Marketo]
 
-Erfahren Sie, wie Sie eine Textnachricht, eine E-Mail oder eine Push-Benachrichtigung senden, um den Unterzeichnern mitzuteilen, dass eine Vereinbarung in Bearbeitung ist, indem Sie Acrobat Sign, Acrobat Sign für Salesforce, Marketo und Marketo Salesforce Sync verwenden. Um Benachrichtigungen von Marketo zu senden, müssen Sie zunächst eine Marketo-SMS-Verwaltungsfunktion erwerben oder konfigurieren. In dieser exemplarischen Vorgehensweise werden [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), aber es sind auch andere Marketo SMS-Lösungen verfügbar.
+Erfahren Sie, wie Sie eine Textnachricht, eine E-Mail oder eine Push-Benachrichtigung senden, um den Unterzeichnern mitzuteilen, dass eine Vereinbarung in Bearbeitung ist, indem Sie Acrobat Sign, Acrobat Sign für Salesforce, Marketo und die Marketo Salesforce-Synchronisation verwenden. Um Benachrichtigungen von Marketo zu senden, müssen Sie zunächst eine Marketo-SMS-Verwaltungsfunktion erwerben oder konfigurieren. In dieser exemplarischen Vorgehensweise werden [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), aber es sind auch andere Marketo SMS-Lösungen verfügbar.
 
 ## Voraussetzungen
 
 1. Installieren Sie Marketo Salesforce Sync.
 
-   Informationen und das neueste Plug-in für Salesforce Sync sind verfügbar [hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+   Informationen und das neueste Plug-in für Salesforce Sync sind verfügbar [hier verfügbar.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
 1. Installieren Sie Acrobat Sign für Salesforce.
 
-   Informationen zu diesem Plug-in sind verfügbar [hier.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
+   Informationen zu diesem Plug-in sind verfügbar [hier verfügbar.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 ## Benutzerdefiniertes Objekt suchen
 
@@ -74,7 +75,7 @@ Auf der rechten Seite finden Sie weitere Informationen unter Lead-, Kontakt- und
 
    ![Global aktivieren](assets/enableGlobal.png)
 
-## Programm erstellen
+## Erstellen des Programms
 
 1. Klicken Sie im Abschnitt &quot;Marketingaktivitäten&quot; von Marketo mit der rechten Maustaste auf **Marketing-Aktivitäten** auf der linken Leiste, wählen Sie **Neuer Kampagnenordner** und geben Sie ihm einen Namen.
 
@@ -86,9 +87,9 @@ Auf der rechten Seite finden Sie weitere Informationen unter Lead-, Kontakt- und
 
    ![Neues Programm 2](assets/newProgram2.png)
 
-## Twilio SMS einrichten
+## Twilio-SMS einrichten
 
-Stellen Sie zunächst sicher, dass Sie ein aktives Twilio-Konto haben und die SMS-Funktionen erworben haben, die Sie benötigen.
+Stellen Sie zunächst sicher, dass Sie über ein aktives Twilio-Konto verfügen und die SMS-Funktionen erworben haben, die Sie benötigen.
 
 Das Einrichten des Marketo - Twilio SMS-Webhooks erfordert drei Twilio-Parameter von Ihrem Konto.
 
@@ -108,15 +109,15 @@ Rufen Sie diese Parameter von Ihrem Konto ab und öffnen Sie jetzt Ihre Marketo-
 
 1. Geben Sie einen **Webhook-Name** und **Beschreibung**.
 
-1. Geben Sie die folgende URL ein, und ersetzen Sie **[ACCOUNT_SID]** und **[AUTH_TOKEN]** mit Ihren Twilio-Anmeldedaten.
+1. Geben Sie die folgende URL ein, und ersetzen Sie die **[ACCOUNT_SID]** und **[AUTH_TOKEN]** mit Ihren Twilio-Anmeldedaten.
 
    ```
    https://[ACCOUNT_SID]:[AUTH_TOKEN]@API.TWILIO.COM/2010-04-01/ACCOUNTS/[ACCOUNT_SID]/Messages.json
    ```
 
-1. Auswählen **POST** als Anforderungstyp.
+1. Auswählen **POST** als Anforderungstyp an.
 
-1. Geben Sie Folgendes ein **Vorlage** und ersetzen Sie **[MY_TWILIO_NUMBER]** mit Ihrer Twilio Telefonnummer und **[YOUR_MESSAGE]** mit einer Nachricht Ihrer Wahl.
+1. Geben Sie Folgendes ein: **Vorlage** und ersetzen Sie **[MY_TWILIO_NUMBER]** mit Ihrer Twilio Telefonnummer und **[YOUR_MESSAGE]** mit einer Nachricht Ihrer Wahl.
 
    ```
    From=%2B1[MY_TWILIO_NUMBER]&To=%2B1{{lead.Mobile Phone Number:default=edit me}}&Body=[YOUR_MESSAGE]
@@ -138,13 +139,13 @@ Rufen Sie diese Parameter von Ihrem Konto ab und öffnen Sie jetzt Ihre Marketo-
 
    Wenn die Konfiguration für die benutzerdefinierte Objektsynchronisation korrekt durchgeführt wurde, sollten die folgenden Trigger angezeigt werden, die im Salesforce-Ordner verfügbar sind.
 
-1. Klicken Sie auf Zur Vereinbarung hinzugefügt und ziehen Sie sie in die Smart List. Fügen Sie Einschränkungen hinzu, die für den Auslöser gelten sollen.
+1. Klicken Sie auf Zur Vereinbarung hinzugefügt und ziehen Sie sie in die Smart List. Fügen Sie die Einschränkungen hinzu, die für den Auslöser gelten sollen.
 
    ![Zur Vereinbarung 2 hinzugefügt](assets/addedToAgreement2.png)
 
 ## Einrichten des Smart Campaign Flow
 
-1. Klicken Sie auf die Schaltfläche **Fluss** in der Smart Campaign. Suchen Sie nach dem Element und ziehen Sie es **Webhook aufrufen** auf die Arbeitsfläche und wählen Sie den im vorherigen Abschnitt erstellten Webhook aus.
+1. Klicken Sie auf die Schaltfläche **Fluss** in der Smart Campaign. Suchen Sie nach dem Element und ziehen Sie es **Webhook aufrufen** auf die Arbeitsfläche und wählen Sie den Webhook aus, den Sie im vorherigen Abschnitt erstellt haben.
 
    ![Webhook aufrufen](assets/callWebhook.png)
 

@@ -1,13 +1,14 @@
 ---
 title: Übersicht über Administratoren
 description: Grundlagen zum Hinzufügen von Benutzern zu Ihrem Konto, Einrichten von Gruppen, Freigeben des Zugriffs und Einrichten eines Workflows, eines externen Archivs sowie von freigegebenen Ereignissen und Benachrichtigungen
+feature: Administration, Deploy, Workflow, Report, Web Forms
 role: Admin
 level: Intermediate
 jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 1%
@@ -24,7 +25,7 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
 
 * [Berichtsoptionen](report-options.md)
 Erfahren Sie, wie Sie Berichtsoptionen für Benutzer einrichten.
-* [Benutzer hinzufügen](add-users-to-your-account.md)
+* [Hinzufügen von Benutzern](add-users-to-your-account.md)
 Benutzer für Acrobat Sign hinzufügen und verwalten
 
 ## Erste Schritte
@@ -38,7 +39,7 @@ Benutzer für Acrobat Sign hinzufügen und verwalten
     <div>
     <a href="get-started-admin.md"><strong>Erste Schritte für neue Administratoren</strong></a>
     </div>
-    <em>In diesem umfassenden Video-Leitfaden erfahrt ihr, welche Tools für die Einführung von Acrobat Sign in eurem Unternehmen erforderlich sind.</em>
+    <em>In diesem umfassenden Video-Leitfaden erfahrt ihr alles, was ihr braucht, um mit Acrobat Sign zu arbeiten.</em>
     <br>
   </td>
   <td>
@@ -152,7 +153,7 @@ Benutzer für Acrobat Sign hinzufügen und verwalten
     <div>
     <a href="../sign-advanced-users/megasign.md"><strong>Mehrere Signaturen gleichzeitig senden und erfassen</strong></a>
     </div>
-    <em>Mehrere Hundert Unterschriften auf einmal für jedes Dokument einholen</em>
+    <em>Dokumente mit mehreren Hundert Unterschriften gleichzeitig versehen</em>
     <br>
   </td>
 </tr>
@@ -215,7 +216,7 @@ Benutzer für Acrobat Sign hinzufügen und verwalten
     <div>
     <a href="advanced-account-sharing.md"><strong>Erweiterte Kontofreigabe</strong></a>
     </div>
-    <em>Richten Sie die Kontofreigabe ein, damit Administratoren und Benutzer ihre Sende-, Änderungs- und Anzeigeberechtigungen delegieren können.</em>
+    <em>Richten Sie die Kontofreigabe ein, damit Administratoren und Benutzer ihre Berechtigungen zum Senden, Ändern und Anzeigen delegieren können.</em>
     <br>
   </td>
   <td>
@@ -225,7 +226,7 @@ Benutzer für Acrobat Sign hinzufügen und verwalten
     <div>
     <a href="use-bio-pharma-settings.md"><strong>Verwenden von Bio-Pharma-Einstellungen</strong></a>
     </div>
-    <em>Richten Sie Bio-Pharma-Einstellungen ein, die es Ihnen ermöglichen, die Anforderungen von FDA 21 CFR Part 11 zu erfüllen.</em>
+    <em>Richten Sie Bio-Pharma-Einstellungen ein, mit denen Sie die Anforderungen von FDA 21 CFR Part 11 erfüllen können.</em>
     <br>
   </td> 
 </tr>
@@ -237,7 +238,7 @@ Benutzer für Acrobat Sign hinzufügen und verwalten
     <div>
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign Text-Tagging</strong></a>
     <div>
-    <em>Acrobat Sign-Formularfelder durch Text-Tags mit Adobe Acrobat erstellen</em>
+    <em>Erstellen von Acrobat Sign-Formularfeldern durch Text-Tagging mit Adobe Acrobat</em>
     <br>
   </td>
   <td>

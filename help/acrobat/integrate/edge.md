@@ -1,14 +1,15 @@
 ---
 title: Erstellen von PDF-Inhalten beim Durchsuchen von [!DNL Microsoft Edge]
 description: Erfahren Sie, wie Sie Webseiten mit der Adobe Acrobat-Erweiterung für [!DNL Microsoft Edge]
+feature: Integrations, Create PDF
 role: User
 topic: Integrations
 level: Beginner
 topic-revisit: Integrations
-thumbnail: KT-8495.jpg
 jira: KT-8495
+thumbnail: KT-8495.jpg
 exl-id: 636a11a3-612a-4066-ad91-133259fbf0c3
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -21,7 +22,7 @@ Erfahren Sie, wie Sie Webseiten mit der Adobe Acrobat-Erweiterung für [!DNL Mic
 
 >[!TIP]
 >
->Weitere Microsoft [Integrationen](../integrate/integrate-overview.md#microsoft).
+>Weitere Microsoft-Programme [Integrationen](../integrate/integrate-overview.md#microsoft).
 
 <br> 
 

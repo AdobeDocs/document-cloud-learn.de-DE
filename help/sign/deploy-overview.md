@@ -1,12 +1,13 @@
 ---
 title: Übersicht bereitstellen
 description: Artikel mit Best Practices und wertvolle Einblicke in die Bereitstellung von Acrobat Sign
+feature: Deploy, Administration
 role: Admin
 level: Intermediate
 jira: KT-6853
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 10%
@@ -17,7 +18,7 @@ ht-degree: 10%
 
 ![Sign - Bild bereitstellen](assets/Hero-Deploy.png)
 
-Artikel mit Best Practices, die wertvolle Informationen zur Bereitstellung von Acrobat Sign in eurem Unternehmen bieten.
+Artikel mit Best Practices, die wertvolle Einblicke in die Bereitstellung von Acrobat Sign in eurem Unternehmen bieten
 
 <table style="table-layout:fixed">
 <tr>
@@ -38,7 +39,7 @@ Artikel mit Best Practices, die wertvolle Informationen zur Bereitstellung von A
     <div>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobe Trust Center</strong></a>
     </div>
-    <em>Sicherheit, Rechtsgültigkeit und Standards für Acrobat Sign</em>
+    <em>Sicherheit, Rechtsgültigkeit und Standards von Acrobat Sign kennenlernen.</em>
     <br>
   </td>
   <td>

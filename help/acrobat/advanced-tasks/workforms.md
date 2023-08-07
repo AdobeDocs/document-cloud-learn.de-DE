@@ -1,12 +1,13 @@
 ---
 title: Arbeiten mit Formularfeldern
 description: Erfahren Sie, wie Sie verschiedene Formularfeldtypen hinzufügen, Formularfeldeigenschaften festlegen und die Sicherheit erhöhen, um hochwertige, professionelle Formulare zu erstellen
+feature: Form, Edit PDF
 role: User
 level: Intermediate
-thumbnail: KT-9345.jpg
 jira: KT-9345
+thumbnail: KT-9345.jpg
 exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 0%
@@ -26,7 +27,7 @@ Beispieldatei zum Üben (PDF, 934 KB)
 
 <br> 
 
-## Erfahren Sie, wie Sie mit Formularfeldern arbeiten
+## Lernen Sie, mit Formularfeldern zu arbeiten
 
 Verwenden Sie das Prepare Form-Tool, um Formularfelder automatisch zu einer bestehenden PDF hinzuzufügen.
 
@@ -40,7 +41,7 @@ Verwenden Sie das Prepare Form-Tool, um Formularfelder automatisch zu einer best
 
 <br> 
 
-## Zusammenfassung. So arbeiten Sie mit Formularfeldern
+## Formularfelder bearbeiten - Zusammenfassung.
 
 So fügen Sie verschiedene Formularfeldtypen hinzu und legen ihre Eigenschaften auf einer vorhandenen PDF fest.
 
@@ -55,11 +56,11 @@ So fügen Sie verschiedene Formularfeldtypen hinzu und legen ihre Eigenschaften 
 
 Das Hinzufügen eines Listenfelds verhindert, dass Formulardaten Fehler enthalten.
 
-1. Wählen Sie das Element *Hauptquartier* Textfeld eingeben.
+1. Wählen Sie das Element *Hauptquartier* Textfeld ein.
 1. Auswählen **Listenfeld** in der Symbolleiste und platzieren Sie ein neues Feld an der Position des gelöschten Textfelds.
-1. Typ *Hauptquartier* in der **Feldname:**.
+1. Typ *Hauptquartier* in der &quot; **Feldname:**.
 1. Auswählen **Alle Eigenschaften** und wählen Sie die Option **Optionen** &quot; ändern.
-1. Fügen Sie im Katalog **Element:** ein.
+1. Fügen Sie drei verschiedene Positionen in der **Element:** ein.
 1. Wählen Sie den Standardspeicherort im Dialogfeld &quot; **Elementliste:** ein.
 1. Auswählen **Schließen**.
 1. Halten Sie die Umschalttaste gedrückt und wählen Sie das Feld unten aus.
@@ -67,9 +68,9 @@ Das Hinzufügen eines Listenfelds verhindert, dass Formulardaten Fehler enthalte
 
 Datumsauswahlfelder fügen Interaktivität hinzu und eliminieren Fehler in einem Formular.
 
-1. Wählen Sie das Element *Projektschnittfenster* und *ENDDATUM* Felder.
-1. Auswählen **Datumsfeld** in der Symbolleiste und platzieren Sie das neue Feld im gelöschten *Projektschnittfenster* Feldposition.
-1. Typ *Projektstart* in der **Feldname:**.
+1. Wählen Sie das Element *Projektzeitleiste* und *ENDDATUM* Felder.
+1. Auswählen **Datumsfeld** in der Symbolleiste und platzieren Sie das neue Feld im gelöschten *Projektzeitleiste* Feldposition.
+1. Typ *Projektstart* in der &quot; **Feldname:**.
 1. Auswählen **Alle Eigenschaften** und wählen Sie die Option **Format** &quot; ändern.
 1. Wählen Sie eine Datumsformatoption und wählen Sie **Schließen**.
 1. Drücken Sie Strg + Umschalt (Cmd + Umschalt auf dem Mac), um das Feld zu duplizieren.
@@ -79,9 +80,9 @@ Datumsauswahlfelder fügen Interaktivität hinzu und eliminieren Fehler in einem
 1. Auswählen **Breite und Höhe angleichen** im rechten Fenster.
 1. Verwenden Sie die Pfeiltasten, um jedes Feld bei Bedarf auszurichten.
 
-Kombinationseigenschaften werden verwendet, um Text gleichmäßig über die Breite eines Textfelds zu verteilen.
+Mit Kombinationseigenschaften wird Text gleichmäßig über die Breite eines Textfelds verteilt.
 
-1. Doppelklicken Sie auf das *Referenzcode* und wählen Sie die Option **Optionen** &quot; ändern.
+1. Doppelklicken Sie auf das *Verweiscode* und wählen Sie die Option **Optionen** &quot; ändern.
 1. Deaktivieren Sie alle Kontrollkästchen außer **Kamm von**.
 1. Typ *5* in das Zeichenfeld ein.
 1. Wählen Sie das **Erscheinungsbild** und wählen Sie eine beliebige Farbe im Dialogfeld &quot; **Rahmenfarbe** &quot; ein.
@@ -89,7 +90,7 @@ Kombinationseigenschaften werden verwendet, um Text gleichmäßig über die Brei
 1. Auswählen **Vorschau** und geben Sie einige Zahlen ein, um das Kombinationsfeld zu testen.
 1. Auswählen **Mehr** > **Formular zurücksetzen** , um die Daten im rechten Fenster zu löschen.
 
-## Erfahren Sie, wie Sie Eigenschaften für mehrere Felder gleichzeitig, die Tab-Reihenfolge festlegen und ein Formular sichern
+## Erfahren Sie, wie Sie Eigenschaften für mehrere Felder gleichzeitig, die Tab-Reihenfolge festlegen und ein Formular sichern.
 
 <br> 
 
@@ -97,7 +98,7 @@ Kombinationseigenschaften werden verwendet, um Text gleichmäßig über die Brei
 
 <br> 
 
-## Zusammenfassung. So legen Sie Eigenschaften für mehrere Felder gleichzeitig fest: Tab-Reihenfolge und Sichern eines Formulars
+## Eigenschaften für mehrere Felder gleichzeitig, die Tab-Reihenfolge festlegen und ein Formular sichern - Zusammenfassung.
 
 Um Eigenschaften für mehrere Felder gleichzeitig festzulegen, führen Sie die Registerkartenreihenfolge aus und sichern Sie ein Formular. Durch das einmalige Festlegen der Eigenschaften von Textfeldern sparen Sie Zeit und sorgen für eine visuelle Konsistenz des Formulars.
 
@@ -114,10 +115,10 @@ Durch Festlegen der Tab-Reihenfolge wird sichergestellt, dass der Formularausfü
 
 Durch das Sichern eines Formulars wird sichergestellt, dass die Felder oder der Inhalt des Dokuments nicht geändert werden können.
 
-1. Typ *Strg + D (Cmd + D auf dem Mac)* , um das Dialogfeld **Dokumenteigenschaften** &quot; ändern.
+1. Typ *Strg + D (Cmd + D auf dem Mac)* , um das Fenster &quot; **Dokumenteigenschaften** &quot; ändern.
 1. Wählen Sie das **Sicherheit** &quot; ändern.
 1. Auswählen **Kennwortsicherheit** im Abschnitt **Sicherheitsmethode:** Dropdown-Liste.
-1. Prüfen **Einschränkung für Bearbeitung und Drucken des Dokuments. Zum Ändern dieser Berechtigungseinstellungen ist ein Kennwort erforderlich.**
+1. Prüfen **Schränken Sie das Bearbeiten und Drucken des Dokuments ein. Zum Ändern dieser Berechtigungseinstellungen ist ein Kennwort erforderlich.**
 1. Auswählen **Hohe Auflösung** im Fenster &quot; **Drucken zulässig:** Dropdown-Liste.
 1. Auswählen **Ausfüllen von Formularfeldern und Unterschreiben vorhandener Unterschriftsfelder** im Fenster &quot; **Zulässige Änderungen:** Dropdown-Liste.
 1. Geben Sie ein sicheres Kennwort in das Feld &quot; **Berechtigungskennwort ändern:** ein.

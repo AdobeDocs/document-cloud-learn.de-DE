@@ -1,6 +1,7 @@
 ---
 title: Senden von Benachrichtigungen mit Acrobat Sign für Microsoft Dynamics 365 und Marketo
 description: Erfahren Sie, wie Sie eine Textnachricht, eine E-Mail oder eine Push-Benachrichtigung senden, damit der Unterzeichner weiß, dass eine Vereinbarung in Bearbeitung ist.
+feature: Integrations
 role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
@@ -9,7 +10,7 @@ topic-revisit: Integrations
 jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 2%
@@ -24,11 +25,11 @@ Erfahren Sie, wie Sie mit Acrobat Sign, Acrobat Sign für Microsoft Dynamic, Mar
 
 1. Installieren Sie Marketo Microsoft Dynamics Sync.
 
-   Informationen und das neueste Plug-in für Microsoft Dynamics Sync sind verfügbar [hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
+   Informationen und das neueste Plug-in für Microsoft Dynamics Sync sind verfügbar [hier verfügbar.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
 1. Installation von Acrobat Sign für Microsoft Dynamics.
 
-   Informationen zu diesem Plug-in sind verfügbar [hier.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
+   Informationen zu diesem Plug-in sind verfügbar [hier verfügbar.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## Benutzerdefiniertes Objekt suchen
 
@@ -44,7 +45,7 @@ Sobald die Konfigurationen von Marketo Microsoft Dynamics Sync und Acrobat Sign 
 
 ## Benutzerdefiniertes Objekt synchronisieren
 
-1. Suchen Sie auf der rechten Seite nach [!UICONTROL Blei], [!UICONTROL Kontakt]und [!UICONTROL Konto]-basierte benutzerdefinierte Objekte.
+1. Suchen Sie rechts nach [!UICONTROL Blei], [!UICONTROL Kontakt]und [!UICONTROL Konto]-basierte benutzerdefinierte Objekte.
 
    * **[!UICONTROL Synchronisation aktivieren]** für die Objekte unter Lead, wenn Sie beim Hinzufügen eines Leads zu einer Vereinbarung in Dynamics auslösen möchten.
 
@@ -58,7 +59,7 @@ Sobald die Konfigurationen von Marketo Microsoft Dynamics Sync und Acrobat Sign 
 
 1. Wählen Sie im neuen Fenster die gewünschten Eigenschaften unter Vereinbarung aus.
 
-   Aktivieren Sie die Felder unter **[!UICONTROL Einschränkung]** und **[!UICONTROL Trigger]** , um sie Ihren Marketingaktivitäten vorzustellen.
+   Aktivieren Sie die Felder unter **[!UICONTROL Einschränkung]** und **[!UICONTROL Auslöser]** , um sie Ihren Marketing-Aktivitäten vorzustellen.
 
    ![Benutzerdefinierte Synchronisation 1](assets/entitySync1.png)
 
@@ -72,7 +73,7 @@ Sobald die Konfigurationen von Marketo Microsoft Dynamics Sync und Acrobat Sign 
 
    ![Global aktivieren](assets/enableGlobalDynamics.png)
 
-## Programm erstellen
+## Erstellen des Programms
 
 1. In [!UICONTROL Marketing-Aktivitäten]mit der rechten Maustaste klicken **[!UICONTROL Marketing-Aktivitäten]** auf der linken Leiste, wählen Sie **[!UICONTROL Neuer Kampagnenordner]** und benennen Sie ihn.
 
@@ -108,15 +109,15 @@ Rufen Sie diese Parameter von Ihrem Konto ab und öffnen Sie jetzt Ihre Marketo-
 
 1. Geben Sie einen **[!UICONTROL Webhook-Name]** und **[!UICONTROL Beschreibung]**.
 
-1. Geben Sie die folgende URL ein, und ersetzen Sie `ACCOUNT_SID` und `AUTH_TOKEN` mit Ihrem [!DNL Twilio] Anmeldedaten.
+1. Geben Sie die folgende URL ein, und ersetzen Sie die `ACCOUNT_SID` und `AUTH_TOKEN` mit Ihrem [!DNL Twilio] Anmeldedaten.
 
    ```
    https://[ACCOUNT_SID]:[AUTH_TOKEN]@API.TWILIO.COM/2010-04-01/ACCOUNTS/[ACCOUNT_SID]/Messages.json
    ```
 
-1. Auswählen **[!UICONTROL POST]** als Anforderungstyp.
+1. Auswählen **[!UICONTROL POST]** als Anforderungstyp an.
 
-1. Geben Sie Folgendes ein **Vorlage** und ersetzen Sie `MY_TWILIO_NUMBER` mit Ihrem [!DNL Twilio] Telefonnummer und `YOUR_MESSAGE` mit einer Nachricht Ihrer Wahl.
+1. Geben Sie Folgendes ein: **Vorlage** und ersetzen Sie `MY_TWILIO_NUMBER` mit Ihrem [!DNL Twilio] Telefonnummer und `YOUR_MESSAGE` mit einer Nachricht Ihrer Wahl.
 
    ```
    From=%2B1[MY_TWILIO_NUMBER]&To=%2B1{{lead.Mobile Phone Number:default=edit me}}&Body=[YOUR_MESSAGE]
@@ -136,7 +137,7 @@ Rufen Sie diese Parameter von Ihrem Konto ab und öffnen Sie jetzt Ihre Marketo-
 
    ![Smart Campaign 2](assets/smartCampaign3.png)
 
-   Unter dem Ordner &quot;Microsoft&quot; sollten verschiedene Trigger zur Verwendung verfügbar sein.
+   Unter dem Ordner &quot;Microsoft&quot; sollten verschiedene Trigger angezeigt werden, die verwendet werden können.
 
 1. Klicken und ziehen **[!UICONTROL Zur Vereinbarung hinzugefügt]** in der **[!UICONTROL Smart List]** und fügen Sie dann die Einschränkungen hinzu, die für den Auslöser gelten sollen.
 
@@ -146,7 +147,7 @@ Rufen Sie diese Parameter von Ihrem Konto ab und öffnen Sie jetzt Ihre Marketo-
 
 1. Klicken Sie auf **[!UICONTROL Fluss]** &quot; im Dialogfeld &quot; [!UICONTROL Smart Campaign].
 
-   Suchen Sie nach dem Element und ziehen Sie es **Webhook aufrufen** auf die Arbeitsfläche und wählen Sie den im vorherigen Abschnitt erstellten Webhook aus.
+   Suchen Sie nach dem Element und ziehen Sie es **Webhook aufrufen** auf die Arbeitsfläche und wählen Sie den Webhook aus, den Sie im vorherigen Abschnitt erstellt haben.
 
    ![Webhook aufrufen](assets/callWebhook.png)
 

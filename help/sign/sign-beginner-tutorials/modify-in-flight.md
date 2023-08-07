@@ -1,12 +1,13 @@
 ---
 title: Ändern eines Dokuments nach dem Senden
 description: Erfahren Sie, wie Sie den Arbeitsablauf für ein Dokument ändern, das bereits in Bearbeitung ist.
+feature: Workflow, Sign
 role: User
 level: Beginner
 jira: KT-5316
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -19,12 +20,12 @@ Erfahren Sie, wie Sie ein Dokument ändern, das bereits zum Unterschreiben verse
 
 * Das Dokument wurde nicht signiert, genehmigt oder delegiert.
 * Das Dokument enthält keine digitale Signatur oder handschriftliche Signatur
-* Das Dokument wurde nicht von einem benutzerdefinierten Workflow initiiert.
+* Das Dokument wurde nicht von einem benutzerdefinierten Arbeitsablauf initiiert.
 
 
 >[!NOTE]
 >
->Das Ändern eines Dokuments nach dem Senden ist nur für Abos auf Enterprise-Ebene verfügbar. Ihr Acrobat Sign-Administrator muss **Vereinbarungen ändern** in der **Sendeeinstellungen** Abschnitt des **Kontoeinstellungen** , um diese Funktion zu verwenden.
+>Das Ändern eines Dokuments nach dem Senden ist nur für Abos auf Enterprise-Ebene verfügbar. Ihr Acrobat Sign-Administrator muss **Vereinbarungen ändern** in der &quot; **Sendeeinstellungen** Abschnitt des **Kontoeinstellungen** , um diese Funktion zu verwenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342299?quality=12&learn=on&hidetitle=true)
 

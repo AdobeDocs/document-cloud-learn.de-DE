@@ -1,12 +1,13 @@
 ---
 title: Unterwegs produktiv sein.
 description: Mehr Möglichkeiten auf dem Tablet oder Smartphone mit der Acrobat Reader-App
+feature: Mobile
 role: User
 level: Beginner
-thumbnail: KT-9155.jpg
 jira: KT-9155
+thumbnail: KT-9155.jpg
 exl-id: 143170eb-09c6-4b13-90d3-ab1a658d1572
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -19,7 +20,7 @@ Remote-Arbeit ist überall ein Muss, damit Inhalte schnell und skaliert bereitge
 
 >[!TIP]
 >
->Möchten Sie mehr über die Acrobat-Tools erfahren, auf die Sie von überall aus zugreifen können? Auschecken [Überall arbeiten - mit Acrobat Web](acrobatweb.md).
+>Möchtest du mehr über die Tools von Acrobat erfahren, auf die du von überall aus zugreifen kannst? Auschecken [Überall arbeiten - mit Acrobat Web](acrobatweb.md).
 
 <br> 
 

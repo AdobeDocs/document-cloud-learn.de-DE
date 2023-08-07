@@ -1,13 +1,14 @@
 ---
 title: Barrierefreiheit für PDF überprüfen
-description: Erfahren Sie, wie Sie überprüfen, ob Ihr PDF für Menschen mit Behinderungen universell zugänglich ist
+description: Erfahren Sie, wie Sie überprüfen, ob Ihr PDF für Menschen mit Behinderungen allgemein zugänglich ist
+feature: Accessibility
 role: User
 level: Intermediate
 topics: Accessibility
-thumbnail: KT-6829.jpg
 jira: KT-6829
+thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%

@@ -1,13 +1,14 @@
 ---
 title: Erste Schritte mit Acrobat Sign
-description: Dieses umfassende Tutorial ist ein guter Ausgangspunkt für neue Absender in Adobe Sign
+description: Dieses umfassende Tutorial ist ein guter Ausgangspunkt für neue Absender in Adobe Sign.
+feature: Workspace
 role: User
 level: Beginner
 jira: KT-8989
 thumbnail: KT-8989.jpg
 kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -28,7 +29,7 @@ Dieses detaillierte Tutorial behandelt die folgenden Themen:
 <tr>
   <td>
     <a href="https://video.tv.adobe.com/v/337151?hidetitle=true">
-      <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
+      <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
@@ -38,7 +39,7 @@ Dieses detaillierte Tutorial behandelt die folgenden Themen:
     </td>
      <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=56">
-      <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
+      <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
@@ -48,7 +49,7 @@ Dieses detaillierte Tutorial behandelt die folgenden Themen:
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=153">
-      <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
+      <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
@@ -58,7 +59,7 @@ Dieses detaillierte Tutorial behandelt die folgenden Themen:
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=272">
-      <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
+      <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
@@ -70,7 +71,7 @@ Dieses detaillierte Tutorial behandelt die folgenden Themen:
   <tr>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=551">
-      <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
+      <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
@@ -80,7 +81,7 @@ Dieses detaillierte Tutorial behandelt die folgenden Themen:
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=719">
-      <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
+      <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
@@ -90,7 +91,7 @@ Dieses detaillierte Tutorial behandelt die folgenden Themen:
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=774">
-      <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
+      <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
@@ -100,7 +101,7 @@ Dieses detaillierte Tutorial behandelt die folgenden Themen:
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=898">
-      <img alt="Bild schnell weiterleiten" src="../assets/Stepforward_18.png" />
+      <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>

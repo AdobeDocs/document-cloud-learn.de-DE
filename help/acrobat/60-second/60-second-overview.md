@@ -1,12 +1,13 @@
 ---
 title: Überblick über Acrobat (60 Sekunden)
-description: Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen neuen Trick in Acrobat erlernen.
+description: Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen neuen Trick in Acrobat erlernen - in maximal einer Minute.
+feature: Accessibility, Edit PDF, Create PDF, Convert PDF, Optimize PDF, Sign, Security, Share, Collaboration
 role: User
 level: Beginner, Intermediate
-thumbnail: KT-8493.jpg
 jira: KT-8493
+thumbnail: KT-8493.jpg
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
@@ -17,7 +18,7 @@ ht-degree: 0%
 
 ![60-Sekunden-Acrobat-Bild](../assets/Hero-60sec.png)
 
-Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen neuen Trick in Acrobat lernen - in maximal einer Minute. Diese aufgabenbasierten Tipps helfen Ihnen, sich neue Fertigkeiten für die Arbeit mit PDF-Dateien anzueignen, indem Sie einige der versteckten Edelsteine von Acrobat entsperren. Ihr könnt euch ein Video ansehen, um eine schnelle Antwort zu erhalten, oder fünf Videos ansehen, um die Produktivität eures Dokuments zu steigern - und habt trotzdem noch Zeit, eure Kaffeepause zu genießen.
+Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen neuen Trick in Acrobat erlernen - in maximal einer Minute. Diese aufgabenbasierten Tipps helfen Ihnen, sich neue Fertigkeiten für die Arbeit mit PDF-Dateien anzueignen, indem Sie einige der versteckten Edelsteine von Acrobat entsperren. Ihr könnt euch ein Video ansehen, um eine schnelle Antwort zu erhalten, oder fünf Videos ansehen, um die Produktivität eures Dokuments zu steigern - und habt trotzdem noch Zeit, eure Kaffeepause zu genießen.
 
 ## 60-Sekunden-Tutorials zu Acrobat
 
@@ -79,12 +80,12 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
   </td>
   <td>
     <a href="editgraphic.md">
-      <img alt="Bearbeiten einer Grafik auf dem PDF" src="../assets/60sec_Editgraphic_1280.jpg" />
+      <img alt="Grafiken auf dem PDF bearbeiten." src="../assets/60sec_Editgraphic_1280.jpg" />
     </a>
     <div>
-    <a href="editgraphic.md"><strong>Bearbeiten einer Grafik auf dem PDF</strong></a>
+    <a href="editgraphic.md"><strong>Grafiken auf dem PDF bearbeiten.</strong></a>
     </div>
-    <em>Erweiterte Grafikbearbeitung auf dem PDF mit Illustrator</em>
+    <em>Erweiterte Bearbeitungsoptionen für Grafiken auf dem PDF auf dem Illustrator kennenlernen</em>
     <br>
   </td>
   <td>
@@ -173,10 +174,10 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
   </td>
   <td>
     <a href="wordform.md">
-      <img alt="Word-Datei einschließlich Formularfeldern in PDF konvertieren" src="../assets/60sec_Wordform_1280.jpg" />
+      <img alt="Word-Dokumente einschließlich Formularfelder in PDF-Dateien konvertieren" src="../assets/60sec_Wordform_1280.jpg" />
     </a>
     <div>
-     <a href="wordform.md"><strong>Word-Datei einschließlich Formularfeldern in PDF konvertieren</strong></a>
+     <a href="wordform.md"><strong>Word-Dokumente einschließlich Formularfelder in PDF-Dateien konvertieren</strong></a>
     </div>
     <em>Word-Dateien und -Formulare in PDF konvertieren und automatisch Formularfelder erstellen</em>
     <br>
@@ -195,12 +196,12 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
 <tr>
   <td>
     <a href="phone.md">
-      <img alt="PPT- in PDF-Dateien umwandeln" src="../assets/60sec_Phone_1280.jpg" />
+      <img alt="PPT- in PDF-Dateien umwandeln - auf dem Smartphone." src="../assets/60sec_Phone_1280.jpg" />
     </a>
     <div>
-    <a href="phone.md"><strong>PPT- in PDF-Dateien umwandeln</strong></a>
+    <a href="phone.md"><strong>PPT- in PDF-Dateien umwandeln - auf dem Smartphone.</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie eine E-Mail-PowerPoint-Anlage auf Ihrem Smartphone in einen PDF-Anhang konvertieren.</em>
+    <em>Erfahren Sie, wie Sie eine E-Mail-PowerPoint-Anlage auf Ihrem Smartphone in einen PDF-Anhang konvertieren</em>
     <br>
   </td>
   <td>
@@ -279,7 +280,7 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
     <div>
     <a href="redaction.md"><strong>Schwärzung: Der richtige Weg</strong></a>
     </div>
-    <em>Vertrauliche Informationen richtig von einem PDF entfernen</em>
+    <em>Entdecken Sie die richtige Methode zum Entfernen vertraulicher Informationen von einem PDF</em>
     <br>
   </td>
   <td>
@@ -295,16 +296,16 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
 </tr>
 </table>
 
-## Freigabe und Überprüfung.
+## Freigeben und überprüfen.
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="share-comment.md">
-      <img alt="PDF zum Kommentieren freigeben" src="../assets/60sec_sharecomment.png" />
+      <img alt="PDF zum Kommentieren freigeben." src="../assets/60sec_sharecomment.png" />
     </a>
     <div>
-    <a href="share-comment.md"><strong>PDF zum Kommentieren freigeben</strong></a>
+    <a href="share-comment.md"><strong>PDF zum Kommentieren freigeben.</strong></a>
     </div>
     <em>Lernen Sie, wie Sie eine PDF freigeben, um schnell Feedback von mehreren Personen in einer einzigen Datei zu erhalten</em>
     <br>
@@ -321,10 +322,10 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
   </td>
   <td>
     <a href="summarize-comments.md">
-      <img alt="Wrangling PDF Kommentare mit Zusammenfassen" src="../assets/60sec_summarize.png" />
+      <img alt="PDF-Kommentare mit &quot;Zusammenfassen&quot; umreißen" src="../assets/60sec_summarize.png" />
     </a>
     <div>
-    <a href="summarize-comments.md"><strong>Wrangling PDF Kommentare mit Zusammenfassen</strong></a>
+    <a href="summarize-comments.md"><strong>PDF-Kommentare mit "Zusammenfassen" umreißen</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie eine Zusammenfassung aller Kommentare und Markierungen in Ihrer PDF-Datei erstellen.</em>
     <br>
@@ -385,12 +386,12 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
 <tr>
   <td>
     <a href="compare.md">
-      <img alt="Unterschiede mit PDF Vergleichen erkennen" src="../assets/60sec_compare.png" />
+      <img alt="Unterschiede beim PDF-Vergleich erkennen" src="../assets/60sec_compare.png" />
     </a>
     <div>
-     <a href="compare.md"><strong>Unterschiede mit PDF Vergleichen erkennen</strong></a>
+     <a href="compare.md"><strong>Unterschiede beim PDF-Vergleich erkennen</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie die Unterschiede zwischen zwei PDF-Dateien erkennen, indem Sie das Tool "Dateien vergleichen" in Acrobat verwenden</em>
+    <em>Erfahren Sie, wie Sie die Unterschiede zwischen zwei PDF-Dateien mit dem Werkzeug "Dateien vergleichen" in Acrobat ermitteln.</em>
     <br>
   </td>
  <td>
@@ -400,7 +401,7 @@ Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen
     <div>
      <a href="search.md"><strong>Mehrere PDF-Dateien gleichzeitig durchsuchen</strong></a>
     </div>
-    <em>Starten Sie eine Suche in einer PDF-Datei, öffnen Sie die erweiterte Suche und suchen Sie einen ganzen Ordner mit PDF-Dateien</em>
+    <em>Starten Sie eine Suche in einer PDF-Datei, öffnen Sie dann die erweiterte Suche und suchen Sie einen ganzen Ordner mit PDF-Dateien</em>
     <br>
   </td>
   <td>

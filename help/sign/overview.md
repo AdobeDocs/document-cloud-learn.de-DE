@@ -1,12 +1,13 @@
 ---
 title: Acrobat Sign Tutorials
 description: Eine Sammlung von Tutorials, Webinaren und Use Cases, die entwickelt wurden, um sowohl Anfänger als auch Administratoren schnell auf den neuesten Stand zu bringen
+feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 role: User, Admin
 level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 5%
@@ -17,7 +18,7 @@ ht-degree: 5%
 
 ![Acrobat Sign Hero Image](assets/Hero_Sign.jpg)
 
-Acrobat Sign, eine Lösung für Adobe Document Cloud, lässt sich mit Integrationen, APIs, erweiterter Authentifizierung, zusätzlichen Verwaltungsfunktionen und mehr an die Anforderungen Ihres Unternehmens anpassen. Hier finden Sie eine Vielzahl von Lernerlebnissen, die sowohl Anfänger als auch Administratoren schnell auf den neuesten Stand bringen, wenn es um Acrobat Sign geht.
+Acrobat Sign, eine Lösung für Adobe Document Cloud, lässt sich mit Integrationen, APIs, erweiterter Authentifizierung, zusätzlichen Verwaltungsfunktionen und mehr an die Anforderungen Ihres Unternehmens anpassen. Hier finden Sie eine Vielzahl von Lernerfahrungen, die sowohl Anfänger als auch Administratoren schnell auf den neuesten Stand bringen sollen.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -42,7 +43,7 @@ Acrobat Sign, eine Lösung für Adobe Document Cloud, lässt sich mit Integratio
   </td>  
   <td>
     <a href="admin/intro-admin-overview.md">
-      <img alt="verwalten" src="assets/AS_Title_Administer.png" />
+      <img alt="verabreichen" src="assets/AS_Title_Administer.png" />
     </a>
   </td>
   <td>

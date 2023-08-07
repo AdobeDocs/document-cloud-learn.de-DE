@@ -1,6 +1,7 @@
 ---
 title: Erinnerungen mithilfe des Acrobat Sign für Salesforce- und Marketo-Konfigurationshandbuchs senden
 description: Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung von Marketo senden, wenn ein Vertrag nach einer bestimmten Zeit nicht signiert wurde.
+feature: Integrations
 role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
@@ -9,7 +10,7 @@ jira: KT-7248
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '953'
 ht-degree: 1%
@@ -24,11 +25,11 @@ Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung von Marketo senden, wenn ein V
 
 1. Installieren Sie Marketo Salesforce Sync.
 
-   Informationen und das neueste Plug-in für Salesforce Sync sind verfügbar [hier.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+   Informationen und das neueste Plug-in für Salesforce Sync sind verfügbar [hier verfügbar.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
 1. Installieren Sie Acrobat Sign für Salesforce.
 
-   Informationen zu diesem Plug-in sind verfügbar [hier.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
+   Informationen zu diesem Plug-in sind verfügbar [hier verfügbar.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 ## Benutzerdefiniertes Objekt suchen
 
@@ -96,15 +97,15 @@ Auf der rechten Seite finden Sie weitere Informationen unter Lead-, Kontakt- und
 
    ![Neues Programm 2](assets/newProgram2.png)
 
-1. Klicken Sie auf **Meine Tokens** und ziehen Sie  **E-Mail-Skript** auf die Arbeitsfläche.
+1. Klicken Sie auf **Meine Tokens** und ziehen Sie dann  **Email Script** auf die Arbeitsfläche.
 
-   ![E-Mail-Skript](assets/emailScript.png)
+   ![Email Script](assets/emailScript.png)
 
-1. Geben Sie einen Namen ein, und klicken Sie auf **Klicken, um zu bearbeiten**.
+1. Geben Sie einen Namen ein, und klicken Sie dann auf **Klicken, um zu bearbeiten**.
 
    ![Benennen und bearbeiten](assets/nameAndSave.png)
 
-1. Erweitern **Benutzerdefinierte Objekte** auf der rechten Seite, und erweitern Sie dann die **Vereinbarung** Objekt. Suchen Sie den Vereinbarungsnamen, den Vereinbarungsstatus, das Signaturdatum und die Signatur-URL und ziehen Sie sie auf die Arbeitsfläche.
+1. Erweitern **Benutzerdefinierte Objekte** auf der rechten Seite, und erweitern Sie dann die **Vereinbarung** Objekt. Suchen Sie den Vereinbarungsnamen, den Vereinbarungsstatus, das Datum der Signatur und die Signatur-URL und ziehen Sie sie auf die Arbeitsfläche.
 
 1. Schreiben Sie ein Velocity -Skript mit diesen Token, um die Vereinbarungs-URL einer Vereinbarung anzuzeigen, die eine Woche lang nicht signiert wurde. Hier ist ein Beispiel, das das aktuelle Datum mit dem Sendedatum vergleicht:
 
@@ -136,9 +137,9 @@ Auf der rechten Seite finden Sie weitere Informationen unter Lead-, Kontakt- und
 
 ## Erinnerung erstellen und Personalisierung hinzufügen
 
-Beispiele für die Personalisierung: den Namen des Unterzeichners, den Namen der Vereinbarung, einen Link zur Vereinbarung usw.
+Beispiele für die Personalisierung: der Name des Unterzeichners, der Name der Vereinbarung, ein Link zur Vereinbarung usw.
 
-1. Klicken Sie mit der rechten Maustaste auf das von Ihnen erstellte Programm, und klicken Sie auf **Neues lokales Element** und wählen Sie dann **Email**.
+1. Klicken Sie mit der rechten Maustaste auf das Programm, das Sie erstellt haben, und klicken Sie auf **Neues lokales Element** und wählen Sie dann **Email**.
 
    ![Neue E-Mail](assets/createNewEmail.png)
 
@@ -148,7 +149,7 @@ Beispiele für die Personalisierung: den Namen des Unterzeichners, den Namen der
 
 1. Legen Sie die **Von Name** und **Von Adresse**.
 
-   ![Erinnerungs-E-Mail](assets/reminderEmail.png)
+   ![Erinnerungs-Mail](assets/reminderEmail.png)
 
 1. Klicken Sie auf den Nachrichtentext, um den Editor zu aktivieren. Klicken Sie auf die Schaltfläche **Token einfügen** das von Ihnen erstellte benutzerdefinierte Vereinbarungs-URL-Token und klicken Sie auf **Einfügen**. Passen Sie Ihre E-Mail-Adresse an und klicken Sie auf **Speichern**.
 
@@ -156,11 +157,11 @@ Beispiele für die Personalisierung: den Namen des Unterzeichners, den Namen der
 
 1. Vorschau mit einem Profil, dem eine Vereinbarung zugewiesen ist. Sie sollten einen Link zur URL mit dem Vereinbarungsnamen als Beschriftung sehen.
 
-   ![E-Mail-Link](assets/emailLink.png)
+   ![E-Mail](assets/emailLink.png)
 
 ## Einrichten des Smart Campaign-Filters
 
-1. Klicken Sie mit der rechten Maustaste auf das von Ihnen erstellte Programm, und klicken Sie dann auf **Neue Smart Campaign**.
+1. Klicken Sie mit der rechten Maustaste auf das Programm, das Sie erstellt haben, und klicken Sie dann auf **Neue Smart Campaign**.
 
    ![Smart Campaign 1](assets/smartCampaign1.png)
 
@@ -192,9 +193,9 @@ Weil der Kampagnenfilter **Tage ohne Vorzeichen** verwendet wurde, können Sie e
 
    ![E-Mail senden](assets/sendEmail.png)
 
-1. Klicken Sie auf die Schaltfläche **Planen** in der Smart Campaign. Stellen Sie sicher, dass der Kampagnen-Flow auf nur einmal pro Person im **Smart Campaign-Einstellungen**. Klicken Sie dann auf die Schaltfläche **Wiederholung planen** &quot; ändern.
+1. Klicken Sie auf die Schaltfläche **Planen** in der Smart Campaign. Stellen Sie sicher, dass der Kampagnen-Flow auf nur einmal pro Person im **Smart Campaign-Einstellungen**. Klicken Sie dann auf die Schaltfläche **Wiederkehrende planen** &quot; ändern.
 
-   ![Registerkarte Zeitplan](assets/scheduleTab.png)
+   ![Registerkarte &quot;Zeitplan&quot;](assets/scheduleTab.png)
 
 1. Legen Sie die **Planen** Wählen Sie für &quot;Täglich&quot; einen Starttag und eine Startzeit sowie bei Bedarf ein Enddatum für die Kampagne aus.
 

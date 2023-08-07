@@ -1,11 +1,12 @@
 ---
 title: Unterschiede beim PDF-Vergleich erkennen
-description: Erfahren Sie, wie Sie die Unterschiede zwischen zwei PDF-Dateien erkennen, indem Sie das Tool "Dateien vergleichen" in Acrobat verwenden
+description: Erfahren Sie, wie Sie die Unterschiede zwischen zwei PDF-Dateien mit dem Werkzeug "Dateien vergleichen" in Acrobat ermitteln.
+feature: Edit PDF
 role: User
 level: Intermediate
 jira: KT-13297
 exl-id: aeddfbba-e5c6-4a4d-a187-6b925d8a31af
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%

@@ -2,8 +2,10 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
+feature-set: Document Cloud
 role: User
-source-git-commit: 85caa620f614721a98efa499f2fac6f1acd0248e
+type: Tutorial
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 6%
@@ -22,20 +24,20 @@ ht-degree: 6%
    + [Unterwegs produktiv sein.](getting-started/productivity.md)
    + [Arbeiten mit [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Woher kommen die PDF?](getting-started/where-do-pdfs-come-from.md)
-   + [PDF erstellen](getting-started/create-pdf.md)
+   + [Erstellen einer PDF](getting-started/create-pdf.md)
    + [Combine Files auf PDF](getting-started/combine-to-pdf.md)
    + [Seiten organisieren](getting-started/organize.md)
    + [Benutzerdefinierte Seite hinzufügen](getting-started/add-custom-page.md)
    + [Bearbeiten einer PDF-Datei](getting-started/edit-pdf.md)
    + [Layout automatisch anpassen](getting-started/auto-adjust-layout.md)
    + [Exportieren einer PDF in bearbeitbare Formate](getting-started/export-pdf.md)
-   + [In Echtzeit zusammenarbeiten](getting-started/collaborate.md)
+   + [In Echtzeit zusammenarbeiten.](getting-started/collaborate.md)
    + [Auf einem PDF kommentieren](getting-started/comment-on-pdf-files.md)
    + [Ausfüllbares Formular erstellen](getting-started/create-fillable-forms.md)
    + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
    + [Scannen und OCR](getting-started/scan-and-ocr.md)
    + [Protect einer PDF-Datei mit einem Kennwort](getting-started/password-protect.md)
-   + [Unterschriften einholen](getting-started/signatures.md)
+   + [Unterschriften einholen.](getting-started/signatures.md)
    + [Dokumente verfolgen](getting-started/track.md)
 + Erweiterte Aufgaben {#advanced-tasks}
    + [Überblick](advanced-tasks/advanced-tasks-overview.md)
@@ -67,27 +69,27 @@ ht-degree: 6%
    + [Dateien auf einer PDF zusammenführen](60-second/combine-to-one-pdf.md)
    + [Seiten schnell organisieren.](60-second/organize.md)
    + [Ein Foto auf dem PDF bearbeiten.](60-second/editphoto.md)
-   + [Bearbeiten einer Grafik auf dem PDF](60-second/editgraphic.md)
+   + [Grafiken auf dem PDF bearbeiten.](60-second/editgraphic.md)
    + [PDF in Word umwandeln](60-second/convert-pdf-word.md)
    + [PDF in Excel konvertieren](60-second/convert-pdf-excel.md)
    + [PDF in PowerPoint umwandeln](60-second/convert-pdf-powerpoint.md)
    + [Export PDF zu Word auf dem Smartphone.](60-second/exportwordphone.md)
    + [PDF aus Microsoft Word erstellen](60-second/word-to-pdf.md)
    + [Erstellen von PDF-Dateien mit Acrobat](60-second/create-from-acrobat.md)
-   + [Word-Datei einschließlich Formularfeldern in PDF konvertieren](60-second/wordform.md)
+   + [Word-Dokumente einschließlich Formularfelder in PDF-Dateien konvertieren](60-second/wordform.md)
    + [PDF mit wenigen Klicks erstellen](60-second/photo.md)
-   + [PPT- in PDF-Dateien umwandeln](60-second/phone.md)
+   + [PPT- in PDF-Dateien umwandeln - auf dem Smartphone.](60-second/phone.md)
    + [Effizienteres PDF von Dateien mit wenigen Klicks](60-second/optimize.md)
    + [Papierdokument elektronisch unterschreiben](60-second/sign.md)
    + [Protect Ihrer PDF-Dateien mit einem Kennwort](60-second/protect.md)
    + [Schwärzung: Der richtige Weg](60-second/redaction.md)
    + [Für Kommentare freigeben](60-second/share-comment.md)
    + [Freigeben und Kommentieren von PDF-Dateien in Teams](60-second/share-comment-teams.md)
-   + [Wrangling PDF Kommentare mit Zusammenfassen](60-second/summarize-comments.md)
+   + [PDF-Kommentare mit &quot;Zusammenfassen&quot; umreißen](60-second/summarize-comments.md)
    + [PDF-Kommentare in InDesign laden](60-second/indesign.md)
    + [Acrobat macht barrierefreie PDF](60-second/accessible.md)
    + [PDF einem Standardformat anpassen](60-second/conform.md)
-   + [Unterschiede mit PDF Vergleichen erkennen](60-second/compare.md)
+   + [Unterschiede beim PDF-Vergleich erkennen](60-second/compare.md)
    + [Mehrere PDF-Dateien gleichzeitig durchsuchen](60-second/search.md)
 + Skill Builders {#skill-builders}
    + [Schulungsvideos (in englischer Sprache)](skill-builder/skill-builder-webinars.md)
@@ -96,7 +98,7 @@ ht-degree: 6%
    + [PDF erstellen aus [!DNL Microsoft Word]](integrate/createfromword.md)
    + [PDF erstellen in [!DNL Office] für das Web](integrate/createofficeweb.md)
    + [PDF-Zusammenarbeit in [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
-   + [Arbeite mit deinen [!DNL SharePoint] files](integrate/acrobatandsp.md)
+   + [Mit Ihrem [!DNL SharePoint] files](integrate/acrobatandsp.md)
    + [E-Mail-Nachrichten und Anhänge in PDF-Dateien konvertieren [!DNL Outlook]](integrate/outlook.md)
    + [Erstellen Sie PDF-Inhalte beim Durchsuchen mit [!DNL Microsoft Edge]](integrate/edge.md)
    + [Protect PDF mit [!DNL Microsoft Purview Information] Sensitivitätskennzeichen](integrate/microsoftsensitivitylabels.md)
@@ -110,7 +112,7 @@ ht-degree: 6%
          + [5 Tipps für Produktivität an jedem Ort mit Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [Tipp #1 - Tools herunterladen](industry/gov/get-your-tools.md)
          + [Tipp #2 - Zusammenarbeit an Dokumenten](industry/gov/collaborate-on-documents.md)
-         + [Tipp #3 - Digitale Protect-Dokumente](industry/gov/protect-digital-documents.md)
+         + [Tipp #3: Digitale Protect-Dokumente.](industry/gov/protect-digital-documents.md)
          + [Tipp #4 - Arbeiten Sie mit Formularen und Signaturen](industry/gov/work-with-forms-and-signatures.md)
          + [Tipp #5 - Scannen und Bearbeiten auf Mobilgeräten](industry/gov/scan-and-edit-on-mobile.md)
       + Barrierefreiheit {#pdfs}
@@ -118,12 +120,12 @@ ht-degree: 6%
          + [#1 - Erläuterungen zur Barrierefreiheit](industry/gov/understanding-accessibility.md)
          + [#2 - Authoring in Word](industry/gov/authoring-in-word.md)
          + [#3 - Fertigstellung in Acrobat](industry/gov/finishing-in-acrobat.md)
-         + [Zugänglichere PDF-Abstimmung](industry/gov/making-pdf-ballots-accessible.md)
+         + [Zugänglichere PDF-Abstimmungen](industry/gov/making-pdf-ballots-accessible.md)
 + entwickeln {#develop}
    + [Überblick](develop/develop-overview.md)
 + Bereitstellen {#deploy}
    + [Überblick](deploy/deploy-overview.md)
-   + [Wichtige Updates für Acrobat DC-Produkte für ETLA-Kunden](deploy/signentitlementchanges.md)
+   + [Wichtige Updates für Acrobat DC für ETLA-Kunden](deploy/signentitlementchanges.md)
 + Mobile Endgeräte {#mobile}
    + [Überblick](mobile/mobile-overview.md)
    + [Unterwegs produktiv sein.](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)

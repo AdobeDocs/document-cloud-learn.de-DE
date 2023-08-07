@@ -1,12 +1,13 @@
 ---
 title: Combine Files auf einer einzigen PDF
 description: Kombinieren Sie viele verschiedene Dateitypen wie PDF, Word, Excel, PowerPoint oder JPEG zu einer einzigen PDF
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: 35452.jpg
 jira: KT-8254
+thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 3%
@@ -19,7 +20,7 @@ Für die Bereitstellung der besten Kundenerlebnisse müssen Inhalte schneller de
 
 >[!TIP]
 >
->Branding-Elemente hinzufügen [neue benutzerdefinierte Seite](add-custom-page.md) beim Kombinieren von Dateien.
+>Marken hinzufügen [neue benutzerdefinierte Seite](add-custom-page.md) beim Kombinieren von Dateien.
 
 <br> 
 

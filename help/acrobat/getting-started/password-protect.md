@@ -1,12 +1,13 @@
 ---
 title: Protect einer PDF-Datei mit einem Kennwort
 description: Hier erfahren Sie, wie Sie ein Kennwort zu Ihrem PDF hinzufügen, um andere vor dem Öffnen oder Bearbeiten der Datei zu schützen.
+feature: Security
 role: User
 level: Beginner
-thumbnail: 35497.jpg
 jira: KT-5532
+thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 11%
@@ -15,7 +16,7 @@ ht-degree: 11%
 
 # Protect einer PDF-Datei mit einem Kennwort
 
-Erfahren Sie, wie Sie [Hinzufügen eines Kennworts zu Ihrer PDF](https://www.adobe.com/de/acrobat/online/password-protect-pdf.html){target="_blank"} to protect others from opening or [editing the PDF file](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target="_blank"}.
+Erfahren Sie, [Hinzufügen eines Kennworts zu Ihrer PDF](https://www.adobe.com/de/acrobat/online/password-protect-pdf.html){target="_blank"} to protect others from opening or [editing the PDF file](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target="_blank"}.
 
 >[!TIP]
 >

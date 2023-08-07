@@ -1,12 +1,13 @@
 ---
 title: Seiten organisieren
 description: Auf dem PDF können Sie Seiten hinzufügen, ersetzen, extrahieren, drehen, löschen und neu anordnen.
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-6832.jpg
 jira: KT-6832
+thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 30%
@@ -19,7 +20,7 @@ Für die Bereitstellung der besten Kundenerlebnisse müssen Inhalte schneller de
 
 >[!TIP]
 >
->Branding-Elemente hinzufügen [neue benutzerdefinierte Seite](add-custom-page.md) beim Organisieren von Seiten.
+>Marken hinzufügen [neue benutzerdefinierte Seite](add-custom-page.md) beim Organisieren von Seiten.
 
 <br> 
 

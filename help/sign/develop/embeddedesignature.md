@@ -1,6 +1,7 @@
 ---
-title: Erstellen eingebetteter Erlebnisse mit elektronischen Unterschriften und Dokumenten
+title: Eingebettete E-Signaturen und Dokumentenerlebnisse erstellen
 description: Erfahrt, wie ihr mit Acrobat Sign-APIs Erlebnisse für elektronische Unterschriften und Dokumente in eure Web-Plattformen sowie Content- und Dokumentenmanagementsysteme einbettet.
+feature: Integrations, Workflow
 role: Developer
 level: Intermediate
 topic: Integrations
@@ -8,7 +9,7 @@ jira: KT-7489
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 2%
@@ -17,9 +18,9 @@ ht-degree: 2%
 
 # Integrierte Erlebnisse für elektronische Unterschriften und Dokumente erstellen
 
-Erfahrt, wie ihr mit Acrobat Sign-APIs Erlebnisse für elektronische Unterschriften und Dokumente in eure Web-Plattformen sowie Content- und Dokumentenmanagementsysteme einbettet. Dieses praktische Tutorial besteht aus vier Teilen.
+Erfahrt, wie ihr mit Acrobat Sign-APIs Erlebnisse für elektronische Unterschriften und Dokumente in eure Web-Plattformen sowie in Content- und Dokumentenmanagementsysteme einbettet. Dieses praktische Tutorial besteht aus vier Teilen.
 
-## Teil 1: Was Sie benötigen
+## Teil 1: Was du brauchst
 
 Im ersten Teil lernst du, wie du mit allem anfängst, was du für die Teile 2-4 brauchst. Wir beginnen mit dem Abrufen von API-Zugangsberechtigungen.
 
@@ -36,9 +37,9 @@ Im ersten Teil lernst du, wie du mit allem anfängst, was du für die Teile 2-4 
 
 +++
 
-## Teil 2: Wenig oder kein Code - die Leistungsfähigkeit von Webformularen
+## Teil 2: Wenig Code/kein Code - die Leistungsfähigkeit von Webformularen
 
-Im zweiten Teil des Tutorials lernst du die Optionen kennen, mit denen du Web-Formulare mit wenig oder ohne Code ausfüllen kannst. Es ist immer eine gute Idee zu sehen, ob man es vermeiden kann, zuerst Code zu schreiben.
+Im zweiten Teil des Tutorials lernst du die Optionen kennen, mit denen du Web-Formulare mit wenig oder ohne Code ausfüllen kannst. Es ist immer eine gute Idee, zu sehen, ob man es vermeiden kann, zuerst Code zu schreiben.
 
 +++Anzeigen von Details zum Erstellen eines Webformulars
 
@@ -46,9 +47,9 @@ Im zweiten Teil des Tutorials lernst du die Optionen kennen, mit denen du Web-Fo
 
 1. Auswählen **Webformular veröffentlichen** auf der Startseite.
 
-   ![Screenshot Acrobat Sign Homepage](assets/embeddedesignature/embed_1.png)
+   ![Screenshot Acrobat Sign Startseite](assets/embeddedesignature/embed_1.png)
 
-1. Vereinbarung erstellen
+1. Vereinbarung erstellen.
 
    ![Screenshot der Erstellung eines Webformulars](assets/embeddedesignature/embed_2.png)
 
@@ -68,7 +69,7 @@ Im dritten Teil werden Vereinbarungen dynamisch erstellt.
 
 Zuerst müssen Sie den Zugriff einrichten. Mit Acrobat Sign gibt es zwei Möglichkeiten, eine Verbindung über API herzustellen. OAuth-Token und Integrationsschlüssel. Sofern Sie nicht einen ganz bestimmten Grund haben, OAuth mit Ihrer Anwendung zu verwenden, sollten Sie zuerst die Integrationsschlüssel überprüfen.
 
-1. Auswählen **Integrationsschlüssel** im Fenster &quot; **API-Informationen** unter dem Menü **Konto** in Acrobat Sign.
+1. Auswählen **Integrationsschlüssel** im Fenster &quot; **API-Informationen** unter dem Menüpunkt **Konto** &quot; in Acrobat Sign an.
 
    ![Screenshot des Speicherorts für den Integrationsschlüssel](assets/embeddedesignature/embed_4.png)
 
@@ -92,13 +93,13 @@ Um Ihre erste Vereinbarung zu senden, sollten Sie wissen, wie Sie die API verwen
 
 ![Screenshot der Erstellung eines temporären Dokuments](assets/embeddedesignature/embed_7.png)
 
-Nachdem Sie eine Vereinbarung zum ersten Mal gesendet haben, können Sie die Logik hinzufügen. Es ist immer eine gute Idee, ein paar Helfer einzurichten, um Wiederholungen zu minimieren. Hier einige Beispiele:
+Nachdem Sie eine Vereinbarung zum ersten Mal gesendet haben, können Sie die Logik hinzufügen. Es ist immer eine gute Idee, ein paar Helfer einzurichten, um Wiederholungen zu minimieren. Im Folgenden finden Sie einige Beispiele:
 
 **Überprüfung**
 
 ![Screenshot der Validierungslogik](assets/embeddedesignature/embed_8.png)
 
-**Kopfzeilen/Authentifizierung**
+**Kopfzeilen/Auth**
 
 ![Screenshot der Kopfzeilen/Authentifizierungslogik](assets/embeddedesignature/embed_9.png)
 
@@ -111,7 +112,7 @@ Transient -> Vereinbarungsverzögerung -> Vorlage -> Vereinbarungsverzögerung -
 
 In diesem Beispiel wird eine Vorlage als Dokumentquelle verwendet. Dies ist in der Regel der beste Weg, es sei denn, Sie haben einen guten Grund, Dokumente dynamisch zum Signieren zu generieren (z. B. älterer Code oder Dokumentgenerierung).
 
-Der Code ist recht einfach. Es verwendet ein Bibliotheksdokument (Vorlage) als Dokumentquelle. Der erste und der zweite Unterzeichner werden dynamisch zugewiesen. Die `IN_PROCESS` Status bedeutet, dass das Dokument sofort gesendet wird. Außerdem `mergeFieldInfo` wird zum dynamischen Ausfüllen von Feldern verwendet.
+Der Code ist recht einfach. Er verwendet ein Bibliotheksdokument (Vorlage) als Dokumentquelle. Der erste und der zweite Unterzeichner werden dynamisch zugewiesen. Die `IN_PROCESS` Status bedeutet, dass das Dokument sofort gesendet wird. Außerdem `mergeFieldInfo` wird zum dynamischen Ausfüllen von Feldern verwendet.
 
 ![Screenshot des Codes zum dynamischen Hinzufügen von Signaturen](assets/embeddedesignature/embed_11.png)
 
@@ -119,7 +120,7 @@ Der Code ist recht einfach. Es verwendet ein Bibliotheksdokument (Vorlage) als D
 
 ## Teil 4: Einbetten von Signaturerlebnissen, Umleitungen und mehr
 
-In vielen Fällen möchten Sie möglicherweise zulassen, dass der auslösende Teilnehmer eine Vereinbarung sofort unterzeichnet. Dies ist nützlich für kundenorientierte Anwendungen und Terminals.
+In vielen Fällen möchten Sie möglicherweise zulassen, dass der auslösende Teilnehmer eine Vereinbarung sofort signiert. Dies ist nützlich für kundenorientierte Anwendungen und Terminals.
 
 +++Details zur Einbettung des Signiererlebnisses anzeigen
 
@@ -141,7 +142,7 @@ Nach dem Aktualisieren des Vereinbarungserstellungsprozesses wird im letzten Sch
 
 ![Screenshot, der besagt, dass es Best Practice ist, eine Wiederholungsschleife einzurichten](assets/embeddedesignature/embed_15.png)
 
-Wenn alles zusammengestellt ist, ist die Lösung ziemlich einfach. Sie treffen eine Vereinbarung und generieren dann eine Signatur-URL, auf die der Unterzeichner klicken und das Signaturritual beginnen kann.
+Wenn alles zusammengestellt ist, ist die Lösung ziemlich einfach. Sie treffen eine Vereinbarung und generieren dann eine Signatur-URL, auf die der Unterzeichner klicken und mit dem Signaturritual beginnen kann.
 
 +++
 
@@ -158,4 +159,4 @@ Wenn alles zusammengestellt ist, ist die Lösung ziemlich einfach. Sie treffen e
 
      ![Screenshot der Navigation zu Power Automate](assets/embeddedesignature/embed_16.png)
 
-   * Oder fügen Sie eine [während des Fluges](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)
+   * Oder fügen Sie einen hinzu [während des Fluges](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)

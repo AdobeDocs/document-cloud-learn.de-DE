@@ -1,19 +1,20 @@
 ---
 title: PPT- in PDF-Dateien umwandeln
-description: Erfahren Sie, wie Sie eine E-Mail-PowerPoint-Anlage auf Ihrem Smartphone in einen PDF-Anhang konvertieren.
+description: Erfahren Sie, wie Sie eine E-Mail-PowerPoint-Anlage auf Ihrem Smartphone in einen PDF-Anhang konvertieren
+feature: Convert PDF, Mobile
 role: User
 level: Beginner
-thumbnail: KT-8576.jpg
 jira: KT-8576
+thumbnail: KT-8576.jpg
 exl-id: 8d927cd6-f944-45b7-81c9-4f70e1ed5276
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 4%
 
 ---
 
-# PPT- in PDF-Dateien umwandeln
+# PPT- in PDF-Dateien umwandeln - auf dem Smartphone.
 
 In diesem 60-Sekunden-Video-Tutorial erfahren Sie, wie Sie eine E-Mail konvertieren [PowerPoint-Anbindung an PDF](https://www.adobe.com/de/acrobat/online/ppt-to-pdf.html){target="_blank"} auf deinem Smartphone. Wenn die Datei zurückkehrt, können Sie sie anzeigen und auf Freigeben tippen, um sie an Ihr Team zu senden - ohne PowerPoint auf Ihrem Smartphone zu haben.
 

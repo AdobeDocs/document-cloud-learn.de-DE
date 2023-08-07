@@ -1,12 +1,13 @@
 ---
 title: Acrobat Accessibility-Reihe
 description: On-Demand-Barrierefreiheitsserie in sechs Sitzungen
+feature: Accessibility
 role: User
 level: Experienced
-thumbnail: KT-8364.jpg
 jira: KT-8364
+thumbnail: KT-8364.jpg
 exl-id: f56fb6f4-bbb8-4698-bc19-047d9245c2ff
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -15,9 +16,9 @@ ht-degree: 0%
 
 # Acrobat Accessibility-Reihe
 
-![Abbildung der Acrobat-Serie für Barrierefreiheit](../assets/Hero_Accessibility.png)
+![Abbildung der Acrobat-Serie &quot;Barrierefreiheit&quot;](../assets/Hero_Accessibility.png)
 
-In dieser sechsteiligen On-Demand-Webinar-Reihe lernen Sie nicht nur die Grundlagen der Barrierefreiheit kennen, sondern lernen auch, wie Sie Ihre PDF-Dateien mit Tags versehen. Jede Session enthält Übungsdateien, die das Tutorial nachvollziehen.
+In dieser sechsteiligen On-Demand-Webinar-Reihe lernen Sie nicht nur die Grundlagen der Barrierefreiheit kennen, sondern lernen auch, wie Sie Ihre PDF-Dateien mit Tags versehen. Jede Session enthält Übungsdateien, die das Tutorial nachvollziehen sollen.
 
 <table style="table-layout:fixed">
 <tr>
@@ -48,7 +49,7 @@ In dieser sechsteiligen On-Demand-Webinar-Reihe lernen Sie nicht nur die Grundla
     <div>
     <a href="accessibilitysession3.md"><strong>Komplexe Tabellen</strong></a>
     </div>
-    <em>In dieser On-Demand-Session wird eines der häufigsten und schwierigeren Probleme bei der Behebung einer PDF für Barrierefreiheit behandelt - komplexe Tabellen</em>
+    <em>Diese On-Demand-Session behandelt eines der häufigsten und schwierigeren Probleme bei der Behebung eines PDF für Barrierefreiheit - komplexe Tabellen</em>
     <br>
   </td>
 </tr>
@@ -80,7 +81,7 @@ In dieser sechsteiligen On-Demand-Webinar-Reihe lernen Sie nicht nur die Grundla
     <div>
     <a href="accessibilitysession6.md"><strong>Hinzufügen von Formularfeldern zu einem PDF ohne Tags</strong></a>
     </div>
-    <em>In dieser On-Demand-Session werden manuelle Formularfelder und zusätzliche Formularfeldeigenschaften erstellt.</em>
+    <em>Diese On-Demand-Session geht noch tiefer in die Erstellung manueller Formularfelder und zusätzlicher Formularfeldeigenschaften ein</em>
     <br>
   </td> 
 </tr>

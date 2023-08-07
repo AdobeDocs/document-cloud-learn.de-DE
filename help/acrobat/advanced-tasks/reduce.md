@@ -1,12 +1,13 @@
 ---
 title: Dateigröße reduzieren und optimieren
 description: Reduzierung großer Dateien und Optimierung Ihrer PDF ohne Qualitätseinbußen bei der Freigabe, Veröffentlichung oder Archivierung
+feature: Optimize PDF
 role: User
 level: Intermediate
-thumbnail: KT-6827.jpg
 jira: KT-6827
+thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
@@ -15,7 +16,7 @@ ht-degree: 0%
 
 # Dateigröße reduzieren und optimieren.
 
-Verringert den Wert großer Dateien, und optimiert eure PDF, ohne die Qualität beim Teilen, Posten oder Archivieren zu beeinträchtigen.
+Verringert den Wert großer Dateien, und optimiert eure PDF, ohne die Qualität beim Freigeben, Posten oder Archivieren zu beeinträchtigen.
 
 >[!NOTE]
 >
@@ -25,7 +26,7 @@ Verringert den Wert großer Dateien, und optimiert eure PDF, ohne die Qualität 
 
    ![Schritt 1 reduzieren](../assets/Reduce_1.png)
 
-1. Auswählen **[!UICONTROL Dateigröße reduzieren]** und wählen Sie aus, ob Sie eine einzelne oder mehrere Dateien reduzieren möchten.
+1. Auswählen **[!UICONTROL Dateigröße reduzieren]** , und wählen Sie aus, ob Sie eine einzelne oder mehrere Dateien reduzieren möchten.
 
    Die Datei wird auf die kleinstmögliche Größe reduziert, wobei die Qualität des Dokuments erhalten bleibt.
 
@@ -37,7 +38,7 @@ Verringert den Wert großer Dateien, und optimiert eure PDF, ohne die Qualität 
 
 1. Auswählen **[!UICONTROL Standard]** im Fenster &quot; **[!UICONTROL Einstellungen]** , um die Standardeinstellungen zu verwenden.
 
-   Wenn Sie Einstellungen im Dialogfeld &quot; **[!UICONTROL PDF Optimizer]** die Schaltfläche **Einstellungen** wechselt automatisch zu **Benutzerdefiniert**.
+   Wenn Sie Einstellungen im Dialogfeld &quot; **[!UICONTROL PDF Optimizer]** &quot; die Option **Einstellungen** wechselt automatisch zu **Benutzerdefiniert**.
 
 1. Auswählen **[!UICONTROL Vorhandene beibehalten]** im Fenster &quot; **[!UICONTROL Kompatibilität herstellen mit]** , um die aktuelle PDF-Version beizubehalten oder eine bestimmte Acrobat-Version auszuwählen.
 
@@ -45,7 +46,7 @@ Verringert den Wert großer Dateien, und optimiert eure PDF, ohne die Qualität 
 
    ![Schritt 5 reduzieren](../assets/Reduce_5.png)
 
-   Damit während der Optimierung nicht alle Optionen in einem Fenster ausgeführt werden, deaktivieren Sie das Kontrollkästchen für dieses Fenster.
+   Um zu verhindern, dass während der Optimierung alle Optionen in einem Fenster ausgeführt werden, deaktivieren Sie das Kontrollkästchen für dieses Fenster.
 
 1. **(Optional)** Auswählen **[!UICONTROL Speichern]** und geben Sie der aktuellen Einstellung einen Namen, um eine benutzerdefinierte Auswahl zu erstellen. Um eine gespeicherte Einstellung zu löschen, wählen Sie sie im Dialogfeld &quot; **Einstellungen** und wählen Sie **Löschen**.
 

@@ -1,20 +1,21 @@
 ---
 title: Zugänglichere PDF-Abstimmung
-description: Erfahren Sie mehr über die Schlüsselbereiche der Barrierefreiheit von PDF, die erforderlich sind, damit Benutzer von Hilfstechnologien wie Bildschirmlesesoftware ihre Stimmzettel lesen und ausfüllen können
+description: Erfahren Sie mehr über die Schlüsselbereiche der Barrierefreiheit von PDF, die erforderlich sind, damit Benutzer von Hilfstechnologien wie Bildschirmlesesoftware ihre Stimmzettel lesen und ausfüllen können.
+feature: Accessibility
 role: User
 level: Experienced
 topic-revisit: Accessibility
-thumbnail: KT-6817.jpg
 jira: KT-6817
+thumbnail: KT-6817.jpg
 exl-id: 3a8eff2f-1b39-4073-828e-18bfc5d89dd3
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
-# Zugänglichere PDF-Abstimmung
+# Zugänglichere PDF-Abstimmungen
 
 PDF-Stimmzettel, die elektronisch verfügbar sind, müssen für alle Wähler zugänglich und von ihnen nutzbar sein. Dieses Webinar behandelt die wichtigsten Bereiche der Barrierefreiheit von PDF, die notwendig sind, damit Benutzer von Hilfstechnologien wie Bildschirmlesesoftware ihre Stimmzettel lesen und ausfüllen können.
 

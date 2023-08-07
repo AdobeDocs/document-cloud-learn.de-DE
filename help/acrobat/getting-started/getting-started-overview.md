@@ -1,12 +1,13 @@
 ---
 title: Erste Schritte mit Acrobat
 description: In diesen kurzen Schritt-für-Schritt-Tutorials (1-2 Min.) erfahren Sie, wie Sie Adobe Acrobat verwenden.
+feature: Edit PDF, Create PDF, Convert PDF, Sign, Security, Share, Collaboration, Workspace
 role: User
 level: Beginner
-thumbnail: KT-6856.jpg
 jira: KT-6856
+thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '540'
 ht-degree: 5%
@@ -15,15 +16,15 @@ ht-degree: 5%
 
 # Übersicht über die ersten Schritte
 
-![Acrobat - Erste Schritte](../assets/Hero-GettingStarted.png)
+![Bild zu den ersten Schritten mit Acrobat](../assets/Hero-GettingStarted.png)
 
-In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acrobat verwenden. Von der Erstellung eines Dokuments bis zum Schutz oder [Bearbeiten Ihrer PDF-Dateien](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target="_blank"}, dieser Inhalt wurde entwickelt, um Ihnen das PDF von Arbeitsabläufen zu erleichtern.
+In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acrobat verwenden. Von der Erstellung eines Dokuments bis zum Schutz oder [Bearbeiten Ihrer PDF-Dateien](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target="_blank"}, dieser Inhalt wurde entwickelt, um Ihnen den Einstieg in PDF-Arbeitsabläufe zu erleichtern.
 
 ## Neue Funktionen
 
 * [Überall arbeiten - mit Acrobat Web](acrobatweb.md)
-Erfahren Sie, wie Sie mit den Web-Tools von Acrobat in Ihrem Browser von überall aus Anfragen für Geschäftsdokumente bearbeiten können.
-* [In Echtzeit zusammenarbeiten](collaborate.md)
+Erfahren Sie, wie Sie mit den Web-Tools von Acrobat in Ihrem Browser von überall aus Anfragen für Geschäftsdokumente bearbeiten.
+* [In Echtzeit zusammenarbeiten.](collaborate.md)
 Erweitere deine Projekte, indem du Kommentare einholst, im Team mit anderen zusammenarbeitest und den Fortschritt der Bearbeitung mitverfolgt - in Echtzeit und von überall.
 
 ## Tutorials zu ersten Schritten
@@ -57,7 +58,7 @@ Erweitere deine Projekte, indem du Kommentare einholst, im Team mit anderen zusa
     <div>
     <a href="acrobatweb.md"><strong>Überall arbeiten - mit Acrobat Web</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie mit den Web-Tools von Acrobat in Ihrem Browser von überall aus Anfragen für Geschäftsdokumente bearbeiten können.</em>
+    <em>Erfahren Sie, wie Sie mit den Web-Tools von Acrobat in Ihrem Browser von überall aus Anfragen für Geschäftsdokumente bearbeiten.</em>
     <br>
   </td>
   <td>
@@ -79,7 +80,7 @@ Erweitere deine Projekte, indem du Kommentare einholst, im Team mit anderen zusa
       <div>
       <a href="../integrate/integrate-overview.md#microsoft"><strong>Arbeiten mit Microsoft 365</strong></a>
       </div>
-      <em>Produktivere Workflows mit Acrobat und [!DNL Microsoft 365]</em>
+      <em>Produktivität steigern und Workflows für Geschäftsdokumente mit Acrobat und [!DNL Microsoft 365]</em>
       <br>
     </td>
     <td>
@@ -89,7 +90,7 @@ Erweitere deine Projekte, indem du Kommentare einholst, im Team mit anderen zusa
       <div>
       <a href="where-do-pdfs-come-from.md"><strong>Woher kommen die PDF?</strong></a>
       </div>
-      <em>Woher kommen PDF und ihre Verwendung?</em>
+      <em>Woher die PDF kommen und wie sie sie verwenden</em>
       <br>
     </td>
     <td>
@@ -114,7 +115,7 @@ Erweitere deine Projekte, indem du Kommentare einholst, im Team mit anderen zusa
         <img alt="PDF-Dateien erstellen" src="../assets/Create.jpg" />
       </a>
       <div>
-      <a href="create-pdf.md"><strong>PDF erstellen</strong></a>
+      <a href="create-pdf.md"><strong>Erstellen einer PDF</strong></a>
       </div>
       <em>Erstellen von PDF aus Dokumenten aller Art</em>
       <br>
@@ -124,7 +125,7 @@ Erweitere deine Projekte, indem du Kommentare einholst, im Team mit anderen zusa
         <img alt="Combine Files auf PDF" src="../assets/Combine.jpg" />
       </a>
       <div>
-      <a href="combine-to-pdf.md"><strong>Dateien in PDF kombinieren</strong></a>
+      <a href="combine-to-pdf.md"><strong>Kombinieren von Dateien in PDF</strong></a>
       </div>
       <em>Unterschiedliche Dateitypen auf einer einzigen PDF zusammenführen</em>
       <br>
@@ -146,7 +147,7 @@ Erweitere deine Projekte, indem du Kommentare einholst, im Team mit anderen zusa
       <div>
       <a href="add-custom-page.md"><strong>Benutzerdefinierte Seite hinzufügen</strong></a>
       </div>
-      <em>Erfahren Sie, wie Sie benutzerdefinierte Seiten mithilfe der integrierten Adobe Express-Applikation zu Ihrem PDF hinzufügen</em>
+      <em>Erfahren Sie, wie Sie benutzerdefinierte Seiten mithilfe der integrierten Adobe Expreß-Applikation zu Ihrem PDF hinzufügen</em>
       <br>
     </td>
   </tr>
@@ -200,10 +201,10 @@ Erweitere deine Projekte, indem du Kommentare einholst, im Team mit anderen zusa
   <tr>
     <td>
       <a href="collaborate.md">
-        <img alt="In Echtzeit zusammenarbeiten" src="../assets/Collaborate_1280.png" />
+        <img alt="In Echtzeit zusammenarbeiten." src="../assets/Collaborate_1280.png" />
       </a>
       <div>
-      <a href="collaborate.md"><strong>In Echtzeit zusammenarbeiten</strong></a>
+      <a href="collaborate.md"><strong>In Echtzeit zusammenarbeiten.</strong></a>
       </div>
       <em>Erweitere deine Projekte, indem du Kommentare einholst, im Team mit anderen zusammenarbeitest und den Fortschritt der Bearbeitung mitverfolgt - in Echtzeit und von überall.</em>
       <br>
@@ -272,19 +273,19 @@ Erweitere deine Projekte, indem du Kommentare einholst, im Team mit anderen zusa
     <div>
     <a href="password-protect.md"><strong>Protect einer PDF-Datei mit einem Kennwort</strong></a>
     </div>
-    <em>Fügen Sie ein Kennwort auf Ihrem PDF hinzu, um andere vor dem Öffnen oder Bearbeiten der Datei zu schützen</em>
+    <em>Fügen Sie ein Kennwort auf Ihrem PDF hinzu, um andere Benutzer vor dem Öffnen oder Bearbeiten der Datei zu schützen</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="signatures.md">
-      <img alt="Unterschriften einholen" src="../assets/Signatures_1280.png" />
+      <img alt="Unterschriften einholen." src="../assets/Signatures_1280.png" />
     </a>
     <div>
-    <a href="signatures.md"><strong>Unterschriften einholen</strong></a>
+    <a href="signatures.md"><strong>Unterschriften einholen.</strong></a>
     </div>
-    <em>Von jedem Ort aus rechtsverbindliche elektronische Unterschriften einholen, um das Geschäft am Laufen zu halten</em>
+    <em>Von jedem Ort aus rechtsverbindliche elektronische Unterschriften einholen, um produktiv zu bleiben</em>
     <br>
   </td>
   <td>

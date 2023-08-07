@@ -1,13 +1,14 @@
 ---
 title: Entwicklungsübersicht
 description: Erfahren Sie, wie Sie Acrobat Sign-APIs verwenden, um benutzerdefinierte Anwendungen für Ihre Teams, Partner und Kunden zu erstellen
+feature: Workflow, Integrations
 role: Developer
 level: Intermediate
 jira: KT-6852
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 13%
@@ -24,20 +25,20 @@ ht-degree: 13%
 <tr>
   <td>
     <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank">
-      <img alt="Erstellen eines Entwicklerkontos" src="../assets/Develop_Getting-Started.png" />
+      <img alt="Entwicklerkonto erstellen" src="../assets/Develop_Getting-Started.png" />
     </a>
     <div>
-    <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank"><strong>Erstellen eines Entwicklerkontos</strong></a>
+    <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank"><strong>Entwicklerkonto erstellen</strong></a>
     </div>
     <em>Erste Schritte mit einem Entwicklerkonto</em>
     <br>
   </td>
   <td>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank">
-      <img alt="Weitere Möglichkeiten" src="../assets/Develop_Learn.png" />
+      <img alt="Erfahren Sie mehr über Ihre Möglichkeiten." src="../assets/Develop_Learn.png" />
     </a>
     <div>
-    <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>Weitere Möglichkeiten</strong></a>
+    <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>Erfahren Sie mehr über Ihre Möglichkeiten.</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie die Funktionen von Acrobat Sign in jede beliebige externe Anwendung integrieren können.</em>
     <br>

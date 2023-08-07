@@ -1,13 +1,14 @@
 ---
 title: Sammeln von Dokumenten mit hohem Volumen mit GigaSign
 description: Mit Gigasign könnt ihr Dokumente zur Unterzeichnung an mehrere Tausend Personen gleichzeitig senden, erfassen und nachverfolgen
+feature: Workflow
 role: Developer
 level: Intermediate
 jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 2%
@@ -36,7 +37,7 @@ Mit Gigasign könnt ihr Dokumente zur Unterzeichnung an mehrere Tausend Personen
 
 1. Gib im Suchfeld links &quot;Access tokens&quot; ein.
 
-1. Tippe rechts auf das Pluszeichen.
+1. Klicken Sie rechts auf das Pluszeichen (+).
 
 1. Erstellen Sie einen Schlüssel mit den erforderlichen Geltungsbereichen (User_Read, Agreement_Read, Agreement_Write, Agreement_Send, Library_Read).
 
@@ -48,6 +49,6 @@ Mit Gigasign könnt ihr Dokumente zur Unterzeichnung an mehrere Tausend Personen
 
 1. Fügen Sie den Integrationsschlüssel in die erste Zeile ein.
 
-1. Geben Sie die E-Mail-Adresse des Kontos ein, mit dem dieser Schlüssel in der zweiten Zeile erstellt wurde.
+1. Geben Sie die E-Mail-Adresse des Kontos ein, das zum Erstellen dieses Schlüssels in der zweiten Zeile verwendet wurde.
 
 1. Klicken Sie auf **[!UICONTROL Senden]**.

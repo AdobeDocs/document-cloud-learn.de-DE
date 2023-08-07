@@ -1,11 +1,12 @@
 ---
 title: Formulare auf dem Desktop, Smartphone oder Tablet ausfüllen und unterschreiben
 description: Formulare auf dem Desktop, im Browser oder in der Mobile App ausfüllen, unterzeichnen und direkt abschicken
+feature: Form, Sign, Mobile
 solution: Acrobat
 role: User
 level: Beginner
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 754e96676e48cd08a0cd4585bde7c388e6701f0a
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%
@@ -24,11 +25,11 @@ Hier sind die [Demodateien](assets/03_FillSignScan.zip) für diese Übung.
 
 **Schritt 2:** Öffnen Sie die App und tippen Sie auf **[!UICONTROL Formular zum Ausfüllen auswählen]**.
 
-![UploadDoc-Bild](assets/mobilescan.jpg)
+![UploadDoc image](assets/mobilescan.jpg)
 
 **Schritt 3:** Wählen Sie eine der Importoptionen aus. Für diese Übung werden wir ein &quot;Foto&quot; machen.
 
-![Bild Schritt 2F](assets/Step2F.jpg)
+![Bild von Schritt 2F](assets/Step2F.jpg)
 
 **Schritt 4:** Nehmen Sie mit der weißen Schaltfläche ein Bild auf und tippen Sie anschließend auf **[!UICONTROL Foto verwenden]**. Tippen **[!UICONTROL Fertig]** in der oberen rechten Ecke.
 
@@ -63,6 +64,6 @@ Hier sind die [Demodateien](assets/03_FillSignScan.zip) für diese Übung.
 
 * Öffne eine Datei im Anhang einer E-Mail, oder fotografiere ein Papierformular mit deinem Smartphone oder Tablet.
 
-* Tippe, um Text in die Formularfelder einzugeben oder Häkchen zu setzen. Mit der intelligenten Ausfüllliste lassen sich Formulare noch schneller ausfüllen.
+* Tippen Sie hier, um Text in die Formularfelder einzugeben oder Häkchen zu setzen. Mit der intelligenten Ausfüllliste lassen sich Formulare noch schneller ausfüllen.
 
 * Erstellen Sie Ihre Signatur mit dem Finger oder einem Eingabestift. und füge sie anschließend zum betreffenden Formular hinzu. Oder gib, wenn nötig, deine Initialen ein.

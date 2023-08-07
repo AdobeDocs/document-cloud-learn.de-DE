@@ -1,12 +1,13 @@
 ---
 title: Scannen und OCR
 description: Scans oder Abbildungen von Dokumenten in durchsuchbare, bearbeitbare PDF-Dateien konvertieren und die Qualität der Ausgabedatei anpassen
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-6830.jpg
 jira: KT-6830
+thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 4%
@@ -19,11 +20,11 @@ Das Geschäft am Laufen halten, indem Sie Scans oder Bilder von Dokumenten in du
 
 >[!TIP]
 >
->Um mehrere PDF-Dateien mit OCR zu bearbeiten, verwenden Sie die [Action Wizard](../advanced-tasks/action.md).
+>Um mehrere PDF-Dateien mit OCR zu bearbeiten, verwenden Sie den Befehl [Action Wizard](../advanced-tasks/action.md).
 
 1. Auswählen **[!UICONTROL Scannen und OCR]** im Fenster &quot; [!UICONTROL Tools] mittlerer oder rechter Fensterbereich.
 
-   ![Scan Schritt 1](../assets/Scan_1.png)
+   ![Schritt 1 scannen](../assets/Scan_1.png)
 
 1. Datei auswählen.
 
@@ -41,7 +42,7 @@ Das Geschäft am Laufen halten, indem Sie Scans oder Bilder von Dokumenten in du
 
 1. Auswählen **[!UICONTROL Text erkennen.]** , um Text in Bilddateien manuell zu erkennen.
 
-   ![Scan Schritt 4](../assets/Scan_4.png)
+   ![Schritt 4 scannen](../assets/Scan_4.png)
 
 Die Datei ist jetzt eine durchsuchbare, bearbeitbare PDF-Datei.
 

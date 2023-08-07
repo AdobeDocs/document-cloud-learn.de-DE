@@ -1,13 +1,14 @@
 ---
 title: Überblick über Acrobat für Mobilgeräte
 description: PDF auf dem Smartphone oder Tablet erstellen, ausfüllen und unterschreiben
+feature: Mobile, Sign, Create PDF
 role: User
 level: Beginner, Intermediate
 topic-revisit: mobile
-thumbnail: KT-6863.jpg
 jira: KT-6863
+thumbnail: KT-6863.jpg
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 2%
@@ -16,9 +17,9 @@ ht-degree: 2%
 
 # Überblick über Mobilgeräte
 
-![Acrobat-Mobilabbild](../assets/Hero-Mobile.png)
+![Acrobat Mobile Image](../assets/Hero-Mobile.png)
 
-Erstellen, Füllen und [PDF](https://www.adobe.com/de/acrobat/online/sign-pdf.html){target="_blank"}  auf dem Smartphone oder Tablet.
+Erstellen, Füllen und [PDF signieren](https://www.adobe.com/de/acrobat/online/sign-pdf.html){target="_blank"}  auf dem Smartphone oder Tablet.
 
 ## Tutorials zu Acrobat Reader-Apps
 
@@ -63,7 +64,7 @@ Erstellen, Füllen und [PDF](https://www.adobe.com/de/acrobat/online/sign-pdf.ht
     <div>
      <a href="scan-mobile-app.md"><strong>Alles auf PDF scannen</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie ein Papierdokument mit der kostenlosen mobilen Adobe Scan-App in eine PDF-Datei konvertieren</em>
+    <em>Erfahren Sie, wie Sie ein Papierdokument mit der kostenlosen mobilen Adobe Scan-App in eine PDF-Datei umwandeln.</em>
     <br>
   </td>
   <td>
@@ -84,14 +85,14 @@ Erstellen, Füllen und [PDF](https://www.adobe.com/de/acrobat/online/sign-pdf.ht
 </tr>
 </table>
 
-Herunterladen [Adobe Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target="_blank"} der kostenlose globale Standard für die zuverlässige Anzeige, Kommentierung und Unterzeichnung von PDF.
+Herunterladen [Adobe Acrobat Reader-App](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target="_blank"} der kostenlose globale Standard für die zuverlässige Anzeige, Kommentierung und Unterzeichnung von PDF.
 
 [Handbuch für Acrobat Reader für iOS auf Mobilgeräten](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target="_blank"}
 [Handbuch für Acrobat Reader für Android](https://www.adobe.com/devnet-docs/acrobat/android/en/){target="_blank"}
 
-Herunterladen [Adobe Scan](https://www.adobe.com/acrobat/mobile/scanner-app.html){target="_blank"} um jedes Papierdokument zu erfassen und in eine hochwertige PDF mit durchsuchbarem Text umzuwandeln.
+Herunterladen [Adobe Scan-App](https://www.adobe.com/acrobat/mobile/scanner-app.html){target="_blank"} um jedes Papierdokument zu erfassen und in eine hochwertige PDF mit durchsuchbarem Text umzuwandeln.
 
 [Handbuch für Adobe Scan für iOS auf Mobilgeräten](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target="_blank"}
 [Handbuch für Adobe Scan für Android](https://www.adobe.com/devnet-docs/adobescan/android/en/){target="_blank"}
 
-Herunterladen [Adobe Fill &amp; Sign](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target="_blank"} um Formulare überall und auf jedem Gerät auszufüllen, zu unterschreiben und zu versenden - mit nur dem Finger oder einem Eingabestift.
+Herunterladen [Adobe Fill &amp; Sign-App](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target="_blank"} um Formulare überall und auf jedem Gerät auszufüllen, zu unterschreiben und zu versenden - mit nur dem Finger oder einem Eingabestift.

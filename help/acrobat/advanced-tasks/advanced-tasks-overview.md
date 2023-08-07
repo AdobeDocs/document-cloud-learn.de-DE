@@ -1,12 +1,13 @@
 ---
-title: Übersicht über erweiterte Acrobat-Aufgaben
+title: Übersicht über die erweiterten Aufgaben in Acrobat
 description: Erweiterte Funktionen in Acrobat
+feature: Accessibility, Action, Edit PDF, Optimize PDF, Sign, Security
 role: User
 level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 2%
@@ -15,7 +16,7 @@ ht-degree: 2%
 
 # Erweiterte Aufgabenübersicht
 
-![Acrobat - Erste Schritte](../assets/Hero-AdvancedTasks.png)
+![Bild zu den ersten Schritten mit Acrobat](../assets/Hero-AdvancedTasks.png)
 
 Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erlernen, Erfahren Sie, wie Sie eine Aktion erstellen, um Routineaufgaben zu wiederholen, vertrauliche Informationen zu entfernen, große Dateien zu reduzieren und zu optimieren, Formulardaten schnell zu erfassen und universell zugängliche PDF-Dateien zu erstellen.
 
@@ -55,7 +56,7 @@ Erfahren Sie, wie Sie eine PDF für eine verbesserte Auffindbarkeit und ein Such
     <div>
     <a href="custom.md"><strong>Benutzerdefinierte Befehle und Werkzeuge</strong></a>
     </div>
-    <em>Produktivität des Dokumenten-Workflows durch den Einsatz benutzerdefinierter Befehle und Werkzeuge verbessern</em>
+    <em>Produktivität des Dokumenten-Workflows durch den Einsatz benutzerdefinierter Befehle und Werkzeuge verbessern.</em>
     <br>
   </td>
   <td>
@@ -161,7 +162,7 @@ Erfahren Sie, wie Sie eine PDF für eine verbesserte Auffindbarkeit und ein Such
     <div>
     <a href="accessibility.md"><strong>Barrierefreiheit für PDF überprüfen</strong></a>
     </div>
-    <em>Überprüfen Sie, ob Ihr PDF für Menschen mit Behinderungen universell zugänglich ist</em>
+    <em>Überprüfen Sie, ob Ihr PDF für alle Menschen mit Behinderungen zugänglich ist</em>
     <br>
   </td>
  <td>

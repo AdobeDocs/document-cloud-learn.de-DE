@@ -1,12 +1,13 @@
 ---
 title: Übersicht über die ersten Schritte
-description: Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versendest, unterschreibst und nachverfolgst
+description: Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versendest, unterschreibst und nachverfolgst.
+feature: Workspace, Sign, Workflow, Form, Digital ID
 role: User
 level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 5%
@@ -17,7 +18,7 @@ ht-degree: 5%
 
 ![Bild zu den ersten Schritten in Sign](../assets/Hero-GettingStarted.png)
 
-Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versendest, unterschreibst und nachverfolgst. Verschaffen Sie sich einen Überblick über Acrobat Sign, und versenden Sie das Dokument an eine oder mehrere Personen. Dieser Inhalt soll Ihnen den Einstieg in E-Signatur-Workflows erleichtern.
+Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versendest, unterschreibst und nachverfolgst. Verschaffen Sie sich einen Überblick über Acrobat Sign, und versenden Sie dann ein Dokument an eine oder mehrere Personen. Dieser Inhalt wurde entwickelt, um Ihnen den Einstieg in E-Signatur-Workflows zu erleichtern.
 
 ## Neue Funktionen
 
@@ -37,7 +38,7 @@ Erfahren Sie, wie Sie regelmäßige E-Mail-Erinnerungen und Fristen senden, um I
     <div>
     <a href="quick-tour.md"><strong>Grundlagen des Arbeitsbereichs</strong></a>
     </div>
-    <em>Sehen Sie sich kurz den Arbeitsbereich von Acrobat Sign an, um sofort zu arbeiten.</em>
+    <em>Sehen Sie sich kurz den Arbeitsbereich von Acrobat Sign an, um mit der Arbeit zu beginnen</em>
     <br>
   </td>
   <td>
@@ -47,7 +48,7 @@ Erfahren Sie, wie Sie regelmäßige E-Mail-Erinnerungen und Fristen senden, um I
     <div>
     <a href="new-sender.md"><strong>Erste Schritte mit Acrobat Sign</strong></a>
     </div>
-    <em>Dieses umfassende Tutorial ist ein guter Ausgangspunkt für neue Absender in Acrobat Sign</em>
+    <em>Dieses umfassende Tutorial ist ein guter Ausgangspunkt für neue Absender in Acrobat Sign.</em>
     <br>
   </td>
   <td>
@@ -89,7 +90,7 @@ Erfahren Sie, wie Sie regelmäßige E-Mail-Erinnerungen und Fristen senden, um I
     <div>
     <a href="adding-fields.md"><strong>Hinzufügen von Feldern zu Ihren Dokumenten</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie Ihren Dokumenten verschiedene Feldtypen hinzufügen</em>
+    <em>Erfahren Sie, wie Sie Ihren Dokumenten verschiedene Feldtypen hinzufügen.</em>
     <br>
   </td>
   <td>
@@ -104,10 +105,10 @@ Erfahren Sie, wie Sie regelmäßige E-Mail-Erinnerungen und Fristen senden, um I
   </td>
   <td>
     <a href="replace-signer.md">
-      <img alt="Unterzeichner ersetzen" src="../assets/replace-signer.png" />
+      <img alt="Ersetzen eines Unterzeichners" src="../assets/replace-signer.png" />
     </a>
     <div>
-    <a href="replace-signer.md"><strong>Unterzeichner ersetzen</strong></a>
+    <a href="replace-signer.md"><strong>Ersetzen eines Unterzeichners</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie den Unterzeichner eines Dokuments ändern, das bereits in Bearbeitung ist</em>
      <br>
@@ -168,10 +169,10 @@ Erfahren Sie, wie Sie regelmäßige E-Mail-Erinnerungen und Fristen senden, um I
   </td>
   <td>
     <a href="sign-in-person.md">
-      <img alt="Persönliche Signaturen erhalten" src="../assets/In-person.png" />
+      <img alt="Persönliches Einholen einer Unterschrift" src="../assets/In-person.png" />
     </a>
     <div>
-    <a href="sign-in-person.md"><strong>Persönliche Signaturen erhalten</strong></a>
+    <a href="sign-in-person.md"><strong>Persönliches Einholen einer Unterschrift</strong></a>
     </div>
     <em>Unterschrift einer anderen Person über die mobile Acrobat Sign-App einholen</em>
     <br>
@@ -183,7 +184,7 @@ Erfahren Sie, wie Sie regelmäßige E-Mail-Erinnerungen und Fristen senden, um I
     <div>
     <a href="delegate-signing.md"><strong>Unterschrift an eine andere Person delegieren</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie die Unterzeichnung eines Dokuments an eine andere Person delegieren</em>
+    <em>Erfahren Sie, wie Sie die Unterzeichnung eines Dokuments an eine andere Person delegieren.</em>
     <br>
   </td>
 </tr>
@@ -232,7 +233,7 @@ Erfahren Sie, wie Sie regelmäßige E-Mail-Erinnerungen und Fristen senden, um I
     <div>
     <a href="manage-and-track.md"><strong>Vereinbarungen verwalten und verfolgen</strong></a>
     </div>
-    <em>Zum Unterschreiben gesendete Vereinbarungen verwalten und verfolgen</em>
+    <em>Hier erfahren Sie, wie Sie zum Unterschreiben gesendete Vereinbarungen verwalten und verfolgen.</em>
     <br>
   </td>
   <td>

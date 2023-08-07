@@ -1,13 +1,13 @@
 ---
 title: Signieren mit [!DNL Aadhaar]
 description: Erfahren Sie, wie Sie Ihr [!DNL Aadhaar] digitale ID , um Ihre Identität zu authentifizieren und eine digitale Remote-Signatur (Cloud-Signatur) für ein Dokument in Acrobat Sign zu autorisieren
+feature: Digital ID
 role: User
 level: Beginner
 jira: KT-9298
 thumbnail: KT-9298.jpg
-kt: 9298
 exl-id: f899c636-5041-4037-bc73-5fd272d2c24b
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
