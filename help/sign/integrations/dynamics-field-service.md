@@ -1,12 +1,12 @@
 ---
 title: Microsoft Dynamics 365 for Field Service.
-description: Weitere Informationen zu Acrobat Sign, [!DNL Power Automate], and [!DNL Microsoft Dynamics 365] für den Außendienst werden eingesetzt, um Kundeninteraktionen vor Ort zu optimieren.
+description: Weitere Informationen zu Acrobat Sign, [!DNL Power Automate], and [!DNL Microsoft Dynamics 365] für Field Service werden zur Optimierung der Vor-Ort-Interaktionen von Kunden verwendet.
 feature: Integrations
-role: Admin, User
+role: User
 level: Intermediate
 topic: Integrations
 jira: KT-13723
-source-git-commit: 09999a6a30fd97b796f97a4ed8860162d5e93579
+source-git-commit: 0838027300c9d15a20af03b7d49f190acb6256ec
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 0%
