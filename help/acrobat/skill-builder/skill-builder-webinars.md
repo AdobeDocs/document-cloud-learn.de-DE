@@ -3,10 +3,11 @@ title: Webinare zur Adobe Acrobat Skill Builder
 description: Adobe Acrobat Skill Builder sind eine 30-minütige Session, die eure PDF-Workflows auf die nächste Stufe heben soll
 feature: Accessibility, Action, Security, Integrations, Collaboration, Edit PDF, Convert PDF, Share, Mobile, Skill Builder, Form
 level: Beginner, Intermediate
+role: User
 jira: KT-8199
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
 workflow-type: tm+mt
 source-wordcount: '1111'
 ht-degree: 0%
@@ -22,7 +23,7 @@ Adobe Acrobat Skill Builder sind 30-minütige Sessions, die deine PDF-Workflows 
 ## Monatliche Sitzungen
 
 **[Einfache Automatisierung mit Action Wizard](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/41d505bb-252a-4e26-9576-6ae82293e6c9/97be1628-5cb6-44be-ac61-c0cc26fbb58d){target="_blank"}**
-Datum: 16. November 2023 Wiederholen Sie keine einfachen manuellen Aufgaben mehr. In dieser Session lernst du, wie du Action Wizard in Acrobat Pro einsetzt, um PDF-Dateien im Stapel zu verarbeiten und serielle, sich wiederholende Aufgaben automatisch auszuführen, z. B. den Zugriff auf Dokumente, den Schutz von Dokumenten, die Dateioptimierung, die Archivierung und vieles mehr. Themen:
+Datum: 16. November 2023 Wiederholen Sie keine einfachen manuellen Aufgaben mehr. In dieser Session erfährst du, wie du Action Wizard in Acrobat Pro einsetzt, um PDF-Dateien im Stapel zu verarbeiten und serielle, sich wiederholende Aufgaben automatisch auszuführen, z. B. den Zugriff auf Dokumente, den Schutz von Dokumenten, die Dateioptimierung, die Archivierung und vieles mehr. Themen:
 
 * Was sind Aktionen?
 * Wie Sie vorkonfigurierte Aktionen verwenden
@@ -44,7 +45,7 @@ Datum: 28. September 2023 Mit den Tools und Services von Acrobat, die direkt in 
 Datum: 24. August 2023 Verringerter Zeitaufwand für die Gewährleistung der Sicherheit und Konformität juristischer Dokumente mit automatisierten, vollständigen Audit-Protokollen, Schwärzung zum Entfernen vertraulicher Informationen, anpassbaren PDF-Sicherheitsfunktionen wie Anzeige, Wasserzeichen, Zugriffskontrollen und Verschlüsselung.
 
 * PDF-Sicherheit in Microsoft 365-Anwendungen (Word, Excel, PPT, Outlook)
-* PDF-Sicherheit in Adobe Apps (InDesign, Illustrator, Photoshop, InCopy)
+* PDF-Sicherheit in Adobe-Anwendungen (InDesign, Illustrator, Photoshop, InCopy)
 * Kennwort zum Anzeigen, Bearbeiten usw. hinzufügen
 * Dem Empfänger verfügbare Aktionen
 * Mehrere Protect-Dateien (mehrere gleichzeitig)
