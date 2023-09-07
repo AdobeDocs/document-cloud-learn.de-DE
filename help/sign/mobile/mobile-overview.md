@@ -8,10 +8,10 @@ jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: c3caf3df6418e079fdad9c6a0f766067f5b9c8fd
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 34%
+source-wordcount: '129'
+ht-degree: 27%
 
 ---
 
@@ -24,6 +24,16 @@ Dokumente zur Unterzeichnung versenden, den Status verfolgen und in Echtzeit Ben
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="sign-mobile.md">
+      <img alt="Dokumente unterwegs unterschreiben" src="assets/signmobile.png" />
+    </a>
+    <div>
+    <a href="sign-mobile.md"><strong>Dokumente unterwegs unterschreiben</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie Dokumente mit der mobilen Acrobat Sign-App signieren</em>
+    <br>
+  </td>
+  <td>
     <a href="liquidmode.md">
       <img alt="Liquid Mode in Acrobat Sign" src="assets/liquidmode.png" />
     </a>
@@ -34,11 +44,11 @@ Dokumente zur Unterzeichnung versenden, den Status verfolgen und in Echtzeit Ben
     <br>
   </td>
   <td>
-    <a href="https://itunes.apple.com/de/app/adobe-sign/id481082197?mt=8" target="_blank">
+    <a href="https://apps.apple.com/us/app/adobe-sign/id481082197" target="_blank">
       <img alt="Für iOS herunterladen" src="assets/Mobile_iOS.png" />
     </a>
     <div>
-    <a href="https://itunes.apple.com/de/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Acrobat Sign-App für iOS herunterladen</strong></a>
+    <a href="https://apps.apple.com/us/app/adobe-sign/id481082197" target="_blank"><strong>Acrobat Sign-App für iOS herunterladen</strong></a>
     <br>
   </td>
   <td>
@@ -47,11 +57,6 @@ Dokumente zur Unterzeichnung versenden, den Status verfolgen und in Echtzeit Ben
     </a>
     <div>
     <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=de" target="_blank"><strong>Acrobat Sign-App für Android herunterladen</strong></a>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
