@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
+source-git-commit: b9eff7f50025d984a829eb7999bb1cd229822dbc
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -28,14 +28,13 @@ Sie können Acrobat Sign in anderen Anwendungen verwenden, die Ihre Organisation
 
 ## Neue Funktionen
 
+* [Erstelle einen einfachen Workflow mit [!DNL Power Automate]](simple-workflow-power-automate.md)
+Erfahren Sie, wie Sie einen einfachen Workflow mit [!DNL Power Automate] Verbinder
 * [Microsoft Dynamics 365 for Sales.](dynamics-sales.md)
 Erfahren Sie, wie Acrobat Sign und [!DNL Microsoft Dynamics 365] für den Vertrieb werden verwendet, um den Signiervorgang für Verkaufsangebote zu automatisieren.
 * [Microsoft Dynamics 365 for Field Service.](dynamics-field-service.md)
 Weitere Informationen zu Acrobat Sign, [!DNL Power Automate]und [!DNL Microsoft Dynamics 365] für Field Service werden zur Optimierung der Vor-Ort-Interaktionen von Kunden verwendet.
-* [Microsoft Dynamics 365 for Customer Service](dynamics-customer-service.md)
-Erfahren Sie, wie Acrobat Sign und [!DNL Microsoft Dynamics 365] für den Kundendienst werden verwendet, um die Kundenzufriedenheit auf einem Self-Service-Kundenwebportal zu verbessern
-* [Webformular integrieren mit [!DNL SharePoint] Online](integrate-web-form-sharepoint-online.md)
-Erfahren Sie, wie Sie die von einem Webformular erfassten Daten einem [!DNL SharePoint] auflisten
+
 
 ## Tutorials zur Integration mit Microsoft
 
@@ -126,6 +125,16 @@ Erfahren Sie, wie Sie die von einem Webformular erfassten Daten einem [!DNL Shar
 </tr>
 <tr>
   <td>
+    <a href="simple-workflow-power-automate.md">
+      <img alt="Mit Power Automate einen einfachen Workflow erstellen." src="../assets/simple-workflow.png" />
+    </a>
+    <div>
+    <a href="simple-workflow-power-automate.md"><strong>Mit Power Automate einen einfachen Workflow erstellen.</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie einen einfachen Workflow mit [!DNL Power Automate] Verbinder</em>
+    <br>
+  </td>
+  <td>
     <a href="dynamics-customer-service.md">
       <img alt="Microsoft Dynamics 365 for Customer Service" src="../assets/Dynamics-customer-service.png" />
     </a>
@@ -153,11 +162,6 @@ Erfahren Sie, wie Sie die von einem Webformular erfassten Daten einem [!DNL Shar
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales.</strong></a>
     </div>
     <em>Erfahren Sie, wie Acrobat Sign und [!DNL Microsoft Dynamics 365] für den Vertrieb werden verwendet, um den Signiervorgang für Verkaufsangebote zu automatisieren.</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
