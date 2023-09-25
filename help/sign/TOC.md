@@ -11,7 +11,8 @@ breadcrumb-title: Acrobat Sign Tutorials
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
-source-git-commit: b9eff7f50025d984a829eb7999bb1cd229822dbc
+auto-video-transcripts: true
+source-git-commit: 6c90ef1a9ace21f2f39a12fe61b81fcd5e12e66a
 workflow-type: tm+mt
 source-wordcount: '532'
 ht-degree: 10%
@@ -21,9 +22,9 @@ ht-degree: 10%
 
 # Acrobat Sign Tutorials {#sign-learning-hub}
 
-+ [Überblick](overview.md)
++ [Übersicht](overview.md)
 + Erste Schritte {#getting-started}
-   + [Überblick](sign-beginner-tutorials/beginner-users-overview.md)
+   + [Übersicht](sign-beginner-tutorials/beginner-users-overview.md)
    + Senden {#getting-started-sending}
       + [Grundlagen des Arbeitsbereichs](sign-beginner-tutorials/quick-tour.md)
       + [Erste Schritte mit Acrobat Sign](sign-beginner-tutorials/new-sender.md)
@@ -45,7 +46,7 @@ ht-degree: 10%
       + [Vereinbarungen verwalten und verfolgen](sign-beginner-tutorials/manage-and-track.md)
       + [Erstellen von Dokumentvorlagen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + Erweiterte Aufgaben {#advanced-tasks}
-   + [Überblick](sign-advanced-users/advanced-users-overview.md)
+   + [Übersicht](sign-advanced-users/advanced-users-overview.md)
    + Senden {#advanced-tasks-sending}
       + [Einrichten der Unterschriftsreihenfolge](sign-advanced-users/setting-up-routing.md)
       + [Verwenden der Delegatorrolle](sign-advanced-users/delegate-signature.md)
@@ -63,7 +64,7 @@ ht-degree: 10%
       + [Vorhandenes Webformular ändern](sign-advanced-users/modify-webform.md)
       + [Verwalten von Webformulardaten](sign-advanced-users/manage-webform-data.md)
 + verabreichen {#admin-set-up}
-   + [Überblick](admin/intro-admin-overview.md)
+   + [Übersicht](admin/intro-admin-overview.md)
    + Erste Schritte {#getting-started-admin}
       + [Erste Schritte für neue Administratoren](admin/get-started-admin.md)
       + [Einstieg in Administratoren](admin/up-and-running-admin.md)
@@ -85,7 +86,7 @@ ht-degree: 10%
       + [Bio-Pharma-Einstellungen verwenden](admin/use-bio-pharma-settings.md)
       + [Acrobat Sign Text-Tagging](sign-advanced-users/adobe-sign-text-tagging.md)
 + Digitale ID {#digital-id}
-   + [Überblick](digitalid/digitalid-overview.md)
+   + [Übersicht](digitalid/digitalid-overview.md)
    + Aadhaar {#aadhaar}
       + [Signieren mit Aadhaar](digitalid/aadhaar-sign.md)
    + Digidentity {#digidentity}
@@ -97,7 +98,7 @@ ht-degree: 10%
       + [Abrufen einer digitalen ID von der Intesi Group (qualifiziert)](digitalid/intesi-qualified.md)
       + [Signieren mit der Intesi Group](digitalid/intesi-sign.md)
 + Integrationen {#integrations}
-   + [Überblick](integrations/integrations-overview.md)
+   + [Übersicht](integrations/integrations-overview.md)
    + Microsoft {#microsoft}
       + [Ausfüllen und Anmelden [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
       + [Zum Unterschreiben senden in [!DNL Outlook]](integrations/send-for-signature-with-outlook.md)
@@ -128,11 +129,11 @@ ht-degree: 10%
       + [Benachrichtigungen mit Acrobat Sign für [!DNL Microsoft Dynamics] und Marketo](integrations/marketo-dynamics-sms.md)
       + [Erinnerungen mit Acrobat Sign für [!DNL Microsoft Dynamics 365] und Marketo](integrations/marketo-dynamics-reminder.md)
 + Branchen und Abteilungen {#expand}
-   + [Überblick](sign-usecase/expand-inspire-overview.md)
+   + [Übersicht](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}
       + [Schulungsvideos (in englischer Sprache)](sign-usecase/innovation-series.md)
    + Nutzungsszenarien {#recipes}
-      + [Überblick](sign-usecase/recipes.md)
+      + [Übersicht](sign-usecase/recipes.md)
       + Regierungseinrichtungen {#gov}
          + [Bewerbung für ein Regierungsdarlehen mit mehreren unbekannten Unterzeichnern](sign-usecase/webform-multiple-signers.md)
          + [Unternehmenszuschüsse und -darlehen](sign-usecase/usecasegovgrants.md)
@@ -152,14 +153,14 @@ ht-degree: 10%
    + Nutzungsszenarien {#use-case}
       + [Schaukasten](sign-usecase/use-case-showcase.md)
 + entwickeln {#develop}
-   + [Überblick](develop/develop-overview.md)
+   + [Übersicht](develop/develop-overview.md)
    + Benutzerdefinierte APIs. {#custom}
       + [Sammeln von Dokumenten mit großen Volumen mit GigaSign](develop/gigasign.md)
       + [Integrierte Erlebnisse für elektronische Unterschriften und Dokumente erstellen](develop/embeddedesignature.md)
 + Bereitstellen {#deploy}
-   + [Überblick](deploy-overview.md)
+   + [Übersicht](deploy-overview.md)
 + Mobile Endgeräte {#mobile}
-   + [Überblick](mobile/mobile-overview.md)
+   + [Übersicht](mobile/mobile-overview.md)
    + Tutorials für Mobilgeräte {#mobile-tutorials}
       + [Dokumente unterwegs unterschreiben](mobile/sign-mobile.md)
       + [Liquid Mode in Acrobat Sign](mobile/liquidmode.md)
