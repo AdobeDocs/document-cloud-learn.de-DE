@@ -7,16 +7,14 @@ level: Beginner, Intermediate
 jira: KT-8493
 thumbnail: KT-8493.jpg
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 3c7ffbf7f59fea5d4de87434931236322dfe3bce
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
 
 # 60-Sekunden-Acrobat - Übersicht
-
-![60-Sekunden-Acrobat-Bild](../assets/Hero-60sec.png)
 
 Mit der 60-Sekunden-Testversion von Acrobat kannst du in kleinen Tutorials einen neuen Trick in Acrobat erlernen - in maximal einer Minute. Diese aufgabenbasierten Tipps helfen Ihnen, sich neue Fertigkeiten für die Arbeit mit PDF-Dateien anzueignen, indem Sie einige der versteckten Edelsteine von Acrobat entsperren. Ihr könnt euch ein Video ansehen, um eine schnelle Antwort zu erhalten, oder fünf Videos ansehen, um die Produktivität eures Dokuments zu steigern - und habt trotzdem noch Zeit, eure Kaffeepause zu genießen.
 

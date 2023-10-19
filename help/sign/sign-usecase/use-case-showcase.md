@@ -8,16 +8,14 @@ jira: KT-8198
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '741'
 ht-degree: 0%
 
 ---
 
 # Nutzungsszenarien
-
-![Nutzungsszenario-Banner](../assets/UCSC_Rebrand.png)
 
 Die Präsentation von Nutzungsszenarien ist eine Livestream-Session, die Ihnen neue Nutzungsszenarien und Trends in Acrobat Sign vorstellt und zeigt, wie Ihr Unternehmen sie implementieren und davon profitieren kann. Jeden Monat wird ein neues Thema vorgestellt.
 
@@ -47,7 +45,7 @@ Fokus: Unsere Experten erläutern Best Practices und verschiedene Nutzungsszenar
 Fokus: Unsere Expertenrunde diskutiert, wie Rechtsabteilungen der Umstieg auf vollständig remote Dokumentenprozesse gelingt. Unabhängig davon, ob ihr gerade erst am Anfang steht oder bereits einige Workflows digitalisiert habt: Acrobat Sign kann die Produktivität eures Teams in jeder Phase der digitalen Transformation steigern.
 
 * **[Vertrieb](https://acrobat.adobe.com/us/en/business/webinars/adobe-sign-use-case-showcase-sales.html){target="_blank"}**
-Schwerpunkt: Adobe-Experten zeigen Best Practices für eine erfolgreiche digitale Transformation im Einkauf auf. Im Fokus stehen Branchen-Trends und Anforderungen an die Bereitstellung herausragender User Experiences.
+Schwerpunkt: Adobe-Experten zeigen Best Practices für eine erfolgreiche digitale Transformation im Einkauf auf. Die Diskussion behandelt Branchen-Trends und Anforderungen an die Bereitstellung herausragender Anwendererlebnisse.
 
 * **[Einkauf &amp; Logistik](https://event.on24.com/wcc/r/2514418/278FB6F16C198E2B866CF487AF9514F6){target="_blank"}**
 Fokus: Acrobat Sign im Einkauf &amp; Logistik.

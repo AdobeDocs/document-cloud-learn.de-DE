@@ -5,7 +5,7 @@ breadcrumb-title: Acrobat Tutorials
 feature-set: Document Cloud
 role: User
 type: Tutorial
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
 source-wordcount: '471'
 ht-degree: 6%
@@ -13,11 +13,11 @@ ht-degree: 6%
 ---
 
 
-# Tutorials zu Acrobat {#acrobat-learning}
+# Acrobat Tutorials {#acrobat-learning}
 
-+ [Überblick](overview.md)
++ [Übersicht](overview.md)
 + Erste Schritte {#getting-started}
-   + [Überblick](getting-started/getting-started-overview.md)
+   + [Übersicht](getting-started/getting-started-overview.md)
    + [Grundlagen des Arbeitsbereichs](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Neue Arbeitsbereichserfahrung](getting-started/new-workspace.md)
    + [Überall arbeiten - mit Acrobat Web](getting-started/acrobatweb.md)
@@ -40,12 +40,12 @@ ht-degree: 6%
    + [Unterschriften einholen.](getting-started/signatures.md)
    + [Dokumente verfolgen](getting-started/track.md)
 + Erweiterte Aufgaben {#advanced-tasks}
-   + [Überblick](advanced-tasks/advanced-tasks-overview.md)
+   + [Übersicht](advanced-tasks/advanced-tasks-overview.md)
    + [Hinzufügen von Lesezeichen und Hyperlinks](advanced-tasks/bookmarks.md)
    + [Gescannte Dokumente optimieren](advanced-tasks/optimizescan.md)
    + [Benutzerdefinierte Befehle und Werkzeuge](advanced-tasks/custom.md)
    + [Erweiterte Formularfelder](advanced-tasks/advancedforms.md)
-   + [Optimizen PDF für SEO](advanced-tasks/optimizeseo.md)
+   + [Optimize PDF für SEO](advanced-tasks/optimizeseo.md)
    + [Arbeiten mit Formularfeldern](advanced-tasks/workforms.md)
    + [PDF verbessern](advanced-tasks/enhance.md)
    + [Unterschiede zwischen zwei PDF erkennen](advanced-tasks/compare.md)
@@ -55,7 +55,7 @@ ht-degree: 6%
    + [Arbeiten mit Formulardaten](advanced-tasks/formdata.md)
    + [Barrierefreiheit für PDF überprüfen](advanced-tasks/accessibility.md)
    + Acrobat Accessibility-Reihe {#accessibility-series}
-      + [Überblick](advanced-tasks/accessibility-series.md)
+      + [Übersicht](advanced-tasks/accessibility-series.md)
       + [Einführung in die Barrierefreiheit für PDF](advanced-tasks/accessibilitysession1.md)
       + [Beheben einer nicht zugänglichen PDF](advanced-tasks/accessibilitysession2.md)
       + [Komplexe Tabellen](advanced-tasks/accessibilitysession3.md)
@@ -63,7 +63,7 @@ ht-degree: 6%
       + [Hinzufügen von Formularfeldern zu einem mit Tags versehenen PDF](advanced-tasks/accessibilitysession5.md)
       + [Hinzufügen von Formularfeldern zu einem PDF ohne Tags](advanced-tasks/accessibilitysession6.md)
 + 60-Sekunden-Acrobat {#60-second}
-   + [Überblick](60-second/60-second-overview.md)
+   + [Übersicht](60-second/60-second-overview.md)
    + [PDF mit Acrobat Web bearbeiten](60-second/edit.md)
    + [Text in einer gescannten PDF-Datei erkennen](60-second/textrecognition.md)
    + [Dateien auf einer PDF zusammenführen](60-second/combine-to-one-pdf.md)
@@ -94,7 +94,7 @@ ht-degree: 6%
 + Skill Builders {#skill-builders}
    + [Schulungsvideos (in englischer Sprache)](skill-builder/skill-builder-webinars.md)
 + Integrationen {#integrations}
-   + [Überblick](integrate/integrate-overview.md)
+   + [Übersicht](integrate/integrate-overview.md)
    + [PDF erstellen aus [!DNL Microsoft Word]](integrate/createfromword.md)
    + [PDF erstellen in [!DNL Office] für das Web](integrate/createofficeweb.md)
    + [PDF-Zusammenarbeit in [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
@@ -105,9 +105,9 @@ ht-degree: 6%
    + [Adobe Acrobat für [!DNL Google Drive]](integrate/acrobatandgoogle.md)
    + [Arbeiten mit Dateien aus [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + Branchen und Abteilungen {#by-industry}
-   + [Überblick](industry/industry-overview.md)
+   + [Übersicht](industry/industry-overview.md)
    + Regierungseinrichtungen {#gov}
-      + [Überblick](industry/gov/gov-overview.md)
+      + [Übersicht](industry/gov/gov-overview.md)
       + 5 Tipps für Produktivität an jedem Ort mit Acrobat {#tips}
          + [5 Tipps für Produktivität an jedem Ort mit Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [Tipp #1 - Tools herunterladen](industry/gov/get-your-tools.md)
@@ -122,11 +122,11 @@ ht-degree: 6%
          + [#3 - Fertigstellung in Acrobat](industry/gov/finishing-in-acrobat.md)
          + [Zugänglichere PDF-Abstimmungen](industry/gov/making-pdf-ballots-accessible.md)
 + entwickeln {#develop}
-   + [Überblick](develop/develop-overview.md)
+   + [Übersicht](develop/develop-overview.md)
 + Bereitstellen {#deploy}
-   + [Überblick](deploy/deploy-overview.md)
+   + [Übersicht](deploy/deploy-overview.md)
    + [Wichtige Updates für Acrobat DC für ETLA-Kunden](deploy/signentitlementchanges.md)
 + Mobile Endgeräte {#mobile}
-   + [Überblick](mobile/mobile-overview.md)
+   + [Übersicht](mobile/mobile-overview.md)
    + [Unterwegs produktiv sein.](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Alles auf PDF scannen](mobile/scan-mobile-app.md)

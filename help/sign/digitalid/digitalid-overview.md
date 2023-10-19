@@ -7,16 +7,14 @@ level: Beginner
 jira: KT-8990
 thumbnail: KT-8990.jpg
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
 
 # Digitale ID - Übersicht
-
-![Digitales ID-Bild unterschreiben](../assets/Hero-DigitalID.png)
 
 Ähnlich wie ein Reisepass in elektronischer Form ermöglicht Ihnen eine digitale Identität (digitale ID) den sicheren Nachweis, dass Sie derjenige sind, der Sie vorgeben zu sein. Eine digitale ID bietet zusätzliche Sicherheit bei der elektronischen Unterzeichnung in Acrobat Sign, wenn du die Autorisierung deiner elektronischen Unterschrift auf einem bestimmten Dokument vorgenommen hast. Die folgenden Tutorials zeigen Ihnen, wie Sie digitale IDs aus der ganzen Welt mit Acrobat Sign verwenden.
 
