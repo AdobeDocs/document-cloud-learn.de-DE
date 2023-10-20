@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '543'
 ht-degree: 5%
 
 ---
@@ -20,10 +20,10 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
 
 ## Neue Funktionen
 
+* [Stilisieren dieser PDF](stylize-this-PDF.md)
+Erfahren Sie, wie Sie mit den integrierten, benutzerfreundlichen Designtools in Adobe Expreß professionell aussehende PDF erstellen.
 * [Überall arbeiten - mit Acrobat Web](acrobatweb.md)
 Erfahren Sie, wie Sie mit den Web-Tools von Acrobat in Ihrem Browser von überall aus Anfragen für Geschäftsdokumente bearbeiten.
-* [In Echtzeit zusammenarbeiten.](collaborate.md)
-Erweitere deine Projekte, indem du Kommentare einholst, im Team mit anderen zusammenarbeitest und den Fortschritt der Bearbeitung mitverfolgt - in Echtzeit und von überall.
 
 ## Tutorials zu ersten Schritten
 
@@ -166,6 +166,16 @@ Erweitere deine Projekte, indem du Kommentare einholst, im Team mit anderen zusa
       <br>
     </td>
     <td>
+      <a href="stylize-this-PDF.md">
+        <img alt="Stilisieren dieser PDF" src="../assets/Stylize.png" />
+      </a>
+      <div>
+      <a href="stylize-this-PDF.md"><strong>Stilisieren dieser PDF</strong></a>
+      </div>
+      <em>Erfahren Sie mehr über den neuen Bearbeitungsmodus, mit dem Inhalte automatisch angepasst werden</em>
+      <br>
+    </td>
+   <td>
       <a href="auto-adjust-layout.md">
         <img alt="Layout automatisch anpassen" src="../assets/Autoadjust.png" />
       </a>
@@ -183,11 +193,6 @@ Erweitere deine Projekte, indem du Kommentare einholst, im Team mit anderen zusa
       <a href="export-pdf.md"><strong>Exportieren einer PDF in bearbeitbare Formate</strong></a>
       </div>
       <em>Erfahren Sie, wie Sie Ihre PDF-Dateien in bearbeitbare Formate exportieren</em>
-      <br>
-    </td>
-    <td>
-    <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
       <br>
     </td>
   </tr>
