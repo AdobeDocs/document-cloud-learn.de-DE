@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-5294
 thumbnail: 33808.jpg
 exl-id: 4efd2d9a-715b-4d1a-9c6b-0ff5795cbf3b
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,6 @@ Erfahrt, wie ihr Unterschriften aller Mitarbeiter effizient einholt, etwa für V
 
 >[!VIDEO](https://video.tv.adobe.com/v/33808?quality=12&learn=on&hidetitle=true)
 
-Klicken Sie hier, um das schrittweise PDF-Rezept für Telearbeit-Vereinbarungen herunterzuladen.
+Wählen Sie diese Option, um eine schrittweise PDF-Rezeptur für Telearbeit-Vereinbarungen herunterzuladen oder zu öffnen.
 
 [![PDF-Rezept herunterladen](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-UsingMegaSign.pdf)

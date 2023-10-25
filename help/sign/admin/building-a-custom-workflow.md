@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-5495
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,12 @@ ht-degree: 0%
 
 Erfahrt, wie ihr Dokumenten-Workflows so zuschneidet und automatisiert, dass ihr elektronische Unterschriften erhaltet, Formulardaten erfasst und die Zustellung eines wichtigen Dokuments bestätigt, um die Workflow-Verwaltung zu optimieren.
 
-Die folgenden zusätzlichen Nutzungsszenarien sind in der realen Welt verfügbar:
+[!BADGE Anwendungsfälle]
 
-* [Forms für Verträge und Anforderungen in Regierungseinrichtungen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en) Anwendungsfall.
-* [Commercial Contracts and Requisition Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en) Anwendungsfall.
+* [Benutzerdefinierter Workflow für den IEP-Prozess für Bildungseinrichtungen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
+Erfahrt, wie Custom Workflow Designer zur Digitalisierung eines IEP-Prozesses (Individualized Education Program) eingesetzt wird.
+* [Forms für Verträge und Anforderungen in Regierungseinrichtungen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en)
+* [Commercial Contracts and Requisition Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en)
 
 >[!NOTE]
 >
@@ -31,4 +33,4 @@ Die folgenden zusätzlichen Nutzungsszenarien sind in der realen Welt verfügbar
 
 >[!TIP]
 >
->Dieses Video ist Teil des Kurses [Erste Schritte mit Acrobat Sign für Administratoren](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) das auf Experience League kostenlos erhältlich ist!
+>Dieses Video ist Teil des Kurses [Erste Schritte mit Acrobat Sign für Administratoren](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) das kostenlos auf dem Experience League verfügbar ist!

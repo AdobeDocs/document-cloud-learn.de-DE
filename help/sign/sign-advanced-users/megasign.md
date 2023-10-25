@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-4963
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,10 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie in wenigen Schritten Hunderte von Unterschriften einholen können. In diesem Anwendungsfall erhält jeder einen eigenen Haftungsausschluss zur Unterzeichnung. Du kannst den Fortschritt jedes einzelnen Haftungsausschlusses verfolgen, sodass du genau weißt, wer ihn unterzeichnet hat und wer nicht. Jede Online-Signatur ist sicher und rechtlich anerkannt.
 
-In diesem zusätzlichen How-to [Telearbeit-Vereinbarung](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en) Anwendungsfall.
+[!BADGE Anwendungsfälle]
+
+* [Telearbeit-Vereinbarung](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en)
+* [Politische Vereinbarung](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=en)
 
 >[!NOTE]
 >
@@ -30,4 +33,4 @@ In diesem zusätzlichen How-to [Telearbeit-Vereinbarung](https://experienceleagu
 
 >[!TIP]
 >
->Dieses Video ist Teil des [Erweiterte Aufgaben für Benutzer](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) und [Erste Schritte mit Acrobat Sign für Administratoren](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) Kurse, die kostenlos auf der Experience League verfügbar sind!
+>Dieses Video ist Teil des [Erweiterte Aufgaben für Benutzer](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) und [Erste Schritte mit Acrobat Sign für Administratoren](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) Kurse, die kostenlos auf dem Experience League verfügbar sind!
