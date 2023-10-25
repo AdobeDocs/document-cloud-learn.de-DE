@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 6d7d37621489f4799b619034b76c4751293ee654
+source-git-commit: 08ecfae16049ddc497beaea06c6213f5e6dd8a6d
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -26,13 +26,12 @@ Sie können Acrobat Sign in anderen Anwendungen verwenden, die Ihre Organisation
 
 ## Neue Funktionen
 
+* [Live Sign für [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
+Hier erfahren Sie, wie Sie ein Online-Signaturerlebnis schaffen, das dem persönlichen Signieren während einer [!DNL Microsoft Teams] Versammlung
 * [Erstellen Sie einen erweiterten Arbeitsablauf mit [!DNL Power Automate]](advanced-workflow-power-automate.md)
 Erfahren Sie, wie Sie einen erweiterten Arbeitsablauf mit [!DNL Power Automate] Verbinder
 * [Erstelle einen einfachen Workflow mit [!DNL Power Automate]](simple-workflow-power-automate.md)
 Erfahren Sie, wie Sie einen einfachen Workflow mit [!DNL Power Automate] Verbinder
-* [Microsoft Dynamics 365 for Sales.](dynamics-sales.md)
-Erfahren Sie, wie Acrobat Sign und [!DNL Microsoft Dynamics 365] für den Vertrieb werden verwendet, um den Signiervorgang für Verkaufsangebote zu automatisieren.
-
 
 ## Tutorials zur Integration mit Microsoft
 
@@ -123,6 +122,16 @@ Erfahren Sie, wie Acrobat Sign und [!DNL Microsoft Dynamics 365] für den Vertri
 </tr>
 <tr>
   <td>
+    <a href="live-sign-microsoft-teams.md">
+      <img alt="Live-Anmeldung [!DNL Microsoft Teams]" src="../assets/live-sign.png" />
+    </a>
+    <div>
+    <a href="live-sign-microsoft-teams.md"><strong>Live-Anmeldung [!DNL Microsoft Teams]</strong></a>
+    </div>
+    <em>Hier erfahren Sie, wie Sie ein Online-Signaturerlebnis schaffen, das dem persönlichen Signieren während einer [!DNL Microsoft Teams] Versammlung</em>
+    <br>
+  </td>
+   <td>
     <a href="simple-workflow-power-automate.md">
       <img alt="Mit Power Automate einen einfachen Workflow erstellen." src="../assets/simple-workflow.png" />
     </a>
@@ -152,6 +161,7 @@ Erfahren Sie, wie Acrobat Sign und [!DNL Microsoft Dynamics 365] für den Vertri
     <em>Erfahren Sie, wie Acrobat Sign und [!DNL Microsoft Dynamics 365] für den Kundendienst werden verwendet, um die Kundenzufriedenheit auf einem Self-Service-Kundenwebportal zu verbessern</em>
     <br>
   </td>
+<tr>
   <td>
     <a href="dynamics-field-service.md">
       <img alt="Microsoft Dynamics 365 for Field Service." src="../assets/Dynamics-field-service.png" />
@@ -162,7 +172,6 @@ Erfahren Sie, wie Acrobat Sign und [!DNL Microsoft Dynamics 365] für den Vertri
     <em>Weitere Informationen zu Acrobat Sign, [!DNL Power Automate]und [!DNL Microsoft Dynamics 365] für Field Service werden zur Optimierung der Vor-Ort-Interaktionen von Kunden verwendet.</em>
     <br>
   </td>
-<tr>  
   <td>
     <a href="dynamics-sales.md">
       <img alt="Microsoft Dynamics 365 for Sales." src="../assets/Dynamics-sales.png" />
@@ -171,11 +180,6 @@ Erfahren Sie, wie Acrobat Sign und [!DNL Microsoft Dynamics 365] für den Vertri
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales.</strong></a>
     </div>
     <em>Erfahren Sie, wie Acrobat Sign und [!DNL Microsoft Dynamics 365] für den Vertrieb werden verwendet, um den Signiervorgang für Verkaufsangebote zu automatisieren.</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
