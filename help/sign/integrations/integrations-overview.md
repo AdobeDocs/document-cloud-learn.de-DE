@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: fa90a5ba08f7147e264bb7da0571b7838dcadf6d
+source-git-commit: 25fd2a2d0d9f0cd2452a65761c298f5280809aee
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Sie können Acrobat Sign in anderen Anwendungen verwenden, die Ihre Organisation
 
 ## Neue Funktionen
 
-* [Integration der Registerkarte Dokumente in [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
+* [Integration der Registerkarte Dokumente für [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
 Erfahren Sie, wie Sie Dokumente direkt über die Registerkarte Dokumente in [!DNL Microsoft Teams]
 * [Live Sign in Adobe Acrobat Sign für [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
 Hier erfahren Sie, wie Sie ein Online-Signaturerlebnis schaffen, das dem persönlichen Signieren während einer [!DNL Microsoft Teams] Versammlung
@@ -133,10 +133,10 @@ Erfahren Sie, wie Sie einen erweiterten Arbeitsablauf mit [!DNL Power Automate] 
   </td>
    <td>
     <a href="acrobat-sign-teams-documents-tab.md">
-      <img alt="Mit Power Automate einen einfachen Workflow erstellen." src="../assets/Documents-tab.png" />
+      <img alt="Integration der Registerkarte Dokumente für [!DNL Microsoft Teams]" src="../assets/Documents-tab.png" />
     </a>
     <div>
-    <a href="acrobat-sign-teams-documents-tab.md"><strong>Integration der Registerkarte Dokumente in [!DNL Microsoft Teams]</strong></a>
+    <a href="acrobat-sign-teams-documents-tab.md"><strong>Integration der Registerkarte Dokumente für [!DNL Microsoft Teams]</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie Dokumente direkt über die Registerkarte Dokumente in [!DNL Microsoft Teams]</em>
     <br>
