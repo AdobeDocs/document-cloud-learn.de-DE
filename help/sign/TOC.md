@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 1af2db7abc73f889d71806a66d2debc2f6fbb334
+source-git-commit: afca817b03c2d3748c21c4c110eebe44b0251c46
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '548'
 ht-degree: 10%
 
 ---
@@ -109,6 +109,7 @@ ht-degree: 10%
       + [Dokumentautomatisierung mit Acrobat Sign für [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
       + [Zum Unterschreiben senden in [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
       + [Live Sign in Adobe Acrobat Sign für [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)
+      + [Integration der Registerkarte Dokumente für [!DNL Microsoft Teams]](integrations/acrobat-sign-teams-documents-tab.md)
       + [Erstellen Sie einen einfachen Arbeitsablauf in [!DNL Power Automate]](integrations/simple-workflow-power-automate.md)
       + [Erstellen Sie einen erweiterten Arbeitsablauf in [!DNL Power Automate]](integrations/advanced-workflow-power-automate.md)
       + [[!DNL Microsoft Dynamics 365] für den Kundendienst](integrations/dynamics-customer-service.md)
