@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
 workflow-type: tm+mt
-source-wordcount: '427'
-ht-degree: 3%
+source-wordcount: '428'
+ht-degree: 5%
 
 ---
 
@@ -20,12 +20,12 @@ Erfahren Sie, wie Sie ein Dokument zur Signatur an Hunderte von Empfängern glei
 
 ## Neue Funktionen
 
+* [Massenversand](megasign.md)
+Erfahren Sie, wie Sie in wenigen Schritten Tausende von Unterschriften gleichzeitig für jedes Dokument einholen können
 * [Authentifizierungsmethoden in Acrobat Sign](authentication-methods.md)
 In diesem Artikel werden verschiedene Methoden zur Authentifizierung der Identität eines Unterzeichners eines Dokuments in Acrobat Sign erläutert.
-* [Onlinezahlungen einrichten](set-up-online-payments.md)
-Erfahren Sie, wie Sie Online-Zahlungen in Ihren Dokumenten einrichten und akzeptieren.
 
-## Senden
+## Send
 
 <table style="table-layout:fixed">
 <tr>
@@ -93,12 +93,12 @@ Erfahren Sie, wie Sie Online-Zahlungen in Ihren Dokumenten einrichten und akzept
   </td>
   <td>
       <a href="megasign.md">
-        <img alt="Mehrere Signaturen gleichzeitig senden und erfassen" src="../assets/Megasign.png" />
+        <img alt="Massenversand" src="../assets/send-in-bulk.png" />
       </a>
       <div>
-      <a href="megasign.md"><strong>Mehrere Signaturen gleichzeitig senden und erfassen</strong></a>
+      <a href="megasign.md"><strong>Massenversand</strong></a>
       </div>
-      <em>Hole in wenigen Schritten Hunderte von Unterschriften auf einmal für jedes Dokument ein</em>
+      <em>Mehrere Tausend Unterschriften gleichzeitig einholen - für jedes Dokument in wenigen Schritten</em>
       <br>
   </td>
  <td>

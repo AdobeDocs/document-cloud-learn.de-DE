@@ -12,10 +12,10 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: afca817b03c2d3748c21c4c110eebe44b0251c46
+source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
 workflow-type: tm+mt
-source-wordcount: '548'
-ht-degree: 10%
+source-wordcount: '544'
+ht-degree: 11%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 10%
 + [Übersicht](overview.md)
 + Erste Schritte {#getting-started}
    + [Übersicht](sign-beginner-tutorials/beginner-users-overview.md)
-   + Senden {#getting-started-sending}
+   + Send {#getting-started-sending}
       + [Grundlagen des Arbeitsbereichs](sign-beginner-tutorials/quick-tour.md)
       + [Erste Schritte mit Acrobat Sign](sign-beginner-tutorials/new-sender.md)
       + [Senden an einen einzelnen Empfänger](sign-beginner-tutorials/send-to-single-recipient.md)
@@ -35,7 +35,7 @@ ht-degree: 10%
       + [Ändern eines Dokuments nach dem Senden](sign-beginner-tutorials/modify-in-flight.md)
       + [Ersetzen eines Unterzeichners](sign-beginner-tutorials/replace-signer.md)
       + [Termine und Erinnerungen festlegen](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + Signieren {#getting-started-signing}
+   + Signieren gesendet {#getting-started-signing}
       + [Dokumente elektronisch unterschreiben](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Ein Dokument ausfüllen und unterschreiben](sign-beginner-tutorials/fill-and-sign.md)
       + [Persönliches Einholen einer Unterschrift](sign-beginner-tutorials/sign-in-person.md)
@@ -47,14 +47,14 @@ ht-degree: 10%
       + [Erstellen von Dokumentvorlagen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + Erweiterte Aufgaben {#advanced-tasks}
    + [Übersicht](sign-advanced-users/advanced-users-overview.md)
-   + Senden {#advanced-tasks-sending}
+   + Send {#advanced-tasks-sending}
       + [Einrichten der Unterschriftsreihenfolge](sign-advanced-users/setting-up-routing.md)
       + [Verwenden der Delegatorrolle](sign-advanced-users/delegate-signature.md)
       + [Verwenden der Genehmigerrolle](sign-advanced-users/add-an-approver.md)
       + [Authentifizierungsmethoden in Acrobat Sign](sign-advanced-users/authentication-methods.md)
       + [Formulardaten verwalten](sign-advanced-users/manage-form-data.md)
       + [Onlinezahlungen einrichten](sign-advanced-users/set-up-online-payments.md)
-      + [Mehrere Signaturen gleichzeitig senden und erfassen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [Massenversand](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Erstellen eines Webformulars](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Acrobat Sign Text-Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Verwenden von Text-Tagging in [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
@@ -63,7 +63,7 @@ ht-degree: 10%
       + [Dokumentvorlagen verwalten](sign-advanced-users/edit-a-template.md)
       + [Vorhandenes Webformular ändern](sign-advanced-users/modify-webform.md)
       + [Verwalten von Webformulardaten](sign-advanced-users/manage-webform-data.md)
-+ verabreichen {#admin-set-up}
++ Verwaltung {#admin-set-up}
    + [Übersicht](admin/intro-admin-overview.md)
    + Erste Schritte {#getting-started-admin}
       + [Erste Schritte für neue Administratoren](admin/get-started-admin.md)
@@ -77,7 +77,7 @@ ht-degree: 10%
       + [Berichtsoptionen für Benutzer](admin/report-options.md)
       + [Erstellen eines Webformulars](sign-advanced-users/webform.md)
       + [Vorhandenes Webformular ändern](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
-      + [Mehrere Signaturen gleichzeitig senden und erfassen](sign-advanced-users/megasign.md)
+      + [Massenversand](sign-advanced-users/megasign.md)
       + [Erstellen eines benutzerdefinierten Workflows](admin/building-a-custom-workflow.md)
    + Erweiterte Aufgaben {#advanced-tasks-admins}
       + [Globale Einstellungen](admin/learn-about-global-settings.md)
