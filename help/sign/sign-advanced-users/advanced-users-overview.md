@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
+source-git-commit: b12425a4dd0f6cac45349e161f83cf1945519589
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 5%
@@ -98,7 +98,7 @@ In diesem Artikel werden verschiedene Methoden zur Authentifizierung der Identit
       <div>
       <a href="megasign.md"><strong>Massenversand</strong></a>
       </div>
-      <em>Mehrere Tausend Unterschriften gleichzeitig einholen - für jedes Dokument in wenigen Schritten</em>
+      <em>Hole in wenigen Schritten Hunderte von Unterschriften auf einmal für jedes Dokument ein</em>
       <br>
   </td>
  <td>
