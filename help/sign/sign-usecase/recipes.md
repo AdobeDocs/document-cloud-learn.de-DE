@@ -1,5 +1,5 @@
 ---
-title: Nutzungsszenarien
+title: Anwendungsfälle
 description: Beschleunigt die digitalen Workflows in eurem Unternehmen mit diesen Beispielen für elektronische Unterschriften von Behörden und Unternehmen.
 feature: Use Cases
 role: User
@@ -8,16 +8,16 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
 
-# Nutzungsszenarien
+# Anwendungsfälle
 
-Beschleunigt die digitalen Workflows in eurem Unternehmen mit diesen Beispielen für elektronische Unterschriften von Behörden und Unternehmen. Klicken Sie hier, um eine PDF mit Ressourcen und Details zum Einrichten dieser spezifischen Anwendungsfälle für elektronische Signaturen anzuzeigen.
+In diesen Nutzungsszenarien erfahrt ihr, wie verschiedene Organisationen Acrobat Sign einsetzen, um die digitalen Workflows ihres Unternehmens zu transformieren.
 
 ## Neue Funktionen
 
