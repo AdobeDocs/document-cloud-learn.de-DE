@@ -7,9 +7,9 @@ role: User
 jira: KT-8199
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: ae50de493d898a6997df19b8069efb036c0cd0a4
+source-git-commit: ec5e2b5a185108c242b6a26d585a92624c380c78
 workflow-type: tm+mt
-source-wordcount: '1017'
+source-wordcount: '1015'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Adobe Acrobat Skill Builder sind 30-minütige Sessions, die deine PDF-Workflows 
 
 **[Entdeckt 6 unverzichtbare Adobe Acrobat-Tools.](https://www.adobe.com/documentcloud/webinars/discover-6-essential-adobe-acrobat-tools.html){target="_blank"}**
 Datum: 24. Januar 2024. Erfahrt, was Branchenberichte über die wichtigsten Trends in der digitalen Arbeitswelt sagen und wie Acrobat Dokumenten-Workflows konsolidiert, um jedem Team wertvolle Zeit zu sparen.
-Themen:
+Die Themen sind:
 
 * Nahtlose Navigation in Acrobat über mehrere Oberflächen hinweg
 * Einfaches Zusammenführen und Bearbeiten von Dokumenten
@@ -32,7 +32,7 @@ Themen:
 
 **[Erste Schritte mit Adobe Acrobat](https://www.adobe.com/documentcloud/webinars/get-started-with-adobe-acrobat.html){target="_blank"}**
 Datum: 18. Januar 2024. Erfahrt, wie Adobe Acrobat alltägliche Dokumentaufgaben erledigt, um ein schnelles, sicheres Geschäft zu unterstützen.
-Sie erfahren Folgendes:
+Die Themen sind:
 
 * Nahtlose Navigation in Acrobat über mehrere Oberflächen hinweg
 * Schnelles Zusammenführen und Bearbeiten von Dokumenten
@@ -41,7 +41,7 @@ Sie erfahren Folgendes:
 * Workflows für elektronische Unterschriften mit Adobe Acrobat Sign erstellen
 
 **[Einfache Automatisierung mit Action Wizard](https://teamwork.adobe.com/adobe-acrobat-skill-builder/attendease/networking/experience/41d505bb-252a-4e26-9576-6ae82293e6c9/97be1628-5cb6-44be-ac61-c0cc26fbb58d){target="_blank"}**
-Datum: 16. November 2023 Wiederholen Sie keine einfachen manuellen Aufgaben mehr. In dieser Session erfährst du, wie du Action Wizard in Acrobat Pro einsetzt, um PDF-Dateien im Stapel zu verarbeiten und serielle, sich wiederholende Aufgaben automatisch auszuführen, z. B. den Zugriff auf Dokumente, den Schutz von Dokumenten, die Dateioptimierung, die Archivierung und vieles mehr. Themen:
+Datum: 16. November 2023 Wiederholen Sie keine einfachen manuellen Aufgaben mehr. In dieser Session erfährst du, wie du Action Wizard in Acrobat Pro einsetzt, um PDF-Dateien im Stapel zu verarbeiten und serielle, sich wiederholende Aufgaben automatisch auszuführen, z. B. den Zugriff auf Dokumente, den Schutz von Dokumenten, die Dateioptimierung, die Archivierung und vieles mehr. Die Themen sind:
 
 * Was sind Aktionen?
 * Wie Sie vorkonfigurierte Aktionen verwenden
