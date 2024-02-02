@@ -5,10 +5,11 @@ breadcrumb-title: Acrobat Tutorials
 feature-set: Document Cloud
 role: User
 type: Tutorial
-source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
+auto-video-transcripts: true
+source-git-commit: 2cf300b9b6b73dcf76be74279cdee05afb4d52e3
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 6%
+source-wordcount: '471'
+ht-degree: 4%
 
 ---
 
@@ -127,7 +128,7 @@ ht-degree: 6%
 + Bereitstellen {#deploy}
    + [Übersicht](deploy/deploy-overview.md)
    + [Wichtige Updates für Acrobat DC für ETLA-Kunden](deploy/signentitlementchanges.md)
-+ Mobile Endgeräte {#mobile}
++ Mobil {#mobile}
    + [Übersicht](mobile/mobile-overview.md)
    + [Unterwegs produktiv sein.](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Alles auf PDF scannen](mobile/scan-mobile-app.md)
