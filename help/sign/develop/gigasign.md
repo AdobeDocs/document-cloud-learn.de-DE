@@ -8,9 +8,9 @@ jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: 25aa2a1255431787b5db306781eba22707129111
+source-git-commit: 636119a247f7d891c6edaa16149fcc8083ccee7e
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '298'
 ht-degree: 1%
 
 ---
@@ -19,11 +19,15 @@ ht-degree: 1%
 
 Mit Gigasign könnt ihr Dokumente zur Unterzeichnung an mehrere Tausend Personen gleichzeitig senden, erfassen und nachverfolgen. Es wurde für die großvolumige Kommunikation mit Ihren Mitarbeitern und Kunden entwickelt und unterstützt bis zu 2.500 Empfänger bei jedem Massenversand. GigaSign verwendet die Acrobat Sign-API, um dieselbe Funktionalität wie MegaSign bereitzustellen, und unterstützt mehrere Unterzeichner, Empfängergruppen, Empfängerrollen, Vereinbarungsnamen, Carbon Copy und mehr.
 
+>[!IMPORTANT]
+>
+>GigaSign wird nicht mehr auf die neueste Version von Java oder Acrobat Sign aktualisiert und wird nur begrenzte Unterstützung erhalten. Die Funktionen von GigaSign werden dem Produkt unter dem [Massenversand](https://helpx.adobe.com/acrobat/using/send-in-bulk.html) -Funktionalität. Bitte verwenden Sie Massenversand für alle Anwendungsfälle, die nicht explizit die Verwendung von GigaSign erfordern.
+
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## GigaSign-App herunterladen und installieren
 
-[GigaSign-ZIP-Datei herunterladen](https://acrobat.adobe.com/id/urn:aaid:sc:US:f2046f79-b1bf-47d2-821d-546c8f2ed8b6)
+[GigaSign-ZIP-Datei herunterladen](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
 
 [Download-Link für Java 1.8 (nur bei Bedarf)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
