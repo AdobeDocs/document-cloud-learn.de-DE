@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
+source-git-commit: 38f311470c6b30dc7c731a37025381fba3651001
 workflow-type: tm+mt
-source-wordcount: '543'
-ht-degree: 5%
+source-wordcount: '542'
+ht-degree: 2%
 
 ---
 
@@ -34,7 +34,7 @@ Erfahren Sie, wie Sie mit den Web-Tools von Acrobat in Ihrem Browser von überal
       <img alt="Grundlagen des Arbeitsbereichs" src="../assets/Workspace_1280.png" />
     </a>
     <div>
-    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Grundlagen des Arbeitsbereichs</strong></a>
+    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Arbeitsbereich - Grundlagen</strong></a>
     </div>
     <em>Erfahre, wie du über den Arbeitsbereich von Acrobat auf Dateien und Tools zugreifen kannst - auf dem Desktop, im Web, auf deinem Smartphone oder Tablet.</em>
     <br>
@@ -110,7 +110,7 @@ Erfahren Sie, wie Sie mit den Web-Tools von Acrobat in Ihrem Browser von überal
   <tr>
     <td>
       <a href="create-pdf.md">
-        <img alt="PDF-Dateien erstellen" src="../assets/Create.jpg" />
+        <img alt="Erstellen von PDF-Dateien" src="../assets/create.png" />
       </a>
       <div>
       <a href="create-pdf.md"><strong>Erstellen einer PDF</strong></a>
@@ -133,7 +133,7 @@ Erfahren Sie, wie Sie mit den Web-Tools von Acrobat in Ihrem Browser von überal
         <img alt="Organisieren von Seiten" src="../assets/Organize.png" />
       </a>
       <div>
-      <a href="organize.md"><strong>Organisieren von Seiten</strong></a>
+      <a href="organize.md"><strong>Seiten verwalten.</strong></a>
       </div>
       <em>Auf dem PDF können Sie Seiten hinzufügen, ersetzen, extrahieren, drehen, löschen und neu anordnen.</em>
       <br>
@@ -160,7 +160,7 @@ Erfahren Sie, wie Sie mit den Web-Tools von Acrobat in Ihrem Browser von überal
         <img alt="Bearbeiten einer PDF-Datei" src="../assets/Edit.jpg" />
       </a>
       <div>
-      <a href="edit-pdf.md"><strong>Bearbeiten einer PDF-Datei</strong></a>
+      <a href="edit-pdf.md"><strong>Bearbeiten eines PDF</strong></a>
       </div>
       <em>Text und Bilder in PDF-Dateien bearbeiten</em>
       <br>
