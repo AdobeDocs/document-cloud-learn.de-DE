@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 38f311470c6b30dc7c731a37025381fba3651001
+source-git-commit: 39294d60838d7e4b67485a80538f6ff1c523369f
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '534'
 ht-degree: 2%
 
 ---
@@ -20,10 +20,11 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
 
 ## Neue Funktionen
 
+* [Erstellen einer PDF](create-pdf.md)
+Lernen Sie, wie Sie PDF aus verschiedenen Dokumenttypen erstellen können.
+
 * [Stilisieren dieser PDF](stylize-this-PDF.md)
 Erfahren Sie, wie Sie mit den integrierten, benutzerfreundlichen Designtools in Adobe Expreß professionell aussehende PDF erstellen.
-* [Überall arbeiten - mit Acrobat Web](acrobatweb.md)
-Erfahren Sie, wie Sie mit den Web-Tools von Acrobat in Ihrem Browser von überall aus Anfragen für Geschäftsdokumente bearbeiten.
 
 ## Tutorials zu ersten Schritten
 
