@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 39294d60838d7e4b67485a80538f6ff1c523369f
+source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
 workflow-type: tm+mt
-source-wordcount: '534'
-ht-degree: 2%
+source-wordcount: '536'
+ht-degree: 1%
 
 ---
 
@@ -20,11 +20,11 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
 
 ## Neue Funktionen
 
+* [Bearbeiten von Text auf einem PDF](edit-pdf.md)
+Erfahren Sie, wie Sie Wörter, Sätze oder sogar ganze Seiten auf Ihrem PDF bearbeiten können.
+
 * [Erstellen einer PDF](create-pdf.md)
 Lernen Sie, wie Sie PDF aus verschiedenen Dokumenttypen erstellen können.
-
-* [Stilisieren dieser PDF](stylize-this-PDF.md)
-Erfahren Sie, wie Sie mit den integrierten, benutzerfreundlichen Designtools in Adobe Expreß professionell aussehende PDF erstellen.
 
 ## Tutorials zu ersten Schritten
 
@@ -158,7 +158,7 @@ Erfahren Sie, wie Sie mit den integrierten, benutzerfreundlichen Designtools in 
   <tr>
     <td>
       <a href="edit-pdf.md">
-        <img alt="Bearbeiten einer PDF-Datei" src="../assets/Edit.jpg" />
+        <img alt="Bearbeiten von Text auf einem PDF" src="../assets/edit-text.png" />
       </a>
       <div>
       <a href="edit-pdf.md"><strong>Bearbeiten eines PDF</strong></a>
