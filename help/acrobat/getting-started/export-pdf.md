@@ -1,22 +1,22 @@
 ---
-title: Exportieren einer PDF in Microsoft Office-Formate
-description: PDF-Dateien als editierbare Formate wie Microsoft Word, Excel oder PowerPoint exportieren
+title: PDF in andere Dateiformate konvertieren
+description: Erfahren Sie, wie Sie Ihre PDF-Dateien in verschiedene Dateiformate wie Microsoft Word, Excel oder PowerPoint konvertieren können.
 feature: Convert PDF
 role: User
 level: Beginner
 jira: KT-5529
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 11%
+source-wordcount: '139'
+ht-degree: 2%
 
 ---
 
-# Exportieren einer PDF in Microsoft Office-Formate
+# PDF in verschiedene Dateiformate konvertieren
 
-Erfahren Sie, wie Sie Ihre PDF-Dateien in bearbeitbare Formate, wie z. B. [Microsoft Word](https://www.adobe.com/de/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/de/acrobat/online/pdf-to-ppt.html)und [Excel](https://www.adobe.com/de/acrobat/online/pdf-to-excel.html). Wenn du die Datei in ein anderes Format exportierst, kannst du wichtige Änderungen an deinen Dokumenten vornehmen.
+Erfahren Sie, wie Sie Ihre PDF-Dateien in verschiedene Dateiformate konvertieren können, z. B. [Microsoft Word](https://www.adobe.com/de/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/de/acrobat/online/pdf-to-ppt.html)und [Excel](https://www.adobe.com/de/acrobat/online/pdf-to-excel.html). Konvertieren Ihres PDF in [Adobe Expreß](https://express.adobe.com) Branding-Elemente hinzufügen wird ebenfalls behandelt. Wenn Sie Ihren PDF in ein anderes Dateiformat wie Microsoft Word konvertieren, verbessert dies die Effizienz des Dokumenten-Workflows und spart erheblich Zeit, wenn Sie umfangreiche Änderungen an Ihren langen Dokumenten vornehmen.
 
 >[!TIP]
 >
@@ -32,4 +32,4 @@ Erfahren Sie, wie Sie Ihre PDF-Dateien in bearbeitbare Formate, wie z. B. [Micro
 
 >[!TIP]
 >
->Dieses Video ist Teil des Kurses [Intelligenter arbeiten mit Acrobat DC und Microsoft 365.](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) das auf Experience League kostenlos erhältlich ist!
+>Dieses Video ist Teil des Kurses [Intelligenter arbeiten mit Acrobat DC und Microsoft 365.](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) das kostenlos auf dem Experience League verfügbar ist!
