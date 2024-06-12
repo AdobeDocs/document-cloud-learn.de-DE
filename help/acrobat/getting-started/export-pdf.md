@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-5529
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
+source-git-commit: 0597b1dd1c99ed2b37cb084d192174a497ba307a
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '147'
 ht-degree: 2%
 
 ---
 
 # PDF in verschiedene Dateiformate konvertieren
 
-Erfahren Sie, wie Sie Ihre PDF-Dateien in verschiedene Dateiformate konvertieren können, z. B. [Microsoft Word](https://www.adobe.com/de/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/de/acrobat/online/pdf-to-ppt.html)und [Excel](https://www.adobe.com/de/acrobat/online/pdf-to-excel.html). Konvertieren Ihres PDF in [Adobe Expreß](https://express.adobe.com) Branding-Elemente hinzufügen wird ebenfalls behandelt. Wenn Sie Ihren PDF in ein anderes Dateiformat wie Microsoft Word konvertieren, verbessert dies die Effizienz des Dokumenten-Workflows und spart erheblich Zeit, wenn Sie umfangreiche Änderungen an Ihren langen Dokumenten vornehmen.
+Erfahren Sie, wie Sie Ihre PDF-Dateien in verschiedene Dateiformate konvertieren können, z. B. [Microsoft Word](https://www.adobe.com/de/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/de/acrobat/online/pdf-to-ppt.html)und [Excel](https://www.adobe.com/de/acrobat/online/pdf-to-excel.html). Konvertieren Ihres PDF in [Adobe Expreß](https://express.adobe.com) Branding-Elemente hinzufügen wird ebenfalls behandelt. Wenn Sie Ihren PDF in ein anderes Dateiformat wie Microsoft Word konvertieren, verbessert dies die Effizienz des Dokumenten-Workflows und spart erheblich Zeit, wenn Sie umfangreiche Änderungen an Ihren langen Dokumenten vornehmen. In diesem Video-Tutorial wird das neue Arbeitsbereich-Erlebnis verwendet.
 
 >[!TIP]
 >
