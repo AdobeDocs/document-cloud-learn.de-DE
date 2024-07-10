@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
+source-git-commit: 98e38a8e7ddf7c5ea051398d7cc77eb2dab7a0df
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '628'
 ht-degree: 1%
 
 ---
@@ -20,6 +20,9 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
 
 ## Neue Funktionen
 
+* [Neue Arbeitsbereichserfahrung](new-workspace.md)
+Erfahren Sie mehr über den neuen Arbeitsbereich in Acrobat, mit dem Sie schnell Tools entdecken und Ihre PDF-Aufgaben effizient erledigen können
+
 * [Mit dem KI-Assistenten PDF-Erkenntnisse gewinnen](ai-assistant.md)
 Erfahren Sie, wie Sie mit dem KI-Assistenten Erkenntnisse aus Ihren PDF-Dateien gewinnen
 
@@ -29,13 +32,21 @@ Erfahren Sie, wie Sie Ihre PDF-Dateien in verschiedene Dateiformate wie Microsof
 * [Bearbeiten von Text auf einem PDF](edit-pdf.md)
 Erfahren Sie, wie Sie Wörter, Sätze oder sogar ganze Seiten auf Ihrem PDF bearbeiten können.
 
-* [Erstellen einer PDF](create-pdf.md)
-Lernen Sie, wie Sie PDF aus verschiedenen Dokumenttypen erstellen können.
 
 ## Tutorials zu ersten Schritten
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="new-workspace.md">
+      <img alt="Neue Arbeitsbereichserfahrung" src="../assets/new-workspace.png" />
+    </a>
+    <div>
+    <a href="new-workspace.md"><strong>Neue Arbeitsbereichserfahrung</strong></a>
+    </div>
+    <em>Erfahren Sie mehr über den neuen Arbeitsbereich in Acrobat, mit dem Sie schnell Tools entdecken und Ihre PDF-Aufgaben effizient erledigen können</em>
+    <br>
+  </td>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
       <img alt="Grundlagen des Arbeitsbereichs" src="../assets/workspace_acrobat.png" />
@@ -44,16 +55,6 @@ Lernen Sie, wie Sie PDF aus verschiedenen Dokumenttypen erstellen können.
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Arbeitsbereich - Grundlagen</strong></a>
     </div>
     <em>Erfahre, wie du über den Arbeitsbereich von Acrobat auf Dateien und Tools zugreifen kannst - auf dem Desktop, im Web, auf deinem Smartphone oder Tablet.</em>
-    <br>
-  </td>
-  <td>
-    <a href="new-workspace.md">
-      <img alt="Neue Arbeitsbereichserfahrung" src="../assets/NewWorkspace.png" />
-    </a>
-    <div>
-    <a href="new-workspace.md"><strong>Neue Arbeitsbereichserfahrung</strong></a>
-    </div>
-    <em>Erfahren Sie mehr über das neue Arbeitsbereichserlebnis, das Sie in Acrobat aktivieren können</em>
     <br>
   </td>
   <td>
