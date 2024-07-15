@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 9db61d9c32ab7ac66f11835132e065bcafdf7964
+source-git-commit: 45f8a9e0886f0c7c4f0dfa1ef0a8b705d3674696
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 2%
+source-wordcount: '248'
+ht-degree: 4%
 
 ---
 
@@ -135,23 +135,13 @@ Erfahren Sie, wie Sie Wörter, Sätze oder sogar ganze Seiten auf Ihrem PDF bear
   <tr>
     <td>
       <a href="collaborate.md">
-        <img alt="In Echtzeit zusammenarbeiten." src="../assets/Collaborate_1280.png" />
+        <img alt="In Echtzeit zusammenarbeiten." src="../assets/collaborate.png" />
       </a>
-      <div>
-      <a href="collaborate.md"><strong>In Echtzeit zusammenarbeiten</strong></a>
-      </div>
-      <em>Bringen Sie Ihre Projekte voran, indem Sie von überall aus Kommentare sammeln, an Antworten zusammenarbeiten und den Fortschritt Ihrer Dokumente in Echtzeit verfolgen</em>
-      2<br>
     </td>
     <td>
       <a href="comment-on-pdf-files.md">
-        <img alt="Auf einem PDF kommentieren" src="../assets/Comment.jpg" />
+        <img alt="Auf einem PDF kommentieren" src="../assets/comment.png" />
       </a>
-      <div>
-      <a href="comment-on-pdf-files.md"><strong>Kommentar zu einem PDF</strong></a>
-      </div>
-      <em>Kommentare zu einer PDF-Datei hinzufügen und diese dann für andere freigeben</em>
-      2<br>
     </td>
     <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -172,65 +162,35 @@ Erfahren Sie, wie Sie Wörter, Sätze oder sogar ganze Seiten auf Ihrem PDF bear
 <tr>
   <td>
     <a href="create-fillable-forms.md">
-      <img alt="Ausfüllbares Formular erstellen" src="../assets/Form_1280.png" />
+      <img alt="Ausfüllbares Formular erstellen" src="../assets/fillable-forms.png" />
     </a>
-    <div>
-    <a href="create-fillable-forms.md"><strong>Ausfüllbare Formulare erstellen</strong></a>
-    </div>
-    <em>Ein in einer anderen Anwendung erstelltes Dokument in ein ausfüllbares PDF-Formular umwandeln</em>
-    2<br>
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="PDF-Formular ausfüllen und unterschreiben" src="../assets/FillSign_1280.png" />
+      <img alt="PDF-Formular ausfüllen und unterschreiben" src="../assets/fill-sign.png" />
     </a>
-    <div>
-    <a href="fill-and-sign.md"><strong>Fill &amp; Sign PDF forms </strong></a>
-    </div>
-    <em>PDF-Formular schnell ausfüllen und unterschreiben</em>
-    2<br>
   </td>
   <td>
     <a href="scan-and-ocr.md">
-      <img alt="Scannen und OCR" src="../assets/Scan.jpg" />
+      <img alt="Scannen und OCR" src="../assets/scan.png" />
     </a>
-    <div>
-    <a href="scan-and-ocr.md"><strong>Scannen und OCR</strong></a>
-    </div>
-    <em>Reduzieren Sie große Dateien, und optimieren Sie Ihre PDF, ohne die Qualität für die Freigabe, Veröffentlichung oder Archivierung zu beeinträchtigen</em>
-    2<br>
   </td>
   <td>
     <a href="password-protect.md">
-      <img alt="Protect einer PDF-Datei mit einem Kennwort" src="../assets/Protect.jpg" />
+      <img alt="Protect einer PDF-Datei mit einem Kennwort" src="../assets/protect.png" />
     </a>
-    <div>
-    <a href="password-protect.md"><strong>Protect einer PDF-Datei mit einem Kennwort</strong></a>
-    </div>
-    <em>Fügen Sie Ihrem PDF ein Kennwort hinzu, um andere Benutzer vor dem Öffnen oder Bearbeiten der Datei zu schützen</em>
-    2<br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="signatures.md">
-      <img alt="Unterschriften einholen." src="../assets/Signatures_1280.png" />
+      <img alt="Unterschriften einholen." src="../assets/signnatures.png" />
     </a>
-    <div>
-    <a href="signatures.md"><strong>Signaturen abrufen</strong></a>
-    </div>
-    <em>Durch das Einholen rechtsverbindlicher E-Signaturen von anderen Personen und von jedem Ort aus das Geschäft am Laufen halten</em>
-    2<br>
   </td>
   <td>
     <a href="track.md">
-      <img alt="Dokumente verfolgen" src="../assets/Track_1280.png" />
+      <img alt="Dokumente verfolgen" src="../assets/track.png" />
     </a>
-    <div>
-    <a href="track.md"><strong>Dokumente verfolgen</strong></a>
-    </div>
-    <em>Immer wissen, welche Dateien auf Signaturen warten und welche signiert wurden</em>
-    2<br>
   </td>
   <td>
    <img alt="Spacer" src="../assets/Grayspacer.png" />
