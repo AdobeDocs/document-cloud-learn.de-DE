@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 45f8a9e0886f0c7c4f0dfa1ef0a8b705d3674696
+source-git-commit: 23ccd52c03d641ee945b7ba9a9356f5d4894a50b
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '232'
 ht-degree: 4%
 
 ---
@@ -20,14 +20,12 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
 
 ## Neue Funktionen
 
+* [Grafiken auf einem PDF bearbeiten](edit-graphics.md)
+Erfahren Sie, wie Sie Grafiken auf Ihrem PDF erstellen, bearbeiten und verbessern können.
 * [Neues Arbeitsbereichserlebnis](new-workspace.md)
 Erfahren Sie mehr über den neuen Arbeitsbereich in Acrobat, mit dem Sie schnell Tools entdecken und Ihre PDF-Aufgaben effizient erledigen können
 * [Entdecken Sie PDF-Erkenntnisse mit dem AI-Assistenten](ai-assistant.md)
 Erfahren Sie, wie Sie mit dem KI-Assistenten Erkenntnisse aus Ihren PDF-Dateien gewinnen
-* [PDF in andere Dateiformate konvertieren](export-pdf.md)
-Erfahren Sie, wie Sie Ihre PDF-Dateien in verschiedene Dateiformate wie Microsoft Word, Excel oder PowerPoint konvertieren können.
-* [Text auf einem PDF bearbeiten](edit-pdf.md)
-Erfahren Sie, wie Sie Wörter, Sätze oder sogar ganze Seiten auf Ihrem PDF bearbeiten können.
 
 ## Tutorials zu ersten Schritten
 
@@ -112,6 +110,11 @@ Erfahren Sie, wie Sie Wörter, Sätze oder sogar ganze Seiten auf Ihrem PDF bear
       </a>
     </td>
     <td>
+      <a href="edit-graphics.md">
+        <img alt="Bearbeiten von Grafiken auf einem PDF" src="../assets/edit-graphics.png" />
+      </a>
+    </td>
+    <td>
       <a href="stylize-this-PDF.md">
         <img alt="Stilisieren dieser PDF" src="../assets/stylize-pdf.png" />
       </a>
@@ -121,13 +124,29 @@ Erfahren Sie, wie Sie Wörter, Sätze oder sogar ganze Seiten auf Ihrem PDF bear
         <img alt="Layout automatisch anpassen" src="../assets/auto-adjust.png" />
       </a>
     </td>
+  </tr>
     <td>
       <a href="export-pdf.md">
         <img alt="PDF in verschiedene Dateiformate konvertieren" src="../assets/convert.png" />
       </a>
     </td>
-  </tr>
-  </table>
+    <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+   <td>
+   <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
 
 ## Tutorials zur Zusammenarbeit
 
