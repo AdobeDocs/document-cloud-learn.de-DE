@@ -1,6 +1,6 @@
 ---
-title: Signieren mit [!DNL Intesi Group]
-description: Erfahren Sie, wie Sie Ihr [!DNL Intesi Group] digitale ID mit Acrobat Sign
+title: Signieren mit  [!DNL Intesi Group]
+description: Erfahren Sie, wie Sie Ihre [!DNL Intesi Group] digitale ID mit Acrobat Sign verwenden.
 feature: Digital ID
 role: User
 level: Beginner
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Signieren mit [!DNL Intesi Group]
 
-Erfahren Sie, wie Sie Ihr [!DNL Intesi Group] digitale ID , um Ihre Identität zu authentifizieren und eine digitale Remote-Signatur (Cloud-Signatur) für ein Dokument zu autorisieren.
+Erfahren Sie, wie Sie Ihre [!DNL Intesi Group] digitale ID verwenden, um Ihre Identität zu authentifizieren und eine digitale Remote-Signatur (Cloud-Signatur) für ein Dokument zu autorisieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336989?quality=12&learn=on&hidetitle=true)

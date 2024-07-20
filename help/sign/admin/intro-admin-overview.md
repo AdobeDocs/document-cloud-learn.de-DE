@@ -10,8 +10,8 @@ thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
 source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 3%
+source-wordcount: '506'
+ht-degree: 2%
 
 ---
 
@@ -25,7 +25,7 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
 Erfahren Sie, wie Sie in wenigen Schritten Tausende von Unterschriften gleichzeitig für jedes Dokument einholen können
 * [Berichtsoptionen](report-options.md)
 Erfahren Sie, wie Sie Berichtsoptionen für Benutzer einrichten.
-* [Hinzufügen von Benutzern](add-users-to-your-account.md)
+* [Benutzer hinzufügen](add-users-to-your-account.md)
 Benutzer für Acrobat Sign hinzufügen und verwalten
 
 ## Erste Schritte
@@ -39,28 +39,28 @@ Benutzer für Acrobat Sign hinzufügen und verwalten
     <div>
     <a href="get-started-admin.md"><strong>Erste Schritte für neue Administratoren</strong></a>
     </div>
-    <em>In diesem umfassenden Video-Leitfaden erfahrt ihr alles, was ihr braucht, um mit Acrobat Sign zu arbeiten.</em>
-    <br>
+    <em>Informieren Sie sich in diesem umfassenden Videoleitfaden über alle Tools, die erforderlich sind, damit Ihr Unternehmen mit Acrobat Sign arbeiten kann</em>
+    2<br>
   </td>
   <td>
     <a href="up-and-running-admin.md">
       <img alt="Einstieg in Administratoren" src="../assets/Up-Running.png" />
     </a>
     <div>
-    <a href="up-and-running-admin.md"><strong>Einstieg in Administratoren</strong></a>
+    <a href="up-and-running-admin.md"><strong>Verfügbar für Administratoren</strong></a>
     </div>
-    <em>Übersicht über die 7 wichtigsten Bereiche, in denen Administratoren schnell mit Acrobat Sign arbeiten können</em>
-    <br>
+    <em>Übersicht über 7 wichtige Bereiche, in denen Administratoren schnell mit Acrobat Sign arbeiten können</em>
+    2<br>
   </td>
   <td>
     <a href="set-up-shared-events-and-alert.md">
       <img alt="Einrichten von freigegebenen Ereignissen und Warnungen" src="../assets/Notifications_1280.png" />
     </a>
     <div>
-    <a href="set-up-shared-events-and-alert.md"><strong>Konfigurieren von Benachrichtigungen für Ereignisse und Warnungen</strong></a>
+    <a href="set-up-shared-events-and-alert.md"><strong>Benachrichtigungen für Ereignisse und Warnungen konfigurieren</strong></a>
     </div>
-    <em>Konfigurieren Sie Benachrichtigungen für Ereignisse und Warnungen für Ihr Konto</em>
-    <br>
+    <em>Benachrichtigungen für Ereignisse und Warnungen für Ihr Konto konfigurieren</em>
+    2<br>
   </td>
   <td>
     <a href="add-users-to-your-account.md">
@@ -69,8 +69,8 @@ Benutzer für Acrobat Sign hinzufügen und verwalten
     <div>
     <a href="add-users-to-your-account.md"><strong>Benutzer hinzufügen</strong></a>
     </div>
-    <em>Hinzufügen und Verwalten von Benutzern für Acrobat Sign</em>
-    <br>
+    <em>Benutzer für Acrobat Sign hinzufügen und verwalten</em>
+    2<br>
   </td>
 </tr>
 <tr>
@@ -81,8 +81,8 @@ Benutzer für Acrobat Sign hinzufügen und verwalten
     <div>
     <a href="create-and-manage-groups.md"><strong>Erstellen und Verwalten von Gruppen</strong></a>
     </div>
-    <em>Erstellen von Gruppen, Hinzufügen von Benutzern zu Gruppen und Bearbeiten von Gruppeneinstellungen</em>
-    <br>
+    <em>Gruppen erstellen, Benutzer zu Gruppen hinzufügen und Gruppeneinstellungen bearbeiten</em>
+    2<br>
   </td>
   <td>
     <a href="set-up-your-external-archive.md">
@@ -91,18 +91,18 @@ Benutzer für Acrobat Sign hinzufügen und verwalten
     <div>
     <a href="set-up-your-external-archive.md"><strong>Einrichten eines externen Archivs</strong></a>
     </div>
-    <em>Erstellen eines externen Archivs für Sicherungskopien von Vereinbarungen, die signiert wurden</em>
-    <br>
+    <em>Ein externes Archiv für Sicherungskopien von signierten Vereinbarungen erstellen</em>
+    2<br>
   </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
       <img alt="Erstellen von Dokumentvorlagen" src="../assets/Template.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>Erstellen von Dokumentvorlagen</strong></a>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>Erstellen einer Dokumentvorlage</strong></a>
     </div>
-    <em>Aus Zeitgründen eine wiederverwendbare Dokumentvorlage erstellen</em>
-    <br>
+    <em>Eine wiederverwendbare Dokumentvorlage erstellen, um Geschwindigkeit und Konsistenz sicherzustellen</em>
+    2<br>
   </td>
   <td>
     <a href="create-a-report.md">
@@ -111,8 +111,8 @@ Benutzer für Acrobat Sign hinzufügen und verwalten
     <div>
     <a href="create-a-report.md"><strong>Erstellen eines Berichtsdiagramms</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie Ihre eigenen benutzerdefinierten Berichte und Datenexporte erstellen, speichern und verwalten.</em>
-    <br>
+    <em>Erfahren Sie, wie Sie Ihre eigenen benutzerdefinierten Berichte und Datenexporte erstellen, speichern und verwalten</em>
+    2<br>
   </td>
 </tr>
 <tr>
@@ -123,8 +123,8 @@ Benutzer für Acrobat Sign hinzufügen und verwalten
     <div>
     <a href="report-options.md"><strong>Berichtsoptionen für Benutzer</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie Berichtsoptionen für Benutzer einrichten.</em>
-    <br>
+    <em>Informationen zum Einrichten von Berichtsoptionen für Benutzer</em>
+    2<br>
   </td>
   <td>
     <a href="../sign-advanced-users/webform.md">
@@ -134,7 +134,7 @@ Benutzer für Acrobat Sign hinzufügen und verwalten
     <a href="../sign-advanced-users/webform.md"><strong>Erstellen eines Webformulars</strong></a>
     </div>
     <em>Erstellen Sie ein Dokument, das direkt auf Ihrer Website elektronisch signiert werden kann</em>
-    <br>
+    2<br>
   </td>
   <td>
     <a href="../sign-advanced-users/modify-webform.md">
@@ -144,7 +144,7 @@ Benutzer für Acrobat Sign hinzufügen und verwalten
     <a href="../sign-advanced-users/modify-webform.md"><strong>Vorhandenes Webformular ändern</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie ein vorhandenes Webformular deaktivieren, bearbeiten und wieder aktivieren</em>
-    <br>
+    2<br>
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
@@ -154,7 +154,7 @@ Benutzer für Acrobat Sign hinzufügen und verwalten
     <a href="../sign-advanced-users/megasign.md"><strong>Massenversand</strong></a>
     </div>
     <em>Mehrere Tausend Unterschriften gleichzeitig für jedes Dokument einholen</em>
-    <br>
+    2<br>
   </td>
 </tr>
 <tr>
@@ -165,8 +165,8 @@ Benutzer für Acrobat Sign hinzufügen und verwalten
     <div>
     <a href="building-a-custom-workflow.md"><strong>Einrichten eines Workflows</strong></a>
     </div>
-    <em>Automatisiert Dokumenten-Workflows, um elektronische Unterschriften und Daten schnell einzuholen.</em>
-    <br>
+    <em>Automatisieren von Dokumenten-Workflows, um elektronische Signaturen und Daten schnell zu erhalten</em>
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Grayspacer.png" />
@@ -196,18 +196,18 @@ Benutzer für Acrobat Sign hinzufügen und verwalten
     <div>
     <a href="learn-about-global-settings.md"><strong>Globale Einstellungen</strong></a>
     </div>
-    <em>Produkteinstellungen global für die gesamte Organisation oder für bestimmte Gruppen bearbeiten</em>
-    <br>
+    <em>Produkteinstellungen global für Ihre gesamte Organisation oder für bestimmte Gruppen bearbeiten</em>
+    2<br>
   </td>
   <td>
     <a href="share-account-access.md">
       <img alt="Kontozugriff freigeben" src="../assets/SharingAccess.png" />
     </a>  
     <div>
-    <a href="share-account-access.md"><strong>Kontozugriff freigeben</strong></a>
+    <a href="share-account-access.md"><strong>Kontozugriff wird freigegeben</strong></a>
     </div>
     <em>Einrichten eines schreibgeschützten Zugriffs auf Transaktionen im Konto eines anderen Benutzers</em>
-    <br>
+    2<br>
   </td>
   <td>
     <a href="advanced-account-sharing.md">
@@ -216,18 +216,18 @@ Benutzer für Acrobat Sign hinzufügen und verwalten
     <div>
     <a href="advanced-account-sharing.md"><strong>Erweiterte Kontofreigabe</strong></a>
     </div>
-    <em>Richten Sie die Kontofreigabe ein, damit Administratoren und Benutzer ihre Berechtigungen zum Senden, Ändern und Anzeigen delegieren können.</em>
-    <br>
+    <em>Richten Sie die Kontofreigabe ein, damit Administratoren und Benutzer ihre Sende-, Änderungs- und Anzeigeberechtigungen delegieren können</em>
+    2<br>
   </td>
   <td>
     <a href="use-bio-pharma-settings.md">
       <img alt="Verwenden von Bio-Pharma-Einstellungen" src="../assets/Bio_1280.png" />
     </a>
     <div>
-    <a href="use-bio-pharma-settings.md"><strong>Verwenden von Bio-Pharma-Einstellungen</strong></a>
+    <a href="use-bio-pharma-settings.md"><strong>Bio-Pharma-Einstellungen verwenden</strong></a>
     </div>
-    <em>Richten Sie Bio-Pharma-Einstellungen ein, mit denen Sie die Anforderungen von FDA 21 CFR Part 11 erfüllen können.</em>
-    <br>
+    <em>Richten Sie Bio-Pharma-Einstellungen ein, mit denen Sie die Anforderungen von FDA 21 CFR Part 11 erfüllen können</em>
+    2<br>
   </td> 
 </tr>
 <tr>
@@ -236,10 +236,10 @@ Benutzer für Acrobat Sign hinzufügen und verwalten
       <img alt="Acrobat Sign Text-Tagging" src="../assets/Text-Tagging.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign Text-Tagging</strong></a>
+    <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign-Text-Tagging</strong></a>
     <div>
-    <em>Erstellen von Acrobat Sign-Formularfeldern durch Text-Tagging mit Adobe Acrobat</em>
-    <br>
+    <em>Acrobat Sign-Formularfelder durch Text-Tagging mit Adobe Acrobat erstellen</em>
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Grayspacer.png" />

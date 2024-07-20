@@ -27,48 +27,48 @@ Kundendatenschutz, Risikomanagement
 
 ## Text und Bilder schwärzen
 
-1. Auswählen **[!UICONTROL Redact]** im Fenster &quot; [!UICONTROL Tools] mittlerer oder rechter Fensterbereich.
+1. Wählen Sie **[!UICONTROL Schwärzen]** im mittleren oder rechten Bereich von [!UICONTROL Tools] aus.
 
    ![Schritt 1 schwärzen](../assets/Redact_1.png)
 
-1. Auswählen **[!UICONTROL Text und Bilder schwärzen]** **>** **[!UICONTROL Eigenschaften]** , um das Erscheinungsbild Ihrer Schwärzungen einschließlich der Farbe von Schwärzungsfeldern oder Textüberlagerungen anzupassen.
+1. Wählen Sie **[!UICONTROL Text und Bilder schwärzen]** **>** **[!UICONTROL Eigenschaften]** aus, um das Erscheinungsbild Ihrer Schwärzungen anzupassen, einschließlich der Farbe von Schwärzungsfeldern oder Textüberlagerungen.
 
    ![Schritt 2 schwärzen](../assets/Redact_2.png)
 
 Um Informationen zu schwärzen, markieren Sie zuerst die zu entfernenden Elemente und wenden Sie dann die Schwärzungen an. Du kannst ganze Seiten oder ausgewählten Inhalt schwärzen.
 
-1. Auswählen **[!UICONTROL Seiten schwärzen]**, wählen Sie dann die zu schwärzende Seite oder den Seitenbereich aus und wählen Sie **[!UICONTROL OK]**.
+1. Wählen Sie **[!UICONTROL Seiten schwärzen]**, wählen Sie dann die zu schwärzende Seite oder den zu schwärzenden Seitenbereich aus, und wählen Sie **[!UICONTROL OK]**.
 
    ![Schritt 4 schwärzen](../assets/Redact_3.png)
 
 Oder wählen Sie den zu schwärzenden Inhalt mit dem Cursor aus. Sie können eine Vorschau der Schwärzung anzeigen, indem Sie mit dem Mauszeiger auf den ausgewählten Inhalt zeigen.
 
-   ![Schritt 5a schwärzen](../assets/Redact_4.png)
+   ![Schritt 5a](../assets/Redact_4.png) schwärzen
 
-1. Auswählen **[!UICONTROL Text und Bilder schwärzen]** **>** **[!UICONTROL Text suchen und schwärzen]** , um bestimmte Inhalte zu finden, die geschwärzt werden sollen.
+1. Wählen Sie **[!UICONTROL Text und Bilder schwärzen]** **>** **[!UICONTROL Text suchen und schwärzen]**, um bestimmte Inhalte zu finden, die geschwärzt werden sollen.
 
 Verwenden Sie das Suchfeld, um nach einem bestimmten Wort oder Ausdruck zu suchen.
 
-1. Auswählen **[!UICONTROL Muster]** nach bestimmten Typen suchen of -Informationen, aktivieren Sie dann die Kontrollkästchen und wählen Sie **[!UICONTROL Text suchen und entfernen]**.
+1. Wählen Sie **[!UICONTROL Muster]** aus, um bestimmte Typen zu finden. of -Informationen, aktivieren Sie dann die Kontrollkästchen, und wählen Sie **[!UICONTROL Text suchen und entfernen]** aus.
 
-   ![Schritt 5b schwärzen](../assets/Redact_5.png)
+   ![Schritt 5b](../assets/Redact_5.png) schwärzen
 
-1. Auswählen **[!UICONTROL Anwenden]** in der &quot; [!UICONTROL Redact] , um die markierten Schwärzungen anzuwenden und die geschwärzte Datei zu speichern.
+1. Wählen Sie im obersten Menü [!UICONTROL Schwärzen] die Option **[!UICONTROL Anwenden]**, um die markierten Schwärzungen anzuwenden und die geschwärzte Datei zu speichern.
 
    ![Schritt 6 schwärzen](../assets/Redact_6.png)
 
 ## Dokument bereinigen
 
-1. Auswählen **[!UICONTROL Dokument bereinigen]** in der &quot; [!UICONTROL Redact] oberes Menü.
+1. Wählen Sie im oberen Menü [!UICONTROL Schwärzen] die Option **[!UICONTROL Dokument]** bereinigen.
 
-1. Auswählen **[!UICONTROL OK]** , um das Entfernen ausgeblendeter Informationen zu bestätigen. Oder wählen Sie **[!UICONTROL Hier klicken]** , um ausgeblendete Informationen selektiv zu entfernen.
+1. Wählen Sie **[!UICONTROL OK]**, um das Entfernen von ausgeblendeten Informationen zu bestätigen. Oder wählen Sie **[!UICONTROL Klicken Sie hier]**, um ausgeblendete Informationen selektiv zu entfernen.
 
    ![Schritt 2 bereinigen](../assets/Redact_7.png)
 
 >[!TIP]
 >
-Um den Schwärzungsprozess zu beschleunigen, informieren Sie sich im [Action Wizard](../advanced-tasks/action.md).
+Um den Schwärzungsprozess zu beschleunigen, sollten Sie die [Action Wizard](../advanced-tasks/action.md) auschecken.
 
 >[!TIP]
 >
-Dieses Video ist Teil des Kurses [Intelligenter arbeiten mit Acrobat DC und Microsoft 365.](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) das kostenlos auf dem Experience League verfügbar ist!
+Dieses Video ist Teil des Kurses [Intelligenter arbeiten mit Acrobat DC und Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), der kostenlos auf dem Experience League verfügbar ist!

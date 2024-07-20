@@ -9,7 +9,7 @@ thumbnail: 41205.jpg
 exl-id: a914d230-da29-4278-9189-77e3a2486ae8
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -22,5 +22,5 @@ Sehen Sie sich eine kurze Videotour zum Arbeitsbereich von Acrobat Sign an, um m
 
 >[!TIP]
 >
->Dieses Video ist Teil des Kurses [Erste Schritte mit Acrobat Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) das auf Experience League kostenlos erhältlich ist!
+>Dieses Video ist Teil des Kurses [Erste Schritte mit Acrobat Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1), der kostenlos auf dem Experience League verfügbar ist!
 

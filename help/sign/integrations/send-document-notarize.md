@@ -21,10 +21,10 @@ Adobe Acrobat Sign ist eine Partnerschaft mit Notarize, Inc. eingegangen, um Onl
 
 >[!NOTE]
 >
->Die Integration von Acrobat Sign in [!DNL Notarize] Der Online-Beglaubigungsdienst von Inc. ist nur für die Verwendung in den USA mit Business- und Enterprise-Dienstplänen verfügbar.
+>Die Acrobat Sign-Integration mit dem Online-Beglaubigungsdienst von [!DNL Notarize] Inc. ist nur für die Verwendung in den USA mit Business- und Enterprise-Dienstplänen verfügbar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341029?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Wenn die Beglaubigung für ein Acrobat Sign-Konto aktiviert ist, kann der Absender **Beglaubigung erforderlich** indem Sie die Auslassungspunkte auf der rechten Seite des Empfängerdatensatzes auswählen. Die Beglaubigungsoption ist nur für Empfänger mit der Rolle &quot;Unterzeichner&quot; verfügbar.
+>Wenn die Beglaubigung für ein Acrobat Sign-Konto aktiviert ist, kann der Absender **Beglaubigung erforderlich** auswählen, indem er die Auslassungspunkte auf der rechten Seite des Empfängerdatensatzes auswählt. Die Beglaubigungsoption ist nur für Empfänger mit der Rolle &quot;Unterzeichner&quot; verfügbar.

@@ -21,13 +21,13 @@ Mit Gigasign könnt ihr Dokumente zur Unterzeichnung an mehrere Tausend Personen
 
 >[!IMPORTANT]
 >
->GigaSign wird nicht mehr auf die neueste Version von Java oder Acrobat Sign aktualisiert und wird nur begrenzte Unterstützung erhalten. Die Funktionen von GigaSign werden dem Produkt unter dem [Massenversand](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?) -Funktionalität. Bitte verwenden Sie Massenversand für alle Anwendungsfälle, die nicht explizit die Verwendung von GigaSign erfordern.
+>GigaSign wird nicht mehr auf die neueste Version von Java oder Acrobat Sign aktualisiert und wird nur begrenzte Unterstützung erhalten. Die Funktionen von GigaSign werden dem Produkt unter der [Massenversand](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?)-Funktion hinzugefügt. Bitte verwenden Sie Massenversand für alle Anwendungsfälle, die nicht explizit die Verwendung von GigaSign erfordern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## GigaSign-App herunterladen und installieren
 
-[GigaSign-ZIP-Datei herunterladen](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
+[GigaSign-Zip-Datei herunterladen](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
 
 [Download-Link für Java 1.8 (nur bei Bedarf)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
@@ -37,7 +37,7 @@ Mit Gigasign könnt ihr Dokumente zur Unterzeichnung an mehrere Tausend Personen
 
 1. Melden Sie sich bei Ihrem Acrobat Sign-Konto an.
 
-1. Klicken **[!UICONTROL Gruppe]** oder **[!UICONTROL Konto]**, je nachdem, was Sie oben sehen.
+1. Klicken Sie auf **[!UICONTROL Gruppe]** oder **[!UICONTROL Konto]**, je nachdem, was oben angezeigt wird.
 
 1. Gib im Suchfeld links &quot;Access tokens&quot; ein.
 
@@ -49,7 +49,7 @@ Mit Gigasign könnt ihr Dokumente zur Unterzeichnung an mehrere Tausend Personen
 
 1. Öffnen Sie GigaSign.
 
-1. Klicken Sie auf **[!UICONTROL Einstellungen]** oben rechts.
+1. Klicken Sie rechts oben auf das Symbol **[!UICONTROL Einstellungen]**.
 
 1. Fügen Sie den Integrationsschlüssel in die erste Zeile ein.
 

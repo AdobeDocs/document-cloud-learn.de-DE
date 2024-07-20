@@ -8,14 +8,14 @@ thumbnail: 34510.jpg
 exl-id: 3115d182-671a-4d8b-8753-f8aba3c4807e
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 8%
+source-wordcount: '61'
+ht-degree: 1%
 
 ---
 
 # 5 Tipps für ortsunabhängiges Arbeiten mit Acrobat - Digitale Protect Dokumente.
 
-[Hinzufügen eines Kennworts auf Ihrem PDF](https://www.adobe.com/de/acrobat/online/password-protect-pdf.html){target="_blank"}  , um das Kopieren, Bearbeiten oder Drucken zu verhindern.
+[Fügen Sie Ihrem PDF ein Kennwort hinzu](https://www.adobe.com/de/acrobat/online/password-protect-pdf.html){target="_blank"}, um das Kopieren, Bearbeiten oder Drucken zu verhindern.
 
 ## Tipp #3 - Digitale Protect-Dokumente (1:23)
 

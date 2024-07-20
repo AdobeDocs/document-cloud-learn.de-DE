@@ -12,8 +12,8 @@ thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '953'
-ht-degree: 1%
+source-wordcount: '947'
+ht-degree: 0%
 
 ---
 
@@ -25,51 +25,51 @@ Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung von Marketo senden, wenn ein V
 
 1. Installieren Sie Marketo Salesforce Sync.
 
-   Informationen und das neueste Plug-in für Salesforce Sync sind verfügbar [hier verfügbar.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+   Informationen und das neueste Plug-in für Salesforce Sync sind hier [verfügbar.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
 1. Installieren Sie Acrobat Sign für Salesforce.
 
-   Informationen zu diesem Plug-in sind verfügbar [hier verfügbar.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
+   Informationen zu diesem Plug-in sind hier [ verfügbar.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 ## Benutzerdefiniertes Objekt suchen
 
 Wenn die Marketo Salesforce-Synchronisationskonfiguration und die Konfiguration von Acrobat Sign für Salesforce abgeschlossen sind, werden im Marketo Admin-Terminal mehrere neue Optionen angezeigt.
 
-![Administration](assets/adminTab.png)
+![Administrator](assets/adminTab.png)
 
-![Objektsynchronisation](assets/salesforceAdmin.png)
+![Objektsynchronisierung](assets/salesforceAdmin.png)
 
-1. Klicken **Schema synchronisieren** wenn dies Ihr erstes Mal ist. Klicken Sie andernfalls auf **Schema aktualisieren**.
+1. Klicken Sie auf **Schema synchronisieren**, wenn dies Ihr erstes Mal ist. Klicken Sie andernfalls auf **Schema aktualisieren**.
 
    ![Aktualisieren](assets/refreshSchema1.png)
 
-1. Wenn die globale Synchronisation ausgeführt wird, deaktivieren Sie sie, indem Sie auf **Globale Synchronisierung deaktivieren**.
+1. Wenn die globale Synchronisierung ausgeführt wird, deaktivieren Sie sie, indem Sie auf **Globale Synchronisierung deaktivieren** klicken.
 
    ![Deaktivieren](assets/disableGlobal.png)
 
-1. Klicken **Schema aktualisieren**.
+1. Klicken Sie auf **Schema aktualisieren**.
 
-   ![Aktualisieren 2](assets/refreshSchema2.png)
+   ![Aktualisieren von 2](assets/refreshSchema2.png)
 
 ## Benutzerdefiniertes Objekt synchronisieren
 
 Auf der rechten Seite finden Sie weitere Informationen unter Lead-, Kontakt- und Account-basierte benutzerdefinierte Objekte.
 
-**Synchronisation aktivieren** für die Objekte unter &quot;Lead&quot;, wenn Sie eine Erinnerung senden möchten, wenn ein Lead keine Vereinbarung in Salesforce unterzeichnet hat.
+**Aktivieren Sie Synchronisation** für die Objekte unter Lead, wenn Sie eine Erinnerung senden möchten, wenn ein Lead keine Vereinbarung in Salesforce signiert hat.
 
-**Synchronisation aktivieren** für die Objekte unter Kontakt, wenn Sie eine Erinnerung senden möchten, wenn ein Kontakt keine Vereinbarung in Salesforce unterzeichnet hat.
+**Aktivieren Sie Synchronisation** für die Objekte unter Kontakt, wenn Sie eine Erinnerung senden möchten, wenn ein Kontakt keine Vereinbarung in Salesforce signiert hat.
 
-**Synchronisation aktivieren** für die Objekte unter Konto, wenn Sie eine Erinnerung senden möchten, wenn ein Konto keine Vereinbarung in Salesforce signiert hat.
+**Aktivieren Sie Synchronisation** für die Objekte unter Konto, wenn Sie eine Erinnerung senden möchten, wenn ein Konto keine Vereinbarung in Salesforce signiert hat.
 
-1. **Synchronisation aktivieren** für die **Vereinbarung** Objekt, das unter dem gewünschten übergeordneten Element (Lead, Kontakt oder Konto) angezeigt wird. Führen Sie diesen Schritt für alle anderen benutzerdefinierten Objekte durch, die synchronisiert werden sollen.
+1. **Synchronisierung aktivieren** für das Objekt **Vereinbarung**, das unter dem gewünschten übergeordneten Objekt (Lead, Kontakt oder Konto) angezeigt wird. Führen Sie diesen Schritt für alle anderen benutzerdefinierten Objekte durch, die synchronisiert werden sollen.
 
    ![Vereinbarungsobjekt](assets/agreementObject.png)
 
-1. Die folgenden Elemente zeigen, wie Sie **Synchronisation aktivieren**.
+1. Die folgenden Assets zeigen, wie **Synchronisierung aktivieren**.
 
-   ![Benutzerdefinierte Synchronisation 1](assets/customObjectSync1.png)
+   ![Benutzerdefinierte Synchronisierung 1](assets/customObjectSync1.png)
 
-   ![Benutzerdefinierte Synchronisation 2](assets/customObjectSync2.png)
+   ![Benutzerdefinierte Synchronisierung 2](assets/customObjectSync2.png)
 
 ## Auslöser für benutzerdefinierte Objektfelder verfügbar machen
 
@@ -87,25 +87,25 @@ Auf der rechten Seite finden Sie weitere Informationen unter Lead-, Kontakt- und
 
 ## Programm und Token erstellen
 
-1. Klicken Sie im Abschnitt &quot;Marketingaktivitäten&quot; von Marketo mit der rechten Maustaste auf **Marketing-Aktivitäten** auf der linken Leiste, wählen Sie **Neuer Kampagnenordner** und geben Sie ihm einen Namen.
+1. Klicken Sie im Abschnitt &quot;Marketingaktivitäten&quot; von Marketo mit der rechten Maustaste auf **Marketingaktivitäten** in der linken Leiste, wählen Sie **Neuer Kampagnenordner** aus, und geben Sie ihm einen Namen.
 
    ![Neuer Ordner](assets/newFolder.png)
 
-1. Klicken Sie mit der rechten Maustaste auf den erstellten Ordner, wählen Sie **Neues Programm** und geben Sie ihm einen Namen. Behalten Sie alles andere als Standard bei, und klicken Sie dann auf **Erstellen**.
+1. Klicken Sie mit der rechten Maustaste auf den erstellten Ordner, wählen Sie **Neues Programm** aus, und geben Sie ihm einen Namen. Behalten Sie alles andere als Standard bei, und klicken Sie dann auf **Erstellen**.
 
    ![Neues Programm 1](assets/newProgram1.png)
 
    ![Neues Programm 2](assets/newProgram2.png)
 
-1. Klicken Sie auf **Meine Tokens** und ziehen Sie dann  **Email Script** auf die Arbeitsfläche.
+1. Klicken Sie auf **Meine Token**, und ziehen Sie dann **E-Mail-Skript** auf die Arbeitsfläche.
 
-   ![Email Script](assets/emailScript.png)
+   ![E-Mail-Skript](assets/emailScript.png)
 
-1. Geben Sie einen Namen ein, und klicken Sie dann auf **Klicken, um zu bearbeiten**.
+1. Geben Sie einen Namen ein, und klicken Sie dann auf **Klicken Sie auf Bearbeiten**.
 
-   ![Benennen und bearbeiten](assets/nameAndSave.png)
+   ![Name und Bearbeiten](assets/nameAndSave.png)
 
-1. Erweitern **Benutzerdefinierte Objekte** auf der rechten Seite, und erweitern Sie dann die **Vereinbarung** Objekt. Suchen Sie den Vereinbarungsnamen, den Vereinbarungsstatus, das Datum der Signatur und die Signatur-URL und ziehen Sie sie auf die Arbeitsfläche.
+1. Erweitern Sie auf der rechten Seite **Benutzerdefinierte Objekte**, und erweitern Sie dann das Objekt **Vereinbarung**. Suchen Sie den Vereinbarungsnamen, den Vereinbarungsstatus, das Datum der Signatur und die Signatur-URL und ziehen Sie sie auf die Arbeitsfläche.
 
 1. Schreiben Sie ein Velocity -Skript mit diesen Token, um die Vereinbarungs-URL einer Vereinbarung anzuzeigen, die eine Woche lang nicht signiert wurde. Hier ist ein Beispiel, das das aktuelle Datum mit dem Sendedatum vergleicht:
 
@@ -133,31 +133,31 @@ Auf der rechten Seite finden Sie weitere Informationen unter Lead-, Kontakt- und
    #end
    ```
 
-1. Klicken Sie auf **Speichern**.
+1. Klicke auf **Speichern**.
 
 ## Erinnerung erstellen und Personalisierung hinzufügen
 
 Beispiele für die Personalisierung: der Name des Unterzeichners, der Name der Vereinbarung, ein Link zur Vereinbarung usw.
 
-1. Klicken Sie mit der rechten Maustaste auf das Programm, das Sie erstellt haben, und klicken Sie auf **Neues lokales Element** und wählen Sie dann **Email**.
+1. Klicken Sie mit der rechten Maustaste auf das Programm, das Sie erstellt haben, und klicken Sie auf **Neues lokales Element**. Wählen Sie dann **E-Mail** aus.
 
    ![Neue E-Mail](assets/createNewEmail.png)
 
-1. Geben Sie auf der neuen Registerkarte eine **Name** und **Beschreibung** für die E-Mail und wählen Sie in der Vorlagenauswahl eine Vorlage aus. Klicken Sie auf **Erstellen**.
+1. Geben Sie auf der neuen Registerkarte einen **Namen** und **Beschreibung** für die E-Mail ein und wählen Sie eine Vorlage in der Vorlagenauswahl aus. Klicken Sie auf **Erstellen**.
 
    ![Vorlagenauswahl](assets/templatePicker.png)
 
-1. Legen Sie die **Von Name** und **Von Adresse**.
+1. Legen Sie **Von Name** und **Von Adresse** fest.
 
-   ![Erinnerungs-Mail](assets/reminderEmail.png)
+   ![Erinnerungs-E-Mail](assets/reminderEmail.png)
 
-1. Klicken Sie auf den Nachrichtentext, um den Editor zu aktivieren. Klicken Sie auf die Schaltfläche **Token einfügen** das von Ihnen erstellte benutzerdefinierte Vereinbarungs-URL-Token und klicken Sie auf **Einfügen**. Passen Sie Ihre E-Mail-Adresse an und klicken Sie auf **Speichern**.
+1. Klicken Sie auf den Nachrichtentext, um den Editor zu aktivieren. Klicken Sie auf die Schaltfläche **Token einfügen**, suchen Sie das von Ihnen erstellte benutzerdefinierte Vereinbarungs-URL-Token und klicken Sie dann auf **Einfügen**. Beenden Sie die Anpassung Ihrer E-Mail und klicken Sie auf **Speichern**.
 
    ![Token einfügen](assets/insertToken.png)
 
 1. Vorschau mit einem Profil, dem eine Vereinbarung zugewiesen ist. Sie sollten einen Link zur URL mit dem Vereinbarungsnamen als Beschriftung sehen.
 
-   ![E-Mail](assets/emailLink.png)
+   ![E-Mail-Link](assets/emailLink.png)
 
 ## Einrichten des Smart Campaign-Filters
 
@@ -165,21 +165,21 @@ Beispiele für die Personalisierung: der Name des Unterzeichners, der Name der V
 
    ![Smart Campaign 1](assets/smartCampaign1.png)
 
-1. Geben Sie einen Namen Ihrer Wahl ein, und klicken Sie auf **Erstellen**.
+1. Geben Sie einen Namen Ihrer Wahl ein, und klicken Sie dann auf **Erstellen**.
 
    ![Smart Campaign 2](assets/smartCampaign2.png)
 
-1. Suchen nach, dann klicken und ziehen **Hat Vereinbarung** in die Smart-Liste aufnehmen.
+1. Suchen Sie nach, klicken Sie auf &quot;**Enthält Vereinbarung**&quot; und ziehen Sie es in die Smart-Liste.
 
-   ![Hat Vereinbarung](assets/hasAgreement.png)
+   ![hat Vereinbarung](assets/hasAgreement.png)
 
-1. Die Felder, die Sie dem Auslöser ausgesetzt haben, sollten jetzt im **Einschränkung hinzufügen**. Auswählen **Vereinbarungsstatus** und alle anderen Felder, nach denen Sie filtern möchten. Definieren Sie für jedes hinzugefügte Feld die Werte, nach denen gefiltert werden soll. In diesem Fall wird es nur ausgelöst, wenn das Attribut **Vereinbarungsstatus** ist Zur Signatur versandt und **Sendedatum** ist in der Vergangenheit vor 7 Tagen.
+1. Die Felder, die Sie dem Trigger verfügbar gemacht haben, sollten jetzt in **Einschränkung hinzufügen** verfügbar sein. Wählen Sie **Vereinbarungsstatus** und alle anderen Felder aus, nach denen Sie filtern möchten. Definieren Sie für jedes hinzugefügte Feld die Werte, nach denen gefiltert werden soll. In diesem Fall wird er nur ausgelöst, wenn der **Vereinbarungsstatus** &quot;Zur Signatur versandt&quot; ist und das **Sendedatum** vor 7 Tagen vergangen ist.
 
    ![Vereinbarungsstatus](assets/agreementStatus.png)
 
    >[!NOTE]
    >
-   > einen eindeutigen Bezeichner für die Einschränkungen hinzufügen, z. B. **Vereinbarungsname**, wenn diese Kampagne nur für bestimmte Vereinbarungen ausgeführt werden soll.
+   > Fügen Sie den Einschränkungen einen eindeutigen Bezeichner hinzu, z. B. **Vereinbarungsname**, wenn diese Kampagne nur für bestimmte Vereinbarungen ausgeführt werden soll.
 
 1. Bestätigen Sie die Zielgruppe der Kampagne, und sehen Sie auf der Registerkarte &quot;Zeitplan&quot;, wer sich qualifiziert.
 
@@ -187,20 +187,20 @@ Beispiele für die Personalisierung: der Name des Unterzeichners, der Name der V
 
 ## Einrichten des Smart Campaign Flow
 
-Weil der Kampagnenfilter **Tage ohne Vorzeichen** verwendet wurde, können Sie eine geplante Wiederholung für die Kampagne verwenden.
+Da der Kampagnenfilter **Tage nicht signiert** verwendet wurde, können Sie eine geplante Wiederholung für die Kampagne verwenden.
 
-1. Klicken Sie auf die Schaltfläche **Fluss** in der Smart Campaign. Suchen Sie nach dem Element und ziehen Sie es **E-Mail senden** auf die Arbeitsfläche und wählen Sie die Erinnerungs-E-Mail aus, die Sie im vorherigen Abschnitt erstellt haben.
+1. Klicken Sie in der Smart Campaign auf die Registerkarte **Flow**. Suchen Sie den Textfluss **E-Mail senden**, ziehen Sie ihn auf die Arbeitsfläche und wählen Sie die Erinnerungs-E-Mail aus, die Sie im vorherigen Abschnitt erstellt haben.
 
    ![E-Mail senden](assets/sendEmail.png)
 
-1. Klicken Sie auf die Schaltfläche **Planen** in der Smart Campaign. Stellen Sie sicher, dass der Kampagnen-Flow auf nur einmal pro Person im **Smart Campaign-Einstellungen**. Klicken Sie dann auf die Schaltfläche **Wiederkehrende planen** &quot; ändern.
+1. Klicken Sie in der Smart Campaign auf die Registerkarte **Zeitplan**. Stellen Sie sicher, dass der Kampagnenfluss auf die Ausführung nur einmal pro Person in den **Einstellungen für intelligente Kampagnen** beschränkt ist. Klicken Sie dann auf die Registerkarte **Wiederholung planen**.
 
    ![Registerkarte &quot;Zeitplan&quot;](assets/scheduleTab.png)
 
-1. Legen Sie die **Planen** Wählen Sie für &quot;Täglich&quot; einen Starttag und eine Startzeit sowie bei Bedarf ein Enddatum für die Kampagne aus.
+1. Setzen Sie den **Zeitplan** auf &quot;Täglich&quot;, wählen Sie einen Starttag und eine Startzeit sowie ggf. ein Enddatum für die Kampagne aus.
 
    ![Zeitplaneinstellungen](assets/scheduleSettings.png)
 
 >[!TIP]
 >
->Dieses Tutorial ist Teil des Kurses [Schnellere Vertriebszyklen - mit Acrobat Sign für Salesforce und Marketo.](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) das auf Experience League kostenlos erhältlich ist!
+>Dieses Tutorial ist Teil des [Kurses zur Beschleunigung der Vertriebszyklen mit Acrobat Sign für Salesforce und Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1), der kostenlos auf dem Experience League verfügbar ist!

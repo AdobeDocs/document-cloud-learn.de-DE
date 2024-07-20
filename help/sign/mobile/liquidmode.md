@@ -17,6 +17,6 @@ ht-degree: 0%
 
 # Liquid Mode in Acrobat Sign
 
-Erfahren Sie, wie der Liquid Mode das mobile Signiererlebnis verbessert. Kein Kneifen und Zoomen mehr beim Lesen und Unterschreiben von Dokumenten. In diesem Tutorial wird erläutert, wie Sie ein _HTML_ zur Signatur versandt und automatisch ein verbessertes Signaturerlebnis für mobile Benutzer erstellt.
+Erfahren Sie, wie der Liquid Mode das mobile Signiererlebnis verbessert. Kein Kneifen und Zoomen mehr beim Lesen und Unterschreiben von Dokumenten. In diesem Tutorial wird erläutert, wie Sie ein _HTML-Formular_ zur Signatur senden und automatisch ein verbessertes Signaturerlebnis für mobile Benutzer erstellen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333803?quality=12&learn=on&hidetitle=true)

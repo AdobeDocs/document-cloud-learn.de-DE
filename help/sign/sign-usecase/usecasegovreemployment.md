@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Wiederbeschäftigungsbeihilfe
 
-Helft Bürgern, die benötigte Hilfe zu erhalten, ohne mit Formularen für vollständig digitale Anträge in Kontakt zu stehen, die in wenigen Tagen ausgefüllt werden können. Erfahren Sie, wie Sie ein Online-Webformular erstellen, das ausgefüllt werden kann **und** signiert, ohne etwas zu drucken oder per E-Mail zu versenden.
+Helft Bürgern, die benötigte Hilfe zu erhalten, ohne mit Formularen für vollständig digitale Anträge in Kontakt zu stehen, die in wenigen Tagen ausgefüllt werden können. Erfahren Sie, wie Sie ein Online-Webformular erstellen, das ausgefüllt **und** signiert werden kann, ohne etwas zu drucken oder per E-Mail zu versenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33809?quality=12&learn=on&hidetitle=true)
 

@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Acrobat Accessibility-Reihe
 
-![Abbildung der Acrobat-Serie &quot;Barrierefreiheit&quot;](../assets/Hero_Accessibility.png)
+![Image der Acrobat-Serie für Eingabehilfen](../assets/Hero_Accessibility.png)
 
 In dieser sechsteiligen On-Demand-Webinar-Reihe lernen Sie nicht nur die Grundlagen der Barrierefreiheit kennen, sondern lernen auch, wie Sie Ihre PDF-Dateien mit Tags versehen. Jede Session enthält Übungsdateien, die das Tutorial nachvollziehen sollen.
 
@@ -27,20 +27,20 @@ In dieser sechsteiligen On-Demand-Webinar-Reihe lernen Sie nicht nur die Grundla
       <img alt="Einführung in die Barrierefreiheit für PDF" src="../assets/Accessibilitysession1_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession1.md"><strong>Einführung in die Barrierefreiheit für PDF</strong></a>
+    <a href="accessibilitysession1.md"><strong>Einführung in die PDF-Barrierefreiheit</strong></a>
     </div>
-    <em>In dieser On-Demand-Session erfahrt ihr, was es bedeutet, eine PDF barrierefrei zu machen, wie ihr Acrobat Pro für die Arbeit mit PDF für Barrierefreiheit einrichtet und wie der Konvertierungsprozess von einem Quelldokument zu einer PDF abläuft.</em>
-    <br>
+    <em>Erfahren Sie in dieser On-Demand-Session, was es bedeutet, eine PDF barrierefrei zu machen, wie Sie Acrobat Pro so einrichten, dass es auf PDF für Barrierefreiheit arbeitet, und wie Sie den Konvertierungsprozess von einem Quelldokument in eine PDF durchführen</em>
+    2<br>
   </td>
   <td>
     <a href="accessibilitysession2.md">
       <img alt="Beheben einer nicht zugänglichen PDF" src="../assets/Accessibilitysession2_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession2.md"><strong>Beheben einer nicht zugänglichen PDF</strong></a>
+    <a href="accessibilitysession2.md"><strong>Eine nicht verfügbare PDF wird bearbeitet</strong></a>
     </div>
-    <em>In dieser On-Demand-Session lernst du den Workflow zur Konvertierung eines Word-Dokuments kennen und behebst einige grundlegende Tag-Probleme mithilfe der Acrobat Pro-Tools, die in diesem Einführungswebinar gezeigt werden.</em>
-    <br>
+    <em>Lernen Sie in dieser On-Demand-Sitzung den Arbeitsablauf kennen, mit dem Sie ein Word-Dokument konvertieren und einige grundlegende Tag-Probleme mit den Acrobat Pro-Tools beheben können, die im Einführungswebinar gezeigt werden</em>
+    2<br>
   </td>  
   <td>
     <a href="accessibilitysession3.md">
@@ -49,8 +49,8 @@ In dieser sechsteiligen On-Demand-Webinar-Reihe lernen Sie nicht nur die Grundla
     <div>
     <a href="accessibilitysession3.md"><strong>Komplexe Tabellen</strong></a>
     </div>
-    <em>Diese On-Demand-Session behandelt eines der häufigsten und schwierigeren Probleme bei der Behebung eines PDF für Barrierefreiheit - komplexe Tabellen</em>
-    <br>
+    <em>Diese On-Demand-Sitzung behandelt eines der häufigsten und schwierigeren Probleme bei der Behebung einer PDF für Barrierefreiheit - komplexe Tabellen</em>
+    2<br>
   </td>
 </tr>
 <tr>
@@ -61,28 +61,28 @@ In dieser sechsteiligen On-Demand-Webinar-Reihe lernen Sie nicht nur die Grundla
     <div>
     <a href="accessibilitysession4.md"><strong>Gescannte Dokumente und komplexe Listen</strong></a>
     </div>
-    <em>In dieser On-Demand-Session werden komplexere Probleme behandelt, auf die häufig zugegriffen wird, z. B. gescannte Dokumente und komplexe Listen</em>
-    <br>
+    <em>Diese On-Demand-Sitzung befasst sich mit komplexeren Problemen, auf die häufig zugegriffen wird, z. B. gescannte Dokumente und komplexe Listen</em>
+    2<br>
   </td>
   <td>
     <a href="accessibilitysession5.md">
       <img alt="Hinzufügen von Formularfeldern zu einem mit Tags versehenen PDF" src="../assets/Accessibilitysession5_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession5.md"><strong>Hinzufügen von Formularfeldern zu einem mit Tags versehenen PDF</strong></a>
+    <a href="accessibilitysession5.md"><strong>Hinzufügen von Formularfeldern zu einer markierten PDF</strong></a>
     </div>
-    <em>In dieser On-Demand-Session geht es um das Hinzufügen von Formularfeldern zu einem bereits mit Tags versehenen PDF</em>
-    <br>
+    <em>In dieser On-Demand-Sitzung wird das Hinzufügen von Formularfeldern zu einer PDF behandelt, die zuvor mit Tags versehen wurde</em>
+    2<br>
   </td>  
   <td>
     <a href="accessibilitysession6.md">
       <img alt="Hinzufügen von Formularfeldern zu einem PDF ohne Tags" src="../assets/Accessibilitysession6_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession6.md"><strong>Hinzufügen von Formularfeldern zu einem PDF ohne Tags</strong></a>
+    <a href="accessibilitysession6.md"><strong>Hinzufügen von Formularfeldern zu einer PDF ohne Tags</strong></a>
     </div>
-    <em>Diese On-Demand-Session geht noch tiefer in die Erstellung manueller Formularfelder und zusätzlicher Formularfeldeigenschaften ein</em>
-    <br>
+    <em>Diese On-Demand-Sitzung geht tiefer in die Erstellung manueller Formularfelder und zusätzlicher Formularfeldeigenschaften</em>
+    2<br>
   </td> 
 </tr>
 </table>

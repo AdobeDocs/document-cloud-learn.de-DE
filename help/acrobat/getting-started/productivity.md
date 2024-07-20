@@ -20,7 +20,7 @@ Remote-Arbeit ist überall ein Muss, damit Inhalte schnell und skaliert bereitge
 
 >[!TIP]
 >
->Möchtest du mehr über die Tools von Acrobat erfahren, auf die du von überall aus zugreifen kannst? Auschecken [Überall arbeiten - mit Acrobat Web](acrobatweb.md).
+>Möchtest du mehr über die Tools von Acrobat erfahren, auf die du von überall aus zugreifen kannst? [Überall arbeiten mit Acrobat Web](acrobatweb.md)
 
 <br> 
 

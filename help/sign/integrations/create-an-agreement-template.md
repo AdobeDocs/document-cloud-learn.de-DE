@@ -1,5 +1,5 @@
 ---
-title: Document Builder für [!DNL Salesforce]
+title: Document Builder für  [!DNL Salesforce]
 description: Erfahren Sie, wie Sie mit Document Builder für Salesforce eine wiederverwendbare Dokumentvorlage erstellen.
 feature: Integrations
 role: User, Admin

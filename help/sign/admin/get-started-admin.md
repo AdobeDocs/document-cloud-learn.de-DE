@@ -9,7 +9,7 @@ thumbnail: KT-11289.jpg
 exl-id: 71a00fa1-2814-4f8b-87e1-61bbce752308
 source-git-commit: 2d78b8ab24e6ecd73a01889c29b50093f055edf5
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
@@ -27,8 +27,8 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=60"><strong>Zugriff auf die Admin Console</strong></a>
-         <br>
-        <em>Bei 1:00 beginnen</em>
+         2
+        <em>Beginnen um 1:00</em><br>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=105">
@@ -37,8 +37,8 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=105"><strong>Berechtigung von Acrobat Sign für einen Benutzer</strong></a>
-        <br>
-        <em>Ab 1:45 Uhr</em>
+        2
+        <em>Beginnen Sie um 1:45</em><br>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=191">
@@ -47,8 +47,8 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=191"><strong>Überblick über das Acrobat Sign-Webportal</strong></a>
-        <br>
-        <em>Ab 3:11 Uhr</em>
+        2
+        <em>Beginnen um 3:11</em><br>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=358">
@@ -57,8 +57,8 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=358"><strong>Globale Einstellungen und Konfigurationen</strong></a>
-        <br>
-        <em>Ab 5:58 Uhr</em>
+        2
+        <em>Beginnen Sie um 5:58</em><br>
     </td>
   </tr>
   <tr>
@@ -69,8 +69,8 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=460"><strong>Branding und Einrichtung von Konten</strong></a>
-         <br>
-        <em>Ab 7:40 Uhr</em>
+         2
+        <em>Beginnen um 7:40</em><br>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=502">
@@ -79,8 +79,8 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=502"><strong>Signaturvorgaben</strong></a>
-        <br>
-        <em>Ab 8:22 Uhr</em>
+        2
+        <em>Beginnen Sie um 8:22</em><br>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=543">
@@ -89,8 +89,8 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=543"><strong>Sicherheitseinstellungen</strong></a>
-        <br>
-        <em>Beginnen Sie um 9:03</em>
+        2
+        <em>Beginnen um 9:03</em><br>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=595">
@@ -99,8 +99,8 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=595"><strong>Sendeeinstellungen</strong></a>
-        <br>
-        <em>Beginn um 9:55 Uhr</em>
+        2
+        <em>Beginnen um 9:55</em><br>
     </td>
   </tr>
   <tr>
@@ -111,8 +111,8 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=720"><strong>Nachrichtenvorlagen</strong></a>
-         <br>
-        <em>Ab 12:00 Uhr</em>
+         2
+        <em>Beginnen um 12:00</em><br>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=755">
@@ -121,8 +121,8 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=755"><strong>E-Mail-Einstellungen</strong></a>
-        <br>
-        <em>Ab 12:35 Uhr</em>
+        2
+        <em>Um 12:35 beginnen</em><br>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=783">
@@ -131,8 +131,8 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=783"><strong>Benutzer- und Gruppenverwaltung</strong></a>
-        <br>
-        <em>Ab 13:03 Uhr</em>
+        2
+        <em>Um 13:03 beginnen</em><br>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=917">
@@ -140,9 +140,9 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=917"><strong>Erstellen und Aktivieren von Workflows</strong></a>
-        <br>
-        <em>Ab 15:17 Uhr</em>
+     <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=917"><strong>Arbeitsabläufe erstellen und aktivieren</strong></a>
+        2
+        <em>Um 15:17 beginnen</em><br>
   </td>
 </tr>
 <tr>
@@ -153,8 +153,8 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
     </td>
     <td>
      <a href="https://video.tv.adobe.com/v/343565?quality=12&learn=on&hidetitle=true&t=1145"><strong>Zugriff auf Support und zusätzliche Ressourcen</strong></a>
-        <br>
-        <em>Ab 19:05 Uhr</em>
+        2
+        <em>Um 19:05 beginnen</em><br>
     </td>
   </tr>
   </table>

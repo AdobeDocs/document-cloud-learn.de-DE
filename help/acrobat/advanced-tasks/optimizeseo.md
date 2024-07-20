@@ -1,5 +1,5 @@
 ---
-title: Optimizen PDF für SEO (Search Engine Optimization)
+title: Optimize PDF für SEO (Search Engine Optimization)
 description: Erfahren Sie, wie Sie eine PDF für eine verbesserte Auffindbarkeit und ein Suchmaschinen-Ranking im Web optimieren.
 feature: Edit PDF
 role: User
@@ -9,12 +9,12 @@ thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '767'
-ht-degree: 1%
+source-wordcount: '750'
+ht-degree: 0%
 
 ---
 
-# Optimizen PDF für SEO (Search Engine Optimization)
+# Optimize PDF für SEO (Search Engine Optimization)
 
 Erfahren Sie, wie Sie eine PDF für eine verbesserte Auffindbarkeit und ein Suchmaschinen-Ranking im Web optimieren.
 
@@ -31,8 +31,9 @@ PDF-Inhalte sollten eindeutig sein und wie folgt strukturiert sein:
 * Verwenden Sie kurze Absätze mit Schlüsselwörtern und Listen
 * Interne und externe Hyperlinks (Inhalte Ihrer Website oder anderer Websites) hinzufügen
 * Hinzufügen eines verlinkten Inhaltsverzeichnisses für Dokumente mit mehr als 25 Seiten
-* Ausführen [Texterkennung](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) auf allen gescannten Dokumenten
-* Für Smartphones geeignete PDF erstellen Um die Anzeige auf dem Smartphone oder Tablet auf Ihrem PDF zu überprüfen, öffnen Sie die Datei im [Acrobat Reader-App](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) und aktivieren Sie den Liquid Mode. Fügen Sie bei Bedarf weitere Unterüberschriften hinzu, um die Navigation zu verbessern.
+* [Texterkennung](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) für alle gescannten Dokumente ausführen
+* Mobile-optimierte PDF.
+Um das mobile Anzeigeerlebnis Ihres PDF zu überprüfen, öffnen Sie die Datei in der [Acrobat Reader-App](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) und aktivieren Sie den Liquid Mode. Fügen Sie bei Bedarf weitere Unterüberschriften hinzu, um die Navigation zu verbessern.
 
   ![Screenshot des Liquid Mode in der mobilen Acrobat Reader-App](../assets/optimizeseo1.png)
 
@@ -46,14 +47,14 @@ PDF-Dateien haben einen Titel und eine Meta-Beschreibung, genau wie eine Webseit
 
 +++Details zum Hinzufügen von Dokumenteigenschaften anzeigen
 
-Schlüssel hinzufügen **[!UICONTROL Dokumenteigenschaften]** wie folgt:
+Fügen Sie den Schlüssel **[!UICONTROL Dokumenteigenschaften]** wie folgt hinzu:
 
-1. Auswählen **[!UICONTROL Datei > Eigenschaften]** oder verwenden Sie den Tastaturbefehl *Strg + D* unter Windows oder *Cmd + D* auf Mac und wählen Sie die Option **[!UICONTROL Beschreibung]** &quot; ändern.
+1. Wählen Sie **[!UICONTROL Datei > Eigenschaften]** aus oder verwenden Sie den Tastaturbefehl *Strg + D* unter Windows bzw. *Befehl + D* unter Mac und wählen Sie die Registerkarte **[!UICONTROL Beschreibung]** aus.
 1. Geben Sie einen für Stichwörter optimierten Titel in das Feld **[!UICONTROL Titel:]** ein.
-1. Stellen Sie sicher, dass **[!UICONTROL Autor:]** identifiziert keine bestimmte Person in Ihrer Organisation.
-1. Geben Sie eine stichwortoptimierte Zusammenfassung Ihres Dokuments in das Dialogfeld &quot; **[!UICONTROL Betrifft:]** ein.
+1. Stellen Sie sicher, dass das Feld **[!UICONTROL Autor:]** keine bestimmte Person in Ihrer Organisation identifiziert.
+1. Geben Sie im Feld **[!UICONTROL Betreff:]** eine für Stichwörter optimierte Zusammenfassung Ihres Dokuments ein.
 Versuchen Sie, die Zusammenfassung mit einem Aktionsverb wie Lernen, Entdecken, Entdecken usw. zu beginnen.
-1. Auswählen **[!UICONTROL Zusätzliche Metadaten]** , um gegebenenfalls Copyright- oder Public-Domain-Informationen hinzuzufügen.
+1. Wählen Sie **[!UICONTROL Zusätzliche Metadaten]**, um Copyright- oder Public-Domain-Informationen hinzuzufügen, falls zutreffend.
 
    ![Screenshot der Dokumenteigenschaften](../assets/optimizeseo2.png)
 
@@ -63,19 +64,19 @@ Versuchen Sie, die Zusammenfassung mit einem Aktionsverb wie Lernen, Entdecken, 
 
 ## 3. Markieren Sie Ihren PDF
 
-Wenn Sie Inhalte auf Ihrem PDF mit Tags versehen, wird nicht nur die Datei [Barrierefrei](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) für Menschen mit Behinderungen - sie verbessert auch die Suchmaschinenoptimierung.
+Durch das Markieren von Inhalten auf Ihrem PDF wird Ihre Datei [nicht nur für Personen mit Behinderungen zugänglich](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html), sondern auch für SEO verbessert.
 
 +++Anzeigen von Details zum Markieren eines PDF
 
 Taggen Sie eine PDF wie folgt:
 
-1. Auswählen **[!UICONTROL Barrierefreiheit]** in der &quot; **[!UICONTROL Tools]** Mitte.
-1. Auswählen **[!UICONTROL Dokument automatisch taggen]** im rechten Fenster.
-1. Folgen Sie den Reparaturhinweisen im linken Bereich. **[!UICONTROL Erkennungsbericht]**.
-1. Ausführen **[!UICONTROL Alternativtext festlegen]** falls erforderlich.
-1. Beschreiben Sie das Bild mithilfe von Stichwörtern im **[!UICONTROL Alternativtext]**.
+1. Wählen Sie **[!UICONTROL Barrierefreiheit]** im Zentrum von **[!UICONTROL Tools]** aus.
+1. Wählen Sie im rechten Fensterbereich **[!UICONTROL Dokument automatisch taggen]**.
+1. Befolgen Sie die Hinweise zur Reparatur im linken Bereich **[!UICONTROL Erkennungsbericht]**.
+1. Führen Sie ggf. **[!UICONTROL Alternativtext festlegen]** aus.
+1. Verwenden Sie Schlüsselwörter, um das Bild im **[!UICONTROL Alternativtext]** zu beschreiben.
 
-   ![Screenshot des Einstellens von Alternativtext in PDF](../assets/optimizeseo3.png)
+   ![Screenshot der Einstellung von Alternativtext auf PDF](../assets/optimizeseo3.png)
 
 +++
 
@@ -87,23 +88,23 @@ Taggen Sie eine PDF wie folgt:
 
 ## 4. Für das Web vorbereiten
 
-Optimieren Sie die Interaktion mit Ihrem PDF, indem Sie ihn für die Anzeige im Web vorbereiten. [Reduzieren der PDF-Dateigröße](https://www.adobe.com/de/acrobat/online/compress-pdf.html){target="_blank"}.
+Optimieren Sie die Interaktion mit Ihrem PDF, indem Sie ihn für die Webanzeige vorbereiten und [die PDF-Dateigröße reduzieren](https://www.adobe.com/de/acrobat/online/compress-pdf.html){target="_blank"}.
 
 +++Details zur Vorbereitung Ihres PDF für das Web anzeigen
 
 Bereiten Sie Ihren PDF wie folgt für das Web vor:
 
-Um Ihren PDF für das Web vorzubereiten, wählen Sie **[!UICONTROL Datei > Speichern unter > PDF mit reduzierter Größe]**.
+Um Ihre PDF für das Web vorzubereiten, wählen Sie **[!UICONTROL Datei > Speichern unter > PDF mit reduzierter Größe]**.
 
 ![Screenshot der Dokumenteigenschaften](../assets/optimizeseo4.png)
 
-Dieser Schritt reduziert die Dateigröße und ermöglicht **Schnelle Webanzeige** in der PDF. **Schnelle Webanzeige** ermöglicht das sofortige Öffnen, Anzeigen und Durchsuchen der Datei, bevor die gesamte Datei gestreamt oder heruntergeladen wird. So wird eine optimale Endbenutzererfahrung erzielt. Öffnen **[!UICONTROL Dokumenteigenschaften]** (*Strg + D* unter Windows oder *Cmd + D* auf Mac), um festzustellen, ob **Schnelle Webanzeige** aktiviert ist.
+Durch diesen Schritt wird die Dateigröße reduziert und **Schnelle Webanzeige** auf der PDF aktiviert. Mit **Schnelle Webanzeige** kann die Datei sofort geöffnet, angezeigt und durchsucht werden, bevor die gesamte Datei gestreamt oder heruntergeladen wird. Dadurch wird eine optimale Endbenutzererfahrung erzielt. Öffnen Sie **[!UICONTROL Dokumenteigenschaften]** (*Strg + D* unter Windows oder *Befehl + D* unter Mac), um festzustellen, ob **Schnelle Webanzeige** aktiviert ist.
 
 ![Screenshot der Dokumenteigenschaften](../assets/optimizeseo5.png)
 
 >[!TIP]
 >
->Wenn Sie über Acrobat Pro verfügen, führen Sie im Action Wizard-Tool die Option &quot;Für Web und Mobilgeräte optimieren&quot; aus. Diese Aktion konvertiert Farben in sRGB und bettet Schriftarten ein, um eine einheitliche Anzeige der PDF auf allen Browsern und Mobilgeräten zu gewährleisten.
+>Wenn Sie über Acrobat Pro verfügen, führen Sie im Action Wizard-Tool die Option &quot;Für Web und Mobil optimieren&quot; aus. Diese Aktion konvertiert Farben in sRGB und bettet Schriftarten ein, um eine einheitliche Anzeige der PDF auf allen Browsern und Mobilgeräten zu gewährleisten.
 
 +++
 
@@ -123,18 +124,18 @@ Der Dateiname wird Teil der URL, wenn eine PDF im Internet veröffentlicht wird.
 
 ## 6. Sichern Sie Ihren PDF
 
-Der letzte Schritt ist [PDF schützen](https://www.adobe.com/de/acrobat/online/password-protect-pdf.html){target="_blank"} um unbefugte Änderungen zu verhindern.
+Der letzte Schritt besteht darin, [Ihren PDF zu schützen](https://www.adobe.com/de/acrobat/online/password-protect-pdf.html){target="_blank"}, um nicht autorisierte Änderungen zu verhindern.
 
 +++Zum Sichern Ihres PDF
 
 Sichern Sie eine PDF wie folgt:
 
-1. Öffnen **[!UICONTROL Dokumenteigenschaften]** (*Strg + D* unter Windows oder *Cmd + D* auf Mac) und wählen Sie die Option **[!UICONTROL Sicherheit]** &quot; ändern.
-1. Prüfen **[!UICONTROL Drucken, Bearbeiten und Drucken des Dokuments. Zum Ändern dieser Einstellungen ist ein Kennwort erforderlich.]**
-1. Unter **[!UICONTROL Zulässige Änderungen:]** aussuchen **[!UICONTROL Ohne]**.
-1. Prüfen **[!UICONTROL Textzugriff für Bildschirmlesehilfen für Sehbehinderte aktivieren.]**
+1. Öffnen Sie **[!UICONTROL Dokumenteigenschaften]** (*Strg + D* unter Windows oder *Befehl + D* unter Mac) und wählen Sie die Registerkarte **[!UICONTROL Sicherheit]** aus.
+1. Überprüfen Sie **[!UICONTROL Drucken von Bearbeitung und Drucken des Dokuments. Zum Ändern dieser Einstellungen ist ein Kennwort erforderlich.]**
+1. Wählen Sie unter **[!UICONTROL Zulässige Änderungen:]** **[!UICONTROL Keine]** aus.
+1. Überprüfen Sie **[!UICONTROL Textzugriff für Bildschirmlesegeräte für Sehbehinderte aktivieren.]**
 1. Geben Sie ein sicheres Kennwort ein und bestätigen Sie es.
-1. Auswählen **[!UICONTROL OK]** und speichern Sie die Datei.
+1. Wählen Sie **[!UICONTROL OK]** und speichern Sie die Datei.
 
    ![Screenshot der Dokumenteigenschaften](../assets/optimizeseo6.png)
 

@@ -1,6 +1,6 @@
 ---
 title: Einrichten von Datenzuordnungen
-description: Erfahren Sie, wie Sie eine Datenzuordnung für Acrobat Sign in [!DNL Salesforce]
+description: Erfahren Sie, wie Sie eine Datenzuordnung für Acrobat Sign in  [!DNL Salesforce] einrichten.
 feature: Integrations
 role: Admin
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Einrichten der Datenzuordnung in [!DNL Salesforce]
 
-Erfahren Sie, wie Sie die Datenzuordnung für Acrobat Sign in [!DNL Salesforce]. Datenzuordnung ermöglicht das Abrufen von Daten _Rücken_ in [!DNL Salesforce] nachdem eine Vereinbarung unterzeichnet wurde.
+Erfahren Sie, wie Sie die Datenzuordnung für Acrobat Sign in [!DNL Salesforce] einrichten. Mit der Datenzuordnung können Sie Daten _zurück_ in [!DNL Salesforce] abrufen, nachdem eine Vereinbarung signiert wurde.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409073?quality=12&learn=on&hidetitle=true)

@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Unternehmenszuschüsse und -darlehen der Regierung
 
-Bieten Sie Unternehmen schnellen Support, indem Sie Selfservice-Zugriff auf Antragsformulare für Zuschüsse, Darlehen und Steuerstundung gewähren. Erfahren Sie, wie Sie ein Online-Webformular erstellen, das ausgefüllt werden kann **und** signiert, ohne etwas zu drucken oder per E-Mail zu versenden.
+Bieten Sie Unternehmen schnellen Support, indem Sie Selfservice-Zugriff auf Antragsformulare für Zuschüsse, Darlehen und Steuerstundung gewähren. Erfahren Sie, wie Sie ein Online-Webformular erstellen, das ausgefüllt **und** signiert werden kann, ohne etwas zu drucken oder per E-Mail zu versenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33810?quality=12&learn=on&hidetitle=true)
 

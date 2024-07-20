@@ -10,8 +10,8 @@ thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 28%
+source-wordcount: '100'
+ht-degree: 10%
 
 ---
 
@@ -26,10 +26,10 @@ Dokumente zur Unterzeichnung versenden, den Status verfolgen und in Echtzeit Ben
       <img alt="Dokumente unterwegs unterschreiben" src="assets/signmobile.png" />
     </a>
     <div>
-    <a href="sign-mobile.md"><strong>Dokumente unterwegs unterschreiben</strong></a>
+    <a href="sign-mobile.md"><strong>Dokumente unterwegs signieren</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie Dokumente mit der mobilen Acrobat Sign-App signieren</em>
-    <br>
+    2<br>
   </td>
   <td>
     <a href="liquidmode.md">
@@ -39,7 +39,7 @@ Dokumente zur Unterzeichnung versenden, den Status verfolgen und in Echtzeit Ben
     <a href="liquidmode.md"><strong>Liquid Mode in Acrobat Sign</strong></a>
     </div>
     <em>Erfahren Sie, wie der Liquid Mode das mobile Signiererlebnis verbessert</em>
-    <br>
+    2<br>
   </td>
   <td>
     <a href="https://apps.apple.com/us/app/adobe-sign/id481082197" target="_blank">
@@ -47,7 +47,7 @@ Dokumente zur Unterzeichnung versenden, den Status verfolgen und in Echtzeit Ben
     </a>
     <div>
     <a href="https://apps.apple.com/us/app/adobe-sign/id481082197" target="_blank"><strong>Acrobat Sign-App für iOS herunterladen</strong></a>
-    <br>
+    2<br>
   </td>
   <td>
     <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=de" target="_blank">
@@ -55,7 +55,7 @@ Dokumente zur Unterzeichnung versenden, den Status verfolgen und in Echtzeit Ben
     </a>
     <div>
     <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=de" target="_blank"><strong>Acrobat Sign-App für Android herunterladen</strong></a>
-    <br>
+    2<br>
   </td>
 </tr>
 </table>

@@ -1,6 +1,6 @@
 ---
-title: Verwenden von Text-Tagging in [!DNL Microsoft Word]
-description: Erfahren Sie, wie Sie eine wiederverwendbare Dokumentvorlage erstellen, indem Sie Acrobat Sign-Text-Tags in [!DNL Microsoft Word]
+title: Verwenden von Text-Tagging in  [!DNL Microsoft Word]
+description: Erfahren Sie, wie Sie eine wiederverwendbare Dokumentvorlage erstellen, indem Sie Acrobat Sign-Text-Tags in  [!DNL Microsoft Word] hinzufügen.
 feature: Workflow, Sign
 role: User, Admin
 level: Intermediate
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Verwenden von Text-Tagging in [!DNL Microsoft Word]
 
-Erfahren Sie, wie Sie eine wiederverwendbare Dokumentvorlage erstellen, indem Sie Acrobat Sign-Text-Tags in [!DNL Microsoft Word]. Das Text-Tagging erstellt automatisch Formularfelder in Ihrem Dokument, wenn es zur Signatur gesendet wird. Eine manuelle Feldplatzierung ist nicht erforderlich. Dieser Vorgang verkürzt die Zeit, die für Änderungen an [!DNL Microsoft Word] Dokumente, die Sie zur Signatur senden.
+Erfahren Sie, wie Sie eine wiederverwendbare Dokumentvorlage erstellen, indem Sie Acrobat Sign-Text-Tags in [!DNL Microsoft Word] hinzufügen. Das Text-Tagging erstellt automatisch Formularfelder in Ihrem Dokument, wenn es zur Signatur gesendet wird. Eine manuelle Feldplatzierung ist nicht erforderlich. Dieser Prozess verkürzt die Zeit, die benötigt wird, um Überarbeitungen und Änderungen an [!DNL Microsoft Word]-Dokumenten vorzunehmen, die Sie zur Signatur senden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409482?quality=12&learn=on&hidetitle=true)

@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Ein Dokument ausfüllen und unterschreiben
 
-Formulare ausfüllen **UND** Füge deine elektronische Unterschrift zu Dokumenten hinzu.
+Erfahren Sie, wie Sie Formulare **UND** ausfüllen und Ihre elektronische Signatur zu Dokumenten hinzufügen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33660?quality=12&learn=on&hidetitle=true)

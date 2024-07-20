@@ -9,7 +9,7 @@ thumbnail: 33657.jpg
 exl-id: 1e8603ee-fe16-4842-bf0b-1190b5a69d3b
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -26,4 +26,4 @@ Lernen Sie die sieben Schlüsselbereiche kennen, auf die sich Administratoren ko
 
 >[!TIP]
 >
->Dieses Video ist Teil des Kurses [Erste Schritte mit Acrobat Sign für Administratoren](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) das auf Experience League kostenlos erhältlich ist!
+>Dieses Video ist Teil des Kurses [Erste Schritte mit Acrobat Sign für Administratoren](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2), der kostenlos auf dem Experience League verfügbar ist!

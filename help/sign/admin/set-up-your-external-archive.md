@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Einrichten eines externen Archivs
 
-Hier erfahren Sie, wie Sie ein externes Archiv für Sicherungskopien von Vereinbarungen erstellen, die signiert wurden. Sie können Kopien in einer beliebigen E-Mail-Adresse oder in [!DNL Box] und Evernote. Eine Kopie der signierten und abgeschlossenen E-Mail wird entweder an die von Ihnen angegebene E-Mail-Adresse oder an den von Ihnen angegebenen Cloud-Dienst gesendet.
+Hier erfahren Sie, wie Sie ein externes Archiv für Sicherungskopien von Vereinbarungen erstellen, die signiert wurden. Sie können Kopien in einer beliebigen E-Mail-Adresse oder in [!DNL Box] und Evernote archivieren. Eine Kopie der signierten und abgeschlossenen E-Mail wird entweder an die von Ihnen angegebene E-Mail-Adresse oder an den von Ihnen angegebenen Cloud-Dienst gesendet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409072?quality=12&learn=on&hidetitle=true)

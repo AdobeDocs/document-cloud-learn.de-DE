@@ -11,7 +11,7 @@ thumbnail: 29767t1.jpg
 exl-id: ad4f5d43-ab6a-4d2d-92d6-8b51198fa0e5
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Hier erfahren Sie, wie Sie den Fortschritt eines Vertrags direkt in Microsoft Sh
 
 >[!TIP]
 >
->Dieses Video ist Teil des Kurses [Verwenden von Acrobat Sign in Microsoft-Applikationen](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) das auf Experience League kostenlos erhältlich ist!
+>Dieses Video ist Teil des Kurses [Verwenden von Acrobat Sign in Microsoft-Applikationen](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2), der kostenlos auf dem Experience League verfügbar ist!

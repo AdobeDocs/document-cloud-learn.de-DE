@@ -8,7 +8,7 @@ level: Beginner
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -21,30 +21,30 @@ In dieser Übung werden Sie Dokumente mithilfe Ihres Mobilgeräts importieren, a
 
 Hier sind die [Demodateien](assets/03_FillSignScan.zip) für diese Übung.
 
-**Schritt 1:** Laden Sie die [!DNL Adobe Fill & Sign] App aus dem Fenster &quot; [!DNL Apple App] speichern oder [!DNL Google Play].
+**Schritt 1:** Laden Sie die [!DNL Adobe Fill & Sign]-App aus dem [!DNL Apple App]-Store oder [!DNL Google Play] herunter.
 
 **Schritt 2:** Öffnen Sie die App und tippen Sie auf **[!UICONTROL Formular zum Ausfüllen auswählen]**.
 
-![UploadDoc image](assets/mobilescan.jpg)
+![UploadDoc-Bild](assets/mobilescan.jpg)
 
 **Schritt 3:** Wählen Sie eine der Importoptionen aus. Für diese Übung werden wir ein &quot;Foto&quot; machen.
 
-![Bild von Schritt 2F](assets/Step2F.jpg)
+![Schritt 2F Bild](assets/Step2F.jpg)
 
-**Schritt 4:** Nehmen Sie mit der weißen Schaltfläche ein Bild auf und tippen Sie anschließend auf **[!UICONTROL Foto verwenden]**. Tippen **[!UICONTROL Fertig]** in der oberen rechten Ecke.
+**Schritt 4:** Verwenden Sie die weiße Schaltfläche, um ein Foto aufzunehmen, und tippen Sie dann auf **[!UICONTROL Foto verwenden]**. Tippen Sie in der oberen rechten Ecke auf **[!UICONTROL Fertig]**.
 
-**Schritt 5:** Tippen Sie unten in der App auf das **[!UICONTROL Beschneiden]** und verwenden Sie die Hilfslinien, um [Bild zuschneiden.](https://www.adobe.com/acrobat/online/crop-pdf.html). Tippen **[!UICONTROL Fertig]** wenn Sie fertig sind.
+**Schritt 5:** Tippen Sie am unteren Rand der App auf das Werkzeug **[!UICONTROL Zuschneiden]** und verwenden Sie die Hilfslinien, um das Bild [zuzuschneiden](https://www.adobe.com/acrobat/online/crop-pdf.html). Tippen Sie anschließend auf **[!UICONTROL Fertig]**.
 
-![lokales Dokumentbild](assets/localdoc.jpg)
+![lokales Dokumentabbild](assets/localdoc.jpg)
 
-**Schritt 6:** Verwende das Zauberstab-Werkzeug, um das Bild zu säubern. Tippen **[!UICONTROL Fertig]** wenn Sie fertig sind.
+**Schritt 6:** Verwenden Sie bei Bedarf das Zauberstab-Werkzeug, um das Bild zu bereinigen. Tippen Sie anschließend auf **[!UICONTROL Fertig]**.
 
-**Schritt 7:** Tippen Sie auf eine beliebige Stelle auf der Seite, um ein Feld zu erstellen und dem Dokument die erforderlichen Informationen hinzuzufügen. Wählen Sie die Ellipse aus, um weitere Optionen anzuzeigen.
+**Schritt 7:** Tippen Sie auf eine beliebige Stelle auf der Seite, um ein Feld zu erstellen und Ihrem Dokument die erforderlichen Informationen hinzuzufügen. Wählen Sie die Ellipse aus, um weitere Optionen anzuzeigen.
 
-![Ein Bild füllen](assets/fill.jpg)
+![Bild füllen](assets/fill.jpg)
 
 
-**Schritt 8:** Tippen Sie auf **[!UICONTROL Unterschrift]** am unteren Rand der App, um Ihre Signatur hinzuzufügen.
+**Schritt 8:** Tippen Sie unten in der App auf die Schaltfläche **[!UICONTROL Signatur]**, um Ihre Signatur hinzuzufügen.
 
 ![Signaturbild erstellen](assets/createsign.jpg)
 
@@ -52,13 +52,13 @@ Hier sind die [Demodateien](assets/03_FillSignScan.zip) für diese Übung.
 
 ![Signaturbild](assets/sign.jpg)
 
-**Schritt 10:** Tippen Sie auf **[!UICONTROL Profil]** am unteren Rand der App, um vordefinierte Werte wie Ihren Namen und Ihr Datum abzurufen. Sie müssen diese Informationen nur einmal eingeben und können sie dann in allen zukünftigen Formularen verwenden, die Sie mit der Fill &amp; Sign-App ausfüllen.
+**Schritt 10:** Tippen Sie am unteren Rand der App auf die Schaltfläche **[!UICONTROL Profil]**, um vordefinierte Werte wie Ihren Namen und Ihr Datum abzurufen. Sie müssen diese Informationen nur einmal eingeben und können sie dann in allen zukünftigen Formularen verwenden, die Sie mit der Fill &amp; Sign-App ausfüllen.
 
 ![gefüllt](assets/filled.jpg)
 
-![Pre-Pop](assets/prepop.jpg)
+![pre pop](assets/prepop.jpg)
 
-**Schritt 11:** Wenn das Formular fertig ist, tippen Sie in der unteren rechten Ecke auf die Schaltfläche Freigeben , um eine E-Mail zu senden.
+**Schritt 11:** Tippen Sie nach Abschluss des Formulars in der unteren rechten Ecke auf die Schaltfläche Freigeben, um eine E-Mail zu senden.
 
 ## Wiederholen:
 

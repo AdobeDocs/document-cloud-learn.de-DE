@@ -1,6 +1,6 @@
 ---
-title: Signieren mit [!DNL Aadhaar]
-description: Erfahren Sie, wie Sie Ihr [!DNL Aadhaar] digitale ID , um Ihre Identität zu authentifizieren und eine digitale Remote-Signatur (Cloud-Signatur) für ein Dokument in Acrobat Sign zu autorisieren
+title: Signieren mit  [!DNL Aadhaar]
+description: Erfahren Sie, wie Sie Ihre [!DNL Aadhaar] digitale ID verwenden, um Ihre Identität zu authentifizieren und eine digitale Remote-Signatur (Cloud-Signatur) für ein Dokument in Acrobat Sign zu autorisieren
 feature: Digital ID
 role: User
 level: Beginner
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Signieren mit [!DNL Aadhaar]
 
-Erfahren Sie, wie Sie Ihr [!DNL Aadhaar] mit einer digitalen ID zur Authentifizierung Ihrer Identität und Autorisierung einer digitalen Remote-Signatur (Cloud-Signatur) für ein Dokument in Acrobat Sign.
+Erfahren Sie, wie Sie Ihre [!DNL Aadhaar]-ID verwenden, um Ihre Identität zu authentifizieren und eine digitale Remote-Signatur (Cloud-Signatur) für ein Dokument in Acrobat Sign zu autorisieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338362?quality=12&learn=on&hidetitle=true)

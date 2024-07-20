@@ -8,7 +8,7 @@ level: Beginner
 exl-id: cc76a7ed-07d2-4c7a-bebb-ed193e69eaa1
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---
@@ -27,19 +27,19 @@ Erfassen Sie eine Visitenkarte, eine Quittung oder ein anderes Papierelement, mi
 
 **Schritt 2:** Öffnen Sie die Adobe Scan-App.
 
-**Schritt 3:** Nehmen Sie in der App ein Foto von der Visitenkarte mit den Kontaktinformationen auf, die Sie auf Ihrem Smartphone speichern möchten.
+**Schritt 3:** Nehmen Sie in der App ein Foto der Visitenkarte mit den Kontaktinformationen auf, die Sie auf Ihrem Telefon speichern möchten.
 
-![b-Karten-Image](assets/scanbcard.png)
-
-
-**Schritt 4:** Nachdem der Scanvorgang abgeschlossen ist, nehmen Sie die gewünschten Änderungen vor, um sicherzustellen, dass sich Ihre Karte innerhalb des Begrenzungsrahmens befindet.
-
-**Schritt 5:** Tippen **[!UICONTROL PDF speichern]** in der oberen rechten Ecke. Tippen Sie anschließend auf **[!UICONTROL Kontakt speichern]**.
+![b Kartenbild](assets/scanbcard.png)
 
 
-![Bild einer Karte speichern](assets/savecontact.jpg)
+**Schritt 4:** Nehmen Sie nach Abschluss des Scannens die Anpassungen vor, um sicherzustellen, dass sich Ihre Karte innerhalb des Begrenzungsrahmens befindet.
 
-![b-Karten-Image](assets/savecontact.png)
+**Schritt 5:** Tippen Sie oben rechts auf **[!UICONTROL PDF speichern]**. Tippen Sie anschließend auf **[!UICONTROL Kontakt speichern]**.
+
+
+![Kartenbild speichern](assets/savecontact.jpg)
+
+![b Kartenbild](assets/savecontact.png)
 
 **Schritt 6:** Nehmen Sie die gewünschten Änderungen oder Ergänzungen der Kontaktinformationen vor, bevor Sie sie auf Ihrem Smartphone speichern. Tippen Sie erneut auf &quot;Speichern&quot;, um das Speichern in Kontakten abzuschließen.
 
@@ -47,22 +47,22 @@ Erfassen Sie eine Visitenkarte, eine Quittung oder ein anderes Papierelement, mi
 
 Die Adobe Scan-App kann auch nützlich sein, um eine Quittung, die Sie später benötigen, zu scannen und zu speichern (z. B. eine Spesenabrechnung oder eine andere Kostenerstattung).
 
-**Schritt 1:** Fotografiere bei geöffneter Adobe Scan-App die Quittung, die du speichern möchtest.
+**Schritt 1:** Fotografiere die Quittung, die du speichern möchtest, während die Adobe Scan-App geöffnet ist.
 
-![Abbild der Empfangsbestätigung](assets/scanreceipt.png)
+![Empfangsbestätigungsbild ](assets/scanreceipt.png) scannen
 
 
 **Schritt 2:** Beobachten Sie, wie die App Ihre Quittung automatisch erkennt und ihren Inhalt erfasst.
 
-![b-Karten-Image](assets/receiptoutput.jpg)
+![b Kartenbild](assets/receiptoutput.jpg)
 
-**Schritt 3:** Tippen **[!UICONTROL PDF speichern]** oben rechts, um die Quittung auf Ihrem Smartphone zu speichern.
+**Schritt 3:** Tippen Sie oben rechts auf **[!UICONTROL PDF speichern]**, um die Quittung auf Ihrem Smartphone zu speichern.
 
 
 ## Wiederholen:
 
 * Scanne Papierdokumente und -formulare direkt auf den PDF.
-* Konvertieren von JPG-Bildern in PDF.
+* Konvertieren Sie JPG-Images auf PDF.
 * Fotos auf dem Smartphone oder Tablet bearbeiten.
 * Fügen Sie Visitenkarteninformationen direkt zu Ihren Kontakten hinzu.
 

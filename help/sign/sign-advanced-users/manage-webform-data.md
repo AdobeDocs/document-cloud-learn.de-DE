@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Verwalten von Webformulardaten
 
-Erfahren Sie, wie Sie Daten in einem [Webformular](webform.md). Dieses Tutorial zeigt einen zusätzlichen Workflow für Teilnehmer-Webformulare und veranschaulicht, wie mehrere Dateneinträge zur Anzeige und Analyse in einer einzigen CSV-Datei konsolidiert werden.
+Erfahren Sie, wie Sie Daten von einem [Webformular](webform.md) verfolgen, verwalten und exportieren. Dieses Tutorial zeigt einen zusätzlichen Workflow für Teilnehmer-Webformulare und veranschaulicht, wie mehrere Dateneinträge zur Anzeige und Analyse in einer einzigen CSV-Datei konsolidiert werden.
 
 >[!NOTE]
 >

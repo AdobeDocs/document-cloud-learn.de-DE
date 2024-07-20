@@ -22,12 +22,12 @@ In diesen Nutzungsszenarien erfahrt ihr, wie verschiedene Organisationen Acrobat
 ## Neue Funktionen
 
 * [Benutzerdefinierter Workflow für den IEP-Prozess für Bildungseinrichtungen](usecase-edu-iep.md)
-Erfahrt, wie Custom Workflow Designer zur Digitalisierung eines IEP-Prozesses (Individualized Education Program) eingesetzt wird.
-* [Praktikumsantrag für Webformulare für Bildungseinrichtungen](usecase-edu-intern.md)
+Erfahren Sie, wie Sie mit der Designer für benutzerdefinierte Workflows einen IEP-Prozess (Individualized Education Program) digitalisieren
+* [Praktikumsanwendung für Webformulare für Bildungseinrichtungen](usecase-edu-intern.md)
 Erfahren Sie, wie Webformulare den Zugriff von Schülern auf erforderliche Formulare verbessern
-* [Erstellen einer Anwendung für ein Praktikum im Webformular für Bildungseinrichtungen](usecase-edu-intern-create.md)
+* [Webformular-Praktikumsanwendung für Bildungseinrichtungen erstellen](usecase-edu-intern-create.md)
 Erfahren Sie, wie Sie ein Webformular für ein Praktikum erstellen
-* [Bewerbung für ein Regierungsdarlehen mit mehreren unbekannten Unterzeichnern](webform-multiple-signers.md)
+* [Kreditantrag der Regierung mit mehreren unbekannten Unterzeichnern](webform-multiple-signers.md)
 Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerbungen mit öffentlichen Krediten verwendet wird, an dem mehrere unbekannte Teilnehmer beteiligt sind.
 
 ## Nutzungsszenarien in Regierungseinrichtungen
@@ -39,10 +39,10 @@ Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerb
       <img alt="Bewerbung für ein Regierungsdarlehen mit mehreren unbekannten Unterzeichnern" src="../assets/Web-form-unknown.png" />
     </a>
     <div>
-    <a href="webform-multiple-signers.md"><strong>Bewerbung für ein Regierungsdarlehen mit mehreren unbekannten Unterzeichnern</strong></a>
+    <a href="webform-multiple-signers.md"><strong>Kreditantrag der Regierung mit mehreren unbekannten Unterzeichnern</strong></a>
     </div>
-    <em>Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerbungen mit öffentlichen Krediten verwendet wird, an dem mehrere unbekannte Teilnehmer beteiligt sind.</em>
-    <br>
+    <em>Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für die Darlehensanträge von Behörden verwendet wird, der mehrere unbekannte Teilnehmer umfasst</em>
+    2<br>
   </td> 
   <td>
     <a href="usecasegovgrants.md">
@@ -51,8 +51,8 @@ Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerb
     <div>
     <a href="usecasegovgrants.md"><strong>Unternehmenszuschüsse und -darlehen</strong></a>
     </div>
-    <em>Bieten Sie Unternehmen schnelle Unterstützung, indem Sie Self-Service-Zugriff auf Antragsformulare für Zuschüsse, Darlehen und Steuerstundung gewähren.</em>
-    <br>
+    <em>Bieten Sie Unternehmen schnelle Unterstützung, indem Sie Self-Service-Zugriff auf Antragsformulare für Zuschüsse, Darlehen und Steueraufschub gewähren</em>
+    2<br>
   </td> 
   <td>
     <a href="usecasegovtelework.md">
@@ -61,8 +61,8 @@ Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerb
     <div>
     <a href="usecasegovtelework.md"><strong>Telearbeit-Vereinbarung</strong></a>
     </div>
-    <em>Hole Unterschriften aller Mitarbeiter ein, die du für Dokumente zur Telearbeit oder Richtlinien benötigst.</em>
-    <br>
+    <em>Effizientes Einholen von Unterschriften von allen Ihren Mitarbeitern für Telearbeit-Vereinbarungen, Richtlinienaktualisierungen und mehr</em>
+    2<br>
   </td>
   <td>
     <a href="usecasegovcontracts.md">
@@ -71,8 +71,8 @@ Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerb
     <div>
     <a href="usecasegovcontracts.md"><strong>Verträge und Anforderungsformulare</strong></a>
     </div>
-    <em>Ersetzen Sie die Papierverarbeitung schnell durch standardkonforme digitale Workflows mit Prüfberichten</em>
-    <br>
+    <em>Ersetzen Sie die Papierverarbeitung schnell durch standardkonforme digitale Workflows, komplett mit Audit-Berichten</em>
+    2<br>
   </td>
 </tr>
 <tr>
@@ -81,30 +81,30 @@ Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerb
       <img alt="Wiederbeschäftigungsbeihilfe" src="../assets/UC_WebformsR.png" />
     </a>
     <div>
-    <a href="usecasegovreemployment.md"><strong>Wiederbeschäftigungsbeihilfe</strong></a>
+    <a href="usecasegovreemployment.md"><strong>Unterstützung bei der Wiederbeschäftigung</strong></a>
     </div>
-    <em>Helft Bürgern, die benötigte Hilfe zu erhalten, ohne mit Formularen für vollständig digitale Anträge in Kontakt zu stehen, die in wenigen Tagen ausgefüllt werden können.</em>
-    <br>
+    <em>Helfen Sie Bürgern, die benötigte Hilfe zu erhalten, ohne mit Formularen für vollständig digitale Anwendungen in Einklang zu stehen, die in Tagen online gehen können</em>
+    2<br>
   </td>
   <td>
     <a href="usecasegovpaycheck.md">
       <img alt="Gehaltsscheckschutz" src="../assets/UC_PaycheckProtectionR.png" />
     </a>
     <div>
-    <a href="usecasegovpaycheck.md"><strong>Gehaltsscheckschutz</strong></a>
+    <a href="usecasegovpaycheck.md"><strong>Schutz für Gehaltsschecks</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie mit Acrobat Sign das Formular für das Paycheck Protection Program in ein interaktives Online-Formular umwandeln können.</em>
-    <br>
+    <em>Erfahren Sie, wie Sie Acrobat Sign verwenden können, um das Formular für das Zahlungsschutzprogramm in ein interaktives Online-Formular zu konvertieren</em>
+    2<br>
   </td>
   <td>
     <a href="usecasegovremote.md">
       <img alt="Remote-Warrant-Anfrage" src="../assets/UC_Remote_WarrantR.png" />
     </a>
     <div>
-    <a href="usecasegovremote.md"><strong>Remote-Warrant-Anfrage</strong></a>
+    <a href="usecasegovremote.md"><strong>Anforderung einer Remote-Garantie</strong></a>
     </div>
-    <em>Verwendet elektronische Unterschriften und Web-Konferenzen zusammen, um die Beantragung und Sicherung von Haftbefehlen durch Richter zu beschleunigen</em>
-    <br>
+    <em>Verwendet elektronische Unterschriften und Web-Konferenzen zusammen, um die Zeit für die Beantragung und den Schutz von Haftbefehlen von Richtern zu verkürzen</em>
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Grayspacer.png" />
@@ -125,8 +125,8 @@ Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerb
     <div>
     <a href="usecasecomcontracts.md"><strong>Verträge und Anforderungsformulare</strong></a>
     </div>
-    <em>Ersetzen Sie die Papierverarbeitung schnell durch standardkonforme digitale Workflows mit Prüfberichten</em>
-    <br>
+    <em>Ersetzen Sie die Papierverarbeitung schnell durch standardkonforme digitale Workflows, komplett mit Audit-Berichten</em>
+    2<br>
   </td> 
   <td>
     <a href="usecasecompolicy.md">
@@ -135,8 +135,8 @@ Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerb
     <div>
     <a href="usecasecompolicy.md"><strong>Richtlinienvereinbarungen</strong></a>
     </div>
-    <em>Unterschriften aller Mitarbeiter effizient einholen, wenn Richtlinienvereinbarungen und Aktualisierungen umgesetzt werden</em>
-    <br>
+    <em>Effizientes Einholen von Signaturen von allen Ihren Mitarbeitern für Richtlinienvereinbarungen und Aktualisierungen</em>
+    2<br>
   </td>
   <td>
     <a href="usecasecomtelework.md">
@@ -145,8 +145,8 @@ Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerb
     <div>
     <a href="usecasecomtelework.md"><strong>Telearbeit-Vereinbarung</strong></a>
     </div>
-    <em>Alle Mitarbeiter über Telearbeit effektiv unterschreiben</em>
-    <br>
+    <em>Effizientes Einholen von Unterschriften aller Ihrer Mitarbeiter für Telearbeit-Vereinbarungen</em>
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -165,20 +165,20 @@ Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerb
       <img alt="Praktikumsantrag für Webformulare für Bildungseinrichtungen" src="../assets/Webform-internship.png" />
     </a>
     <div>
-    <a href="usecase-edu-intern.md"><strong>Praktikumsantrag für Webformulare für Bildungseinrichtungen</strong></a>
+    <a href="usecase-edu-intern.md"><strong>Praktikumsanwendung für Webformulare für Bildungseinrichtungen</strong></a>
     </div>
-    <em>Erfahren Sie, wie Webformulare den Zugriff von Schülern auf erforderliche Formulare verbessern</em>
-    <br>
+    <em>Erfahren Sie, wie Webformulare verwendet werden, um den Zugriff der Schüler auf erforderliche Formulare zu verbessern</em>
+    2<br>
   </td> 
   <td>
     <a href="usecase-edu-intern-create.md">
       <img alt="Erstellen einer Anwendung für ein Praktikum im Webformular für Bildungseinrichtungen" src="../assets/Webform-internship-create.png" />
     </a>
     <div>
-    <a href="usecase-edu-intern-create.md"><strong>Erstellen einer Anwendung für ein Praktikum im Webformular für Bildungseinrichtungen</strong></a>
+    <a href="usecase-edu-intern-create.md"><strong>Webformular-Praktikumsanwendung für Bildungseinrichtungen erstellen</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie ein Webformular für ein Praktikum erstellen</em>
-    <br>
+    <em>Erfahren Sie, wie Sie ein Praktikums-Webformular erstellen</em>
+    2<br>
   </td> 
   <td>
     <a href="usecase-edu-iep.md">
@@ -187,8 +187,8 @@ Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerb
     <div>
     <a href="usecase-edu-iep.md"><strong>Benutzerdefinierter Workflow für den IEP-Prozess für Bildungseinrichtungen</strong></a>
     </div>
-    <em>Erfahrt, wie Custom Workflow Designer zur Digitalisierung eines IEP-Prozesses (Individualized Education Program) eingesetzt wird.</em>
-    <br>
+    <em>Erfahren Sie, wie die Designer für benutzerdefinierte Workflows verwendet wird, um einen IEP-Prozess (Individualized Education Program) zu digitalisieren</em>
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />

@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Öffentliche Aufträge und Bestellformulare
 
-Ersetzen Sie die Papierverarbeitung schnell durch standardkonforme digitale Workflows inklusive Auditberichten. Erfahre, wie du mit dem Workflow Designer-Tool von Acrobat Sign den gesamten Prozess effizienter gestalten kannst.
+Ersetzen Sie die Papierverarbeitung schnell durch standardkonforme digitale Workflows inklusive Auditberichten. Erfahren Sie, wie Sie mit dem Designer-Tool für Acrobat Sign-Workflows den gesamten Prozess optimieren können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33811?quality=12&learn=on&hidetitle=true)
 

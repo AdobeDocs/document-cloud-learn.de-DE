@@ -1,6 +1,6 @@
 ---
-title: Abrufen einer digitalen ID von [!DNL Intesi Group] (Erweitert)
-description: Hier erfahren Sie, wie Sie ein erweitertes digitales Signaturzertifikat von [!DNL Intesi Group]
+title: Digitale ID von  [!DNL Intesi Group]  abrufen (Erweitert)
+description: Erfahren Sie, wie Sie ein erweitertes digitales Signaturzertifikat von  [!DNL Intesi Group] erhalten.
 feature: Digital ID
 role: User
 level: Beginner
@@ -14,14 +14,14 @@ ht-degree: 1%
 
 ---
 
-# Abrufen einer digitalen ID von [!DNL Intesi Group] (Erweitert)
+# Digitale ID von [!DNL Intesi Group] abrufen (Erweitert)
 
-Hier erfahren Sie, wie Sie ein erweitertes digitales Signaturzertifikat von [!DNL Intesi Group]. Nach der Registrierung und Bestätigung Ihrer Identität [!DNL Intesi Group] gibt eine digitale ID aus, mit der eine Acrobat Sign-Cloud-Signatur angewendet wird.
+Erfahren Sie, wie Sie ein erweitertes digitales Signaturzertifikat von [!DNL Intesi Group] erhalten. Nach der Registrierung und Verifizierung Ihrer Identität stellt [!DNL Intesi Group] Ihnen eine digitale ID aus, die zum Anwenden einer Acrobat Sign-Cloud-Signatur verwendet wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337065?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
-**Wählen Sie die folgende Abbildung aus, um zu erfahren, wie Sie Ihr Advanced [!DNL Intesi Group] digitale ID in Acrobat Sign verwenden.**
+**Wählen Sie die folgende Abbildung aus, um zu erfahren, wie Sie Ihre erweiterte [!DNL Intesi Group]-ID in Acrobat Sign verwenden.**
 
 [![Bild](assets/IntesiSign_400.png)](intesi-sign.md)

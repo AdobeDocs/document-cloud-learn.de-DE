@@ -16,11 +16,11 @@ ht-degree: 0%
 
 # Erstellen einer PDF
 
-Erfahren Sie, [PDF aus allen Dokumenttypen erstellen](https://www.adobe.com/de/acrobat/online/convert-pdf.html). Beginnen Sie mit einer in Microsoft Office erstellten Datei oder einer Creative Cloud-App, oder verwenden Sie ein Bild, einen Scan oder sogar eine Website. Das Konvertieren von Inhalten in PDF bietet eine praktische und zuverlässige Möglichkeit, Dokumente freizugeben, zu bewahren und zu schützen, während die Originalformatierung beibehalten wird. In diesem Video-Tutorial wird die Datei [Neuer Arbeitsbereich](new-workspace.md).
+Erfahren Sie, wie Sie [PDF aus allen verschiedenen Dokumenttypen erstellen](https://www.adobe.com/de/acrobat/online/convert-pdf.html). Beginnen Sie mit einer in Microsoft Office erstellten Datei oder einer Creative Cloud-App, oder verwenden Sie ein Bild, einen Scan oder sogar eine Website. Das Konvertieren von Inhalten in PDF bietet eine praktische und zuverlässige Möglichkeit, Dokumente freizugeben, zu bewahren und zu schützen, während die Originalformatierung beibehalten wird. In diesem Video-Tutorial wird das [neue Arbeitsbereichserlebnis](new-workspace.md) verwendet.
 
 >[!TIP]
 >
->Benutzen Sie Microsoft Office ständig? Hier ein paar [Integrationen](../integrate/integrate-overview.md#microsoft) , mit denen Sie PDF direkt in Ihren bevorzugten Office-Anwendungen erstellen können.
+>Benutzen Sie Microsoft Office ständig? Sehen Sie sich diese [Integrationen](../integrate/integrate-overview.md#microsoft) an, mit denen Sie PDF direkt in Ihren bevorzugten Office-Anwendungen erstellen können.
 
 <br> 
 

@@ -20,7 +20,7 @@ Erfahren Sie, wie Sie über die Acrobat-Oberfläche bei konsistentem Arbeitsbere
 
 >[!TIP]
 >
->Möchten Sie mehr über das neue Arbeitsbereichserlebnis erfahren, das Sie in Acrobat aktivieren können? Auschecken [Neue Arbeitsbereichserfahrung](new-workspace.md).
+>Möchten Sie mehr über das neue Arbeitsbereichserlebnis erfahren, das Sie in Acrobat aktivieren können? [Neues Arbeitsbereichserlebnis](new-workspace.md) auschecken.
 
 <br> 
 

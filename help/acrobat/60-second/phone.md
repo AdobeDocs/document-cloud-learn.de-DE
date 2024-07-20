@@ -9,17 +9,17 @@ thumbnail: KT-8576.jpg
 exl-id: 8d927cd6-f944-45b7-81c9-4f70e1ed5276
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 4%
+source-wordcount: '96'
+ht-degree: 1%
 
 ---
 
 # PPT- in PDF-Dateien umwandeln - auf dem Smartphone.
 
-In diesem 60-Sekunden-Video-Tutorial erfahren Sie, wie Sie eine E-Mail konvertieren [PowerPoint-Anbindung an PDF](https://www.adobe.com/de/acrobat/online/ppt-to-pdf.html){target="_blank"} auf deinem Smartphone. Wenn die Datei zurückkehrt, können Sie sie anzeigen und auf Freigeben tippen, um sie an Ihr Team zu senden - ohne PowerPoint auf Ihrem Smartphone zu haben.
+In diesem 60-Sekunden-Videotutorial erfahren Sie, wie Sie eine E-Mail-[PowerPoint-Anlage auf Ihrem Smartphone in PDF](https://www.adobe.com/de/acrobat/online/ppt-to-pdf.html){target="_blank"} konvertieren. Wenn die Datei zurückkehrt, können Sie sie anzeigen und auf Freigeben tippen, um sie an Ihr Team zu senden - ohne PowerPoint auf Ihrem Smartphone zu haben.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336366?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Dieses Video ist Teil des Kurses [Intelligenter arbeiten mit Acrobat DC und Microsoft 365.](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) das auf Experience League kostenlos erhältlich ist!
+>Dieses Video ist Teil des Kurses [Intelligenter arbeiten mit Acrobat DC und Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), der kostenlos auf dem Experience League verfügbar ist!

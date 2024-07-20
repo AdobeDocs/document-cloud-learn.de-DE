@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Verträge über Handelspolitik
 
-Hole Unterschriften aller Mitarbeiter effizient ein, z. B. für Richtlinienvereinbarungen oder Richtlinienaktualisierungen. Erfahren Sie, wie Sie ein Online-Webformular erstellen, das ausgefüllt werden kann **und** signiert, ohne etwas zu drucken oder per E-Mail zu versenden.
+Hole Unterschriften aller Mitarbeiter effizient ein, z. B. für Richtlinienvereinbarungen oder Richtlinienaktualisierungen. Erfahren Sie, wie Sie ein Online-Webformular erstellen, das ausgefüllt **und** signiert werden kann, ohne etwas zu drucken oder per E-Mail zu versenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33979?quality=12&learn=on&hidetitle=true)
 

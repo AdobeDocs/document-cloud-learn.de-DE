@@ -1,6 +1,6 @@
 ---
-title: Dateien automatisch archivieren in [!DNL SharePoint] mit [!DNL Power Automate]
-description: Hier erfahren Sie, wie Sie unterzeichnete Dokumente automatisch in einer [!DNL SharePoint] Bibliothek mit [!DNL Power Automate]
+title: Dateien in  [!DNL SharePoint]  mit  [!DNL Power Automate] automatisch archivieren
+description: Erfahren Sie, wie signierte Dokumente mit  [!DNL Power Automate] automatisch in einer  [!DNL SharePoint] Bibliothek archiviert werden.
 feature: Integrations
 role: Admin, User
 level: Intermediate
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Dateien automatisch archivieren in [!DNL SharePoint] mit [!DNL Power Automate]
+# Dateien in [!DNL SharePoint] automatisch mit [!DNL Power Automate] archivieren
 
-Hier erfahren Sie, wie Sie unterzeichnete Dokumente automatisch in einer [!DNL SharePoint] Bibliothek mit [!DNL Power Automate].
+Erfahren Sie, wie signierte Dokumente mit [!DNL Power Automate] automatisch in einer [!DNL SharePoint]-Bibliothek archiviert werden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409121?quality=12&learn=on&hidetitle=true)

@@ -9,7 +9,7 @@ thumbnail: 17366.jpg
 exl-id: b9d7c6f4-a7fc-4cb8-a80d-91cc4c5b5298
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '107'
 ht-degree: 3%
 
 ---
@@ -20,10 +20,10 @@ Erfahren Sie, wie Sie die Rolle &quot;Delegierender&quot; verwenden, um ein Doku
 
 >[!NOTE]
 >
->Die Rolle &quot;Delegierender&quot; ist nur für Abos auf Enterprise-Ebene verfügbar. Ihr Acrobat Sign-Administrator muss möglicherweise die **Absendern erlauben, einige Empfänger als Delegierende zu markieren** in der **Sendeeinstellungen** Abschnitt des **Kontoeinstellungen** , um diese Funktion zu verwenden.
+>Die Rolle &quot;Delegierender&quot; ist nur für Abos auf Enterprise-Ebene verfügbar. Ihr Acrobat Sign-Administrator muss möglicherweise die Einstellung **Absendern erlauben, einige Empfänger als Delegierende zu markieren** aktivieren, die im Abschnitt **Sendeeinstellungen** der **Kontoeinstellungen** festgelegt ist, damit diese Funktion verwendet werden kann.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343621?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Dieses Video ist Teil des Kurses [Erweiterte Aufgaben für Benutzer](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) das auf Experience League kostenlos erhältlich ist!
+>Dieses Video ist Teil des Kurses [Erweiterte Benutzeraufgaben](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3), der kostenlos auf dem Experience League verfügbar ist!

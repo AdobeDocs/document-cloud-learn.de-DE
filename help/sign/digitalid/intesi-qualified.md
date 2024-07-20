@@ -1,6 +1,6 @@
 ---
-title: Abrufen einer digitalen ID von [!DNL Intesi Group] (Qualifiziert)
-description: Erfahren Sie, wie Sie ein qualifiziertes digitales Signaturzertifikat von [!DNL Intesi Group]
+title: Digitale ID von  [!DNL Intesi Group]  abrufen (qualifiziert)
+description: Erfahren Sie, wie Sie ein qualifiziertes digitales Signaturzertifikat von  [!DNL Intesi Group] erhalten.
 feature: Digital ID
 role: User
 level: Beginner
@@ -14,14 +14,14 @@ ht-degree: 1%
 
 ---
 
-# Abrufen einer digitalen ID von [!DNL Intesi Group] (Qualifiziert)
+# Digitale ID von [!DNL Intesi Group] abrufen (qualifiziert)
 
-Informieren Sie sich über das Erhalten eines qualifizierten digitalen Signaturzertifikats von [!DNL Intesi Group]. Nach der Registrierung und Bestätigung Ihrer Identität [!DNL Intesi Group] gibt eine digitale ID aus, mit der eine Acrobat Sign-Cloud-Signatur angewendet wird.
+Erfahren Sie, wie Sie ein qualifiziertes digitales Signaturzertifikat von [!DNL Intesi Group] erhalten. Nach der Registrierung und Verifizierung Ihrer Identität stellt [!DNL Intesi Group] Ihnen eine digitale ID aus, die zum Anwenden einer Acrobat Sign-Cloud-Signatur verwendet wird.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337064?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
-**Wählen Sie die folgende Abbildung aus, um zu erfahren, wie Sie Ihr qualifiziertes [!DNL Intesi Group] digitale ID in Acrobat Sign verwenden.**
+**Wählen Sie die folgende Abbildung aus, um zu erfahren, wie Sie Ihre qualifizierte [!DNL Intesi Group] digitale ID in Acrobat Sign verwenden.**
 
 [![Bild](assets/IntesiSign_400.png)](intesi-sign.md)

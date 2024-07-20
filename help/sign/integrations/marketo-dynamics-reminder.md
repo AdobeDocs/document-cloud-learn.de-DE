@@ -12,8 +12,8 @@ thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '911'
-ht-degree: 2%
+source-wordcount: '891'
+ht-degree: 0%
 
 ---
 
@@ -25,47 +25,47 @@ Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung senden, wenn eine Vereinbarung
 
 1. Installieren Sie Marketo Microsoft Dynamics Sync.
 
-   Informationen und das neueste Plug-in für Microsoft Dynamics Sync sind verfügbar [hier verfügbar.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
+   Informationen und das neueste Plug-in für Microsoft Dynamics Sync sind hier [verfügbar.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
-1. Installieren [Acrobat Sign für Microsoft Dynamics](https://appsource.microsoft.com/de-de/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
+1. Installieren Sie [Acrobat Sign für Microsoft Dynamics](https://appsource.microsoft.com/de-de/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
 
-   Informationen zu diesem Plug-in sind verfügbar [hier verfügbar.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
+   Informationen zu diesem Plug-in sind hier [ verfügbar.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## Benutzerdefiniertes Objekt suchen
 
 Sobald die Konfigurationen von Marketo Microsoft Dynamics Sync und Acrobat Sign for Dynamics abgeschlossen sind, werden zwei neue Optionen im Marketo Admin-Terminal angezeigt.
 
-![Administration](assets/adminTerminal.png)
+![Administrator](assets/adminTerminal.png)
 
-1. Klicken **[!UICONTROL Dynamics-Entitäten synchronisieren]**.
+1. Klicken Sie auf **[!UICONTROL Synchronisierung der Dynamics-Entitäten]**.
 
-   Die Synchronisation muss deaktiviert sein, bevor benutzerdefinierte Entitäten synchronisiert werden. Klicken **Schema synchronisieren** wenn dies Ihr erstes Mal ist. Klicken Sie andernfalls auf **Schema aktualisieren**.
+   Die Synchronisation muss deaktiviert sein, bevor benutzerdefinierte Entitäten synchronisiert werden. Klicken Sie auf **Schema synchronisieren**, wenn dies Ihr erstes Mal ist. Klicken Sie andernfalls auf **Schema aktualisieren**.
 
    ![Aktualisieren](assets/refreshSchema.png)
 
 ## Benutzerdefiniertes Objekt synchronisieren
 
-1. Suchen Sie rechts nach [!UICONTROL Blei], [!UICONTROL Kontakt]und [!UICONTROL Konto]-basierte benutzerdefinierte Objekte.
+1. Suchen Sie auf der rechten Seite nach [!UICONTROL Lead], [!UICONTROL Kontakt] und [!UICONTROL Account]-basierten benutzerdefinierten Objekten.
 
-   * **Synchronisation aktivieren** für die Objekte unter **[!UICONTROL Blei]** , wenn Sie eine Erinnerung senden möchten, wenn ein [!UICONTROL Blei] hat keine Vereinbarung in Dynamics signiert.
+   * **Aktivieren Sie Sync** für die Objekte unter **[!UICONTROL Lead]**, wenn Sie eine Erinnerung senden möchten, wenn ein [!UICONTROL Lead] keine Vereinbarung in Dynamics signiert hat.
 
-   * **Synchronisation aktivieren** für die Objekte unter **[!UICONTROL Kontakt]** , wenn Sie eine Erinnerung senden möchten, wenn ein [!UICONTROL Kontakt] hat keine Vereinbarung in Dynamics signiert.
+   * **Aktivieren Sie Sync** für die Objekte unter **[!UICONTROL Kontakt]**, wenn Sie eine Erinnerung senden möchten, wenn ein [!UICONTROL Kontakt] keine Vereinbarung in Dynamics signiert hat.
 
-   * **Synchronisation aktivieren** für die Objekte unter **[!UICONTROL Konto]** , wenn Sie eine Erinnerung senden möchten, wenn ein [!UICONTROL Konto] hat keine Vereinbarung in Dynamics signiert.
+   * **Aktivieren Sie Synchronisation** für die Objekte unter **[!UICONTROL Konto]**, wenn Sie eine Erinnerung senden möchten, wenn ein [!UICONTROL Konto] keine Vereinbarung in Dynamics signiert hat.
 
-   * **Synchronisation aktivieren** für das Vereinbarungsobjekt unter dem gewünschten **[!UICONTROL Übergeordnet]** ([!UICONTROL Blei], [!UICONTROL Kontakt]oder [!UICONTROL Konto]).
+   * **Synchronisierung aktivieren** für das Vereinbarungsobjekt unter dem gewünschten **[!UICONTROL übergeordneten]** ([!UICONTROL Lead], [!UICONTROL Kontakt] oder [!UICONTROL Konto]).
 
    ![Benutzerdefinierte Objekte](assets/enableSyncDynamics.png)
 
-1. Wählen Sie im neuen Fenster die gewünschten Eigenschaften unter Vereinbarung aus, und aktivieren Sie dann die Felder unter **Einschränkung** und **Auslöser** , um sie Ihren Marketing-Aktivitäten vorzustellen.
+1. Wählen Sie im neuen Fenster die Eigenschaften aus, die Sie unter Vereinbarung wünschen, und aktivieren Sie dann die Felder unter **Einschränkung** und **Auslöser**, um sie Ihren Marketingaktivitäten zur Verfügung zu stellen.
 
-   ![Benutzerdefinierte Synchronisation 1](assets/entitySync1.png)
+   ![Benutzerdefinierte Synchronisierung 1](assets/entitySync1.png)
 
-   ![Benutzerdefinierte Synchronisation 2](assets/entitySync2.png)
+   ![Benutzerdefinierte Synchronisierung 2](assets/entitySync2.png)
 
 1. Aktivieren Sie die Synchronisation erneut, nachdem Sie die Synchronisation für die benutzerdefinierten Objekte aktiviert haben.
 
-   Gehen Sie zurück zum Admin-Terminal und klicken Sie auf **Microsoft Dynamics** klicken Sie dann auf **Synchronisation aktivieren**.
+   Kehren Sie zum Admin-Terminal zurück, klicken Sie auf **Microsoft Dynamics**, und klicken Sie dann auf **Synchronisation aktivieren**.
 
    ![Microsoft Dynamics](assets/microsoftDynamics.png)
 
@@ -73,13 +73,13 @@ Sobald die Konfigurationen von Marketo Microsoft Dynamics Sync und Acrobat Sign 
 
 ## Programm und Token erstellen
 
-1. Klicken Sie im Abschnitt &quot;Marketingaktivitäten&quot; von Marketo mit der rechten Maustaste auf **Marketing-Aktivitäten** in der linken Leiste.
+1. Klicken Sie im Abschnitt Marketingaktivitäten von Marketo mit der rechten Maustaste auf **Marketingaktivitäten** in der linken Leiste.
 
-   Auswählen **Neuer Kampagnenordner** und geben Sie ihm einen Namen.
+   Wählen Sie **Neuer Kampagnenordner** aus, und geben Sie ihm einen Namen.
 
    ![Neuer Ordner](assets/newFolder.png)
 
-1. Klicken Sie mit der rechten Maustaste auf den erstellten Ordner, wählen Sie **Neues Programm** und geben Sie ihm einen Namen.
+1. Klicken Sie mit der rechten Maustaste auf den erstellten Ordner, wählen Sie **Neues Programm** aus, und geben Sie ihm einen Namen.
 
    Behalten Sie alles andere als Standard bei, und klicken Sie dann auf **Erstellen**.
 
@@ -87,17 +87,17 @@ Sobald die Konfigurationen von Marketo Microsoft Dynamics Sync und Acrobat Sign 
 
    ![Neues Programm 2](assets/newProgram2.png)
 
-1. Klicken Sie auf **Meine Tokens** und ziehen Sie dann **Email Script** auf die Arbeitsfläche.
+1. Klicken Sie auf **Meine Token**, und ziehen Sie dann **E-Mail-Skript** auf die Arbeitsfläche.
 
-   ![Email Script](assets/emailScript.png)
+   ![E-Mail-Skript](assets/emailScript.png)
 
-1. Geben Sie einen Namen ein, und klicken Sie dann auf **Klicken, um zu bearbeiten**.
+1. Geben Sie einen Namen ein, und klicken Sie dann auf **Klicken Sie auf Bearbeiten**.
 
-   ![Benennen und bearbeiten](assets/nameAndSave.png)
+   ![Name und Bearbeiten](assets/nameAndSave.png)
 
-1. Erweitern **[!UICONTROL Benutzerdefinierte Objekte]** auf der rechten Seite, und erweitern Sie dann die **[!UICONTROL Vereinbarung]** Objekt.
+1. Erweitern Sie auf der rechten Seite **[!UICONTROL Benutzerdefinierte Objekte]**, und erweitern Sie dann das Objekt **[!UICONTROL Vereinbarung]**.
 
-   Suchen und Ziehen [!UICONTROL Name], Vereinbarungsstatus, Gesendet am und Aktuelle Unterzeichner-URL auf der Arbeitsfläche.
+   Suchen Sie [!UICONTROL Name], Vereinbarungsstatus, Gesendet am und Aktuelle Unterzeichner-URL und ziehen Sie sie auf die Arbeitsfläche.
 
 1. Schreiben Sie ein Velocity -Skript mit diesen Token, um die Vereinbarungs-URL einer Vereinbarung anzuzeigen, die eine Woche lang nicht signiert wurde. Im Folgenden finden Sie ein Beispiel, in dem das aktuelle Datum mit &quot;Gesendet am&quot; verglichen wird:
 
@@ -125,29 +125,29 @@ Sobald die Konfigurationen von Marketo Microsoft Dynamics Sync und Acrobat Sign 
    #end
    ```
 
-1. Klicken Sie auf **[!UICONTROL Speichern]**.
+1. Klicke auf **[!UICONTROL Speichern]**.
 
 ## Erinnerung erstellen und Personalisierung hinzufügen
 
 Beispiele für die Personalisierung: der Name des Unterzeichners, der Name der Vereinbarung, ein Link zur Vereinbarung usw.
 
-1. Klicken Sie mit der rechten Maustaste auf das Programm, das Sie erstellt haben, und klicken Sie auf **[!UICONTROL Neues lokales Element]** und wählen Sie dann **[!UICONTROL Email]**.
+1. Klicken Sie mit der rechten Maustaste auf das Programm, das Sie erstellt haben, und klicken Sie auf **[!UICONTROL Neues lokales Element]**. Wählen Sie dann **[!UICONTROL E-Mail]** aus.
 
    ![Neue E-Mail](assets/createNewEmail.png)
 
-1. Geben Sie auf der neuen Registerkarte eine **[!UICONTROL Name]** und **[!UICONTROL Beschreibung]** für die E-Mail und wählen Sie in der Vorlagenauswahl eine Vorlage aus.
+1. Geben Sie auf der neuen Registerkarte einen **[!UICONTROL Namen]** und **[!UICONTROL Beschreibung]** für die E-Mail ein und wählen Sie eine Vorlage in der Vorlagenauswahl aus.
 
    ![Vorlagenauswahl](assets/templatePicker.png)
 
 1. Klicken Sie auf **[!UICONTROL Erstellen]**.
 
-1. Legen Sie die **[!UICONTROL Von Name]** und **[!UICONTROL Von Adresse]**.
+1. Legen Sie **[!UICONTROL Von Name]** und **[!UICONTROL Von Adresse]** fest.
 
-   ![Erinnerungs-Mail](assets/reminderEmail.png)
+   ![Erinnerungs-E-Mail](assets/reminderEmail.png)
 
 1. Klicken Sie auf den Nachrichtentext, um den Editor zu aktivieren.
 
-   Klicken Sie auf die Schaltfläche **[!UICONTROL Token einfügen]** das von Ihnen erstellte benutzerdefinierte Vereinbarungs-URL-Token und klicken Sie auf **[!UICONTROL Einfügen]**. Passen Sie Ihre E-Mail-Adresse an und klicken Sie auf **[!UICONTROL Speichern]**.
+   Klicken Sie auf die Schaltfläche **[!UICONTROL Token einfügen]**, suchen Sie das von Ihnen erstellte benutzerdefinierte Vereinbarungs-URL-Token und klicken Sie dann auf **[!UICONTROL Einfügen]**. Beenden Sie die Anpassung Ihrer E-Mail und klicken Sie auf **[!UICONTROL Speichern]**.
 
    ![Token einfügen](assets/insertToken.png)
 
@@ -155,7 +155,7 @@ Beispiele für die Personalisierung: der Name des Unterzeichners, der Name der V
 
    Sie sollten einen Link zur URL mit dem Vereinbarungsnamen als Beschriftung sehen.
 
-   ![E-Mail](assets/emailLink.png)
+   ![E-Mail-Link](assets/emailLink.png)
 
 ## Einrichten des Smart Campaign-Filters
 
@@ -163,19 +163,19 @@ Beispiele für die Personalisierung: der Name des Unterzeichners, der Name der V
 
    ![Smart Campaign 1](assets/smartCampaign1.png)
 
-1. Geben Sie einen Namen Ihrer Wahl ein, und klicken Sie auf **[!UICONTROL Erstellen]**.
+1. Geben Sie einen Namen Ihrer Wahl ein, und klicken Sie dann auf **[!UICONTROL Erstellen]**.
 
    ![Smart Campaign 2](assets/smartCampaign2.png)
 
-1. Suchen nach, dann klicken und ziehen **[!UICONTROL Hat Vereinbarung]** in die Smart-Liste aufnehmen.
+1. Suchen Sie nach, klicken Sie auf &quot;**[!UICONTROL Enthält Vereinbarung]**&quot; und ziehen Sie es in die Smart-Liste.
 
-   ![Hat Vereinbarung](assets/hasAgreementDynamics1.png)
+   ![hat Vereinbarung](assets/hasAgreementDynamics1.png)
 
-   Die Felder, die Sie dem Auslöser ausgesetzt haben, sollten in **[!UICONTROL Einschränkung hinzufügen]**.
+   Die Felder, die Sie dem Trigger verfügbar gemacht haben, sollten in **[!UICONTROL Einschränkung hinzufügen]** verfügbar sein.
 
-1. Auswählen **[!UICONTROL Vereinbarungsstatus]** und alle anderen Felder, nach denen Sie filtern möchten.
+1. Wählen Sie **[!UICONTROL Vereinbarungsstatus]** und alle anderen Felder aus, nach denen Sie filtern möchten.
 
-   Definieren Sie für jedes hinzugefügte Feld die Werte, nach denen gefiltert werden soll. In diesem Fall wird es nur ausgelöst, wenn die **[!UICONTROL Vereinbarungsstatus]** ist *Zur Signatur versandt* und **[!UICONTROL Gesendet am]** ist *in der Vergangenheit vor 1 Woche*.
+   Definieren Sie für jedes hinzugefügte Feld die Werte, nach denen gefiltert werden soll. In diesem Fall wird er nur ausgelöst, wenn der **[!UICONTROL Vereinbarungsstatus]** *Zur Signatur versandt* und **[!UICONTROL Gesendet am]** *in der letzten Zeit vor einer Woche* ist.
 
    ![Vereinbarungsstatus](assets/hasAgreementDynaSentOn.png)
 
@@ -189,22 +189,22 @@ Beispiele für die Personalisierung: der Name des Unterzeichners, der Name der V
 
 ## Einrichten des Smart Campaign Flow
 
-Weil der Kampagnenfilter **Tage bis zum Ablauf** verwendet wurde, können Sie eine geplante Wiederholung für die Kampagne verwenden.
+Da der Kampagnenfilter **Tage bis zum Ablauf** verwendet wurde, können Sie eine geplante Wiederholung für die Kampagne verwenden.
 
-1. Klicken Sie auf **[!UICONTROL Fluss]** &quot; im Dialogfeld &quot; [!UICONTROL Smart Campaign].
+1. Klicken Sie in der [!UICONTROL Smart Campaign] auf die Registerkarte **[!UICONTROL Flow]**.
 
-   Suchen Sie nach dem Element und ziehen Sie es **E-Mail senden** auf die Arbeitsfläche und wählen Sie die Erinnerungs-E-Mail aus, die Sie im vorherigen Abschnitt erstellt haben.
+   Suchen Sie den Textfluss **E-Mail senden**, ziehen Sie ihn auf die Arbeitsfläche und wählen Sie die Erinnerungs-E-Mail aus, die Sie im vorherigen Abschnitt erstellt haben.
 
    ![E-Mail senden](assets/sendEmail.png)
 
-1. Klicken Sie auf **[!UICONTROL Planen]** in der Smart Campaign. Stellen Sie sicher, dass der Kampagnen-Flow auf nur einmal pro Person im **Smart Campaign-Einstellungen**. Klicken Sie dann auf die Schaltfläche **Wiederkehrende planen** &quot; ändern.
+1. Klicken Sie in der Smart Campaign auf die Registerkarte **[!UICONTROL Zeitplan]**. Stellen Sie sicher, dass der Kampagnenfluss auf die Ausführung nur einmal pro Person in den **Einstellungen für intelligente Kampagnen** beschränkt ist. Klicken Sie dann auf die Registerkarte **Wiederholung planen**.
 
    ![Registerkarte &quot;Zeitplan&quot;](assets/scheduleTab.png)
 
-1. Legen Sie die **Planen** bis _Täglich_. Wählen Sie bei Bedarf einen Start- und einen Endtag für die Kampagne aus.
+1. Setzen Sie **Schedule** auf _Daily_. Wählen Sie bei Bedarf einen Start- und einen Endtag für die Kampagne aus.
 
    ![Zeitplaneinstellungen](assets/scheduleSettings.png)
 
 >[!TIP]
 >
->Dieses Tutorial ist Teil des Kurses [Schnellere Vertriebszyklen - mit Acrobat Sign für Microsoft Dynamics und Marketo.](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) das auf Experience League kostenlos erhältlich ist!
+>Dieses Tutorial ist Teil des [Kurses zur Beschleunigung der Vertriebszyklen mit Acrobat Sign für Microsoft Dynamics und Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1), der kostenlos auf dem Experience League verfügbar ist!

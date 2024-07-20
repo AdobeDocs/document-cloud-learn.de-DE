@@ -20,6 +20,6 @@ ht-degree: 0%
 >
 >Nur in Acrobat Pro verfügbar.
 
-In diesem 60-Sekunden-Video-Tutorial erfahren Sie, wie Sie mit dem Optimize PDF-Tool die Größe Ihrer PDF-Dateien erheblich reduzieren können.
+In diesem 60-Sekunden-Video-Tutorial erfahren Sie, wie Sie das Optimize PDF-Tool verwenden, um die Größe Ihrer PDF-Dateien erheblich zu reduzieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340077?quality=12&learn=on&hidetitle=true)

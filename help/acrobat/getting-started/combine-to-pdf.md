@@ -9,18 +9,18 @@ thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 3%
+source-wordcount: '123'
+ht-degree: 0%
 
 ---
 
 # Dateien auf einer einzigen PDF zusammenführen
 
-Für die Bereitstellung der besten Kundenerlebnisse müssen Inhalte schneller denn je erstellt werden. Erfahren Sie, wie Sie viele verschiedene Dateitypen (PDF, Word, Excel, PowerPoint, JPEG usw.) auf einer einzigen PDF. [Dateien auf einer PDF zusammenführen](https://www.adobe.com/de/acrobat/online/merge-pdf.html){target="_blank"} ermöglicht es Ihnen, Inhalte, die Sie an andere senden, zu verwalten und zu kontrollieren und so ein besseres Erlebnis zu schaffen.
+Für die Bereitstellung der besten Kundenerlebnisse müssen Inhalte schneller denn je erstellt werden. Erfahren Sie, wie Sie viele verschiedene Dateitypen (PDF, Word, Excel, PowerPoint, JPEG usw.) auf einer einzigen PDF. [Durch das Zusammenführen von Dateien zu einer einzigen PDF](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} können Sie Inhalte, die Sie an andere senden, verwalten und steuern und so ein besseres Erlebnis schaffen.
 
 >[!TIP]
 >
->Marken hinzufügen [neue benutzerdefinierte Seite](add-custom-page.md) beim Kombinieren von Dateien.
+>Erfahren Sie, wie Sie beim Kombinieren von Dateien eine Branding-[neue benutzerdefinierte Seite](add-custom-page.md) hinzufügen.
 
 <br> 
 
@@ -28,4 +28,4 @@ Für die Bereitstellung der besten Kundenerlebnisse müssen Inhalte schneller de
 
 >[!TIP]
 >
->Dieses Video ist Teil des Kurses [Intelligenter arbeiten mit Acrobat DC und Microsoft 365.](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) das auf Experience League kostenlos erhältlich ist!
+>Dieses Video ist Teil des Kurses [Intelligenter arbeiten mit Acrobat DC und Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), der kostenlos auf dem Experience League verfügbar ist!

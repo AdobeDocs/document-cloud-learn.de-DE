@@ -28,7 +28,7 @@ Kosteneinsparungen, Effizienz der Organisation, Zeitersparnis, Qualitätssicheru
 
 >[!TIP]
 >
-Dieses Video ist Teil des Kurses [Intelligenter arbeiten mit Acrobat DC und Microsoft 365.](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) das kostenlos auf dem Experience League verfügbar ist!
+Dieses Video ist Teil des Kurses [Intelligenter arbeiten mit Acrobat DC und Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), der kostenlos auf dem Experience League verfügbar ist!
 
 >[!NOTE]
 >

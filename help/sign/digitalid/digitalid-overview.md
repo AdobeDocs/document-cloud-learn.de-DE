@@ -25,9 +25,9 @@ ht-degree: 0%
 ## Neue Funktionen
 
 * [Registrieren und Signieren mit Digidentity](digidentity-sign.md)
-Erfahren Sie, wie Sie Ihre [!DNL Digidentity] digitale ID mit Acrobat Sign
-* [Registrieren und signieren Sie mit D-Trust](d-trust.md)
-Weitere Informationen zur Registrierung Ihrer Identität bei [!DNL D-Trust], und verwenden Sie dann den Katalog [!DNL D-Trust] Digitale Signatur auf einem Dokument in Acrobat Sign
+Erfahren Sie, wie Sie Ihre [!DNL Digidentity] digitale ID mit Acrobat Sign registrieren und verwenden.
+* [Registrieren und Signieren mit D-Trust](d-trust.md)
+Erfahren Sie, wie Sie Ihre Identität bei [!DNL D-Trust] registrieren und dann die [!DNL D-Trust] digitale Signatur für ein Dokument in Acrobat Sign verwenden.
 
 ## [!DNL Aadhaar]
 
@@ -40,8 +40,8 @@ Weitere Informationen zur Registrierung Ihrer Identität bei [!DNL D-Trust], und
     <div>
     <a href="aadhaar-sign.md"><strong>Signieren mit [!DNL Aadhaar]</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie Ihr [!DNL Aadhaar] digitale ID mit Acrobat Sign</em>
-    <br>
+    <em>Weitere Informationen zur Verwendung Ihrer [!DNL Aadhaar] digitalen ID mit Acrobat Sign</em>
+    3<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -67,13 +67,13 @@ Weitere Informationen zur Registrierung Ihrer Identität bei [!DNL D-Trust], und
 <tr>
   <td>
     <a href="digidentity-sign.md">
-      <img alt="Registrieren und unterschreiben Sie mit einem [!DNL Digidentity] digitale ID" src="assets/Digidentitysign_1280.png" />
+      <img alt="Registrieren und Signieren mit einer [!DNL Digidentity] digitalen ID" src="assets/Digidentitysign_1280.png" />
     </a>
     <div>
     <a href="digidentity-sign.md"><strong>Registrieren und signieren mit [!DNL Digidentity]</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie Ihre [!DNL Digidentity] digitale ID mit Acrobat Sign</em>
-    <br>
+    <em>Erfahren Sie, wie Sie Ihre [!DNL Digidentity] digitale ID bei Acrobat Sign registrieren und verwenden</em>
+    3<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -102,10 +102,10 @@ Weitere Informationen zur Registrierung Ihrer Identität bei [!DNL D-Trust], und
       <img alt="Registrieren und signieren Sie mit D-Trust" src="assets/Dtrust.png" />
     </a>
     <div>
-    <a href="d-trust.md"><strong>Registrieren und signieren Sie mit D-Trust</strong></a>
+    <a href="d-trust.md"><strong>Registrieren und Signieren mit D-Trust</strong></a>
     </div>
-    <em>Weitere Informationen zur Registrierung Ihrer Identität bei [!DNL D-Trust], und verwenden Sie dann den Katalog [!DNL D-Trust] Digitale Signatur auf einem Dokument in Acrobat Sign</em>
-    <br>
+    <em>Erfahren Sie, wie Sie Ihre Identität bei [!DNL D-Trust] registrieren und dann die [!DNL D-Trust] digitale Signatur für ein Dokument in Acrobat Sign verwenden</em>
+    4<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -134,20 +134,20 @@ Weitere Informationen zur Registrierung Ihrer Identität bei [!DNL D-Trust], und
       <img alt="Abrufen einer digitalen ID von der Intesi Group (Advanced)" src="assets/IntesiAdvanced_1280.png" />
     </a>
     <div>
-    <a href="intesi-advanced.md"><strong>Abrufen einer digitalen ID von [!DNL Intesi Group] (Erweitert)</strong></a>
+    <a href="intesi-advanced.md"><strong>Digitale ID von [!DNL Intesi Group] abrufen (erweitert)</strong></a>
     </div>
-    <em>Hier erfahren Sie, wie Sie ein erweitertes digitales Signaturzertifikat von [!DNL Intesi Group]</em>
-    <br>
+    <em>Erfahren Sie, wie Sie ein erweitertes digitales Signaturzertifikat von [!DNL Intesi Group]</em> erhalten.
+    2<br>
   </td>
   <td>
     <a href="intesi-qualified.md">
-      <img alt="Abrufen einer digitalen ID von [!DNL Intesi Group] (Qualifiziert)" src="assets/IntesiQualified_1280.png" />
+      <img alt="Digitale ID von [!DNL Intesi Group] abrufen (qualifiziert)" src="assets/IntesiQualified_1280.png" />
     </a>
     <div>
-    <a href="intesi-qualified.md"><strong>Abrufen einer digitalen ID von [!DNL Intesi Group] (Qualifiziert)</strong></a>
+    <a href="intesi-qualified.md"><strong>Eine digitale ID von [!DNL Intesi Group] abrufen (qualifiziert)</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie ein qualifiziertes digitales Signaturzertifikat von [!DNL Intesi Group]</em>
-    <br>
+    <em>Erfahren Sie, wie Sie ein qualifiziertes digitales Signaturzertifikat von [!DNL Intesi Group]</em> erhalten.
+    2<br>
   </td>
   <td>
     <a href="intesi-sign.md">
@@ -156,8 +156,8 @@ Weitere Informationen zur Registrierung Ihrer Identität bei [!DNL D-Trust], und
     <div>
     <a href="intesi-sign.md"><strong>Signieren mit [!DNL Intesi Group]</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie Ihr [!DNL Intesi Group] digitale ID mit Acrobat Sign</em>
-    <br>
+    <em>Weitere Informationen zur Verwendung Ihrer [!DNL Intesi Group] digitalen ID mit Acrobat Sign</em>
+    3<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />

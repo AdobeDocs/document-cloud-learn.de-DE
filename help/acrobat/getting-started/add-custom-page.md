@@ -16,6 +16,6 @@ ht-degree: 5%
 
 # Benutzerdefinierte Seite hinzufügen
 
-Erfahre, wie du eigene Seiten zu deinem PDF hinzufügst - mit der integrierten Adobe Expreß-App, die mehrere Tausend Vorlagen zur Auswahl bietet. In diesem Video-Tutorial wird die Datei [Neuer Arbeitsbereich](new-workspace.md).
+Erfahre, wie du eigene Seiten zu deinem PDF hinzufügst - mit der integrierten Adobe Expreß-App, die mehrere Tausend Vorlagen zur Auswahl bietet. In diesem Video-Tutorial wird das [neue Arbeitsbereichserlebnis](new-workspace.md) verwendet.
 
 >[!VIDEO](https://video.tv.adobe.com/v/347331?quality=12&learn=on&hidetitle=true)

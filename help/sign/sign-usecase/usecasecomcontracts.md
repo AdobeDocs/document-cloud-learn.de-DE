@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Handelsverträge und Auftragsformulare
 
-Ersetzen Sie die Papierverarbeitung schnell durch standardkonforme digitale Workflows inklusive Auditberichten. Erfahren Sie mehr über [Acrobat Sign Workflow Designer](../admin/building-a-custom-workflow.md) , um den gesamten Prozess zu optimieren.
+Ersetzen Sie die Papierverarbeitung schnell durch standardkonforme digitale Workflows inklusive Auditberichten. Erfahren Sie mehr über das Designer](../admin/building-a-custom-workflow.md)-Tool für den [Acrobat Sign-Workflow, um den gesamten Prozess zu optimieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
 

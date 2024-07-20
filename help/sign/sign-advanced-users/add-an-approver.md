@@ -10,8 +10,8 @@ thumbnail: 17367.jpg
 exl-id: e3d46b27-c30b-47eb-8d84-3d99813f3096
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 22%
+source-wordcount: '90'
+ht-degree: 23%
 
 ---
 
@@ -23,6 +23,6 @@ Erfahren Sie, wie Sie ein Dokument über einen Genehmigungsprozess senden. In di
 
 >[!TIP]
 >
->Dieses Video ist Teil des Kurses [Erweiterte Aufgaben für Benutzer](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) das auf Experience League kostenlos erhältlich ist!
+>Dieses Video ist Teil des Kurses [Erweiterte Benutzeraufgaben](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3), der kostenlos auf dem Experience League verfügbar ist!
 
 

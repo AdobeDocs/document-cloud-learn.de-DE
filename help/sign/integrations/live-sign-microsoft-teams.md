@@ -1,6 +1,6 @@
 ---
-title: Live Sign in Adobe Acrobat Sign für [!DNL Microsoft Teams]
-description: Hier erfahren Sie, wie Sie ein Online-Signaturerlebnis schaffen, das dem persönlichen Signieren während einer [!DNL Microsoft Teams] Versammlung
+title: Live Sign in Adobe Acrobat Sign für  [!DNL Microsoft Teams]
+description: Erfahren Sie, wie Sie ein Online-Signaturerlebnis schaffen, das der persönlichen Signatur während eines  [!DNL Microsoft Teams] Meetings ähnelt
 feature: Integrations
 role: User
 topic: Integrations

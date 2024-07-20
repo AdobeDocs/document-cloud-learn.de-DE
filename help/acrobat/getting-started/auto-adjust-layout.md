@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Layout automatisch anpassen
 
-Erfahren Sie mehr über den neuen Bearbeitungsmodus, mit dem Inhalte umfließen und das Layout auf Seiten Ihres PDF automatisch angepasst wird. In diesem Video-Tutorial wird die Datei [Neuer Arbeitsbereich](new-workspace.md).
+Erfahren Sie mehr über den neuen Bearbeitungsmodus, mit dem Inhalte umfließen und das Layout auf Seiten Ihres PDF automatisch angepasst wird. In diesem Video-Tutorial wird das [neue Arbeitsbereichserlebnis](new-workspace.md) verwendet.
 
 >[!NOTE]
 >

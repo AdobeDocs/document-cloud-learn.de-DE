@@ -25,7 +25,7 @@ ht-degree: 7%
 + [Überblick](overview.md)
 + Erste Schritte {#getting-started}
    + [Überblick](sign-beginner-tutorials/beginner-users-overview.md)
-   + Senden {#getting-started-sending}
+   + {#getting-started-sending} senden
       + [Grundlagen des Arbeitsbereichs](sign-beginner-tutorials/quick-tour.md)
       + [Erste Schritte mit Acrobat Sign](sign-beginner-tutorials/new-sender.md)
       + [Senden an einen einzelnen Empfänger](sign-beginner-tutorials/send-to-single-recipient.md)
@@ -35,19 +35,19 @@ ht-degree: 7%
       + [Ändern eines Dokuments nach dem Senden](sign-beginner-tutorials/modify-in-flight.md)
       + [Ersetzen eines Unterzeichners](sign-beginner-tutorials/replace-signer.md)
       + [Termine und Erinnerungen festlegen](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + Unterschreiben {#getting-started-signing}
+   + {#getting-started-signing} signieren
       + [Dokumente elektronisch unterschreiben](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Ein Dokument ausfüllen und unterschreiben](sign-beginner-tutorials/fill-and-sign.md)
       + [Persönliches Einholen einer Unterschrift](sign-beginner-tutorials/sign-in-person.md)
       + [Unterschrift an eine andere Person delegieren](sign-beginner-tutorials/delegate-signing.md)
       + [Was ist eine digitale Signatur?](sign-beginner-tutorials/sign-with-a-digital-signature.md)
       + [Signieren mit einem Stempel](sign-beginner-tutorials/sign-with-a-stamp.md)
-   + Verwalten {#getting-started-managing}
+   + {#getting-started-managing} verwalten
       + [Vereinbarungen verwalten und verfolgen](sign-beginner-tutorials/manage-and-track.md)
-      + [Erstellen von Dokumentvorlagen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
+      + [Erstellen einer Dokumentvorlage](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + Erweiterte Aufgaben {#advanced-tasks}
    + [Überblick](sign-advanced-users/advanced-users-overview.md)
-   + Senden {#advanced-tasks-sending}
+   + {#advanced-tasks-sending} senden
       + [Einrichten der Unterschriftsreihenfolge](sign-advanced-users/setting-up-routing.md)
       + [Verwenden der Delegatorrolle](sign-advanced-users/delegate-signature.md)
       + [Verwenden der Genehmigerrolle](sign-advanced-users/add-an-approver.md)
@@ -56,14 +56,14 @@ ht-degree: 7%
       + [Onlinezahlungen einrichten](sign-advanced-users/set-up-online-payments.md)
       + [Massenversand](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Erstellen eines Webformulars](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Acrobat Sign Text-Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
-      + [Verwenden von Text-Tagging in [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
-   + Verwalten {#advanced-tasks-managing}
+      + [Acrobat Sign-Text-Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
+      + [Verwenden von Text-Tagging in  [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
+   + {#advanced-tasks-managing} verwalten
       + [Erstellen eines Berichts](sign-advanced-users/creating-a-report.md)
       + [Dokumentvorlagen verwalten](sign-advanced-users/edit-a-template.md)
       + [Vorhandenes Webformular ändern](sign-advanced-users/modify-webform.md)
       + [Verwalten von Webformulardaten](sign-advanced-users/manage-webform-data.md)
-+ verabreichen {#admin-set-up}
++ {#admin-set-up} verwalten
    + [Überblick](admin/intro-admin-overview.md)
    + Erste Schritte {#getting-started-admin}
       + [Erste Schritte für neue Administratoren](admin/get-started-admin.md)
@@ -90,54 +90,54 @@ ht-degree: 7%
    + Aadhaar {#aadhaar}
       + [Signieren mit Aadhaar](digitalid/aadhaar-sign.md)
    + Digidentity {#digidentity}
-      + [Registrieren und signieren mit [!DNL Digidentity]](digitalid/digidentity-sign.md)
+      + [Registrieren und signieren mit  [!DNL Digidentity]](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
       + [Registrieren und signieren Sie mit [!DNL D-Trust]](digitalid/d-trust.md)
-   + Intesi Group {#intesi}
+   + Intesi-Gruppe {#intesi}
       + [Abrufen einer digitalen ID von der Intesi Group (Advanced)](digitalid/intesi-advanced.md)
       + [Abrufen einer digitalen ID von der Intesi Group (qualifiziert)](digitalid/intesi-qualified.md)
       + [Signieren mit der Intesi Group](digitalid/intesi-sign.md)
 + Integrationen {#integrations}
    + [Überblick](integrations/integrations-overview.md)
    + Microsoft {#microsoft}
-      + [Ausfüllen und Anmelden [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
-      + [Zum Unterschreiben senden in [!DNL Outlook]](integrations/send-for-signature-with-outlook.md)
-      + [Zum Unterschreiben senden in [!DNL SharePoint Online]](integrations/send-for-signature-with-sharepoint-online.md)
-      + [Laufweite [!DNL SharePoint Online]](integrations/track-an-agreement-with-sharepoint-online.md)
-      + [Webformular integrieren mit [!DNL SharePoint Online]](integrations/integrate-web-form-sharepoint-online.md)
-      + [Dateien automatisch archivieren in [!DNL SharePoint] mit [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
-      + [Dokumentautomatisierung mit Acrobat Sign für [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
-      + [Zum Unterschreiben senden in [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
-      + [Live Sign in Adobe Acrobat Sign für [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)
-      + [Integration der Registerkarte Dokumente für [!DNL Microsoft Teams]](integrations/acrobat-sign-teams-documents-tab.md)
-      + [Erstellen Sie einen einfachen Arbeitsablauf in [!DNL Power Automate]](integrations/simple-workflow-power-automate.md)
-      + [Erstellen Sie einen erweiterten Arbeitsablauf in [!DNL Power Automate]](integrations/advanced-workflow-power-automate.md)
+      + [Ausfüllen und Anmelden  [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
+      + [Zum Unterschreiben senden in  [!DNL Outlook]](integrations/send-for-signature-with-outlook.md)
+      + [Zum Unterschreiben senden in  [!DNL SharePoint Online]](integrations/send-for-signature-with-sharepoint-online.md)
+      + [Nachverfolgen in  [!DNL SharePoint Online]](integrations/track-an-agreement-with-sharepoint-online.md)
+      + [Webformular mit  [!DNL SharePoint Online] integrieren](integrations/integrate-web-form-sharepoint-online.md)
+      + [Dateien in  [!DNL SharePoint]  automatisch mit  [!DNL Power Automate] archivieren](integrations/auto-archive-sharepoint-power-automate.md)
+      + [Dokumentautomatisierung mit Acrobat Sign für  [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
+      + [Zum Unterschreiben senden in  [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
+      + [Live Sign in Adobe Acrobat Sign für  [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)
+      + [Integration der Registerkarte &quot;Dokumente&quot; für  [!DNL Microsoft Teams]](integrations/acrobat-sign-teams-documents-tab.md)
+      + [Erstellen eines einfachen Workflows in  [!DNL Power Automate]](integrations/simple-workflow-power-automate.md)
+      + [Erstellen eines erweiterten Workflows in  [!DNL Power Automate]](integrations/advanced-workflow-power-automate.md)
       + [[!DNL Microsoft Dynamics 365] für den Kundendienst](integrations/dynamics-customer-service.md)
       + [[!DNL Microsoft Dynamics 365] für den Außendienst](integrations/dynamics-field-service.md)
-      + [[!DNL Microsoft Dynamics 365] für den Vertrieb](integrations/dynamics-sales.md)
-   + Notarize {#notarize}
+      + [[!DNL Microsoft Dynamics 365] für Vertrieb](integrations/dynamics-sales.md)
+   + Beglaubigung von {#notarize}
       + [Dokumente zur Beglaubigung senden](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
-      + [Document Builder für [!DNL Salesforce]](integrations/create-an-agreement-template.md)
+      + [Document Builder für  [!DNL Salesforce]](integrations/create-an-agreement-template.md)
       + [Einrichten von Datenzuordnungen](integrations/set-up-data-mapping.md)
       + [Einrichten von Zusammenführungszuordnungen](integrations/set-up-merging-map.md)
       + [Erstellen einer benutzerdefinierten Schaltfläche](integrations/create-a-custom-button.md)
    + Workday {#workday}
-      + [Acrobat Sign mit [!DNL Workday]](integrations/workday.md)
+      + [Acrobat Sign mit  [!DNL Workday] wird konfiguriert.](integrations/workday.md)
       + [Acrobat Sign + Workday Eingliederung neuer Mitarbeiter](integrations/acrobat-sign-workday-onboarding.md)
    + Marketo {#marketo}
-      + [Benachrichtigungen mit Acrobat Sign für [!DNL Salesforce] und Marketo](integrations/marketo-salesforce-sms.md)
-      + [Erinnerungen mit Acrobat Sign für [!DNL Salesforce] und Marketo Videotutorial](integrations/marketo-salesforce-reminder-video.md)
-      + [Erinnerungen mit Acrobat Sign für [!DNL Salesforce] und Marketo Konfigurationsanleitung](integrations/marketo-salesforce-reminder.md)
-      + [Benachrichtigungen mit Acrobat Sign für [!DNL Microsoft Dynamics] und Marketo](integrations/marketo-dynamics-sms.md)
-      + [Erinnerungen mit Acrobat Sign für [!DNL Microsoft Dynamics 365] und Marketo](integrations/marketo-dynamics-reminder.md)
+      + [Benachrichtigungen mit Acrobat Sign für  [!DNL Salesforce]  und Marketo senden](integrations/marketo-salesforce-sms.md)
+      + [Erinnerungen mithilfe des Videotutorials Acrobat Sign für  [!DNL Salesforce]  und Marketo senden](integrations/marketo-salesforce-reminder-video.md)
+      + [Erinnerungen mithilfe des Acrobat Sign für  [!DNL Salesforce]  und des Marketo-Konfigurationshandbuchs senden](integrations/marketo-salesforce-reminder.md)
+      + [Benachrichtigungen mit Acrobat Sign für  [!DNL Microsoft Dynamics]  und Marketo senden](integrations/marketo-dynamics-sms.md)
+      + [Erinnerungen mit Acrobat Sign für  [!DNL Microsoft Dynamics 365]  und Marketo senden](integrations/marketo-dynamics-reminder.md)
 + Branchen und Abteilungen {#expand}
    + [Überblick](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}
       + [Schulungsvideos (in englischer Sprache)](sign-usecase/innovation-series.md)
    + Anwendungsfälle {#recipes}
       + [Überblick](sign-usecase/recipes.md)
-      + Regierungseinrichtungen {#gov}
+      + Öffentliche Verwaltung {#gov}
          + [Bewerbung für ein Regierungsdarlehen mit mehreren unbekannten Unterzeichnern](sign-usecase/webform-multiple-signers.md)
          + [Unternehmenszuschüsse und -darlehen](sign-usecase/usecasegovgrants.md)
          + [Telearbeit-Vereinbarung](sign-usecase/usecasegovtelework.md)
@@ -145,25 +145,25 @@ ht-degree: 7%
          + [Wiederbeschäftigungsbeihilfe](sign-usecase/usecasegovreemployment.md)
          + [Schutz vor Lohnschecks](sign-usecase/usecasegovpaycheck.md)
          + [Remote-Warrant-Anfrage](sign-usecase/usecasegovremote.md)
-      + Handelsunternehmen {#com}
+      + Kommerzieller {#com}
          + [Verträge und Anforderungsformulare](sign-usecase/usecasecomcontracts.md)
          + [Richtlinienvereinbarungen](sign-usecase/usecasecompolicy.md)
          + [Telearbeit-Vereinbarung](sign-usecase/usecasecomtelework.md)
-      + Bildungseinrichtungen {#edu}
+      + Education {#edu}
          + [Praktikumsantrag für Webformulare für Bildungseinrichtungen](sign-usecase/usecase-edu-intern.md)
          + [Erstellen einer Anwendung für ein Praktikum im Webformular für Bildungseinrichtungen](sign-usecase/usecase-edu-intern-create.md)
          + [Benutzerdefinierter Workflow für den IEP-Prozess für Bildungseinrichtungen](sign-usecase/usecase-edu-iep.md)
-   + Nutzungsszenarien {#use-case}
+   + Anwendungsbeispiele {#use-case}
       + [Schaukasten](sign-usecase/use-case-showcase.md)
-+ entwickeln {#develop}
++ {#develop} entwickeln
    + [Überblick](develop/develop-overview.md)
-   + Benutzerdefinierte APIs. {#custom}
+   + Benutzerdefinierte APIs {#custom}
       + [Sammeln von Dokumenten mit großen Volumen mit GigaSign](develop/gigasign.md)
       + [Integrierte Erlebnisse für elektronische Unterschriften und Dokumente erstellen](develop/embeddedesignature.md)
-+ Bereitstellen {#deploy}
++ {#deploy} bereitstellen
    + [Überblick](deploy-overview.md)
 + Mobil {#mobile}
    + [Überblick](mobile/mobile-overview.md)
-   + Tutorials für Mobilgeräte {#mobile-tutorials}
+   + Mobile Tutorials {#mobile-tutorials}
       + [Dokumente unterwegs unterschreiben](mobile/sign-mobile.md)
       + [Liquid Mode in Acrobat Sign](mobile/liquidmode.md)

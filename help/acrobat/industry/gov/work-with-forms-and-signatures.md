@@ -8,14 +8,14 @@ thumbnail: 34512.jpg
 exl-id: e1dd4546-10ad-438b-9dae-31c4393353d8
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 6%
+source-wordcount: '76'
+ht-degree: 1%
 
 ---
 
 # 5 Tipps für ortsunabhängiges Arbeiten mit Acrobat - Arbeiten mit Formularen und Unterschriften
 
-Irgendwann muss jeder [Formulare ausfüllen](https://www.adobe.com/de/acrobat/online/sign-pdf.html). Da du nicht immer Zugriff auf einen Drucker hast, solltest du lernen, wie du beim Ausfüllen von Formularen digital bleibst.
+Jeder muss irgendwann [Formulare ausfüllen](https://www.adobe.com/de/acrobat/online/sign-pdf.html). Da du nicht immer Zugriff auf einen Drucker hast, solltest du lernen, wie du beim Ausfüllen von Formularen digital bleibst.
 
 ## Tipp #4 - Mit Formularen und Unterschriften arbeiten (7:03)
 

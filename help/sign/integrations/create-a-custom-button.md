@@ -16,8 +16,8 @@ ht-degree: 16%
 
 ---
 
-# Eine benutzerdefinierte Schaltfläche in Acrobat Sign für [!DNL Salesforce]
+# Erstellen einer benutzerdefinierten Schaltfläche in Acrobat Sign für [!DNL Salesforce]
 
-Hier erfahren Sie, wie Sie eine benutzerdefinierte Schaltfläche in einem Standardobjekt in Salesforce.com erstellen. In diesem Beispiel wird eine benutzerdefinierte Schaltfläche zu einem **Kontakt** in [!DNL Salesforce]. Wenn auf die Schaltfläche geklickt wird, wird der Sendevorgang gestartet und die Informationen werden aus dem Fenster &quot; **Kontakt** direkt in die Vereinbarung ein.
+Hier erfahren Sie, wie Sie eine benutzerdefinierte Schaltfläche in einem Standardobjekt in Salesforce.com erstellen. In diesem Beispiel wird eine benutzerdefinierte Schaltfläche zu einem **Kontakt** in [!DNL Salesforce] hinzugefügt. Wenn auf die Schaltfläche geklickt wird, wird der Sendevorgang gestartet und die Informationen vom **Kontakt** werden direkt in die Vereinbarung eingefügt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17352?quality=12&learn=on&hidetitle=true)

@@ -1,6 +1,6 @@
 ---
-title: Arbeiten mit Dateien aus [!DNL Dropbox]
-description: Erfahren Sie, wie Sie Änderungen an Ihrem PDF-Dokument öffnen, erstellen, bearbeiten, signieren und speichern können. [!DNL Dropbox] -Dateien aus Acrobat
+title: Arbeiten mit Dateien aus  [!DNL Dropbox]
+description: Erfahren Sie, wie Sie Ihre  [!DNL Dropbox] -Dateien in Acrobat öffnen, erstellen, bearbeiten, signieren und speichern.
 feature: Integrations, Create PDF, Sign, Edit PDF
 role: User
 level: Beginner
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Arbeiten mit Dateien aus [!DNL Dropbox]
 
-Erfahren Sie, wie Sie Änderungen an Ihrem PDF-Dokument öffnen, erstellen, bearbeiten, signieren und speichern können. [!DNL Dropbox] -Dateien aus Acrobat importieren. Durch die Anbindung Ihres Dropbox-Kontos an Acrobat sparen Sie wirklich Zeit - und haben dabei alle Ihre Dateien immer zur Hand.
+Erfahren Sie, wie Sie Ihre [!DNL Dropbox]-Dateien von Acrobat aus öffnen, erstellen, bearbeiten, signieren und speichern. Durch das Anschließen Ihres Dropbox-Kontos an Acrobat sparen Sie wirklich Zeit - und behalten alle Ihre Dateien stets griffbereit.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409411?quality=12&learn=on&hidetitle=true)

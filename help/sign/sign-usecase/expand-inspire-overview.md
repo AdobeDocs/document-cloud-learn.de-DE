@@ -28,8 +28,8 @@ Erfahrt, wie ihr die e-Signatur-Erlebnisse in eurem Unternehmen transformieren k
     <div>
     <a href="innovation-series.md"><strong>Skill Builder</strong></a>
     </div>
-    <em>In diesem 30-minütigen "Skill Builder" erfahrt ihr, wie ihr eure elektronischen Unterschriften in die Praxis umsetzen könnt, ohne dass euer Arbeitstag noch länger dauert</em>
-    <br>
+    <em>In einem 30-minütigen "Skill Builder" erfahrt ihr, wie ihr eure elektronischen Unterschriften in die Praxis umsetzen könnt, ohne euren Arbeitstag zusätzlich zu belasten</em>
+    2<br>
   </td>
   <td>
     <a href="recipes.md">
@@ -38,18 +38,18 @@ Erfahrt, wie ihr die e-Signatur-Erlebnisse in eurem Unternehmen transformieren k
     <div>
     <a href="recipes.md"><strong>Anwendungsfälle</strong></a>
     </div>
-    <em>Nutzungsszenarien für Acrobat Sign in verschiedenen Organisationen</em>
-    <br>
+    <em>Erfahren Sie, wie verschiedene Unternehmen Acrobat Sign mit diesen Nutzungsszenarien in der realen Welt verwenden</em>
+    2<br>
   </td>
   <td>
     <a href="use-case-showcase.md">
       <img alt="Nutzungsszenarien" src="../assets/UseCaseShowcaseR.png" />
     </a>
     <div>
-    <a href="use-case-showcase.md"><strong>Nutzungsszenarien</strong></a>
+    <a href="use-case-showcase.md"><strong>Anwendungsbeispiele</strong></a>
     </div>
-    <em>Sessions live oder aufgezeichnet, in denen Sie neue Nutzungsszenarien und Trends für Acrobat Sign kennenlernen</em>
-    <br>
+    <em>Sehen Sie sich Live- oder aufgezeichnete Sessions an, in denen Sie neue Nutzungsszenarien und Trends für Acrobat Sign vorgestellt werden</em>
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />

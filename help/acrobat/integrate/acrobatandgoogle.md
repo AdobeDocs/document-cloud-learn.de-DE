@@ -1,6 +1,6 @@
 ---
-title: Adobe Acrobat für [!DNL Google Drive]
-description: Erhalten Sie Zugriff auf zeitsparende PDF-Tools und E-Signatur-Workflows direkt im [!DNL Google Drive] App
+title: Adobe Acrobat für  [!DNL Google Drive]
+description: Erhalten Sie Zugriff auf zeitsparende PDF-Tools und Workflows für elektronische Signaturen direkt in der  [!DNL Google Drive] App
 feature: Integrations, Sign
 role: User
 level: Beginner
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Adobe Acrobat für [!DNL Google Drive]
 
-Erfahre, wie du zeitsparende PDF-Tools und Workflows für elektronische Unterschriften direkt im [!DNL Google Drive] App.
+Erfahren Sie, wie Sie direkt in der [!DNL Google Drive]-App auf zeitsparende PDF-Tools und Workflows für elektronische Signaturen zugreifen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333600?quality=12&learn=on&hidetitle=true)

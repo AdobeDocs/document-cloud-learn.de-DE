@@ -27,10 +27,10 @@ Erfahrt, wie ihr Kunden- und Mitarbeitererlebnisse transformieren könnt, indem 
       <img alt="Tutorials für Behörden" src="../assets/Government.png" />
     </a>
     <div>
-    <a href="gov/gov-overview.md"><strong>Tutorials für Behörden</strong></a>
+    <a href="gov/gov-overview.md"><strong>Tutorials für Regierungseinrichtungen</strong></a>
     </div>
-    <em>Unsere Tutorials zu Acrobat sind speziell für Bund, Länder und Gemeinden konzipiert.</em>
-    <br>
+    <em>Entdecken Sie unsere Acrobat-Tutorials speziell für Bund, Länder und Gemeinden</em>
+    2<br>
   </td>
   <td>
    <img alt="Spacer" src="../assets/Whitespacer.png" />
