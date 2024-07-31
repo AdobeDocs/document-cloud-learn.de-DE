@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: f71746be00bd71ea2e7fb242705fd4ec3f273803
+source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '541'
 ht-degree: 2%
 
 ---
@@ -48,7 +48,7 @@ Erfahren Sie, wie Sie mit dem KI-Assistenten Erkenntnisse aus Ihren PDF-Dateien 
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Grundlagen des Arbeitsbereichs</strong></a>
     </div>
-    Dateien und Werkzeuge auf dem Desktop, im Web, auf dem Smartphone oder Tablet öffnen
+    Grundlagen des Acrobat-Arbeitsbereichs
     <br>
   </td>
   <td>
@@ -58,7 +58,7 @@ Erfahren Sie, wie Sie mit dem KI-Assistenten Erkenntnisse aus Ihren PDF-Dateien 
     <div>
     <a href="ai-assistant.md"><strong>Entdecken Sie PDF-Erkenntnisse mit dem AI-Assistenten</strong></a>
     </div>
-    Erfahren Sie, wie Sie mit dem KI-Assistenten Erkenntnisse aus Ihren PDF-Dateien gewinnen
+    Einblicke in PDF-Dateien mit dem KI-Assistenten gewinnen
     <br>
   </td>
   <td>
@@ -68,7 +68,7 @@ Erfahren Sie, wie Sie mit dem KI-Assistenten Erkenntnisse aus Ihren PDF-Dateien 
     <div>
     <a href="acrobatweb.md"><strong>Überall arbeiten mit Acrobat Web</strong></a>
     </div>
-    Dokumentenanforderungen von überall bearbeiten
+    Von überall aus arbeiten
     <br>
   </td>
 </tr>
@@ -80,7 +80,7 @@ Erfahren Sie, wie Sie mit dem KI-Assistenten Erkenntnisse aus Ihren PDF-Dateien 
     <div>
     <a href="productivity.md"><strong>Produktivität unterwegs</strong></a>
     </div>
-    Erfahren Sie, wie Sie direkt auf Ihrem Tablet oder Smartphone mehr tun können.
+    Erfahren Sie, wie Sie auf Ihrem Tablet oder Smartphone mehr tun können.
     <br>
   </td>
     <td>
@@ -90,7 +90,7 @@ Erfahren Sie, wie Sie mit dem KI-Assistenten Erkenntnisse aus Ihren PDF-Dateien 
       <div>
       <a href="../integrate/integrate-overview.md#microsoft"><strong>Mit Microsoft 365 arbeiten</strong></a>
       </div>
-      Lernen Sie, wie Sie direkt in Microsoft 365 mit PDF-Dateien arbeiten können.
+      Microsoft 365-PDF
       <br> 
     </td>
     <td>
@@ -100,7 +100,7 @@ Erfahren Sie, wie Sie mit dem KI-Assistenten Erkenntnisse aus Ihren PDF-Dateien 
       <div>
       <a href="where-do-pdfs-come-from.md"><strong>Woher kommen die PDF?</strong></a>
       </div>
-      Woher die PDF kommen und wie du sie in digitalen Workflows einsetzen kannst
+      Erfahren Sie, woher die PDF kommen und wie Sie sie verwenden können.
       <br>
     </td>
     <td>
@@ -122,7 +122,7 @@ Erfahren Sie, wie Sie mit dem KI-Assistenten Erkenntnisse aus Ihren PDF-Dateien 
       <div>
       <a href="create-pdf.md"><strong>PDF-Dateien erstellen</strong></a>
       </div>
-      Lernen Sie, wie Sie PDF aus verschiedenen Dokumenttypen erstellen können.
+      PDF aus allen Dokumenttypen erstellen
       <br>
     </td>
     <td>
@@ -132,7 +132,7 @@ Erfahren Sie, wie Sie mit dem KI-Assistenten Erkenntnisse aus Ihren PDF-Dateien 
       <div>
       <a href="combine-to-pdf.md"><strong>Dateien zu einer einzigen PDF zusammenführen</strong></a>
       </div>
-      Erfahren Sie, wie Sie verschiedene Dateitypen nahtlos auf einer einzigen PDF kombinieren können.
+      Kombinieren Sie verschiedene Dateitypen nahtlos zu einer einzigen PDF
       <br>
     </td>
     <td>
@@ -169,7 +169,7 @@ Erfahren Sie, wie Sie mit dem KI-Assistenten Erkenntnisse aus Ihren PDF-Dateien 
       <div>
       <a href="edit-pdf.md"><strong>Text auf einem PDF bearbeiten</strong></a>
       </div>
-      Erfahren Sie, wie Sie Wörter, Sätze oder sogar ganze Seiten auf Ihrem PDF bearbeiten können.
+      Wörter, Sätze und sogar ganze Seiten auf dem PDF bearbeiten
       <br>
     </td>
     <td>
@@ -210,7 +210,7 @@ Erfahren Sie, wie Sie mit dem KI-Assistenten Erkenntnisse aus Ihren PDF-Dateien 
       <div>
       <a href="export-pdf.md"><strong>PDF in andere Dateiformate konvertieren</strong></a>
       </div>
-      Erfahren Sie, wie Sie Ihre PDF-Dateien in verschiedene Dateiformate konvertieren
+      Konvertieren Ihrer PDF-Dateien in verschiedene Dateiformate
       <br>
     </td>
     <td>
@@ -251,7 +251,7 @@ Erfahren Sie, wie Sie mit dem KI-Assistenten Erkenntnisse aus Ihren PDF-Dateien 
       <div>
       <a href="comment-on-pdf-files.md"><strong>Kommentar zu einem PDF</strong></a>
       </div>
-      Erfahren Sie, wie Sie einer PDF-Datei Kommentare hinzufügen und die Datei dann für andere freigeben
+      Kommentare hinzufügen und den PDF für andere freigeben
       <br>
     </td>
     <td>
@@ -298,7 +298,7 @@ Erfahren Sie, wie Sie mit dem KI-Assistenten Erkenntnisse aus Ihren PDF-Dateien 
     <div>
     <a href="scan-and-ocr.md"><strong>Scannen und OCR</strong></a>
     </div>
-    Scans oder Abbildungen von Dokumenten in durchsuchbare, bearbeitbare PDF-Dateien konvertieren
+    Scans oder Bilder in durchsuchbare, editierbare PDF-Dateien konvertieren
     <br>
   </td>
   <td>
@@ -320,7 +320,7 @@ Erfahren Sie, wie Sie mit dem KI-Assistenten Erkenntnisse aus Ihren PDF-Dateien 
     <div>
     <a href="signatures.md"><strong>Signaturen abrufen</strong></a>
     </div>
-    Rechtsgültige elektronische Unterschriften einholen.
+    Rechtsgültige elektronische Unterschriften einholen
     <br>
   </td>
   <td>
