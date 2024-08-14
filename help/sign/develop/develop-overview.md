@@ -8,16 +8,21 @@ jira: KT-6852
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 2%
+source-wordcount: '197'
+ht-degree: 3%
 
 ---
 
 # Entwicklung - Übersicht
 
 40 % der Vereinbarungen in Acrobat Sign werden mit APIs erstellt. Mit APIs könnt ihr eigene Applikationen für eure Teams, Partner und Kunden erstellen.
+
+## Neue Funktionen
+
+* [Webhooks einrichten](webhooks.md)
+Erfahren Sie, wie Sie einen Webhook erstellen, um Prozesse zu automatisieren, die normalerweise manuelle Eingriffe erfordern
 
 <table style="table-layout:fixed">
 <tr>
@@ -60,6 +65,33 @@ ht-degree: 2%
     </div>
     <em>Erfahren Sie, wie Sie Acrobat Sign-APIs verwenden, um E-Signatur- und Dokumentenerlebnisse in Ihre Webplattformen und Content- und Dokumentenmanagementsysteme einzubetten</em>
     2<br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="webhooks.md">
+      <img alt="Webhooks einrichten" src="../assets/how-webhooks.png" />
+    </a>
+    <div>
+    <a href="webhooks.md"><strong>Webhooks einrichten</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie einen Webhook erstellen, um Prozesse zu automatisieren, die normalerweise manuelle Eingriffe erfordern</em>
+    2<br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
   </td>
 </tr>
 </table>

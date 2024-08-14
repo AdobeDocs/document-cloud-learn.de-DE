@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: c37964c029dd0b068cb30d35c7e666a3122e16cc
+source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '563'
 ht-degree: 2%
 
 ---
@@ -21,12 +21,13 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
 
 ## Neue Funktionen
 
+* [Einrichten von Datenschutzadministratoren](privacy.md)
+Erfahren Sie, wie Sie Datenschutzadministratoren einrichten und verwenden
+* [Massen-Download-Tool](bulk-download-tool.md)
+Erfahren Sie, wie Sie das Massendownload-Tool verwenden, um schnell alle Ihre signierten Vereinbarungen herunterzuladen
 * [Audit-Berichte](audit-reports.md)
 Erfahrt, wie ihr auf Auditberichte zugreift, diese verwendet und konfiguriert, um sie auf die Anforderungen eures Unternehmens abzustimmen
-* [Massenversand](../sign-advanced-users/megasign.md)
-Erfahren Sie, wie Sie in wenigen Schritten Tausende von Unterschriften gleichzeitig für jedes Dokument einholen können
-* [Berichtsoptionen](report-options.md)
-Erfahren Sie, wie Sie Berichtsoptionen für Benutzer einrichten.
+
 
 ## Erste Schritte
 
@@ -225,13 +226,13 @@ Erfahren Sie, wie Sie Berichtsoptionen für Benutzer einrichten.
     2<br>
   </td>
   <td>
-    <a href="use-bio-pharma-settings.md">
-      <img alt="Verwenden von Bio-Pharma-Einstellungen" src="../assets/Bio_1280.png" />
+    <a href="bulk-download-tool.md">
+      <img alt="Massen-Download-Tool" src="../assets/bulk-download-tool.png" />
     </a>
     <div>
-    <a href="use-bio-pharma-settings.md"><strong>Bio-Pharma-Einstellungen verwenden</strong></a>
+    <a href="bulk-download-tool.md"><strong>Massen-Download-Tool</strong></a>
     </div>
-    <em>Richten Sie Bio-Pharma-Einstellungen ein, mit denen Sie die Anforderungen von FDA 21 CFR Part 11 erfüllen können</em>
+    <em>Erfahren Sie, wie Sie mit dem Massen-Download-Tool schnell alle Ihre signierten Vereinbarungen herunterladen</em>
     2<br>
   </td> 
 </tr>
@@ -247,14 +248,24 @@ Erfahren Sie, wie Sie Berichtsoptionen für Benutzer einrichten.
     2<br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <a href="use-bio-pharma-settings.md">
+      <img alt="Verwenden von Bio-Pharma-Einstellungen" src="../assets/Bio_1280.png" />
+    </a>
     <div>
-    <br>
+    <a href="use-bio-pharma-settings.md"><strong>Bio-Pharma-Einstellungen verwenden</strong></a>
+    </div>
+    <em>Richten Sie Bio-Pharma-Einstellungen ein, mit denen Sie die Anforderungen von FDA 21 CFR Part 11 erfüllen können</em>
+    2<br>
   </td>
   <td>
-    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <a href="privacy.md">
+      <img alt="So richten Sie den Datenschutzadministrator ein" src="../assets/privacy.png" />
+    </a>
     <div>
-    <br>
+    <a href="privacy.md"><strong>Einrichten von Datenschutzadministratoren</strong></a>
+    </div>
+    <em>Informationen zum Einrichten und Verwenden von Datenschutzadministratoren</em>
+    2<br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Grayspacer.png" />
