@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 25fd2a2d0d9f0cd2452a65761c298f5280809aee
+source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '869'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ Sie können Acrobat Sign in anderen Anwendungen verwenden, die Ihre Organisation
 
 ## Neue Funktionen
 
+* [Große Dateien einrichten und Zuordnungen übertragen](salesforce-large-files.md)
+Erfahren Sie, wie Sie in Salesforce große Dokumente einrichten und Vereinbarungsdienste bereitstellen.
+* [Automatische Updates einrichten](salesforce-automatic-updates.md)
+Erfahren Sie, wie Sie Ihr Konto ganz einfach mit Salesforce verknüpfen können, um automatische Updates zu erhalten
 * [Integration der Registerkarte &quot;Dokumente&quot; für  [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
 Erfahren Sie, wie Sie Dokumente direkt über die Registerkarte &quot;Dokumente&quot; in [!DNL Microsoft Teams] zur Signatur senden.
-* [Live Sign in Adobe Acrobat Sign für  [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
-Erfahren Sie, wie Sie ein Online-Signaturerlebnis erstellen, das der persönlichen Signatur während eines [!DNL Microsoft Teams]-Meetings ähnelt.
-* [Erstellen eines erweiterten Workflows mit  [!DNL Power Automate]](advanced-workflow-power-automate.md)
-Erfahren Sie, wie Sie mithilfe von [!DNL Power Automate] Connectors einen erweiterten Workflow erstellen.
 
 ## Tutorials zur Integration mit Microsoft
 
@@ -275,6 +275,38 @@ Erfahren Sie, wie Sie mithilfe von [!DNL Power Automate] Connectors einen erweit
     </div>
     <em>Erstellen Sie eine benutzerdefinierte Schaltfläche, die den Sendevorgang startet und eine Vereinbarung automatisch in Salesforce ausfüllt</em>
     2<br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="salesforce-automatic-updates.md">
+      <img alt="Automatische Updates einrichten" src="../assets/status-updates.png" />
+    </a>
+    <div>
+    <a href="salesforce-automatic-updates.md"><strong>Automatische Updates einrichten</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie Ihr Konto ganz einfach mit Salesforce verknüpfen können, um automatische Updates zu erhalten</em>
+    2<br>
+  </td>
+ <td>
+    <a href="salesforce-large-files.md">
+      <img alt="Einrichten großer Dateien und Push-Zuordnungen" src="../assets/large-files.png" />
+    </a>
+    <div>
+    <a href="salesforce-large-files.md"><strong>Große Dateien einrichten und Zuordnungen übertragen</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie große Dokumente einrichten und Vereinbarungsdienste in Salesforce übertragen</em>
+    2<br>
+  </td>
+  <td>
+      <img alt="Spacer" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
+  </td>
+  <td>
+      <img alt="Spacer" src="../assets/Grayspacer.png" />
+      <div>
+      <br>
   </td>
 </tr>
 </table>

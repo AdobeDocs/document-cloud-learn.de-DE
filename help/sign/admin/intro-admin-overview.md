@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
+source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '558'
 ht-degree: 2%
 
 ---
@@ -106,13 +106,13 @@ Erfahrt, wie ihr auf Auditberichte zugreift, diese verwendet und konfiguriert, u
     2<br>
   </td>
   <td>
-    <a href="create-a-report.md">
-      <img alt="Erstellen eines Berichtsdiagramms" src="../assets/Reportchart.png" />
+    <a href="../sign-advanced-users/creating-a-report.md">
+      <img alt="Berichterstellung und Transaktionsnutzung" src="../assets/reporting.png" />
     </a>
     <div>
-    <a href="create-a-report.md"><strong>Erstellen eines Berichtsdiagramms</strong></a>
+    <a href="../sign-advanced-users/creating-a-report.md"><strong>Berichterstellung und Transaktionsnutzung</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie Ihre eigenen benutzerdefinierten Berichte und Datenexporte erstellen, speichern und verwalten</em>
+    <em>Erfahren Sie, wie Sie Berichte generieren und die Transaktionsnutzung verfolgen</em>
     2<br>
   </td>
 </tr>

@@ -1,22 +1,22 @@
 ---
-title: Erstellen eines Berichts
-description: Erfahren Sie, wie Sie eigene Berichte erstellen, um Einblicke in den Signiervorgang zu erhalten
+title: Reporting und Transaktionsnutzung
+description: Erfahren Sie, wie Sie Berichte generieren und die Transaktionsnutzung verfolgen.
 feature: Report
 role: User, Admin
 level: Intermediate
 jira: KT-11027
 thumbnail: KT-11027.jpg
 exl-id: f30d174d-7990-499b-a6a6-3e68ab2a8e50
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 29f3dfa773325594787ca5a37838625e314212f6
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
-# Erstellen eines Berichts
+# Berichterstellung und Transaktionsnutzung
 
-Erfahren Sie, wie Sie Ihre eigenen Berichte erstellen, um Einblick in den Signiervorgang Ihres Dokuments zu erhalten, oder sehen Sie, wie einzelne Gruppen oder Benutzer vorgehen.
+Hier erfahren Sie, wie Sie Berichte erstellen und die Transaktionsnutzung verfolgen. Diese Berichte können Informationen enthalten, z. B. den Prozentsatz der Vereinbarungen, die signiert wurden, oder die durchschnittliche Zeit, die die Signatur dauert. Durch das Generieren von Berichten und das Verfolgen der Nutzung erhalten Sie Einblick in die Signierprozesse Ihrer Dokumente.
 
 >[!NOTE]
 >

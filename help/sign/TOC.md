@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
+source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
 workflow-type: tm+mt
-source-wordcount: '525'
+source-wordcount: '538'
 ht-degree: 7%
 
 ---
@@ -59,7 +59,7 @@ ht-degree: 7%
       + [Acrobat Sign-Text-Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Verwenden von Text-Tagging in  [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + {#advanced-tasks-managing} verwalten
-      + [Erstellen eines Berichts](sign-advanced-users/creating-a-report.md)
+      + [Berichterstellung und Transaktionsnutzung](sign-advanced-users/creating-a-report.md)
       + [Dokumentvorlagen verwalten](sign-advanced-users/edit-a-template.md)
       + [Vorhandenes Webformular ändern](sign-advanced-users/modify-webform.md)
       + [Verwalten von Webformulardaten](sign-advanced-users/manage-webform-data.md)
@@ -73,7 +73,7 @@ ht-degree: 7%
       + [Erstellen und Verwalten von Gruppen](admin/create-and-manage-groups.md)
       + [Einrichten eines externen Archivs](admin/set-up-your-external-archive.md)
       + [Erstellen einer Vorlage](sign-advanced-users/create-a-template.md)
-      + [Erstellen eines Berichtsdiagramms](admin/create-a-report.md)
+      + [Berichterstellung und Transaktionsnutzung](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [Berichtsoptionen für Benutzer](admin/report-options.md)
       + [Erstellen eines Webformulars](sign-advanced-users/webform.md)
       + [Vorhandenes Webformular ändern](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
@@ -125,6 +125,8 @@ ht-degree: 7%
       + [Einrichten von Datenzuordnungen](integrations/set-up-data-mapping.md)
       + [Einrichten von Zusammenführungszuordnungen](integrations/set-up-merging-map.md)
       + [Erstellen einer benutzerdefinierten Schaltfläche](integrations/create-a-custom-button.md)
+      + [Automatische Updates einrichten](integrations/salesforce-automatic-updates.md)
+      + [Einrichten großer Dateien und Push-Zuordnungen](integrations/salesforce-large-files.md)
    + Workday {#workday}
       + [Acrobat Sign mit  [!DNL Workday] wird konfiguriert.](integrations/workday.md)
       + [Acrobat Sign + Workday Eingliederung neuer Mitarbeiter](integrations/acrobat-sign-workday-onboarding.md)
