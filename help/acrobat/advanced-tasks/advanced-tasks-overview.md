@@ -7,9 +7,9 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
+source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '294'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erlernen, Erfahren Sie, wie Sie eine Aktion erstellen, um Routineaufgaben zu wiederholen, vertrauliche Informationen zu entfernen, große Dateien zu reduzieren und zu optimieren, Formulardaten schnell zu erfassen und universell zugängliche PDF-Dateien zu erstellen.
 
 ## Neue Funktionen
+
+* [Geführte Aktionen](action.md)
+Erfahren Sie, wie Sie die Effizienz mithilfe von geführten Aktionen verbessern
 
 * [Optimize PDF für SEO (Suchmaschinenoptimierung)](optimizeseo.md)
 Erfahren Sie, wie Sie eine PDF für eine verbesserte Auffindbarkeit und ein Suchmaschinen-Ranking im Web optimieren.
@@ -105,12 +108,12 @@ Erfahren Sie, wie Sie eine PDF für eine verbesserte Auffindbarkeit und ein Such
 <tr>
   <td>
     <a href="action.md">
-      <img alt="Action Wizard" src="../assets/action.png" />
+      <img alt="Geführte Aktionen" src="../assets/action.png" />
     </a>
     <div>
-      <a href="action.md"><strong>Action Wizard</strong></a>
+      <a href="action.md"><strong>Geführte Aktionen</strong></a>
       </div>
-      Erfahren Sie, wie Sie die Effizienz mithilfe von Aktionen steigern
+      Erfahren Sie, wie Sie die Effizienz mithilfe von geführten Aktionen verbessern
   </td>
   <td>
     <a href="redact.md">
