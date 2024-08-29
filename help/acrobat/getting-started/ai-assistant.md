@@ -5,7 +5,8 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-15743
-source-git-commit: f96a3ef8c480e307885eef5dc72f6cbe8f2ee1cc
+exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
+source-git-commit: 25316068e78d6867bd709b3152e30173afd2bfab
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%

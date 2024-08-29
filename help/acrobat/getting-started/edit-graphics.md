@@ -5,7 +5,8 @@ feature: Edit PDF
 role: User
 level: Beginner
 jira: KT-15476
-source-git-commit: 6a521e19fd56ba6988ada271086151ffb36cd3bb
+exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
+source-git-commit: 25316068e78d6867bd709b3152e30173afd2bfab
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
