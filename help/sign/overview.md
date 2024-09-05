@@ -7,7 +7,7 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 3aabfd79a135f925fcc500d8ac42356b3437dfaa
+source-git-commit: 9e46f85c7c7d7ae9dbe190f30ef66a9944c5d8b1
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 4%
@@ -36,8 +36,8 @@ Acrobat Sign, eine Lösung für Adobe Document Cloud, lässt sich mit Integratio
     <div>
       <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>Erste Schritte</strong></a>
       </div>
-      <em>Dokumente senden, unterzeichnen und verfolgen</em>
-      2<br>
+      Dokumente versenden, unterzeichnen und verfolgen
+      <br>
   </td>
   <td>
     <a href="sign-advanced-users/advanced-users-overview.md">
@@ -46,8 +46,8 @@ Acrobat Sign, eine Lösung für Adobe Document Cloud, lässt sich mit Integratio
     <div>
       <a href="sign-advanced-users/advanced-users-overview.md"><strong>Erweiterte Aufgaben</strong></a>
       </div>
-      <em>Gehen Sie mit bestimmten Aufgaben und Automatisierung über die Grundlagen hinaus</em>
-      2<br>
+      Gehen Sie mit bestimmten Aufgaben und Automatisierung über die Grundlagen hinaus
+      <br>
   </td>  
   <td>
     <a href="admin/intro-admin-overview.md">
@@ -56,8 +56,8 @@ Acrobat Sign, eine Lösung für Adobe Document Cloud, lässt sich mit Integratio
     <div>
       <a href="admin/intro-admin-overview.md"><strong>Verwalten</strong></a>
       </div>
-      <em>Grundlegende bis erweiterte Einrichtungstipps für Ihre Organisation</em>
-      2<br>
+      Grundlegende bis erweiterte Einrichtungstipps für Ihr Unternehmen
+      <br>
   </td>
   <td>
     <a href="digitalid/digitalid-overview.md">
@@ -66,8 +66,8 @@ Acrobat Sign, eine Lösung für Adobe Document Cloud, lässt sich mit Integratio
      <div>
       <a href="digitalid/digitalid-overview.md"><strong>Digitale ID</strong></a>
       </div>
-      <em>Erfahren Sie, wie Sie digitale IDs aus der ganzen Welt in Acrobat Sign verwenden</em>
-      2<br>
+      Digitale IDs aus der ganzen Welt in Acrobat Sign verwenden
+      <br>
   </td>
 </tr>
 <tr>
@@ -78,8 +78,8 @@ Acrobat Sign, eine Lösung für Adobe Document Cloud, lässt sich mit Integratio
     <div>
       <a href="integrations/integrations-overview.md"><strong>Integrationen</strong></a>
       </div>
-      <em>Fügen Sie Acrobat Sign direkt in anderen Anwendungen hinzu, die Ihr Unternehmen bereits verwendet</em>
-      2<br>
+      Acrobat Sign direkt in andere Programme einbinden, die eure Organisation bereits verwendet
+      <br>
   </td>
   <td>
     <a href="sign-usecase/expand-inspire-overview.md">
@@ -88,8 +88,8 @@ Acrobat Sign, eine Lösung für Adobe Document Cloud, lässt sich mit Integratio
     <div>
       <a href="sign-usecase/expand-inspire-overview.md"><strong>Branchen und Abteilungen</strong></a>
       </div>
-      <em>Nutzungsszenarien in der Branche und in Abteilungen entdecken</em>
-      2<br>
+      Nutzungsszenarien in der Branche und in Abteilungen
+      <br>
   </td>
   <td>
     <a href="develop/develop-overview.md">
@@ -98,8 +98,8 @@ Acrobat Sign, eine Lösung für Adobe Document Cloud, lässt sich mit Integratio
     <div>
       <a href="develop/develop-overview.md"><strong>Entwickeln</strong></a>
       </div>
-      <em>Entwicklungsressourcen für Acrobat Sign I/O abrufen</em>
-      2<br>
+      Entwicklungsressourcen für Acrobat Sign I/O abrufen
+      <br>
   </td>
    <td>
     <a href="deploy-overview.md">
@@ -108,8 +108,8 @@ Acrobat Sign, eine Lösung für Adobe Document Cloud, lässt sich mit Integratio
     <div>
       <a href="deploy-overview.md"><strong>Bereitstellen</strong></a>
       </div>
-      <em>Einblicke und Best Practices für die Bereitstellung von Acrobat Sign in Ihrem Unternehmen</em>
-      2<br>
+      Einblicke und Best Practices für die Bereitstellung von Acrobat Sign in Ihrem Unternehmen
+      <br>
   </td>
 </tr>
 <tr>
@@ -120,8 +120,8 @@ Acrobat Sign, eine Lösung für Adobe Document Cloud, lässt sich mit Integratio
     <div>
       <a href="mobile/mobile-overview.md"><strong>Mobile Endgeräte</strong></a>
       </div>
-      <em>Dokumente auf dem Smartphone oder Tablet versenden, signieren und in Echtzeit aktualisieren</em>
-      2<br>
+      Dokumente auf dem Smartphone oder Tablet versenden, unterschreiben und in Echtzeit aktualisieren
+      <br>
   </td>  
 </tr>
 </table>
