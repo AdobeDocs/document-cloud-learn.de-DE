@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
+source-git-commit: fe13a7b01c0eab2ac4931396097d5114ec3104be
 workflow-type: tm+mt
-source-wordcount: '541'
-ht-degree: 2%
+source-wordcount: '544'
+ht-degree: 1%
 
 ---
 
@@ -147,12 +147,12 @@ Erfahren Sie, wie Sie mit dem KI-Assistenten Erkenntnisse aus Ihren PDF-Dateien 
     </td>
     <td>
       <a href="add-custom-page.md">
-        <img alt="Benutzerdefinierte Seite hinzufügen" src="../assets/custom.png" />
+        <img alt="Entwerfen einer neuen Seite" src="../assets/design.png" />
       </a>
       <div>
-      <a href="add-custom-page.md"><strong>Benutzerdefinierte Seite hinzufügen</strong></a>
+      <a href="add-custom-page.md"><strong>Neue Seite entwerfen</strong></a>
       </div>
-      Erfahren Sie, wie Sie benutzerdefinierte Seiten zu Ihrem PDF hinzufügen
+     Erfahren Sie, wie Sie eine neue professionell aussehende Seite auf Ihrem PDF erstellen
       <br>
     </td>
   </tr>
