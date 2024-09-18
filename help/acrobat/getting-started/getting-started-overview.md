@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 34fb3cbe888dc5eb81b9ce48b05a9c71aa35ba03
+source-git-commit: dc2026b6bcee8369f244c9bd410622c55e3c96c8
 workflow-type: tm+mt
-source-wordcount: '561'
+source-wordcount: '562'
 ht-degree: 1%
 
 ---
@@ -20,14 +20,25 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
 
 ## Neue Funktionen
 
-* [Neue Seite entwerfen](add-custom-page.md)
-Erfahren Sie, wie Sie mit Adobe Expreß eine neue professionell aussehende Seite auf Ihrem PDF erstellen.
-* [Grafiken auf einem PDF bearbeiten](edit-graphics.md)
-Erfahren Sie, wie Sie Grafiken auf Ihrem PDF erstellen, bearbeiten und verbessern können.
-* [Neues Arbeitsbereichserlebnis](new-workspace.md)
-Erfahren Sie mehr über den neuen Arbeitsbereich in Acrobat, mit dem Sie schnell Tools entdecken und Ihre PDF-Aufgaben effizient erledigen können
-* [Entdecken Sie PDF-Erkenntnisse mit dem AI-Assistenten](ai-assistant.md)
-Erfahren Sie, wie Sie mit dem KI-Assistenten Erkenntnisse aus Ihren PDF-Dateien gewinnen
+>[!BEGINTABS]
+
+>[!TAB Neue Seite entwerfen]
+
+Erfahren Sie, wie Sie [eine neue professionell aussehende Seite](add-custom-page.md) in Ihrem PDF mit Adobe Expreß entwerfen.
+
+>[!TAB Grafiken auf einem PDF bearbeiten]
+
+Erfahren Sie, wie Sie [Grafiken](edit-graphics.md) auf Ihrem PDF erstellen, bearbeiten und verbessern können.
+
+>[!TAB Neues Arbeitsbereichserlebnis]
+
+Erfahren Sie mehr über den [neuen Arbeitsbereich](new-workspace.md) in Acrobat, mit dem Sie schnell Tools erkennen und Ihre PDF-Aufgaben effizient erledigen können.
+
+>[!TAB Entdecken Sie PDF-Erkenntnisse mit dem AI-Assistenten]
+
+Erfahren Sie, wie Sie mit dem KI-Assistenten Einblicke in Ihre PDF-Dateien gewinnen.
+
+>[!ENDTABS]
 
 ## Tutorials zu ersten Schritten
 
