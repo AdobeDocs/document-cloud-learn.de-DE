@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: 0e3211081b328901ae0949b95fc557d9725060fa
+source-git-commit: 30fa0d2120860b78e5ea674d50512bede5b6346d
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -23,19 +23,19 @@ Erfahren Sie, wie Sie mit dem KI-Assistenten Einblicke in Ihre PDF-Dateien gewin
 
 >[!TAB Eine eindrucksvolle Präsentation erstellen]
 
-Sucht mithilfe von Eingabeaufforderungen unterwegs nach Erkenntnissen aus Branchen- und Kundenberichten. [Video](https://video.tv.adobe.com/v/3428811?quality=12&learn=on&hidetitle=true) ansehen.
+Sucht mithilfe von Eingabeaufforderungen unterwegs nach Erkenntnissen aus Branchen- und Kundenberichten. [Video](https://video.tv.adobe.com/v/3428811?quality=5&learn=on&hidetitle=true) ansehen.
 
 >[!TAB Schnelleres Teilen von Forschungsergebnissen]
 
-Fasst Branchenberichte zusammen, erhaltet detailliertere Erkenntnisse und entwirft in kürzester Zeit Recaps für euer Team. [Video](https://video.tv.adobe.com/v/3427286?quality=12&learn=on&hidetitle=true) ansehen.
+Fasst Branchenberichte zusammen, erhaltet detailliertere Erkenntnisse und entwirft in kürzester Zeit Recaps für euer Team. [Video](https://video.tv.adobe.com/v/3427286?quality=5&learn=on&hidetitle=true) ansehen.
 
 >[!TAB Vorschläge schnell erstellen]
 
-Beschleunigt RFP-Reaktionen, indem ihr wichtige Dokumenteninformationen extrahiert und zeitaufwendige Überprüfungen ausspart. [Video](https://video.tv.adobe.com/v/3428639?quality=12&learn=on&hidetitle=true) ansehen.
+Beschleunigt RFP-Reaktionen, indem ihr wichtige Dokumenteninformationen extrahiert und zeitaufwendige Überprüfungen ausspart. [Video](https://video.tv.adobe.com/v/3428639?quality=5&learn=on&hidetitle=true) ansehen.
 
 >[!TAB Kurze Besprechungszusammenfassung senden]
 
-Prüfen Sie die Protokolle der Meetings, und entwerfen Sie eine E-Mail-Zusammenfassung mit wichtigen Informationen. [Video](https://video.tv.adobe.com/v/3427292?quality=12&learn=on&hidetitle=true) ansehen.
+Prüfen Sie die Protokolle der Meetings, und entwerfen Sie eine E-Mail-Zusammenfassung mit wichtigen Informationen. [Video](https://video.tv.adobe.com/v/3427292?quality=5&learn=on&hidetitle=true) ansehen.
 
 >[!ENDTABS]
 
