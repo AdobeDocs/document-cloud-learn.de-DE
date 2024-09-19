@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 2%
@@ -20,10 +20,17 @@ Erfahren Sie, wie Sie ein Dokument zur Signatur an Hunderte von Empfängern glei
 
 ## Neue Funktionen
 
-* [Massenversand](megasign.md)
-Erfahren Sie, wie Sie in wenigen Schritten Tausende von Unterschriften gleichzeitig für jedes Dokument einholen können
-* [Authentifizierungsmethoden in Acrobat Sign](authentication-methods.md)
-In diesem Artikel werden verschiedene Methoden zur Authentifizierung der Identität eines Unterzeichners eines Dokuments in Acrobat Sign erläutert.
+>[!BEGINTABS]
+
+>[!TAB Massenversand]
+
+Erfahren Sie, wie Sie in nur wenigen Schritten [Tausende](megasign.md) von Unterschriften gleichzeitig für jedes Dokument erfassen können.
+
+>[!TAB Authentifizierungsmethoden in Acrobat Sign]
+
+Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, mit denen die Identität einer Person, die ein Dokument signiert, [authentifiziert](authentication-methods.md) werden kann.
+
+>[!ENDTABS]
 
 ## Send
 

@@ -8,7 +8,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -21,14 +21,25 @@ In diesen Nutzungsszenarien erfahrt ihr, wie verschiedene Organisationen Acrobat
 
 ## Neue Funktionen
 
-* [Benutzerdefinierter Workflow für den IEP-Prozess für Bildungseinrichtungen](usecase-edu-iep.md)
-Erfahren Sie, wie Sie mit der Designer für benutzerdefinierte Workflows einen IEP-Prozess (Individualized Education Program) digitalisieren
-* [Praktikumsanwendung für Webformulare für Bildungseinrichtungen](usecase-edu-intern.md)
-Erfahren Sie, wie Webformulare den Zugriff von Schülern auf erforderliche Formulare verbessern
-* [Webformular-Praktikumsanwendung für Bildungseinrichtungen erstellen](usecase-edu-intern-create.md)
-Erfahren Sie, wie Sie ein Webformular für ein Praktikum erstellen
-* [Kreditantrag der Regierung mit mehreren unbekannten Unterzeichnern](webform-multiple-signers.md)
-Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerbungen mit öffentlichen Krediten verwendet wird, an dem mehrere unbekannte Teilnehmer beteiligt sind.
+>[!BEGINTABS]
+
+>[!TAB Benutzerdefinierter Workflow für den IEP-Prozess für Bildungseinrichtungen]
+
+Erfahren Sie, wie die [Designer für benutzerdefinierte Workflows](usecase-edu-iep.md) verwendet wird, um einen IEP-Prozess (Individualized Education Program) zu digitalisieren.
+
+>[!TAB Praktikumsanwendung für Webformulare für Bildungseinrichtungen]
+
+Erfahren Sie, wie [Webformulare](usecase-edu-intern.md) verwendet werden, um den Zugriff der Schüler auf erforderliche Formulare zu verbessern.
+
+>[!TAB Webformular-Praktikumsanwendung für Bildungseinrichtungen erstellen]
+
+Erfahren Sie, wie Sie ein Praktikum [Webformular ](usecase-edu-intern-create.md) erstellen.
+
+>[!TAB Kreditantrag der Regierung mit mehreren unbekannten Unterzeichnern]
+
+Erfahren Sie, wie ein [Webformular](webform-multiple-signers.md) für einen komplexen Arbeitsablauf für staatliche Kreditanträge verwendet wird, an dem mehrere unbekannte Teilnehmer beteiligt sind.
+
+>[!ENDTABS]
 
 ## Nutzungsszenarien in Regierungseinrichtungen
 

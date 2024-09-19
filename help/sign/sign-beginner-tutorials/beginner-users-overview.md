@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -20,10 +20,17 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
 
 ## Neue Funktionen
 
-* [Erste Schritte mit Acrobat Sign](new-sender.md)
-Verwenden Sie Acrobat Sign zum ersten Mal? Dieses Tutorial ist ein guter Einstieg.
-* [Termine und Erinnerungen festlegen](set-deadlines-reminders.md)
-Erfahren Sie, wie Sie regelmäßige E-Mail-Erinnerungen und Fristen senden, um Ihre Dokumente schnell signieren zu lassen
+>[!BEGINTABS]
+
+>[!TAB Erste Schritte mit Acrobat Sign]
+
+Verwenden Sie Acrobat Sign zum ersten Mal? Dieses [Tutorial](new-sender.md)) ist ein guter Ausgangspunkt.
+
+>[!TAB Termine und Erinnerungen festlegen]
+
+Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-deadlines-reminders.md) senden, um Ihre Dokumente schnell signieren zu lassen.
+
+>[!ENDTABS]
 
 ## Send
 

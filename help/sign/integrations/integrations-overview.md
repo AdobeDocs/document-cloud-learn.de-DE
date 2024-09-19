@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
+source-git-commit: 99711e49e9d08b6a620da92139f9afe17579d987
 workflow-type: tm+mt
-source-wordcount: '869'
+source-wordcount: '871'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,21 @@ Sie können Acrobat Sign in anderen Anwendungen verwenden, die Ihre Organisation
 
 ## Neue Funktionen
 
-* [Große Dateien einrichten und Zuordnungen übertragen](salesforce-large-files.md)
-Erfahren Sie, wie Sie in Salesforce große Dokumente einrichten und Vereinbarungsdienste bereitstellen.
-* [Automatische Updates einrichten](salesforce-automatic-updates.md)
-Erfahren Sie, wie Sie Ihr Konto ganz einfach mit Salesforce verknüpfen können, um automatische Updates zu erhalten
-* [Integration der Registerkarte &quot;Dokumente&quot; für  [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
-Erfahren Sie, wie Sie Dokumente direkt über die Registerkarte &quot;Dokumente&quot; in [!DNL Microsoft Teams] zur Signatur senden.
+>[!BEGINTABS]
+
+>[!TAB Große Dateien einrichten und Zuordnungen übertragen]
+
+Erfahren Sie, wie Sie [große Dokumente einrichten und Vereinbarungsdienste](salesforce-large-files.md) in Salesforce übertragen.
+
+>[!TAB Automatische Updates einrichten]
+
+Erfahren Sie, wie Sie Ihr Konto ganz einfach mit Salesforce verknüpfen können, um [automatische Updates](salesforce-automatic-updates.md) zu erhalten.
+
+>Integration der Registerkarte &quot;[!TAB Dokumente&quot; für Microsoft Teams]
+
+Erfahren Sie, wie Sie Dokumente direkt von der Registerkarte [Dokumente](acrobat-sign-teams-documents-tab.md) in [!DNL Microsoft Teams] zur Signatur senden.
+
+>[!ENDTABS]
 
 ## Tutorials zur Integration mit Microsoft
 

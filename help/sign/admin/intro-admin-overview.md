@@ -8,7 +8,7 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 8fa83a1a43067e65eb496becd5ac543845f2f1c3
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '642'
 ht-degree: 1%
@@ -21,14 +21,25 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
 
 ## Neue Funktionen
 
-* [So stufen Sie einen Benutzer auf eine Administratorrolle hoch](promote-admin.md)
-Erfahren Sie, wie Sie einen Benutzer mithilfe der Admin Console zu einer Acrobat Sign-Administratorrolle hochstufen.
-* [Verwendung mehrerer Profile](multiple-profiles.md)
-Erfahren Sie, wie Sie die Profilauswahl verwenden, um mit mehreren Acrobat Sign-Konten zu arbeiten
-* [Einrichten von Datenschutzadministratoren](privacy.md)
-Erfahren Sie, wie Sie Datenschutzadministratoren einrichten und verwenden
-* [Massen-Download-Tool](bulk-download-tool.md)
-Erfahren Sie, wie Sie das Massendownload-Tool verwenden, um schnell alle Ihre signierten Vereinbarungen herunterzuladen
+>[!BEGINTABS]
+
+>[!TAB So stufen Sie einen Benutzer auf eine Administratorrolle hoch]
+
+Erfahren Sie, wie Sie einen Benutzer ](promote-admin.md) mithilfe der Admin Console auf eine Acrobat Sign-Administratorrolle [heraufstufen.
+
+>[!TAB Verwendung mehrerer Profile]
+
+Erfahren Sie, wie Sie die [Profilauswahl](multiple-profiles.md) verwenden, um mit mehreren Acrobat Sign-Konten zu arbeiten.
+
+>[!TAB Einrichten von Datenschutzadministratoren]
+
+Erfahren Sie, wie Sie [Datenschutzadministratoren](privacy.md) einrichten und verwenden.
+
+>[!TAB Massen-Download-Tool]
+
+Erfahren Sie, wie Sie das [Tool für den Massendownload](bulk-download-tool.md) verwenden, um schnell alle Ihre signierten Vereinbarungen herunterzuladen.
+
+>[!ENDTABS]
 
 ## Erste Schritte
 

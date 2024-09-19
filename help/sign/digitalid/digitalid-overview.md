@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-8990
 thumbnail: KT-8990.jpg
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 0%
@@ -24,10 +24,17 @@ ht-degree: 0%
 
 ## Neue Funktionen
 
-* [Registrieren und Signieren mit Digidentity](digidentity-sign.md)
-Erfahren Sie, wie Sie Ihre [!DNL Digidentity] digitale ID mit Acrobat Sign registrieren und verwenden.
-* [Registrieren und Signieren mit D-Trust](d-trust.md)
-Erfahren Sie, wie Sie Ihre Identität bei [!DNL D-Trust] registrieren und dann die [!DNL D-Trust] digitale Signatur für ein Dokument in Acrobat Sign verwenden.
+>[!BEGINTABS]
+
+>[!TAB Registrieren und Signieren mit Digidentity]
+
+Erfahren Sie, wie Sie Ihre [[!DNL Digidentity]](digidentity-sign.md) digitale ID bei Acrobat Sign registrieren und verwenden.
+
+>[!TAB Registrieren und Signieren mit D-Trust]
+
+Erfahren Sie, wie Sie Ihre Identität bei [[!DNL D-Trust]](d-trust.md) registrieren und dann die [!DNL D-Trust] digitale Signatur für ein Dokument in Acrobat Sign verwenden.
+
+>[!ENDTABS]
 
 ## [!DNL Aadhaar]
 
