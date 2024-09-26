@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 02e877aaf618c29208da2eb971524baf80e76678
+source-git-commit: 06d3049acc900a52e1eab23a8aac9906ad40d3ea
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -43,8 +43,8 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
     <div>
     <a href="quick-tour.md"><strong>Grundlagen des Arbeitsbereichs</strong></a>
     </div>
-    <em>Sehen Sie sich kurz den Arbeitsbereich von Acrobat Sign an, um sofort loszulegen</em>
-    2<br>
+    Sehen Sie sich kurz den Arbeitsbereich von Acrobat Sign an, um mit der Arbeit zu beginnen
+    <br>
   </td>
   <td>
     <a href="new-sender.md">
@@ -53,8 +53,8 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
     <div>
     <a href="new-sender.md"><strong>Erste Schritte mit Acrobat Sign</strong></a>
     </div>
-    <em>Dieses umfassende Tutorial ist ein guter Ausgangspunkt für neue Absender in Acrobat Sign</em>
-    2<br>
+    Dieses umfassende Tutorial ist ein guter Ausgangspunkt für neue Absender in Acrobat Sign.
+    <br>
   </td>
   <td>
     <a href="send-to-single-recipient.md">
@@ -63,8 +63,8 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
     <div>
     <a href="send-to-single-recipient.md"><strong>Senden an einen einzelnen Empfänger</strong></a>
     </div>
-    <em>Springen Sie ein und erfahren Sie, wie einfach es ist, ein Dokument zur Signatur zu senden</em>
-    2<br>
+    Erfahre, wie einfach du Dokumente zur Unterzeichnung versenden kannst.
+    <br>
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
@@ -73,8 +73,8 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Senden an mehrere Empfänger</strong></a>
     </div>
-    <em>Ein Dokument zur elektronischen Unterzeichnung an mehrere Personen in genau der gewünschten Reihenfolge senden</em>
-    2<br>
+    Dokumente an mehrere Empfänger in der gewünschten Reihenfolge senden
+    <br>
   </td>
 </tr>
 <tr>
@@ -85,8 +85,8 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
     <div>
     <a href="sending-options.md"><strong>Sendeoptionen konfigurieren</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie verschiedene Optionen konfigurieren, wenn Sie ein Dokument zur Signatur senden</em>
-    2<br>
+    Erfahren Sie, wie Sie verschiedene Optionen konfigurieren, wenn Sie ein Dokument zur Signatur senden
+    <br>
   </td>
   <td>
     <a href="adding-fields.md">
@@ -95,8 +95,8 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
     <div>
     <a href="adding-fields.md"><strong>Hinzufügen von Feldern zu Ihren Dokumenten</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie Ihren Dokumenten verschiedene Feldtypen hinzufügen</em>
-    2<br>
+    Erfahren Sie, wie Sie Ihren Dokumenten verschiedene Feldtypen hinzufügen.
+    <br>
   </td>
   <td>
     <a href="modify-in-flight.md">
@@ -105,8 +105,8 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
     <div>
     <a href="modify-in-flight.md"><strong>Ändern eines Dokuments nach dem Senden</strong></a>
     </div>
-    <em>Ein Dokument ändern, das bereits bearbeitet wird</em>
-    2<br>
+    Ändern von Dokumenten, die bereits in Bearbeitung sind
+    <br>
   </td>
   <td>
     <a href="replace-signer.md">
@@ -115,8 +115,8 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
     <div>
     <a href="replace-signer.md"><strong>Unterzeichner ersetzen</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie den Unterzeichner eines Dokuments ändern, das bereits in Bearbeitung ist</em>
-     2<br>
+    Erfahren Sie, wie Sie den Unterzeichner eines Dokuments ändern, das bereits in Bearbeitung ist
+     <br>
   </td>
 </tr>
 <tr>
@@ -127,8 +127,8 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
       <div>
       <a href="set-deadlines-reminders.md"><strong>Termine und Erinnerungen festlegen</strong></a>
       </div>
-      <em>Erfahren Sie, wie Sie regelmäßige E-Mail-Erinnerungen und Fristen senden, um Ihre Dokumente schnell signieren zu lassen</em>
-      2<br>
+      Erfahren Sie, wie Sie regelmäßige E-Mail-Erinnerungen und Fristen senden, um Ihre Dokumente schnell signieren zu lassen
+      <br>
     </td> 
   <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -159,8 +159,8 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
     <div>
     <a href="electronically-sign-a-document.md"><strong>Elektronisches Signieren eines Dokuments</strong></a>
     </div>
-    <em>Erfahren Sie, wie einfach es ist, ein Dokument zu signieren, das Ihnen mit Acrobat Sign zugesendet wurde</em>
-    2<br>
+    Erfahren Sie, wie einfach es ist, ein Dokument zu unterschreiben, das Ihnen mit Acrobat Sign gesendet wird
+    <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
@@ -169,8 +169,8 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
     <div>
     <a href="fill-and-sign.md"><strong>Ein Dokument ausfüllen und signieren</strong></a>
     </div>
-    <em>Formulare ausfüllen und Dokumente mit Ihrer elektronischen Signatur versehen</em>
-    2<br>
+    Formulare ausfüllen und Dokumente mit deiner elektronischen Signatur versehen
+    <br>
   </td>
   <td>
     <a href="sign-in-person.md">
@@ -179,8 +179,8 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
     <div>
     <a href="sign-in-person.md"><strong>Persönliche Signatur erhalten</strong></a>
     </div>
-    <em>Unterschrift einer anderen Person persönlich über die mobile Acrobat Sign-App einholen</em>
-    2<br>
+    Unterschrift einer anderen Person über die mobile Acrobat Sign-App einholen
+    <br>
   </td>
   <td>
     <a href="delegate-signing.md">
@@ -189,8 +189,8 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
     <div>
     <a href="delegate-signing.md"><strong>Unterschrift an eine andere Person delegieren</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie die Unterzeichnung eines Dokuments an eine andere Person delegieren</em>
-    2<br>
+    Erfahren Sie, wie Sie die Unterzeichnung eines Dokuments an eine andere Person delegieren.
+    <br>
   </td>
 </tr>
 <tr>
@@ -201,8 +201,8 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>Was ist eine digitale Signatur</strong></a>
     </div>
-    <em>Weitere Informationen zu zertifikatbasierten digitalen Signaturen</em>
-    2<br>
+    Weitere Informationen zu zertifikatbasierten digitalen Signaturen
+    <br>
   </td>
   <td>
     <a href="sign-with-a-stamp.md">
@@ -211,8 +211,8 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
     <div>
     <a href="sign-with-a-stamp.md"><strong>Signieren mit einem Stempel</strong></a>
     </div>
-    <em>Stempel zum Markieren eines genehmigten oder abgeschlossenen Dokuments verwenden</em>
-     2<br>
+    Dokumente mit Stempeln als genehmigt oder abgeschlossen markieren
+     <br>
   </td> 
  <td>
     <img alt="Spacer" src="../assets/Grayspacer.png" />
@@ -238,8 +238,8 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
     <div>
     <a href="manage-and-track.md"><strong>Vereinbarungen verwalten und verfolgen</strong></a>
     </div>
-    <em>Weitere Informationen zum Verwalten und Verfolgen von Vereinbarungen, die zur Signatur gesendet wurden</em>
-    2<br>
+    Hier erfahren Sie, wie Sie zum Unterschreiben gesendete Vereinbarungen verwalten und verfolgen.
+    <br>
   </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
@@ -248,8 +248,8 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Erstellen einer Dokumentvorlage</strong></a>
     </div>
-    <em>Erstellen Sie eine wiederverwendbare Dokumentvorlage, um Ihrer Organisation Geschwindigkeit und Konsistenz zu verleihen</em>
-    2<br>
+    Wiederverwendbare Dokumentvorlagen erstellen, um Ihrem Unternehmen Geschwindigkeit und Konsistenz zu verleihen
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
