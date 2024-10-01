@@ -10,9 +10,9 @@ topic-revisit: Integrations
 jira: KT-7250
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '891'
+source-wordcount: '864'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung senden, wenn eine Vereinbarung
 
 ## Benutzerdefiniertes Objekt suchen
 
-Sobald die Konfigurationen von Marketo Microsoft Dynamics Sync und Acrobat Sign for Dynamics abgeschlossen sind, werden zwei neue Optionen im Marketo Admin-Terminal angezeigt.
+Sobald die Marketo-Konfigurationen für Microsoft Dynamics Sync und Acrobat Sign for Dynamics abgeschlossen sind, werden zwei neue Optionen im Marketo Admin-Terminal angezeigt.
 
 ![Administrator](assets/adminTerminal.png)
 
@@ -204,7 +204,3 @@ Da der Kampagnenfilter **Tage bis zum Ablauf** verwendet wurde, können Sie eine
 1. Setzen Sie **Schedule** auf _Daily_. Wählen Sie bei Bedarf einen Start- und einen Endtag für die Kampagne aus.
 
    ![Zeitplaneinstellungen](assets/scheduleSettings.png)
-
->[!TIP]
->
->Dieses Tutorial ist Teil des [Kurses zur Beschleunigung der Vertriebszyklen mit Acrobat Sign für Microsoft Dynamics und Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1), der kostenlos auf dem Experience League verfügbar ist!

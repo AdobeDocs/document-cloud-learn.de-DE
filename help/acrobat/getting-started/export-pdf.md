@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-5529
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 0597b1dd1c99ed2b37cb084d192174a497ba307a
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '144'
 ht-degree: 2%
 
 ---
@@ -32,4 +32,4 @@ Erfahren Sie, wie Sie Ihre PDF-Dateien in verschiedene Dateiformate konvertieren
 
 >[!TIP]
 >
->Dieses Video ist Teil des Kurses [Intelligenter arbeiten mit Acrobat DC und Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), der kostenlos auf dem Experience League verfügbar ist!
+>Dieses Video ist Teil der Wiedergabeliste [Erste Schritte mit Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users), die auf dem Experience League kostenlos verfügbar ist!

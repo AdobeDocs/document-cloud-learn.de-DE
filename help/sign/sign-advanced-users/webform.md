@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-5325
 thumbnail: 37841.jpg
 exl-id: d6297c78-40d5-4353-893c-9fd5648048c6,ed99edd5-f826-4ac6-8f32-6a4e6e48ddc6
-source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerb
 
 >[!TIP]
 >
-Dieses Video ist Teil der [Advanced Tasks for Users](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) und [Getting Started with Acrobat Sign for Administrators](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2)-Kurse, die kostenlos auf dem Experience League verfügbar sind!
+Dieses Video ist Teil der Wiedergabelisten [Erweiterte Benutzeraufgaben](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) und [Erste Schritte mit Acrobat Sign für Administratoren](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), die auf dem Experience League kostenlos zur Verfügung stehen!

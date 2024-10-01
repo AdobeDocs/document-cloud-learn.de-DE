@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-8254
 thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -28,4 +28,4 @@ Für die Bereitstellung der besten Kundenerlebnisse müssen Inhalte schneller de
 
 >[!TIP]
 >
->Dieses Video ist Teil des Kurses [Intelligenter arbeiten mit Acrobat DC und Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), der kostenlos auf dem Experience League verfügbar ist!
+>Dieses Video ist Teil der Wiedergabeliste [Erste Schritte mit Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users), die auf dem Experience League kostenlos verfügbar ist!

@@ -10,9 +10,9 @@ topic-revisit: Integrations
 jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '679'
+source-wordcount: '652'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Erfahren Sie, wie Sie mit Acrobat Sign, Acrobat Sign für Microsoft Dynamic, Mar
 
 ## Benutzerdefiniertes Objekt suchen
 
-Sobald die Konfigurationen von Marketo Microsoft Dynamics Sync und Acrobat Sign for Dynamics abgeschlossen sind, werden zwei neue Optionen im Marketo Admin-Terminal angezeigt.
+Sobald die Marketo-Konfigurationen für Microsoft Dynamics Sync und Acrobat Sign for Dynamics abgeschlossen sind, werden zwei neue Optionen im Marketo Admin-Terminal angezeigt.
 
 ![Administrator](assets/adminTerminal.png)
 
@@ -152,6 +152,3 @@ Rufen Sie diese Parameter von Ihrem Konto ab und öffnen Sie jetzt Ihre Marketo-
    ![Webhook aufrufen](assets/callWebhook.png)
 
 1. Ihre SMS-Benachrichtigungskampagne für Leads, die einer Vereinbarung hinzugefügt werden, ist jetzt eingerichtet.
->[!TIP]
->
->Dieses Tutorial ist Teil des [Kurses zur Beschleunigung der Vertriebszyklen mit Acrobat Sign für Microsoft Dynamics und Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1), der kostenlos auf dem Experience League verfügbar ist!
