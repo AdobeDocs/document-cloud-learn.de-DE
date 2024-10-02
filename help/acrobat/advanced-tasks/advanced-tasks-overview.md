@@ -7,16 +7,16 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
+source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '307'
 ht-degree: 1%
 
 ---
 
 # Erweiterte Aufgabenübersicht
 
-Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erlernen, Erfahren Sie, wie Sie eine Aktion erstellen, um Routineaufgaben zu wiederholen, vertrauliche Informationen zu entfernen, große Dateien zu reduzieren und zu optimieren, Formulardaten schnell zu erfassen und universell zugängliche PDF-Dateien zu erstellen.
+Mit diesen erweiterten Tools in Acrobat kannst du nicht nur die Grundlagen erlernen, Erfahren Sie, wie Sie eine Aktion erstellen, um Routineaufgaben zu wiederholen, vertrauliche Informationen zu entfernen, große Dateien zu reduzieren und zu optimieren, Formulardaten schnell zu erfassen und universell zugängliche PDF-Dateien zu erstellen. Lesen Sie diese fachmännisch kuratierte [Playlist](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks), um erweiterte Aufgaben in Acrobat auszuführen.
 
 ## Neue Funktionen
 

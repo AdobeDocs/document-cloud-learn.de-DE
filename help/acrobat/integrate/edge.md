@@ -1,6 +1,6 @@
 ---
 title: PDF-Inhalt beim Durchsuchen von  [!DNL Microsoft Edge] erstellen
-description: Erfahren Sie, wie Sie Webseiten mit der Adobe Acrobat-Erweiterung für  [!DNL Microsoft Edge] ad hoc auf dem PDF archivieren können.
+description: Erfahren Sie, wie Sie Webseiten mit der Adobe Acrobat-Erweiterung für  [!DNL Microsoft Edge] im Handumdrehen in PDF umwandeln.
 feature: Integrations, Create PDF
 role: User
 topic: Integrations
@@ -9,7 +9,7 @@ topic-revisit: Integrations
 jira: KT-8495
 thumbnail: KT-8495.jpg
 exl-id: 636a11a3-612a-4066-ad91-133259fbf0c3
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # PDF-Inhalt beim Durchsuchen von [!DNL Microsoft Edge] erstellen
 
-Erfahren Sie, wie Sie Webseiten mit der Adobe Acrobat-Erweiterung für [!DNL Microsoft Edge] ad hoc auf dem PDF archivieren. Dieses reine Windows-Tool ist für Forschungsprojekte und die Offline-Anzeige webbasierter Informationen von unschätzbarem Wert.
+Erfahren Sie, wie Sie Webseiten mit der Adobe Acrobat-Erweiterung für [!DNL Microsoft Edge] im Handumdrehen in PDF umwandeln. Dieses reine Windows-Tool ist für Forschungsprojekte und die Offline-Anzeige webbasierter Informationen von unschätzbarem Wert.
 
 >[!TIP]
 >
