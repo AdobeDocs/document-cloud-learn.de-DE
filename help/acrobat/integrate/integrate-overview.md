@@ -9,9 +9,9 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
+source-git-commit: 2944661b9d10624b95c25979b7f653348b4c0f52
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '322'
 ht-degree: 1%
 
 ---
@@ -43,8 +43,8 @@ Erfahren Sie, wie alle Mitarbeiter Ihres Teams direkt in [Microsoft 365](https:/
     <div>
     <a href="createofficeweb.md"><strong>PDF in [!DNL Office] für das Web erstellen</strong></a>
     </div>
-    Erfahren Sie, wie Sie umfassende, zuverlässige PDF-Dateien direkt aus Microsoft Word erstellen können.
-    <br>
+    Erfahren Sie, wie Sie PDF-Dateien erstellen, ohne Ihre [!DNL Microsoft Office]-Dateien für Web-Anwendungen zu verlassen
+    1<br>
   </td> 
   <td>
     <a href="acrobatandsp.md">
@@ -63,7 +63,7 @@ Erfahren Sie, wie alle Mitarbeiter Ihres Teams direkt in [Microsoft 365](https:/
     <div>
     <a href="acrobatandteams.md"><strong>PDF in [!DNL Microsoft Teams]</strong></a>
     </div>
-    Arbeiten Sie mit Kollegen zusammen, indem Sie PDF anzeigen, kommentieren und überprüfen, ohne [!DNL Microsoft Teams] verlassen zu müssen
+    Zusammenarbeit und Überprüfung von PDF, ohne [!DNL Microsoft Teams] verlassen zu müssen
     1<br>
   </td>
 </tr>
@@ -95,7 +95,7 @@ Erfahren Sie, wie alle Mitarbeiter Ihres Teams direkt in [Microsoft 365](https:/
     <div>
     <a href="microsoftsensitivitylabels.md"><strong>Protect-PDF mit [!DNL Microsoft Purview Information] Empfindlichkeitsbeschriftungen</strong></a>
     </div>
-    Erfahren Sie, wie Sie PDF schützen können, indem Sie Microsoft Purview-Etiketten für die Vertraulichkeit von Informationen direkt in Acrobat hinzufügen, bearbeiten, anpassen und löschen.
+    Erfahren Sie, wie Sie PDF mit den Microsoft-Etiketten für die Vertraulichkeit von Informationen direkt in Acrobat schützen.
     <br>
   </td>
   <td>
