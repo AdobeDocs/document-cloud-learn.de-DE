@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
+source-git-commit: 59400129df861a6a92e69609b965b2fd82371640
 workflow-type: tm+mt
-source-wordcount: '642'
-ht-degree: 1%
+source-wordcount: '600'
+ht-degree: 2%
 
 ---
 
@@ -26,10 +26,6 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
 >[!TAB So stufen Sie einen Benutzer auf eine Administratorrolle hoch]
 
 Erfahren Sie, wie Sie einen Benutzer ](promote-admin.md) mithilfe der Admin Console auf eine Acrobat Sign-Administratorrolle [heraufstufen.
-
->[!TAB Verwendung mehrerer Profile]
-
-Erfahren Sie, wie Sie die [Profilauswahl](multiple-profiles.md) verwenden, um mit mehreren Acrobat Sign-Konten zu arbeiten.
 
 >[!TAB Einrichten von Datenschutzadministratoren]
 
@@ -192,16 +188,6 @@ Erfahren Sie, wie Sie das [Tool für den Massendownload](bulk-download-tool.md) 
     2<br>
   </td>
   <td>
-    <a href="multiple-profiles.md">
-      <img alt="Mehrere Profile verwenden" src="../assets/multiple-profiles.png" />
-    </a>
-    <div>
-    <a href="multiple-profiles.md"><strong>Verwendung mehrerer Profile</strong></a>
-    </div>
-    <em>Erfahren Sie, wie Sie die Profilauswahl verwenden, um mit mehreren Acrobat Sign-Konten zu arbeiten</em>
-    2<br>
-  </td>
-  <td>
     <a href="promote-admin.md">
       <img alt="So stufen Sie einen Benutzer auf eine Administratorrolle herauf" src="../assets/promote-admin.png" />
     </a>
@@ -210,6 +196,11 @@ Erfahren Sie, wie Sie das [Tool für den Massendownload](bulk-download-tool.md) 
     </div>
     <em>Erfahren Sie, wie Sie einen Benutzer mithilfe der Admin Console auf eine Acrobat Sign-Administratorrolle hochstufen</em>
     2<br>
+  </td>
+   <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
   </td>
 </table>
 
