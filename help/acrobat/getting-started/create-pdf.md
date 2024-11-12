@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5526
 thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: 762d975577f5c747841207c020b345a1e9e98e04
+source-git-commit: 4426993598edcbf560780dd6369462ff1f2cecfd
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Erfahren Sie, wie Sie [PDF aus allen verschiedenen Dokumenttypen erstellen](http
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35491?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35491?enablevpops&quality=12&learn=on&hidetitle=true)
 
 Möchten Sie eine tragbare Version dieses Tutorials? Wählen Sie das PDF-Symbol, um eine geschriebene Version dieses Tutorials zu öffnen oder herunterzuladen.
 
