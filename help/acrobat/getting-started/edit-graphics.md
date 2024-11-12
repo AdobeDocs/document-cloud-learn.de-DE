@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-15476
 exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
-source-git-commit: 25316068e78d6867bd709b3152e30173afd2bfab
+source-git-commit: ee046e998b5396dc5d170c3dbd2c4c77ea725fe7
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -19,4 +19,4 @@ Erfahren Sie, wie Sie Grafiken auf Ihrem PDF erstellen, bearbeiten und verbesser
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3431260?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
