@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
+source-git-commit: f26ffeb845594ada1b0cde035f91781b5b1d3026
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '577'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,10 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
 
 >[!BEGINTABS]
 
+>[!TAB In Echtzeit zusammenarbeiten]
+
+Erfahren Sie, wie Sie einen [Überprüfungsprozess für Dokumente](collaborate.md) erstellen, der nicht nur die Effizienz verbessert, sondern auch die Qualität des Inhalts verbessert.
+
 >[!TAB Neue Seite entwerfen]
 
 Erfahren Sie, wie Sie [eine neue professionell aussehende Seite](add-custom-page.md) in Ihrem PDF mit Adobe Expreß entwerfen.
@@ -33,10 +37,6 @@ Erfahren Sie, wie Sie [Grafiken](edit-graphics.md) auf Ihrem PDF erstellen, bear
 >[!TAB Neues Arbeitsbereichserlebnis]
 
 Erfahren Sie mehr über den [neuen Arbeitsbereich](new-workspace.md) in Acrobat, mit dem Sie schnell Tools erkennen und Ihre PDF-Aufgaben effizient erledigen können.
-
->[!TAB Entdecken Sie PDF-Erkenntnisse mit dem AI-Assistenten]
-
-Erfahren Sie, wie Sie mit dem [AI Assistant](ai-assistant.md) Einblicke in Ihre PDF-Dateien gewinnen.
 
 >[!ENDTABS]
 
