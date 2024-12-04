@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c6058f76f43e271341f1418051921edef1403d6e
+source-git-commit: 229342b0b960e8f170481b24101a4f2c8e859a71
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 3%
@@ -25,7 +25,6 @@ ht-degree: 3%
    + [Überall arbeiten - mit Acrobat Web](getting-started/acrobatweb.md)
    + [Unterwegs produktiv sein.](getting-started/productivity.md)
    + [Arbeiten mit  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
-   + [Woher kommen die PDF?](getting-started/where-do-pdfs-come-from.md)
    + [Erstellen einer PDF](getting-started/create-pdf.md)
    + [Dateien zu einer einzigen PDF zusammenführen](getting-started/combine-to-pdf.md)
    + [Seiten organisieren](getting-started/organize.md)
@@ -43,6 +42,7 @@ ht-degree: 3%
    + [Protect einer PDF-Datei mit einem Kennwort](getting-started/password-protect.md)
    + [Unterschriften einholen.](getting-started/signatures.md)
    + [Dokumente verfolgen](getting-started/track.md)
+   + [Woher kommen die PDF?](getting-started/where-do-pdfs-come-from.md)
 + Erweiterte Aufgaben {#advanced-tasks}
    + [Überblick](advanced-tasks/advanced-tasks-overview.md)
    + [Hinzufügen von Lesezeichen und Hyperlinks](advanced-tasks/bookmarks.md)
