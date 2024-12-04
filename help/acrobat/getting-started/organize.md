@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6832
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 548f7a5979a4b9e829d09090dbd7cec9493f351a
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 10%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ Für die Bereitstellung der besten Kundenerlebnisse müssen Inhalte schneller de
 
 >[!TIP]
 >
->Erfahren Sie, wie Sie beim Organisieren von Seiten eine neue benutzerdefinierte Branding-Seite [hinzufügen](add-custom-page.md).
+>Erfahren Sie, wie Sie beim Organisieren von Seiten eine [neue benutzerdefinierte Seite](add-custom-page.md) hinzufügen.
 
 <br> 
 
