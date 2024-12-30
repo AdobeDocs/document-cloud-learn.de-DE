@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Entwickeln Sie Software, die sich mit JavaScript, Plug-ins oder IAC in Acrobat und Adobe Reader integrieren lässt.
 
-## ACROBAT SDK
+## Acrobat SDK
 
 Das [Acrobat SDK](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/){target="_blank"} ist eine Reihe von Tools, die Sie bei der Entwicklung von Software unterstützen, die mit der Acrobat-Technologie interagiert.
 
