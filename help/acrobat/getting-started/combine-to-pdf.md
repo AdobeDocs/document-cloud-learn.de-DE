@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Dateien auf einer einzigen PDF zusammenführen
 
-Für die Bereitstellung der besten Kundenerlebnisse müssen Inhalte schneller denn je erstellt werden. Erfahren Sie, wie Sie viele verschiedene Dateitypen (PDF, Word, Excel, PowerPoint, JPEG usw.) auf einer einzigen PDF. [Durch das Zusammenführen von Dateien zu einer einzigen PDF](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} können Sie Inhalte, die Sie an andere senden, verwalten und steuern und so ein besseres Erlebnis schaffen.
+Für die Bereitstellung der besten Kundenerlebnisse müssen Inhalte schneller denn je erstellt werden. Erfahren Sie, wie Sie verschiedene Dateitypen (PDF, Word, Excel, PowerPoint, JPEG usw.) nahtlos auf einer einzigen PDF kombinieren können. [Durch das Zusammenführen von Dateien zu einer einzigen PDF](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} können Sie Inhalte, die Sie an andere senden, verwalten und steuern und so ein besseres Erlebnis schaffen.
 
 >[!TIP]
 >

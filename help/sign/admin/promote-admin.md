@@ -5,7 +5,8 @@ feature: Administration
 role: Admin
 level: Intermediate
 jira: KT-15914
-source-git-commit: 5bec453b8902dffc63929adcb28dfe873b2267b5
+exl-id: 5ff13940-e4f0-409c-a069-996b3d762908
+source-git-commit: 5735cc4cbe3c56a6e5c8707012e79212df18ee2e
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%

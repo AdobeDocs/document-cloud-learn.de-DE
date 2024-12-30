@@ -1,7 +1,7 @@
 ---
 source-git-commit: 1f885058e811ce5d24200daaae797f5b6a79aac4
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '172'
 ht-degree: 1%
 
 ---
@@ -9,8 +9,8 @@ ht-degree: 1%
 
 © Copyright 2021 Adobe. All rights reserved.
 
-Jede Person, die eine Kopie dieser Software und der dazugehörigen Dokumentationsdateien (die &quot;Software&quot;) erhält, wird hiermit unentgeltlich ermächtigt, die Software ohne Einschränkung zu bearbeiten, einschließlich der Rechte zur Verwendung, zum Kopieren, Ändern, Zusammenführen, Veröffentlichen, Verteilen, Unterlizenzieren und/oder Verkauf von Kopien der Software, und Personen, denen die Software bereitgestellt wird, dies zu gestatten, sofern folgende Bedingungen erfüllt sind:
+Hiermit wird jeder Person, die eine Kopie dieser Software und der zugehörigen Dokumentationsdateien (die &quot;Software&quot;) erhält, die kostenlose Erlaubnis erteilt, in der Software ohne Einschränkung zu agieren, einschließlich, aber nicht beschränkt auf das Recht, Kopien der Software zu verwenden, zu kopieren, zu ändern, zusammenzuführen, zu veröffentlichen, zu verteilen, unterzulizenzieren und/oder zu verkaufen, und Personen, denen die Software bereitgestellt wird, zu gestatten, dies zu tun, sofern folgende Bedingungen erfüllt sind:
 
-Der obige Copyright-Vermerk und dieser Berechtigungshinweis sind in allen Kopien oder wesentlichen Teilen der Software enthalten.
+Der obige Copyright-Hinweis und dieser Genehmigungshinweis müssen in allen Kopien oder wesentlichen Teilen der Software enthalten sein.
 
-DIE SOFTWARE WIRD &quot;WIE VORHANDEN&quot;, OHNE GEWÄHRLEISTUNG JEDER ART, AUSDRÜCKLICH ODER UNTER ANSPRUCH GENOMMEN, EINSCHLIESSLICH, ABER NICHT AUF DIE GARANTIEN DER HANDELSBARKEIT, EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND UNVERLETZUNG BESCHRÄNKT. AUF KEINEN FALL DÜRFEN DIE AUTOREN ODER URHEBERRECHTSINHABER FÜR KLAMMERN, SCHÄDEN ODER ANDERE HAFTUNG VERANTWORTLICH SEIN, OB BEI EINER VERTRAGSVERLETZUNG, EINEM ANDEREN ODER AUS DER SOFTWARE, AUS ODER IN VERBINDUNG MIT DER SOFTWARE ODER DER VERWENDUNG ODER ANDEREN GESCHLEISTUNGEN IN DER SOFTWARE.
+DIE SOFTWARE WIRD OHNE MÄNGELGEWÄHR ZUR VERFÜGUNG GESTELLT, OHNE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GEWÄHRLEISTUNG JEGLICHER ART, EINSCHLIESSLICH, ABER NICHT BESCHRÄNKT AUF DIE GEWÄHRLEISTUNG DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG VON RECHTEN DRITTER. IN KEINEM FALL HAFTEN DIE AUTOREN ODER COPYRIGHT-INHABER FÜR JEGLICHE ANSPRÜCHE, SCHÄDEN ODER ANDERE HAFTUNGSGRÜNDE, WEDER IM RAHMEN EINER KLAGE AUF VERTRAGSERFÜLLUNG, UNERLAUBTE HANDLUNG ODER ANDEREN FÄLLEN AUFGRUND, AUS DER SOFTWARE ODER IN VERBINDUNG MIT DER SOFTWARE ODER DER VERWENDUNG ODER ANDEREN HANDLUNGEN IN DER SOFTWARE.
