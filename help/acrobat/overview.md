@@ -7,10 +7,10 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6864
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 6756af6adb638285d01f16a8340dd3d1c8dfe782
+source-git-commit: 5834bf08c406ff53f826059fd64d91319ab19dd4
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 3%
+source-wordcount: '155'
+ht-degree: 7%
 
 ---
 
@@ -27,58 +27,99 @@ Mit Adobe Acrobat, einer Lösung von Adobe Document Cloud, kannst du PDF-Dokumen
 
 ## Vorgestellte Lernpfade
 
-<table style="table-layout:fixed">
-<tr>
- <td>
-    <a href="getting-started/getting-started-overview.md">
-      <img alt="Erste Schritte" src="assets/start.png" />
-    </a>
-    <div>
-    <a href="getting-started/getting-started-overview.md"><strong>Erste Schritte</strong></a>
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Getting started">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/getting-started-overview" title="Erste Schritte" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/media_19b331849a47f54403361e7661d1882d95fe97fcf.png?width=400&format=webply&optimize=medium" alt="Erste Schritte"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/getting-started-overview" target="_blank" rel="referrer" title="Erste Schritte">Erste Schritte</a>
+                    </p>
+                    <p class="is-size-6">Erfahre, wie du PDF-Dateien erstellen, bearbeiten, umwandeln, schützen und mehr.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/getting-started-overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Entdecken</span>
+                3</a>
+            </div>
+        </div>
     </div>
-    Erfahre, wie du PDF-Dateien erstellen, bearbeiten, umwandeln, schützen und mehr.
-    <br>
-  </td>
-  <td>
-    <a href="advanced-tasks/advanced-tasks-overview.md">
-      <img alt="Erweiterte Aufgaben" src="assets/advanced-tasks.png" />
-    </a>
-    <div>
-    <a href="advanced-tasks/advanced-tasks-overview.md"><strong>Erweiterte Aufgaben</strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Advanced tasks">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advanced-tasks-overview" title="Erweiterte Aufgaben" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/media_17d55969ad72e5933df620c2d5c84ba8e273ab39c.png?width=400&format=webply&optimize=medium" alt="Erweiterte Aufgaben"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advanced-tasks-overview" target="_blank" rel="referrer" title="Erweiterte Aufgaben">Erweiterte Aufgaben</a>
+                    </p>
+                    <p class="is-size-6">Gehen Sie mit bestimmten Aufgaben und Automatisierung über die Grundlagen hinaus</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advanced-tasks-overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Entdecken</span>
+                3</a>
+            </div>
+        </div>
     </div>
-    Gehen Sie mit bestimmten Aufgaben und Automatisierung über die Grundlagen hinaus
-    <br>
-  </td>
-  <td>
-    <a href="60-second/60-second-overview.md">
-      <img alt="60-Sekunden-Acrobat" src="assets/60-sec.png" />
-    </a>
-  <div>
-    <a href="60-second/60-second-overview.md"><strong>Acrobat (60 Sekunden)</strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="60-second Acrobat">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/60-second-overview" title="60-Sekunden-Acrobat" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/media_1e95e07bbceaf7e8f9bfccff9dccc7827fe813d96.png?width=400&format=webply&optimize=medium" alt="60-Sekunden-Acrobat"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/60-second-overview" target="_blank" rel="referrer" title="60-Sekunden-Acrobat">Acrobat (60 Sekunden)</a>
+                    </p>
+                    <p class="is-size-6">Tutorials in Bissgröße, die dir helfen, in maximal einer Minute einen neuen Trick in Acrobat zu erlernen</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/60-second-overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Entdecken</span>
+                3</a>
+            </div>
+        </div>
     </div>
-    Tutorials in Bissgröße, die dir helfen, in maximal einer Minute einen neuen Trick in Acrobat zu erlernen
-    <br>
-  </td>
-</tr>
-  <td>
-    <a href="integrate/integrate-overview.md">
-      <img alt="Integrationen" src="assets/integrations.png" />
-    </a>
-    <div>
-    <a href="integrate/integrate-overview.md"><strong>Integrationen</strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Integrations">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview" title="Integrationen" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/media_171337d52d3205c2011e230e71736cc71f74ba0ee.png?width=400&format=webply&optimize=medium" alt="Integrationen"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview" target="_blank" rel="referrer" title="Integrationen">Integrationen</a>
+                    </p>
+                    <p class="is-size-6">Acrobat zu bestehenden Anwendungen wie Microsoft, Google Drive, Dropbox und Box hinzufügen</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Entdecken</span>
+                3</a>
+            </div>
+        </div>
     </div>
-    Acrobat zu bestehenden Anwendungen wie Microsoft, Google Drive, Dropbox und Box hinzufügen
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Spacer" src="assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
