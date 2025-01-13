@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 jira: KT-9910
 thumbnail: KT-9910.jpg
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 6417f5a5ddcf97fbf3ce9e2b26fc7043c79defea
+source-git-commit: 88bbe7e4866b46984017455c61f13c518b1465fc
 workflow-type: tm+mt
-source-wordcount: '638'
+source-wordcount: '507'
 ht-degree: 0%
 
 ---
@@ -284,74 +284,3 @@ Unsere Tutorials zu Acrobat richten sich speziell an Behörden auf Bundes-, Land
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-<table>
-<tr>
-  <td>
-    <a href="making-pdfs-accessible.md">
-      <img alt="Barrierefreiheit von PDF (komplett 14:11)" src="../../assets/Accessiblecomplete.png" />
-    </a>
-    <div>
-    <a href="making-pdfs-accessible.md"><strong>Barrierefreiheit der PDF (vollständig 14:11)</strong></a>
-    </div>
-    <em>Erfahren Sie mehr über den optimalen Arbeitsablauf zum Erstellen barrierefreier PDF-Dateien</em>
-    2<br>
-  </td>
-  <td>
-    <a href="understanding-accessibility.md">
-      <img alt="Barrierefreie PDF: Barrierefreiheit" src="../../assets/Accessibiityunderstanding.png" />
-    </a>
-    <div>
-    <a href="understanding-accessibility.md"><strong>Barrierefreiheit für PDF: Verständnis der Barrierefreiheit</strong></a>
-    </div>
-    <em>Erfahren Sie, was es bedeutet, eine PDF für Menschen mit Behinderungen barrierefrei zu machen</em>
-    2<br>
-  </td>  
-  <td>
-    <a href="collaborate-on-documents.md">
-      <img alt="Barrierefreie PDF: Authoring in Word" src="../../assets/Accessibilityword.png" />
-    </a>
-    <div>
-    <a href="collaborate-on-documents.md"><strong>Barrierefreie PDF: Authoring in Word</strong></a>
-    </div>
-    <em>Best Practices für das Erstellen von PDF-Dateien, die in [!DNL Microsoft Word]</em> erstellt wurden
-    2<br>
-  </td>
-   <td>
-    <a href="finishing-in-acrobat.md">
-      <img alt="Barrierefreie PDF: Fertigstellung in Acrobat" src="../../assets/Accessibilityacrobat.png" />
-    </a>
-    <div>
-    <a href="finishing-in-acrobat.md"><strong>Barrierefreie PDF: Bearbeitung in Acrobat</strong></a>
-    </div>
-    <em>Erfahren Sie, wie Sie den Zugriff auf Ihre PDF-Datei mit den Tools in Acrobat Pro abschließen</em>
-    2<br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="making-pdf-ballots-accessible.md">
-      <img alt="Zugänglichere PDF-Abstimmungen" src="../../assets/Accessibleballots.png" />
-    </a>
-    <div>
-    <a href="making-pdf-ballots-accessible.md"><strong>Zugänglichere PDF-Stimmzettel</strong></a>
-    </div>
-    <em>Dieses Webinar behandelt die wichtigsten Bereiche der Barrierefreiheit für PDF, die erforderlich sind, damit Benutzer von Hilfstechnologien wie Bildschirmlesesoftware ihre Stimmzettel lesen und abschließen können</em>
-    2<br>
-  </td>  
-  <td>
-   <img alt="Spacer" src="../../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Spacer" src="../../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
