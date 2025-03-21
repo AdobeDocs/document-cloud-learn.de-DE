@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 59400129df861a6a92e69609b965b2fd82371640
+source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '545'
 ht-degree: 6%
 
 ---
@@ -69,7 +69,7 @@ ht-degree: 6%
       + [Erste Schritte für neue Administratoren](admin/get-started-admin.md)
       + [Einstieg in Administratoren](admin/up-and-running-admin.md)
       + [Konfigurieren von Benachrichtigungen für Ereignisse und Warnungen](admin/set-up-shared-events-and-alert.md)
-      + [Benutzer hinzufügen](admin/add-users-to-your-account.md)
+      + [Neuen Benutzer hinzufügen](admin/add-users-to-your-account.md)
       + [Erstellen und Verwalten von Gruppen](admin/create-and-manage-groups.md)
       + [Einrichten eines externen Archivs](admin/set-up-your-external-archive.md)
       + [Erstellen einer Vorlage](sign-advanced-users/create-a-template.md)
@@ -80,7 +80,7 @@ ht-degree: 6%
       + [Massenversand](sign-advanced-users/megasign.md)
       + [Erstellen eines benutzerdefinierten Workflows](admin/building-a-custom-workflow.md)
       + [Audit-Berichte](admin/audit-reports.md)
-      + [So stufen Sie einen Benutzer auf eine Administratorrolle herauf](admin/promote-admin.md)
+      + [Produkt- und Support-Administratorrollen zuweisen](admin/promote-admin.md)
    + Erweiterte Aufgaben {#advanced-tasks-admins}
       + [Globale Einstellungen](admin/learn-about-global-settings.md)
       + [Kontozugriff freigeben](admin/share-account-access.md)

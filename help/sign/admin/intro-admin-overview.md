@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 96a2d14e4bc47061e3b545585ba2a28822764409
+source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
 workflow-type: tm+mt
-source-wordcount: '593'
+source-wordcount: '587'
 ht-degree: 1%
 
 ---
@@ -78,7 +78,7 @@ Erfahren Sie, wie Sie das [Tool für den Massendownload](bulk-download-tool.md) 
     <div>
     <a href="add-users-to-your-account.md"><strong>Neuen Benutzer hinzufügen</strong></a>
     </div>
-    <em>Benutzer für Acrobat Sign hinzufügen und verwalten</em>
+    <em>Neue Benutzer zu Acrobat Sign hinzufügen</em>
     2<br>
   </td>
 </tr>
@@ -189,12 +189,12 @@ Erfahren Sie, wie Sie das [Tool für den Massendownload](bulk-download-tool.md) 
   </td>
   <td>
     <a href="promote-admin.md">
-      <img alt="So stufen Sie einen Benutzer auf eine Administratorrolle herauf" src="../assets/promote-admin.png" />
+      <img alt="Produkt- und Support-Administratorrollen zuweisen" src="../assets/admin-roles.jpg" />
     </a>
     <div>
-    <a href="promote-admin.md"><strong>So stufen Sie einen Benutzer auf eine Administratorrolle hoch</strong></a>
+    <a href="promote-admin.md"><strong>Produkt- und Support-Administratorrollen zuweisen</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie einen Benutzer mithilfe der Admin Console auf eine Acrobat Sign-Administratorrolle hochstufen</em>
+    <em>Erfahren Sie, wie Sie einen Benutzer mithilfe der Admin Console zu einem Acrobat Sign-Produkt oder einer Supportadministratorrolle hochstufen</em>
     2<br>
   </td>
    <td>

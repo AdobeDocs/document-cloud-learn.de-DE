@@ -1,20 +1,20 @@
 ---
-title: So stufen Sie einen Benutzer auf eine Administratorrolle herauf
-description: Erfahren Sie, wie Sie einen Benutzer mithilfe der Admin Console zu einer Acrobat Sign-Administratorrolle hochstufen.
+title: Produktadministrator- und Supportadministratorrollen zuweisen
+description: Erfahren Sie, wie Sie einen Benutzer mithilfe der Admin Console zu einem Acrobat Sign-Administrator oder einer Supportrolle hochstufen.
 feature: Administration
 role: Admin
 level: Intermediate
-jira: KT-15914
+jira: KT-17583
 exl-id: 5ff13940-e4f0-409c-a069-996b3d762908
-source-git-commit: 5735cc4cbe3c56a6e5c8707012e79212df18ee2e
+source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 0%
+source-wordcount: '49'
+ht-degree: 2%
 
 ---
 
-# So stufen Sie einen Benutzer auf eine Administratorrolle herauf
+# Produktadministrator- und Supportadministratorrollen zuweisen
 
-Erfahren Sie, wie Sie einen Benutzer mithilfe der Adobe Admin Console zu einer Acrobat Sign-Administratorrolle hochstufen.
+Erfahren Sie, wie Sie einen Benutzer mithilfe der [Admin Console](https://adminconsole.adobe.com/) zu einem Acrobat Sign-Administrator oder einer Supportrolle hochstufen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433447?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453157?quality=12&learn=on&hidetitle=true)
