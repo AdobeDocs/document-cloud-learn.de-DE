@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 72a03c600396f317278f5dfcd251796631b0c25f
+source-git-commit: 1d7e3bf8a00967726b0b4200a047e3519ddfe484
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '615'
 ht-degree: 1%
 
 ---
@@ -204,7 +204,7 @@ Erfahren Sie, wie Sie das [Tool für den Massendownload](bulk-download-tool.md) 
     <div>
     <a href="promote-admin.md"><strong>Produkt- und Support-Administratorrollen zuweisen</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie einen Benutzer mithilfe der Admin Console zu einem Acrobat Sign-Produkt oder einer Supportadministratorrolle hochstufen</em>
+    <em>Erfahren Sie, wie Sie der Admin Console eine Acrobat Sign-Benutzerproduktadministrator- und Supportadministratorrolle zuweisen</em>
     2<br>
   </td>
 </tr> 
