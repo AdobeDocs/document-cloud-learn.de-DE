@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 8755e93c7ea0019a6edb6084a97c5e9cbb93942a
+source-git-commit: 72a03c600396f317278f5dfcd251796631b0c25f
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '616'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
 
 >[!TAB Neuen Benutzer hinzufügen]
 
-Erfahren Sie, wie Sie [Benutzer für Acrobat Sign hinzufügen und verwalten](add-users-to-your-account.md).
+Erfahren Sie, wie Sie [neue Benutzer zu Acrobat Sign hinzufügen](add-users-to-your-account.md).
 
 >[!TAB Einrichten von Datenschutzadministratoren]
 
@@ -72,6 +72,18 @@ Erfahren Sie, wie Sie das [Tool für den Massendownload](bulk-download-tool.md) 
     2<br>
   </td>
   <td>
+    <a href="add-users-to-your-account.md">
+      <img alt="Neuen Benutzer hinzufügen" src="../assets/Add-a-new-user.jpg" />
+    </a>
+    <div>
+    <a href="add-users-to-your-account.md"><strong>Neuen Benutzer hinzufügen</strong></a>
+    </div>
+    <em>Weitere Informationen zum Hinzufügen neuer Benutzer zu Acrobat Sign</em>
+    2<br>
+  </td>
+</tr>
+<tr>
+ <td>
     <a href="add-admin.md">
       <img alt="Neuen Kontoadministrator hinzufügen" src="../assets/Add-a-new-admin.jpg" />
     </a>
@@ -79,18 +91,6 @@ Erfahren Sie, wie Sie das [Tool für den Massendownload](bulk-download-tool.md) 
     <a href="add-admin.md"><strong>Neuen Kontoadministrator hinzufügen</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie einen neuen Benutzer erstellen oder einen bestehenden Benutzer zur Acrobat Sign-Administratorrolle hochstufen</em>
-    2<br>
-  </td>
-</tr>
-<tr>
- <td>
-    <a href="create-and-manage-groups.md">
-      <img alt="Erstellen und Verwalten von Gruppen" src="../assets/Creating-Groups.png" />
-    </a>
-    <div>
-    <a href="create-and-manage-groups.md"><strong>Erstellen und Verwalten von Gruppen</strong></a>
-    </div>
-    <em>Gruppen erstellen, Benutzer zu Gruppen hinzufügen und Gruppeneinstellungen bearbeiten</em>
     2<br>
   </td>
   <td>
