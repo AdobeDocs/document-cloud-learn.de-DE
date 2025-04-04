@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 5ae26a41271759a3a352fbfff68bab685d723067
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
 source-wordcount: '488'
 ht-degree: 3%
@@ -19,7 +19,7 @@ ht-degree: 3%
 + [Überblick](overview.md)
 + Erste Schritte {#getting-started}
    + [Überblick](getting-started/getting-started-overview.md)
-   + [Neue Arbeitsbereichserfahrung](getting-started/new-workspace.md)
+   + [Neues Erlebnis mit Acrobat](getting-started/new-workspace.md)
    + [Grundlagen des Arbeitsbereichs](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Mit AI Assistant PDF-Erkenntnisse gewinnen](getting-started/ai-assistant.md)
    + [Überall arbeiten - mit Acrobat Web](getting-started/acrobatweb.md)

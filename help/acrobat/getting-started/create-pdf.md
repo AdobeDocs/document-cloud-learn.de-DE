@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5526
 thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: 4426993598edcbf560780dd6369462ff1f2cecfd
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Erstellen einer PDF
 
-Erfahren Sie, wie Sie [PDF aus allen verschiedenen Dokumenttypen erstellen](https://www.adobe.com/de/acrobat/online/convert-pdf.html). Beginnen Sie mit einer in Microsoft Office erstellten Datei oder einer Creative Cloud-App, oder verwenden Sie ein Bild, einen Scan oder sogar eine Website. Das Konvertieren von Inhalten in PDF bietet eine praktische und zuverlässige Möglichkeit, Dokumente freizugeben, zu bewahren und zu schützen, während die Originalformatierung beibehalten wird. In diesem Video-Tutorial wird das [neue Arbeitsbereichserlebnis](new-workspace.md) verwendet.
+Erfahren Sie, wie Sie [PDF aus allen verschiedenen Dokumenttypen erstellen](https://www.adobe.com/de/acrobat/online/convert-pdf.html). Beginnen Sie mit einer in Microsoft Office erstellten Datei oder einer Creative Cloud-App, oder verwenden Sie ein Bild, einen Scan oder sogar eine Website. Das Konvertieren von Inhalten in PDF bietet eine praktische und zuverlässige Möglichkeit, Dokumente freizugeben, zu bewahren und zu schützen, während die Originalformatierung beibehalten wird. In diesem Video-Tutorial wird das [neue Acrobat-Erlebnis](new-workspace.md) verwendet.
 
 >[!TIP]
 >

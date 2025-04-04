@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5529
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: ee046e998b5396dc5d170c3dbd2c4c77ea725fe7
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 2%
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 # PDF in verschiedene Dateiformate konvertieren
 
-Erfahren Sie, wie Sie Ihre PDF-Dateien in verschiedene Dateiformate konvertieren, z. B. [Microsoft Word](https://www.adobe.com/de/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/de/acrobat/online/pdf-to-ppt.html) und [Excel](https://www.adobe.com/de/acrobat/online/pdf-to-excel.html). Das Konvertieren Ihrer PDF in [Adobe Expreß](https://express.adobe.com) zum Hinzufügen von Branding-Designelementen wird ebenfalls behandelt. Wenn Sie Ihren PDF in ein anderes Dateiformat wie Microsoft Word konvertieren, verbessert dies die Effizienz des Dokumenten-Workflows und spart erheblich Zeit, wenn Sie umfangreiche Änderungen an Ihren langen Dokumenten vornehmen. In diesem Video-Tutorial wird das neue Arbeitsbereich-Erlebnis verwendet.
+Erfahren Sie, wie Sie Ihre PDF-Dateien in verschiedene Dateiformate konvertieren, z. B. [Microsoft Word](https://www.adobe.com/de/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/de/acrobat/online/pdf-to-ppt.html) und [Excel](https://www.adobe.com/de/acrobat/online/pdf-to-excel.html). Das Konvertieren Ihrer PDF in [Adobe Expreß](https://express.adobe.com) zum Hinzufügen von Branding-Designelementen wird ebenfalls behandelt. Wenn Sie Ihren PDF in ein anderes Dateiformat wie Microsoft Word konvertieren, verbessert dies die Effizienz des Dokumenten-Workflows und spart erheblich Zeit, wenn Sie umfangreiche Änderungen an Ihren langen Dokumenten vornehmen. Diese Videoschulung nutzt das neue Acrobat-Erlebnis.
 
 >[!TIP]
 >
