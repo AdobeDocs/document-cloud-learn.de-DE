@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
+source-git-commit: 2a19279b4dbc1c1a24ef4ec7f79301c2da1465d8
 workflow-type: tm+mt
-source-wordcount: '852'
+source-wordcount: '857'
 ht-degree: 1%
 
 ---
 
 # Übersicht über die ersten Schritte
 
-In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acrobat verwenden. Von der Erstellung eines Dokuments bis hin zum Schützen oder [Bearbeiten Ihrer PDF-Dateien](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target="_blank"} - dieser Inhalt ist so konzipiert, dass er Sie beim PDF von Arbeitsabläufen unterstützt. Lesen Sie diese fachkundig kuratierte [Wiedergabeliste](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users), um mit Acrobat zu beginnen.
+In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acrobat verwenden. Von der Erstellung eines Dokuments bis hin zum Schützen oder [Bearbeiten Ihrer PDF-Dateien](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target="_blank"} - dieser Inhalt ist so konzipiert, dass Sie sich leichter in die PDF-Arbeitsabläufe einarbeiten können. Lesen Sie diese fachkundig kuratierte [Wiedergabeliste](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users), um mit Acrobat zu beginnen.
 
 ## Neue Funktionen
 
@@ -448,7 +448,7 @@ Erfahren Sie mehr über das [neue Acrobat-Erlebnis](new-workspace.md), mit dem S
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files" target="_self" rel="referrer" title="Auf einem PDF kommentieren">Kommentar zu einem PDF</a>
                     </p>
-                    <p class="is-size-6">Kommentare hinzufügen und den PDF für andere freigeben</p>
+                    <p class="is-size-6">Erfahren Sie, wie Sie Kommentare auf einem freigegebenen PDF mit nur einem Webbrowser hinzufügen.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
