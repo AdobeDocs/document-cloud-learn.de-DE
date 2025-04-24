@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 2a19279b4dbc1c1a24ef4ec7f79301c2da1465d8
+source-git-commit: 4832311602e9626774a952f2a9b2aeb6ad576305
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '853'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,10 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfahren Sie, wie Sie Adobe Acro
 
 >[!BEGINTABS]
 
+>[!TAB Kommentar zu einem PDF]
+
+Erfahren Sie, wie Sie [einen Kommentar zu einer freigegebenen PDF](comment-on-pdf-files.md) mit einem Webbrowser abgeben.
+
 >[!TAB In Echtzeit zusammenarbeiten]
 
 Erfahren Sie, wie Sie einen [Überprüfungsprozess für Dokumente](collaborate.md) erstellen, der nicht nur die Effizienz verbessert, sondern auch die Qualität des Inhalts verbessert.
@@ -33,10 +37,6 @@ Erfahren Sie, wie Sie [eine neue professionell aussehende Seite](add-custom-page
 >[!TAB Grafiken auf einem PDF bearbeiten]
 
 Erfahren Sie, wie Sie [Grafiken](edit-graphics.md) auf Ihrem PDF erstellen, bearbeiten und verbessern können.
-
->[!TAB Neues Acrobat-Erlebnis]
-
-Erfahren Sie mehr über das [neue Acrobat-Erlebnis](new-workspace.md), mit dem Sie schnell Tools erkennen und Ihre PDF-Aufgaben effizient erledigen können.
 
 >[!ENDTABS]
 
