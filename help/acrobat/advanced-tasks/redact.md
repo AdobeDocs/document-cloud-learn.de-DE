@@ -67,8 +67,8 @@ Verwenden Sie das Suchfeld, um nach einem bestimmten Wort oder Ausdruck zu suche
 
 >[!TIP]
 >
-Um den Schwärzungsprozess zu beschleunigen, sollten Sie die [Action Wizard](../advanced-tasks/action.md) auschecken.
+>Um den Schwärzungsprozess zu beschleunigen, sollten Sie die [Action Wizard](../advanced-tasks/action.md) auschecken.
 
 >[!TIP]
 >
-Dieses Video ist Teil der Wiedergabeliste [Erweiterte Aufgaben in Adobe Acrobat ausführen](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks), die auf dem Experience League kostenlos verfügbar ist!
+>Dieses Video ist Teil der Wiedergabeliste [Erweiterte Aufgaben in Adobe Acrobat ausführen](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks), die auf dem Experience League kostenlos verfügbar ist!

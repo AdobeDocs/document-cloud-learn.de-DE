@@ -36,7 +36,7 @@ Erfahren Sie, wie Sie [große Dokumente einrichten und Vereinbarungsdienste](sal
 
 Erfahren Sie, wie Sie Ihr Konto ganz einfach mit Salesforce verknüpfen können, um [automatische Updates](salesforce-automatic-updates.md) zu erhalten.
 
->Integration der Registerkarte &quot;[!TAB Dokumente&quot; für Microsoft Teams]
+>[!TAB Integration der Registerkarte &quot; Dokumente&quot; für Microsoft Teams]
 
 Erfahren Sie, wie Sie Dokumente direkt von der Registerkarte [Dokumente](acrobat-sign-teams-documents-tab.md) in [!DNL Microsoft Teams] zur Signatur senden.
 

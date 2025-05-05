@@ -25,7 +25,7 @@ ht-degree: 6%
 + [Überblick](overview.md)
 + Erste Schritte {#getting-started}
    + [Überblick](sign-beginner-tutorials/beginner-users-overview.md)
-   + {#getting-started-sending} senden
+   + senden{#getting-started-sending}
       + [Grundlagen des Arbeitsbereichs](sign-beginner-tutorials/quick-tour.md)
       + [Erste Schritte mit Acrobat Sign](sign-beginner-tutorials/new-sender.md)
       + [Senden an einen einzelnen Empfänger](sign-beginner-tutorials/send-to-single-recipient.md)
@@ -35,19 +35,19 @@ ht-degree: 6%
       + [Ändern eines Dokuments nach dem Senden](sign-beginner-tutorials/modify-in-flight.md)
       + [Ersetzen eines Unterzeichners](sign-beginner-tutorials/replace-signer.md)
       + [Termine und Erinnerungen festlegen](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + {#getting-started-signing} signieren
+   + signieren{#getting-started-signing}
       + [Dokumente elektronisch unterschreiben](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Ein Dokument ausfüllen und unterschreiben](sign-beginner-tutorials/fill-and-sign.md)
       + [Persönliches Einholen einer Unterschrift](sign-beginner-tutorials/sign-in-person.md)
       + [Unterschrift an eine andere Person delegieren](sign-beginner-tutorials/delegate-signing.md)
       + [Was ist eine digitale Signatur?](sign-beginner-tutorials/sign-with-a-digital-signature.md)
       + [Signieren mit einem Stempel](sign-beginner-tutorials/sign-with-a-stamp.md)
-   + {#getting-started-managing} verwalten
+   + verwalten{#getting-started-managing}
       + [Vereinbarungen verwalten und verfolgen](sign-beginner-tutorials/manage-and-track.md)
       + [Erstellen einer Dokumentvorlage](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + Erweiterte Aufgaben {#advanced-tasks}
    + [Überblick](sign-advanced-users/advanced-users-overview.md)
-   + {#advanced-tasks-sending} senden
+   + senden{#advanced-tasks-sending}
       + [Einrichten der Unterschriftsreihenfolge](sign-advanced-users/setting-up-routing.md)
       + [Verwenden der Delegatorrolle](sign-advanced-users/delegate-signature.md)
       + [Verwenden der Genehmigerrolle](sign-advanced-users/add-an-approver.md)
@@ -58,12 +58,12 @@ ht-degree: 6%
       + [Erstellen eines Webformulars](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Acrobat Sign-Text-Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Verwenden von Text-Tagging in  [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
-   + {#advanced-tasks-managing} verwalten
+   + verwalten{#advanced-tasks-managing}
       + [Berichterstellung und Transaktionsnutzung](sign-advanced-users/creating-a-report.md)
       + [Dokumentvorlagen verwalten](sign-advanced-users/edit-a-template.md)
       + [Vorhandenes Webformular ändern](sign-advanced-users/modify-webform.md)
       + [Verwalten von Webformulardaten](sign-advanced-users/manage-webform-data.md)
-+ {#admin-set-up} verwalten
++ verwalten{#admin-set-up}
    + [Überblick](admin/intro-admin-overview.md)
    + Erste Schritte {#getting-started-admin}
       + [Erste Schritte für neue Administratoren](admin/get-started-admin.md)
@@ -162,13 +162,13 @@ ht-degree: 6%
          + [Benutzerdefinierter Workflow für den IEP-Prozess für Bildungseinrichtungen](sign-usecase/usecase-edu-iep.md)
    + Anwendungsbeispiele {#use-case}
       + [Schaukasten](sign-usecase/use-case-showcase.md)
-+ {#develop} entwickeln
++ entwickeln{#develop}
    + [Überblick](develop/develop-overview.md)
    + APIs und Webhooks {#custom}
       + [Sammeln von Dokumenten mit großen Volumen mit GigaSign](develop/gigasign.md)
       + [Integrierte Erlebnisse für elektronische Unterschriften und Dokumente erstellen](develop/embeddedesignature.md)
       + [Webhooks einrichten](develop/webhooks.md)
-+ {#deploy} bereitstellen
++ bereitstellen{#deploy}
    + [Überblick](deploy-overview.md)
 + Mobil {#mobile}
    + [Überblick](mobile/mobile-overview.md)

@@ -27,10 +27,10 @@ Erfahren Sie, wie Sie mit der Designer für benutzerdefinierte Workflows einen I
 
 >[!NOTE]
 >
-Gruppenadministratoren können Workflows jeder Gruppe zuweisen, die sie verwalten (nicht nur ihrer primären Gruppe). Gruppenadministratoren können auch jeden Workflow bearbeiten, der jeder von ihnen verwalteten Gruppe zugewiesen ist.
+>Gruppenadministratoren können Workflows jeder Gruppe zuweisen, die sie verwalten (nicht nur ihrer primären Gruppe). Gruppenadministratoren können auch jeden Workflow bearbeiten, der jeder von ihnen verwalteten Gruppe zugewiesen ist.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
-Dieses Video ist Teil der Wiedergabeliste [Erste Schritte mit Acrobat Sign für Administratoren](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), die auf dem Experience League kostenlos verfügbar ist!
+>Dieses Video ist Teil der Wiedergabeliste [Erste Schritte mit Acrobat Sign für Administratoren](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), die auf dem Experience League kostenlos verfügbar ist!

@@ -33,4 +33,4 @@ Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerb
 
 >[!TIP]
 >
-Dieses Video ist Teil der Wiedergabelisten [Erweiterte Benutzeraufgaben](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) und [Erste Schritte mit Acrobat Sign für Administratoren](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), die auf dem Experience League kostenlos zur Verfügung stehen!
+>Dieses Video ist Teil der Wiedergabelisten [Erweiterte Benutzeraufgaben](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) und [Erste Schritte mit Acrobat Sign für Administratoren](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), die auf dem Experience League kostenlos zur Verfügung stehen!

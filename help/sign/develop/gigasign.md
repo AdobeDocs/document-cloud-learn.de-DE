@@ -29,7 +29,7 @@ Mit Gigasign könnt ihr Dokumente zur Unterzeichnung an mehrere Tausend Personen
 
 [GigaSign-Zip-Datei herunterladen](https://acrobat.adobe.com/id/urn:aaid:sc:US:001cf62d-1cab-46c7-aa96-661ac8680206)
 
-[Download-Link für Java 1.8 (nur bei Bedarf)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
+[Download-Link für Java 1.8 (nur bei Bedarf)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html){target="_blank"} 
 
 [IP-Adressen in weiße Liste (nur bei Bedarf)](https://helpx.adobe.com/de/sign/system-requirements.html#IPs){target="_blank"}
 

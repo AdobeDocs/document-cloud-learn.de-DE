@@ -66,7 +66,7 @@ ht-degree: 3%
       + [Gescannte Dokumente und komplexe Listen](advanced-tasks/accessibilitysession4.md)
       + [Hinzufügen von Formularfeldern zu einem mit Tags versehenen PDF](advanced-tasks/accessibilitysession5.md)
       + [Hinzufügen von Formularfeldern zu einem PDF ohne Tags](advanced-tasks/accessibilitysession6.md)
-+ Acrobat {#60-second} (60 Sekunden)
++ Acrobat (60 Sekunden) {#60-second}
    + [Überblick](60-second/60-second-overview.md)
    + [PDF mit Acrobat Web bearbeiten](60-second/edit.md)
    + [Text in einer gescannten PDF-Datei erkennen](60-second/textrecognition.md)
@@ -125,9 +125,9 @@ ht-degree: 3%
          + [#2 - Authoring in Word](industry/gov/authoring-in-word.md)
          + [#3 - Fertigstellung in Acrobat](industry/gov/finishing-in-acrobat.md)
          + [Zugänglichere PDF-Abstimmungen](industry/gov/making-pdf-ballots-accessible.md)
-+ {#develop} entwickeln
++ entwickeln{#develop}
    + [Überblick](develop/develop-overview.md)
-+ {#deploy} bereitstellen
++ bereitstellen{#deploy}
    + [Überblick](deploy/deploy-overview.md)
    + [Wichtige Updates für Acrobat DC für ETLA-Kunden](deploy/signentitlementchanges.md)
 + Mobil {#mobile}
