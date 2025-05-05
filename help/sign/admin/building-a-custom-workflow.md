@@ -20,10 +20,10 @@ Erfahrt, wie ihr Dokumenten-Workflows so zuschneidet und automatisiert, dass ihr
 
 [!BADGE Anwendungsfälle]
 
-* [Benutzerdefinierter Workflow für den IEP-Prozess für Bildungseinrichtungen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
+* [Benutzerdefinierter Workflow für den IEP-Prozess für Bildungseinrichtungen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=de)
 Erfahren Sie, wie Sie mit der Designer für benutzerdefinierte Workflows einen IEP-Prozess (Individualized Education Program) digitalisieren
-* [Forms für Verträge und Anforderungen der öffentlichen Hand](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en)
-* [Geschäftsverträge und Anforderung Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en)
+* [Forms für Verträge und Anforderungen der öffentlichen Hand](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=de)
+* [Geschäftsverträge und Anforderung Forms](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=de)
 
 >[!NOTE]
 >
@@ -33,4 +33,4 @@ Erfahren Sie, wie Sie mit der Designer für benutzerdefinierte Workflows einen I
 
 >[!TIP]
 >
->Dieses Video ist Teil der Wiedergabeliste [Erste Schritte mit Acrobat Sign für Administratoren](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), die auf dem Experience League kostenlos verfügbar ist!
+>Dieses Video ist Teil der Wiedergabeliste [Erste Schritte mit Acrobat Sign für Administratoren](https://experienceleague.adobe.com/de/playlists/acrobat-sign-get-started-administrators), die auf dem Experience League kostenlos verfügbar ist!

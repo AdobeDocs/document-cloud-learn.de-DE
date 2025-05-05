@@ -20,13 +20,13 @@ Erfahren Sie, wie Sie Hunderte von Signaturen (bis zu 1.000 Empfänger bei jedem
 
 [!BADGE Anwendungsfälle]
 
-* [Telearbeit-Vereinbarung](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=en)
-* [Richtlinienvereinbarung](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=en)
+* [Telearbeit-Vereinbarung](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=de)
+* [Richtlinienvereinbarung](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=de)
 
 >[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
 
-[Laden Sie die Beispiel-CSV-Datei im ZIP-Format herunter](../assets/sendInBulkSample.zip). Hier erfahren Sie mehr über alle Werte, die Sie in Ihrer CSV-Datei [festlegen können](https://helpx.adobe.com/sign/adv-user/send-in-bulk/send-with-csv.html).
+[Laden Sie die Beispiel-CSV-Datei im ZIP-Format herunter](../assets/sendInBulkSample.zip). Hier erfahren Sie mehr über alle Werte, die Sie in Ihrer CSV-Datei [festlegen können](https://helpx.adobe.com/de/sign/adv-user/send-in-bulk/send-with-csv.html).
 
 >[!TIP]
 >
->Dieses Video ist Teil der Wiedergabelisten [Erweiterte Benutzeraufgaben](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) und [Erste Schritte mit Acrobat Sign für Administratoren](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), die auf dem Experience League kostenlos zur Verfügung stehen!
+>Dieses Video ist Teil der Wiedergabelisten [Erweiterte Benutzeraufgaben](https://experienceleague.adobe.com/de/playlists/acrobat-sign-perform-advanced-tasks-business-users) und [Erste Schritte mit Acrobat Sign für Administratoren](https://experienceleague.adobe.com/de/playlists/acrobat-sign-get-started-administrators), die auf dem Experience League kostenlos zur Verfügung stehen!

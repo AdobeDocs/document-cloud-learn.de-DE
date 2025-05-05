@@ -22,4 +22,4 @@ Erfahren Sie, wie Sie den schreibgeschützten Zugriff auf Transaktionen im Konto
 
 >[!TIP]
 >
->Dieses Video ist Teil der Wiedergabeliste [Erweiterte Aufgaben für Administratoren](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators), die auf dem Experience League kostenlos verfügbar ist!
+>Dieses Video ist Teil der Wiedergabeliste [Erweiterte Aufgaben für Administratoren](https://experienceleague.adobe.com/de/playlists/acrobat-sign-perform-advanced-tasks-administrators), die auf dem Experience League kostenlos verfügbar ist!

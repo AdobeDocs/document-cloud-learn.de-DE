@@ -22,4 +22,4 @@ In diesem 60-Sekunden-Videotutorial erfahren Sie, wie Sie eine E-Mail-[PowerPoin
 
 >[!TIP]
 >
->Dieses Video ist Teil der Wiedergabeliste [Acrobat und Microsoft 365 integrieren](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365), die auf dem Experience League kostenlos verfügbar ist!
+>Dieses Video ist Teil der Wiedergabeliste [Acrobat und Microsoft 365 integrieren](https://experienceleague.adobe.com/?lang=de&recommended=Acrobat-U-1-2021.microsoft365), die auf dem Experience League kostenlos verfügbar ist!

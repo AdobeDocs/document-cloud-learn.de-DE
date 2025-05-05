@@ -263,7 +263,7 @@ Diese Ordner werden jetzt als Teil Ihres Power Automate -Ablaufs referenziert.
 
    ![Screenshot der Auswahl des Plus-Symbols ](assets/documentautomation/automation_27.png)
 
-1. Navigieren Sie auf einer neuen Registerkarte zu https://www.adobe.com/go/powerautomate_getstarted .
+1. Navigieren Sie auf einer neuen Registerkarte zu https://www.adobe.com/go/powerautomate_getstarted_de .
 1. Klicken Sie auf **Erste Schritte**.
 
    ![Screenshot der Schaltfläche &quot;Erste Schritte&quot;](assets/documentautomation/automation_28.png)

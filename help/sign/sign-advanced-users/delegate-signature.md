@@ -26,4 +26,4 @@ Erfahren Sie, wie Sie die Rolle &quot;Delegierender&quot; verwenden, um ein Doku
 
 >[!TIP]
 >
->Dieses Video ist Teil der Wiedergabeliste [Erweiterte Benutzeraufgaben](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users), die auf dem Experience League kostenlos verfügbar ist!
+>Dieses Video ist Teil der Wiedergabeliste [Erweiterte Benutzeraufgaben](https://experienceleague.adobe.com/de/playlists/acrobat-sign-perform-advanced-tasks-business-users), die auf dem Experience League kostenlos verfügbar ist!

@@ -24,4 +24,4 @@ Erfahren Sie, wie Sie Dokumenten-Workflows optimieren können, indem Sie ein For
 
 >[!TIP]
 >
->Dieses Video ist Teil der Wiedergabeliste [Verwenden von Acrobat Sign in Microsoft-Applikationen](https://experienceleague.adobe.com/en/playlists/acrobat-sign-integrate-microsoft-apps), die auf dem Experience League kostenlos verfügbar ist!
+>Dieses Video ist Teil der Wiedergabeliste [Verwenden von Acrobat Sign in Microsoft-Applikationen](https://experienceleague.adobe.com/de/playlists/acrobat-sign-integrate-microsoft-apps), die auf dem Experience League kostenlos verfügbar ist!

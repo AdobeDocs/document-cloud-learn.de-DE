@@ -26,4 +26,4 @@ Lernen Sie die sieben Schlüsselbereiche kennen, auf die sich Administratoren ko
 
 >[!TIP]
 >
->Dieses Video ist Teil der Wiedergabeliste [Erste Schritte mit Acrobat Sign für Administratoren](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), die auf dem Experience League kostenlos verfügbar ist!
+>Dieses Video ist Teil der Wiedergabeliste [Erste Schritte mit Acrobat Sign für Administratoren](https://experienceleague.adobe.com/de/playlists/acrobat-sign-get-started-administrators), die auf dem Experience League kostenlos verfügbar ist!

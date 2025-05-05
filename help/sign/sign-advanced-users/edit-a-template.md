@@ -22,4 +22,4 @@ Erfahren Sie, wie Sie eine Vorlage in Ihrer Bibliothek bearbeiten oder löschen.
 
 >[!TIP]
 >
->Dieses Video ist Teil der Wiedergabeliste [Erweiterte Benutzeraufgaben](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users), die auf dem Experience League kostenlos verfügbar ist!
+>Dieses Video ist Teil der Wiedergabeliste [Erweiterte Benutzeraufgaben](https://experienceleague.adobe.com/de/playlists/acrobat-sign-perform-advanced-tasks-business-users), die auf dem Experience League kostenlos verfügbar ist!

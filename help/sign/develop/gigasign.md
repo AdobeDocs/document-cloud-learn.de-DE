@@ -21,7 +21,7 @@ Mit Gigasign könnt ihr Dokumente zur Unterzeichnung an mehrere Tausend Personen
 
 >[!IMPORTANT]
 >
->GigaSign wird nicht mehr auf die neueste Version von Java oder Acrobat Sign aktualisiert und wird nur begrenzte Unterstützung erhalten. Die Funktionen von GigaSign werden dem Produkt unter der [Massenversand](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?)-Funktion hinzugefügt. Bitte verwenden Sie Massenversand für alle Anwendungsfälle, die nicht explizit die Verwendung von GigaSign erfordern.
+>GigaSign wird nicht mehr auf die neueste Version von Java oder Acrobat Sign aktualisiert und wird nur begrenzte Unterstützung erhalten. Die Funktionen von GigaSign werden dem Produkt unter der [Massenversand](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=de&)-Funktion hinzugefügt. Bitte verwenden Sie Massenversand für alle Anwendungsfälle, die nicht explizit die Verwendung von GigaSign erfordern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 

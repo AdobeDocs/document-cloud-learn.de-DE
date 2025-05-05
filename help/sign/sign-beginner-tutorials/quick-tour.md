@@ -22,5 +22,5 @@ Sehen Sie sich eine kurze Videotour zum Arbeitsbereich von Acrobat Sign an, um m
 
 >[!TIP]
 >
->Dieses Video ist Teil der Wiedergabeliste [Erste Schritte mit Acrobat Sign](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users), die auf dem Experience League kostenlos verfügbar ist!
+>Dieses Video ist Teil der Wiedergabeliste [Erste Schritte mit Acrobat Sign](https://experienceleague.adobe.com/de/playlists/acrobat-sign-get-started-business-users), die auf dem Experience League kostenlos verfügbar ist!
 

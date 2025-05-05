@@ -19,11 +19,11 @@ Erfahren Sie, wie ein [Webformular](../sign-advanced-users/webform.md) für eine
 
 [!BADGE Anwendungsfälle]
 
-* [Praktikumsanwendung für Webformulare für Bildungseinrichtungen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=en)
+* [Praktikumsanwendung für Webformulare für Bildungseinrichtungen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=de)
 Erfahren Sie, wie Webformulare den Zugriff von Schülern auf erforderliche Formulare verbessern
-* [Webformular-Praktikumsanwendung für Bildungseinrichtungen erstellen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=en)
+* [Webformular-Praktikumsanwendung für Bildungseinrichtungen erstellen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=de)
 Erfahren Sie, wie Sie ein Webformular für ein Praktikum erstellen
-* [Unternehmenszuschüsse und -darlehen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en)
-* [Unterstützung bei der Wiederbeschäftigung](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en)
+* [Unternehmenszuschüsse und -darlehen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=de)
+* [Unterstützung bei der Wiederbeschäftigung](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=de)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421619?quality=12&learn=on&hidetitle=true)

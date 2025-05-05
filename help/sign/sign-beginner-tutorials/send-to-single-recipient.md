@@ -22,4 +22,4 @@ Der in Acrobat Sign am häufigsten verwendete Arbeitsablauf - Senden eines Dokum
 
 >[!TIP]
 >
->Dieses Video ist Teil der Wiedergabeliste [Erste Schritte mit Acrobat Sign](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users), die auf dem Experience League kostenlos verfügbar ist!
+>Dieses Video ist Teil der Wiedergabeliste [Erste Schritte mit Acrobat Sign](https://experienceleague.adobe.com/de/playlists/acrobat-sign-get-started-business-users), die auf dem Experience League kostenlos verfügbar ist!

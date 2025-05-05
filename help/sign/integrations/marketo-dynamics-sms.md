@@ -25,7 +25,7 @@ Erfahren Sie, wie Sie mit Acrobat Sign, Acrobat Sign für Microsoft Dynamic, Mar
 
 1. Installieren Sie Marketo Microsoft Dynamics Sync.
 
-   Informationen und das neueste Plug-in für Microsoft Dynamics Sync sind hier [verfügbar.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
+   Informationen und das neueste Plug-in für Microsoft Dynamics Sync sind hier [verfügbar.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html?lang=de)
 
 1. Installieren Sie Acrobat Sign für Microsoft Dynamics.
 

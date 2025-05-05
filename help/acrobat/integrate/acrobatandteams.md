@@ -36,4 +36,4 @@ Mit Adobe Acrobat für Teams können Benutzer zusammenarbeiten und mit Kollegen 
 
 >[!TIP]
 >
->Dieses Video ist Teil der Wiedergabeliste [Acrobat und Microsoft 365 integrieren](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365), die auf dem Experience League kostenlos verfügbar ist!
+>Dieses Video ist Teil der Wiedergabeliste [Acrobat und Microsoft 365 integrieren](https://experienceleague.adobe.com/de/playlists/acrobat-integrate-microsoft-365), die auf dem Experience League kostenlos verfügbar ist!
