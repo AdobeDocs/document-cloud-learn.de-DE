@@ -18,7 +18,7 @@ ht-degree: 1%
 
 Erfahren Sie, wie Sie ein erweitertes digitales Signaturzertifikat von [!DNL Intesi Group] erhalten. Nach der Registrierung und Verifizierung Ihrer Identität stellt [!DNL Intesi Group] Ihnen eine digitale ID aus, die zum Anwenden einer Acrobat Sign-Cloud-Signatur verwendet wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/337065?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449915?quality=12&learn=on&hidetitle=true&captions=ger)
 
 <br> 
 

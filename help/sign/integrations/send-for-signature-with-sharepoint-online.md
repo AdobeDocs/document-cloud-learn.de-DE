@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Dokumenten-Workflows optimieren, indem Sie ein Dokument direkt in [!DNL Microsoft Sharepoint Online] zur Signatur senden.
 
->[!VIDEO](https://video.tv.adobe.com/v/41263?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3415774?quality=12&learn=on&hidetitle=true&captions=ger)
 
 >[!TIP]
 >

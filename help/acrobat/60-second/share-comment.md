@@ -17,4 +17,4 @@ ht-degree: 0%
 
 In diesem 60-Sekunden-Video-Tutorial lernst du, wie du eine PDF freigibst, um schnell Feedback von mehreren Personen in einer einzigen Datei zu erhalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/340769?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437197?quality=12&learn=on&hidetitle=true&captions=ger)

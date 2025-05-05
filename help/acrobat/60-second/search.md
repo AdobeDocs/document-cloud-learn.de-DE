@@ -18,4 +18,4 @@ ht-degree: 0%
 
 In diesem 60-Sekunden-Videolehrgang erfahren Sie, wie Sie eine Suche in einer PDF-Datei starten, dann die erweiterte Suche öffnen und einen ganzen PDF-Dateiordner durchsuchen.
 
->[!VIDEO](https://video.tv.adobe.com/v/336363?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3415770?quality=12&learn=on&hidetitle=true&captions=ger)

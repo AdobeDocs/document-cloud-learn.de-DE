@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Erfahren Sie mehr über freigegebene Ereignisse und Warnmeldungseinstellungen, die Sie in Acrobat Sign konfigurieren können. Warnungen sind Aktionen, die in einem bestimmten Zeitraum nicht stattgefunden haben, und Events sind Aktionen, die stattgefunden haben.
 
->[!VIDEO](https://video.tv.adobe.com/v/343589?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412545?quality=12&learn=on&hidetitle=true&captions=ger)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 In diesem 60-Sekunden-Video-Tutorial erfahren Sie, wie Sie PDF-Kommentare nach einer gemeinsamen Acrobat-Überprüfung wieder auf InDesign laden. Mit diesem digitalen Arbeitsablauf können Sie Überarbeitungen in Rekordzeit durchführen.
 
->[!VIDEO](https://video.tv.adobe.com/v/336907?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3415768?quality=12&learn=on&hidetitle=true&captions=ger)

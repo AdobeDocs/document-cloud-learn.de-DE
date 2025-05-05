@@ -17,4 +17,4 @@ ht-degree: 0%
 
 In diesem Artikel werden verschiedene Methoden zur Authentifizierung der Identität eines Unterzeichners eines Dokuments in Acrobat Sign erläutert. Die Authentifizierung per Ausweis trägt zur Betrugsprävention bei und erhöht die Sicherheit unterzeichneter Dokumente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419287?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447591?quality=12&learn=on&hidetitle=true&captions=ger)

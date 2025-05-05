@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In diesem 60-Sekunden-Videolehrgang erfahren Sie, wie Sie PDF-Inhalte anhand von PDF-Standardkriterien wie PDF/X, PDF/A oder PDF/E validieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409906?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437309?quality=12&learn=on&hidetitle=true&captions=ger)

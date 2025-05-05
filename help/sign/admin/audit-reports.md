@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Hier erfahren Sie, wie Sie auf Auditberichte zugreifen, diese verwenden und entsprechend den Anforderungen Ihres Unternehmens konfigurieren können. Jedes Dokument in Acrobat Sign durchläuft eine Reihe von Meilensteinen, die den Fortschritt einer Transaktion definieren. Diese Meilensteine werden für jede Transaktion in einem Audit-Bericht ausführlich dokumentiert.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432661?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448554?quality=12&learn=on&hidetitle=true&captions=ger)

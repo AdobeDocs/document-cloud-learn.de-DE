@@ -26,7 +26,7 @@ Erfahren Sie, wie Sie E-Mail-Nachrichten und Anhänge in [!DNL Outlook] für Ihr
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/336859?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3415763?quality=12&learn=on&hidetitle=true&captions=ger)
 
 >[!TIP]
 >

@@ -26,7 +26,7 @@ Erfahren Sie, wie Sie Webseiten mit der Adobe Acrobat-Erweiterung für [!DNL Mic
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337248?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409542?quality=12&learn=on&hidetitle=true&captions=ger)
 
 >[!TIP]
 >

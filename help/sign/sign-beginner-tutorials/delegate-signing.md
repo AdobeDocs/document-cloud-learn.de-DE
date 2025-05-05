@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie die Unterzeichnung eines Dokuments an eine andere Person delegieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/343856?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412557?quality=12&learn=on&hidetitle=true&captions=ger)

@@ -17,4 +17,4 @@ ht-degree: 1%
 
 Erfahren Sie, wie Sie einen neuen Benutzer erstellen oder einen bestehenden Benutzer zur Acrobat Sign-Administratorrolle in der [Admin Console](https://adminconsole.adobe.com/) hochstufen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453156?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453178?quality=12&learn=on&hidetitle=true&captions=ger)

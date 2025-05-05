@@ -26,7 +26,7 @@ Optimieren Sie Dokumenten-Workflows mit [!DNL SharePoint] und Acrobat mithilfe v
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/331855?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3415787?quality=12&learn=on&hidetitle=true&captions=ger)
 
 >[!TIP]
 >

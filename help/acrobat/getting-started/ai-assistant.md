@@ -39,4 +39,4 @@ Prüfen Sie die Protokolle der Meetings, und entwerfen Sie eine E-Mail-Zusammenf
 
 >[!ENDTABS]
 
->[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445831?enablevpops&quality=12&learn=on&hidetitle=true&captions=ger)

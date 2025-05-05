@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Felder automatisch in Ihrem Dokument platzieren oder die Drag &amp; Drop-Authoring-Umgebung in Acrobat Sign verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/346620?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425289?quality=12&learn=on&hidetitle=true&captions=ger)

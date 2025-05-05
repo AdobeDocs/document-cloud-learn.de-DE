@@ -23,7 +23,7 @@ Erfahren Sie, wie Sie eine erweiterte Kontofreigabe einrichten, sodass Administr
 >
 >Die erweiterte Kontofreigabe ist nur für Abos auf Enterprise-Ebene verfügbar. Der technische Support kann die erweiterte Freigabe aktivieren. Sobald sie jedoch aktiviert ist, ändert sie die Beziehungen der freigegebenen Objekte auf eine Weise, die nicht rückgängig gemacht werden kann. Aus diesem Grund wird empfohlen, dass Sie sich an Ihr Adobe-Account-Team wenden und ein Testkonto einrichten, mit dem Sie die Funktionalität testen und überprüfen können, ob sie alles zulässt, was Sie erreichen möchten.
 
->[!VIDEO](https://video.tv.adobe.com/v/40186?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412547?quality=12&learn=on&hidetitle=true&captions=ger)
 
 >[!TIP]
 >

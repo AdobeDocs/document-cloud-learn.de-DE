@@ -18,4 +18,4 @@ ht-degree: 0%
 
 In diesem 60-Sekunden-Tutorial lernen Sie, wie Sie mit Illustrator eine Grafik auf Ihrem PDF weiter bearbeiten können. Nachdem Sie &quot;PDF bearbeiten&quot; ausgewählt haben, klicken Sie mit der rechten Maustaste auf eine Grafik und wählen Sie &quot;Bearbeiten&quot; in Illustrator. Wenn Sie fertig sind, wählen Sie einfach In Illustrator speichern , und Acrobat aktualisiert das Bildmaterial auf dem PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/338277?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409545?quality=12&learn=on&hidetitle=true&captions=ger)

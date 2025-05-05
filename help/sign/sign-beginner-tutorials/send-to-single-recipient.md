@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Der in Acrobat Sign am häufigsten verwendete Arbeitsablauf - Senden eines Dokuments zum Unterschreiben. Lerne, wie du ein Dokument hochlädst, Formularfelder hinzufügst und es zur Unterzeichnung versendest.
 
->[!VIDEO](https://video.tv.adobe.com/v/341295?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425267?quality=12&learn=on&hidetitle=true&captions=ger)
 
 >[!TIP]
 >

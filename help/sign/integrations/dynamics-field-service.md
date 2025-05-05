@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie ein Außendienstmitarbeiter und ein Techniker Acrobat Sign, [!DNL Power Automate] und [!DNL Dynamics 365] verwenden, um Außendiensteinsätze zu optimieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423205?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447307?quality=12&learn=on&hidetitle=true&captions=ger)

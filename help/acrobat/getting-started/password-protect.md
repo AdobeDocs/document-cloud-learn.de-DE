@@ -25,7 +25,7 @@ Erfahren Sie, wie Sie [Ihrem PDF ein Kennwort hinzufügen](https://www.adobe.com
 [!BADGE Organisatorische Auswirkungen]
 Informationsschutz, Risikomanagement
 
->[!VIDEO](https://video.tv.adobe.com/v/35497?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3415780?quality=12&learn=on&hidetitle=true&captions=ger)
 
 >[!TIP]
 >

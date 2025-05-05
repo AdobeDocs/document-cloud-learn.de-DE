@@ -24,4 +24,4 @@ Erfahren Sie, wie Sie über die Acrobat-Oberfläche bei konsistentem Arbeitsbere
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337971?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409548?quality=12&learn=on&hidetitle=true&captions=ger)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Ihre [!DNL Aadhaar]-ID verwenden, um Ihre Identität zu authentifizieren und eine digitale Remote-Signatur (Cloud-Signatur) für ein Dokument in Acrobat Sign zu autorisieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/338362?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444521?quality=12&learn=on&hidetitle=true&captions=ger)

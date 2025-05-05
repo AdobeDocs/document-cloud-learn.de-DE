@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Ersetzen Sie die Papierverarbeitung schnell durch standardkonforme digitale Workflows inklusive Auditberichten. Erfahren Sie, wie Sie mit dem Designer-Tool für Acrobat Sign-Workflows den gesamten Prozess optimieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/33811?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448060?quality=12&learn=on&hidetitle=true&captions=ger)
 
 Wählen Sie diese Option, um eine schrittweise PDF-Rezeptur für Verträge und Anforderungsformulare herunterzuladen oder zu öffnen.
 

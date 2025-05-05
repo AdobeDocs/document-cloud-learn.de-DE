@@ -18,4 +18,4 @@ ht-degree: 0%
 
 In diesem 60-Sekunden-Tutorial lernen Sie, wie Sie mit Photoshop ein Foto auf Ihrem PDF weiter bearbeiten können. Vom PDF-Werkzeug &quot;Bearbeiten&quot; bis hin zu Photoshop und dann wieder zurück - der Prozess ist nahtlos und ermöglicht es Ihnen, Ihre Arbeit schnell und einfach zu erledigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/338276?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409546?quality=12&learn=on&hidetitle=true&captions=ger)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Ihre [!DNL Intesi Group] digitale ID verwenden, um Ihre Identität zu authentifizieren und eine digitale Remote-Signatur (Cloud-Signatur) für ein Dokument zu autorisieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/336989?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443670?quality=12&learn=on&hidetitle=true&captions=ger)

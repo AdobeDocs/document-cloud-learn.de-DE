@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie ein Webformular für ein Praktikum erstellen, um den Studierenden den Zugriff auf erforderliche Formulare zu erleichtern, die von jedem Gerät und an jedem Ort eingereicht werden können. In diesem Beispiel ist der Arbeitsablauf für jeden Schüler und Studierenden je nach Studienkurs einzigartig, da jeder Schüler seinen eigenen Lehrgangsleiter und Abteilungsleiter zur Genehmigung hinzufügen muss.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421853?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423372?quality=12&learn=on&hidetitle=true&captions=ger)

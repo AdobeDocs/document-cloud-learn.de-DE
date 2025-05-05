@@ -17,4 +17,4 @@ ht-degree: 2%
 
 In diesem 60-Sekunden-Videotutorial erfahren Sie, wie Sie eine PDF-Datei [in ein vollständig bearbeitbares Microsoft Word-Dokument ](https://www.adobe.com/de/acrobat/online/pdf-to-word.html){target="_blank"} konvertieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411376?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3428845?quality=12&learn=on&hidetitle=true&captions=ger)

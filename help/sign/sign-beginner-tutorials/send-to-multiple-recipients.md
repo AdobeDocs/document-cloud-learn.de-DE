@@ -18,7 +18,7 @@ ht-degree: 10%
 
 Haben Sie mehr als eine Person, die mit Ihrem Dokument interagieren muss? Erfahre, wie du ein Dokument in der richtigen Reihenfolge zur Unterzeichnung an mehrere Empfänger senden kannst.
 
->[!VIDEO](https://video.tv.adobe.com/v/341296?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425278?quality=12&learn=on&hidetitle=true&captions=ger)
 
 >[!TIP]
 >

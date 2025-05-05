@@ -18,4 +18,4 @@ ht-degree: 3%
 
 In diesem 60-Sekunden-Videolehrgang erfahren Sie, wie Sie das Tool [Seiten organisieren](https://www.adobe.com/de/acrobat/online/rearrange-pdf.html) verwenden, um eine Vogelperspektive auf Ihren PDF zu erhalten. Nehmen Sie Änderungen an Seitenreihenfolge und Layout vor, und [teilen Sie die PDF](https://www.adobe.com/de/acrobat/online/split-pdf.html){target="_blank"} sogar in kleinere Dateien auf.
 
->[!VIDEO](https://video.tv.adobe.com/v/338278?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409544?quality=12&learn=on&hidetitle=true&captions=ger)

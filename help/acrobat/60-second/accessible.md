@@ -22,4 +22,4 @@ ht-degree: 0%
 
 In diesem 60-Sekunden-Video-Tutorial erfahren Sie, wie Sie überprüfen, ob auf eine PDF zugegriffen werden kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/340076?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409530?quality=12&learn=on&hidetitle=true&captions=ger)

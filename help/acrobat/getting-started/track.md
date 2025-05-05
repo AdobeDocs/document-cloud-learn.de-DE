@@ -22,4 +22,4 @@ Immer wissen, welche Dateien auf Unterschrift warten und welche unterschrieben w
 >
 >Sie müssen zusätzlich zu Ihrem Acrobat Enterprise-Abonnement über eine Acrobat Sign Enterprise-Berechtigung verfügen.
 
->[!VIDEO](https://video.tv.adobe.com/v/338492?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409539?quality=12&learn=on&hidetitle=true&captions=ger)

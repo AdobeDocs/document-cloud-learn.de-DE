@@ -22,4 +22,4 @@ Erfahren Sie, wie Sie Gruppen erstellen, Benutzer zu Gruppen hinzufügen und Gru
 >
 >Gruppen sind nur für Abos der Business- und Enterprise-Ebene verfügbar.
 
->[!VIDEO](https://video.tv.adobe.com/v/344682?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412559?quality=12&learn=on&hidetitle=true&captions=ger)

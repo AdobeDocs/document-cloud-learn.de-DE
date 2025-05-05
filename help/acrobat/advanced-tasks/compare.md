@@ -24,7 +24,7 @@ Anwendungen, Begleitmaterial, Datenblätter, Handbücher, Richtlinien, Berichte,
 [!BADGE Organisatorische Auswirkungen]
 Kosteneinsparungen, Effizienz der Organisation, Zeitersparnis, Qualitätssicherung
 
->[!VIDEO](https://video.tv.adobe.com/v/337211?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3415764?quality=12&learn=on&hidetitle=true&captions=ger)
 
 >[!TIP]
 >

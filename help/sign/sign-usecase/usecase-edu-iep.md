@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Erfahrt, wie ihr mit der Designer für benutzerdefinierte Workflows einen IEP-Prozess (Individualized Education Program) für eine Schule digitalisieren könnt. IEPs sind schriftliche Bildungspläne, die auf die Bedürfnisse eines Schülers zugeschnitten sind und Unterschriften von mehreren IEP-Team-Mitgliedern erfordern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422174?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423330?quality=12&learn=on&hidetitle=true&captions=ger)

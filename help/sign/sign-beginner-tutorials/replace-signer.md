@@ -22,4 +22,4 @@ Hier erfahren Sie, wie Sie einen Unterzeichner ersetzen, z. B. wenn beim Senden 
 >
 >Die Standardeinstellung für &quot;Empfänger ersetzen&quot; ist die vollständige Ersetzung des aktuellen Empfängers durch einen neuen Empfänger. Für Abos auf Business- und Enterprise-Ebene sind zusätzliche Optionen verfügbar.
 
->[!VIDEO](https://video.tv.adobe.com/v/342340?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425300?quality=12&learn=on&hidetitle=true&captions=ger)

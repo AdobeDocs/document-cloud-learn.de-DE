@@ -19,4 +19,4 @@ Erfahren Sie, wie Sie Grafiken auf Ihrem PDF erstellen, bearbeiten und verbesser
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446938?enablevpops&quality=12&learn=on&hidetitle=true&captions=ger)

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Erfahre, wie du mit der kostenlosen Adobe Scan-App jedes Papierdokument in einen PDF umwandelst.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409254?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417789?quality=12&learn=on&hidetitle=true&captions=ger)
 
 ![QR-Code](../assets/Scanqrcode.jpg)
 

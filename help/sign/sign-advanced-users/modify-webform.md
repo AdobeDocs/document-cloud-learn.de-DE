@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie ein vorhandenes Webformular deaktivieren, bearbeiten und wieder aktivieren. Wenn Sie ein Webformular deaktivieren, können Sie die URL umleiten oder eine benutzerdefinierte Nachricht für Endbenutzer erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/346677?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417776?quality=12&learn=on&hidetitle=true&captions=ger)

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Da Homeoffice überall im Einsatz ist, ist eine nahtlose Zusammenarbeit entscheidend für die schnelle und skalierbare Bereitstellung von Inhalten. Erweitere deine Projekte, indem du Kommentare einholst, im Team mit anderen zusammenarbeitest und den Fortschritt der Bearbeitung mitverfolgt - in Echtzeit und von überall. Erfahren Sie, wie Sie einen Prozess zur Überprüfung von Dokumenten erstellen, der nicht nur die Effizienz verbessert, sondern auch die Inhaltsqualität verbessert. In diesem Video-Tutorial wird das [neue Acrobat-Erlebnis](new-workspace.md) verwendet.
 
->[!VIDEO](https://video.tv.adobe.com/v/337500?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409552?quality=12&learn=on&hidetitle=true&captions=ger)
 
 >[!TIP]
 >

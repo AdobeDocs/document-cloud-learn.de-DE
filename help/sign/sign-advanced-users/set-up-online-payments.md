@@ -18,4 +18,4 @@ ht-degree: 8%
 
 Erfahren Sie, wie Sie Online-Zahlungen in Ihren Dokumenten einrichten und akzeptieren. Der Onlinezahlungsdienst in Acrobat Sign integriert [!DNL Braintree] als mit dem Signaturprozess verknüpftes Zahlungs-Gateway.
 
->[!VIDEO](https://video.tv.adobe.com/v/345753?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417774?quality=12&learn=on&hidetitle=true&captions=ger)

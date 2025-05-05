@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit den integrierten benutzerfreundlichen Designtools in [Adobe Expreß](https://express.adobe.com) professionell aussehende PDF erstellen. In diesem Video-Tutorial wird das [neue Acrobat-Erlebnis](new-workspace.md) verwendet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445550?enablevpops&quality=12&learn=on&hidetitle=true&captions=ger)

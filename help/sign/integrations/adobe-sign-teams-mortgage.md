@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Vereinbarungen zum Unterschreiben senden, den Status von Vereinbarungen überprüfen und Erinnerungen innerhalb von [!DNL Microsoft Teams] senden. Dieses Beispiel zeigt, wie ein Hypothekenmakler einen Darlehensantrag direkt in Teams zur Unterzeichnung versendet. Diese enge Integration beschleunigt den Hypothekarkreditprozess - auch bei der Arbeit mit Hypothekenantragstellern in einer Remote-Arbeitsumgebung.
 
->[!VIDEO](https://video.tv.adobe.com/v/346545?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446202?quality=12&learn=on&hidetitle=true&captions=ger)
 
 >[!TIP]
 >

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit Document Builder für Salesforce eine wiederverwendbare Dokumentvorlage erstellen. Wiederverwendbare Dokumentvorlagen ermöglichen eine schnelle und konsistente Verwaltung von Sign-Transaktionen und ermöglichen zudem die Verwaltung von Dokumentversionen und -änderungen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409414?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417797?quality=12&learn=on&hidetitle=true&captions=ger)

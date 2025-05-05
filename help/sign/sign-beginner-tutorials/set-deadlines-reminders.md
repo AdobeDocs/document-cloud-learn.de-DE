@@ -22,5 +22,5 @@ Hier erfährst du, wie du in regelmäßigen Abständen E-Mails mit Erinnerungen 
 >
 >Enterprise- und Business-Pläne können die Erinnerungsoption während des Sendevorgangs selektiv anzeigen oder die konten- oder gruppenweite Automatisierung aktivieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411445?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425311?quality=12&learn=on&hidetitle=true&captions=ger)
 

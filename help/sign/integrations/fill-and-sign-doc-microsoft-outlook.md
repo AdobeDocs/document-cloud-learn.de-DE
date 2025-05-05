@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Dokumenten-Workflows optimieren können, indem Sie ein Formular direkt in [!DNL Microsoft Outlook] ausfüllen und signieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/344947?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443461?quality=12&learn=on&hidetitle=true&captions=ger)
 
 >[!TIP]
 >

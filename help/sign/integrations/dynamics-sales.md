@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Acrobat Sign und [!DNL Microsoft Dynamics 365] für den Vertrieb verwendet werden, um den Signiervorgang für Verkaufsangebote zu automatisieren. In diesem Beispiel hilft [!DNL Microsoft Dynamics 365] für den Vertrieb dem Vertriebsteam von Contoso, Geschäfte schneller abzuschließen und die Chancen durch eine einzige Kundenansicht und einen integrierten Signierprozess besser zu nutzen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423404?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447196?quality=12&learn=on&hidetitle=true&captions=ger)

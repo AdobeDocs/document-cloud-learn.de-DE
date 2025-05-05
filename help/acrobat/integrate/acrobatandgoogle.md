@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie direkt in der [!DNL Google Drive]-App auf zeitsparende PDF-Tools und Workflows für elektronische Signaturen zugreifen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/333600?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3415784?quality=12&learn=on&hidetitle=true&captions=ger)

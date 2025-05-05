@@ -18,7 +18,7 @@ ht-degree: 1%
 
 In diesem 60-Sekunden-Videotutorial erfahren Sie, wie Sie [einfache PDF-Bearbeitungen](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target="_blank"} an Text und Bildern vornehmen, ohne die PDF herunterzuladen.
 
->[!VIDEO](https://video.tv.adobe.com/v/336362?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3415769?quality=12&learn=on&hidetitle=true&captions=ger)
 
 >[!TIP]
 >

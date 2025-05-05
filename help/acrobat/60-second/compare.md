@@ -21,4 +21,4 @@ ht-degree: 0%
 
 In diesem 60-Sekunden-Tutorial lernen Sie, wie Sie die Unterschiede zwischen zwei PDF-Dateien ermitteln, indem Sie das Tool &quot;Dateien vergleichen&quot; in Acrobat verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409905?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437484?quality=12&learn=on&hidetitle=true&captions=ger)

@@ -18,4 +18,4 @@ ht-degree: 2%
 
 In diesem 60-Sekunden-Videolehrgang erfahren Sie, wie Sie schnell ein Dokument erstellen, indem Sie mehrere verschiedene Dateitypen [zu einer einzigen PDF kombinieren](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/336361?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3415767?quality=12&learn=on&hidetitle=true&captions=ger)

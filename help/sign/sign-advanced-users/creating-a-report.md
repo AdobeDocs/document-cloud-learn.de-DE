@@ -22,4 +22,4 @@ Hier erfahren Sie, wie Sie Berichte erstellen und die Transaktionsnutzung verfol
 >
 >Die Berichterstellung ist nur für Abos auf Business- und Enterprise-Ebene verfügbar.
 
->[!VIDEO](https://video.tv.adobe.com/v/346754?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444691?quality=12&learn=on&hidetitle=true&captions=ger)

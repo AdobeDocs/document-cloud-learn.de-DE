@@ -22,7 +22,7 @@ Erfahren Sie, wie Sie die Rolle &quot;Delegierender&quot; verwenden, um ein Doku
 >
 >Die Rolle &quot;Delegierender&quot; ist nur für Abos auf Enterprise-Ebene verfügbar. Ihr Acrobat Sign-Administrator muss möglicherweise die Einstellung **Absendern erlauben, einige Empfänger als Delegierende zu markieren** aktivieren, die im Abschnitt **Sendeeinstellungen** der **Kontoeinstellungen** festgelegt ist, damit diese Funktion verwendet werden kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/343621?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417772?quality=12&learn=on&hidetitle=true&captions=ger)
 
 >[!TIP]
 >

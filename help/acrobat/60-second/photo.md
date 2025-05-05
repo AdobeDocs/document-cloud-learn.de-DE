@@ -18,4 +18,4 @@ ht-degree: 1%
 
 In diesem 60-Sekunden-Video-Tutorial lernst du, wie du mehrere JPG per Drag-and-Drop auf das Acrobat-Symbol ziehst. Klicken Sie auf &quot;Ja&quot;, um eine mehrseitige PDF zu erstellen. Anschließend können Sie einfach weitere JPG-Dateien in das Seitenbedienfeld ziehen, um [der PDF weitere Seiten hinzuzufügen](https://www.adobe.com/de/acrobat/online/add-pages-to-pdf.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/336365?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3415771?quality=12&learn=on&hidetitle=true&captions=ger)

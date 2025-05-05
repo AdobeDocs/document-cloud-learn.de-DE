@@ -19,4 +19,4 @@ Erfahrt, wie ihr mit Web-Formularen den Zugriff von Lernenden auf erforderliche 
 
 Lesen Sie [Eine Praktikumsanwendung für Bildungseinrichtungen-Webformulare erstellen](usecase-edu-intern-create.md), um zu erfahren, wie Sie dieses Webformular erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421773?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430538?quality=12&learn=on&hidetitle=true&captions=ger)

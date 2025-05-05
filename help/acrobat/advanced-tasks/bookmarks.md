@@ -18,5 +18,5 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Lesezeichen und Hyperlinks hinzufügen, um die Navigation und Interaktion mit Ihren PDF-Dateien zu verbessern.
 
->[!VIDEO](https://video.tv.adobe.com/v/340837?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409526?quality=12&learn=on&hidetitle=true&captions=ger)
 

@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie signierte Dokumente mit [!DNL Power Automate] automatisch in einer [!DNL SharePoint]-Bibliothek archiviert werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409121?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417791?quality=12&learn=on&hidetitle=true&captions=ger)

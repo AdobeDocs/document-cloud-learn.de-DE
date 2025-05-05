@@ -37,7 +37,7 @@ Verwenden Sie das Prepare Form-Tool, um Formularfelder automatisch zu einer best
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448520?quality=12&learn=on&hidetitle=true&captions=ger)
 
 <br> 
 
@@ -94,7 +94,7 @@ Mit Kombinationseigenschaften wird Text gleichmäßig über die Breite eines Tex
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439901?hidetitle=true&captions=ger)
 
 <br> 
 

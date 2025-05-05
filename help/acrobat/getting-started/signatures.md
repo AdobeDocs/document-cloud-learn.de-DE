@@ -22,7 +22,7 @@ Das Geschäft am Laufen halten, indem ihr rechtsverbindliche [E-Signaturen](http
 >
 >Sie müssen zusätzlich zu Ihrem Acrobat Enterprise-Abonnement über eine Acrobat Sign Enterprise-Berechtigung verfügen.
 
->[!VIDEO](https://video.tv.adobe.com/v/338359?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409540?quality=12&learn=on&hidetitle=true&captions=ger)
 
 >[!TIP]
 >

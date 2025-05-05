@@ -22,7 +22,7 @@ Lernen Sie die sieben Schlüsselbereiche kennen, auf die sich Administratoren ko
 >
 >Die Berichterstellung ist nur für Abos auf Business- und Enterprise-Ebene verfügbar.
 
->[!VIDEO](https://video.tv.adobe.com/v/33657?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412555?quality=12&learn=on&hidetitle=true&captions=ger)
 
 >[!TIP]
 >

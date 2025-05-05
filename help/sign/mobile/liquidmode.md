@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie der Liquid Mode das mobile Signiererlebnis verbessert. Kein Kneifen und Zoomen mehr beim Lesen und Unterschreiben von Dokumenten. In diesem Tutorial wird erläutert, wie Sie ein _HTML-Formular_ zur Signatur senden und automatisch ein verbessertes Signaturerlebnis für mobile Benutzer erstellen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/333803?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3415783?quality=12&learn=on&hidetitle=true&captions=ger)

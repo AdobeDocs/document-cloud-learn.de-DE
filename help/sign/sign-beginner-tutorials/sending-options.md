@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie verschiedene Optionen konfigurieren, wenn Sie ein Dokument zur Signatur senden. Hier erfahren Sie, wie Sie die Dokumentnachricht, die Dateiformate, die Erinnerungshäufigkeit und den Ablauf von Dokumenten festlegen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417775?quality=12&learn=on&hidetitle=true&captions=ger)

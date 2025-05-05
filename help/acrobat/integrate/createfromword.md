@@ -26,7 +26,7 @@ Erfahren Sie, wie Sie mit dem Acrobat-Add-on für [!DNL Microsoft Word] umfangre
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/331736?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3415773?quality=12&learn=on&hidetitle=true&captions=ger)
 
 >[!TIP]
 >

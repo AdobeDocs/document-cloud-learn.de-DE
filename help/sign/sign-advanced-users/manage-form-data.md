@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Formulardaten aus Ihren Dokumenten zusammenführen, damit Sie sie in einem Bericht oder einer Excel-Tabelle anzeigen und verwalten können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419330?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443527?quality=12&learn=on&hidetitle=true&captions=ger)

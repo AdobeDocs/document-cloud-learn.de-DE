@@ -26,7 +26,7 @@ Erfahren Sie, wie Sie PDF-Dateien erstellen, ohne Ihre [!DNL Microsoft Office]-D
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337482?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409547?quality=12&learn=on&hidetitle=true&captions=ger)
 
 >[!TIP]
 >

@@ -17,4 +17,4 @@ ht-degree: 0%
 
 In diesem 60-Sekunden-Video-Tutorial erfahren Sie, wie Sie in Echtzeit an einer PDF-Datei in Microsoft Teams zusammenarbeiten.
 
->[!VIDEO](https://video.tv.adobe.com/v/343048?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437489?quality=12&learn=on&hidetitle=true&captions=ger)

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Erfahre, wie du eine wiederverwendbare Dokumentvorlage erstellst und sie deiner Acrobat Sign-Bibliothek für die zukünftige Verwendung hinzufügst. Dokumentvorlagen ermöglichen eine schnelle und konsistente Verwaltung von Sign-Transaktionen und ermöglichen die Verwaltung von Dokumentänderungen und -änderungen.
 
->[!VIDEO](https://video.tv.adobe.com/v/38037?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409537?quality=12&learn=on&hidetitle=true&captions=ger)
 
 >[!TIP]
 >

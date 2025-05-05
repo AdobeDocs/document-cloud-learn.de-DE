@@ -24,4 +24,4 @@ Erfahren Sie mehr über den neuen Bearbeitungsmodus, mit dem Inhalte umfließen 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/346975?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441229?quality=12&learn=on&hidetitle=true&captions=ger)

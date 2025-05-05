@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Hier erfahren Sie, wie Sie ein Online-Signiererlebnis schaffen, das dem persönlichen Signieren während eines Microsoft Teams-Meetings ähnelt. Mit Live Sign könnt ihr ein persönliches, schnelles und sicheres Signiererlebnis auf jedem Gerät bereitstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425187?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445949?quality=12&learn=on&hidetitle=true&captions=ger)

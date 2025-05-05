@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie die Datenzuordnung für Acrobat Sign in [!DNL Salesforce] einrichten. Mit der Datenzuordnung können Sie Daten _zurück_ in [!DNL Salesforce] abrufen, nachdem eine Vereinbarung signiert wurde.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409073?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417793?quality=12&learn=on&hidetitle=true&captions=ger)

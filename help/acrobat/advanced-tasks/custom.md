@@ -22,4 +22,4 @@ Hier erfahren Sie, wie Sie die Effizienz von Dokumenten-Workflows mithilfe von b
 >
 >Benutzerdefinierte Befehle sind nur in Acrobat Pro verfügbar.
 
->[!VIDEO](https://video.tv.adobe.com/v/340545?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409528?quality=12&learn=on&hidetitle=true&captions=ger)
