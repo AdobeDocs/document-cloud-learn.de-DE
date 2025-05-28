@@ -6,16 +6,16 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
+source-git-commit: 5c8d2478290c935ae5d13b63b9493472eeda48e8
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
 # Mit AI Assistant PDF-Erkenntnisse gewinnen
 
-Erfahren Sie, wie Sie mit dem KI-Assistenten Einblicke in Ihre PDF-Dateien gewinnen, um schnell eindrucksvolle Inhalte zu erstellen. AI Assistant ist eine sichere Unterhaltungs-Engine, die Dokumenten-Workflows verbessert und komplexe Dokumentdaten analysiert. In diesem Video-Tutorial wird das [neue Acrobat-Erlebnis](new-workspace.md) verwendet.
+Erfahren Sie, wie Sie mit dem KI-Assistenten Einblicke in Ihre PDF-Dateien gewinnen. AI Assistant ist eine sichere Unterhaltungs-Engine, die Dokumenten-Workflows verbessert und komplexe Dokumentdaten analysiert. In diesem Video-Tutorial wird das [neue Acrobat-Erlebnis](new-workspace.md) verwendet.
 
 ## Anwendungsfälle
 
@@ -39,4 +39,4 @@ Prüfen Sie die Protokolle der Meetings, und entwerfen Sie eine E-Mail-Zusammenf
 
 >[!ENDTABS]
 
->[!VIDEO](https://video.tv.adobe.com/v/3445831?enablevpops&quality=12&learn=on&hidetitle=true&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
