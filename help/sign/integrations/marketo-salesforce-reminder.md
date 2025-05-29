@@ -25,7 +25,7 @@ Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung von Marketo senden, wenn ein V
 
 1. Installieren Sie Marketo Salesforce Sync.
 
-   Informationen und das neueste Plug-in für Salesforce Sync sind hier [verfügbar.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+   Informationen und das neueste Plug-in für Salesforce Sync sind hier [verfügbar.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=de)
 
 1. Installieren Sie Acrobat Sign für Salesforce.
 
