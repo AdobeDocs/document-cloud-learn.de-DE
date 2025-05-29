@@ -3,14 +3,14 @@ title: Senden von Benachrichtigungen mit Acrobat Sign für Microsoft Dynamics 36
 description: Erfahren Sie, wie Sie eine Textnachricht, eine E-Mail oder eine Push-Benachrichtigung senden, damit der Unterzeichner weiß, dass eine Vereinbarung in Bearbeitung ist.
 feature: Integrations
 role: Admin
-solution: Acrobat Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo Engage, Document Cloud
 level: Intermediate
 topic: Integrations
 topic-revisit: Integrations
 jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a88ec5a68aa2a02ec2f118332ec31f47d3d5d300
 workflow-type: tm+mt
 source-wordcount: '652'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Erfahren Sie, wie Sie mit Acrobat Sign, Acrobat Sign für Microsoft Dynamic, Mar
 
 1. Installieren Sie Marketo Microsoft Dynamics Sync.
 
-   Informationen und das neueste Plug-in für Microsoft Dynamics Sync sind hier [verfügbar.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html?lang=de)
+   Informationen und das neueste Plug-in für Microsoft Dynamics Sync sind hier [verfügbar.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
 1. Installieren Sie Acrobat Sign für Microsoft Dynamics.
 
