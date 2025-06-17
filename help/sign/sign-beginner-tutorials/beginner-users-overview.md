@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 06d3049acc900a52e1eab23a8aac9906ad40d3ea
+source-git-commit: 46a89000c2fe67e870655459da1917289483b8b4
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -58,7 +58,7 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Senden an einen einzelnen Empfänger" src="../assets/Send-to-single-recipient.png" />
+      <img alt="Senden an einen einzelnen Empfänger" src="../assets/send-single-recipient.png" />
     </a>
     <div>
     <a href="send-to-single-recipient.md"><strong>Senden an einen einzelnen Empfänger</strong></a>
@@ -68,7 +68,7 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="Senden an mehrere Empfangende" src="../assets/Sending-to-multiple-recipients.png" />
+      <img alt="Senden an mehrere Empfangende" src="../assets/send-to-multiple-recipient.png" />
     </a>
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Senden an mehrere Empfänger</strong></a>
@@ -80,7 +80,7 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
 <tr>
   <td>
     <a href="sending-options.md">
-      <img alt="Sendeoptionen konfigurieren" src="../assets/Sendingoptions.png" />
+      <img alt="Sendeoptionen konfigurieren" src="../assets/configure.png" />
     </a>
     <div>
     <a href="sending-options.md"><strong>Sendeoptionen konfigurieren</strong></a>
@@ -90,7 +90,7 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
   </td>
   <td>
     <a href="adding-fields.md">
-      <img alt="Hinzufügen von Feldern zu Ihren Dokumenten" src="../assets/AddingFields.png" />
+      <img alt="Hinzufügen von Feldern zu Ihren Dokumenten" src="../assets/adding-fields.png" />
     </a>
     <div>
     <a href="adding-fields.md"><strong>Hinzufügen von Feldern zu Ihren Dokumenten</strong></a>
@@ -100,7 +100,7 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
   </td>
   <td>
     <a href="modify-in-flight.md">
-      <img alt="Ändern eines Dokuments nach dem Senden" src="../assets/Modifying-sending.png" />
+      <img alt="Ändern eines Dokuments nach dem Senden" src="../assets/modify.png" />
     </a>
     <div>
     <a href="modify-in-flight.md"><strong>Ändern eines Dokuments nach dem Senden</strong></a>
@@ -110,7 +110,7 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
   </td>
   <td>
     <a href="replace-signer.md">
-      <img alt="Ersetzen eines Unterzeichners" src="../assets/replace-signer.png" />
+      <img alt="Ersetzen eines Unterzeichners" src="../assets/replace.png" />
     </a>
     <div>
     <a href="replace-signer.md"><strong>Unterzeichner ersetzen</strong></a>
@@ -122,7 +122,7 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
 <tr>
   <td>
       <a href="set-deadlines-reminders.md">
-        <img alt="Termine und Erinnerungen festlegen" src="../assets/Reminders.png" />
+        <img alt="Termine und Erinnerungen festlegen" src="../assets/deadlines-reminders.png" />
       </a>
       <div>
       <a href="set-deadlines-reminders.md"><strong>Termine und Erinnerungen festlegen</strong></a>
@@ -154,7 +154,7 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
 <tr>
   <td>
     <a href="electronically-sign-a-document.md">
-      <img alt="Dokumente elektronisch unterschreiben" src="../assets/Electronically-sign.png" />
+      <img alt="Dokumente elektronisch unterschreiben" src="../assets/sign-electronically.png" />
     </a>
     <div>
     <a href="electronically-sign-a-document.md"><strong>Elektronisches Signieren eines Dokuments</strong></a>
@@ -164,7 +164,7 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="Ein Dokument ausfüllen und unterschreiben" src="../assets/FillandSign.png" />
+      <img alt="Ein Dokument ausfüllen und unterschreiben" src="../assets/fill-and-sign.png" />
     </a>
     <div>
     <a href="fill-and-sign.md"><strong>Ein Dokument ausfüllen und signieren</strong></a>
@@ -174,7 +174,7 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
   </td>
   <td>
     <a href="sign-in-person.md">
-      <img alt="Persönliches Einholen einer Unterschrift" src="../assets/In-person.png" />
+      <img alt="Persönliches Einholen einer Unterschrift" src="../assets/inperson.png" />
     </a>
     <div>
     <a href="sign-in-person.md"><strong>Persönliche Signatur erhalten</strong></a>
@@ -184,7 +184,7 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
   </td>
   <td>
     <a href="delegate-signing.md">
-      <img alt="Unterschrift an eine andere Person delegieren" src="../assets/Delegatesigning.png" />
+      <img alt="Unterschrift an eine andere Person delegieren" src="../assets/delegate-signing.png" />
     </a>
     <div>
     <a href="delegate-signing.md"><strong>Unterschrift an eine andere Person delegieren</strong></a>
@@ -196,7 +196,7 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="Was ist eine digitale Signatur?" src="../assets/whatisdigsig.png" />
+      <img alt="Was ist eine digitale Signatur?" src="../assets/digital-signature.png" />
     </a>
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>Was ist eine digitale Signatur</strong></a>
@@ -206,7 +206,7 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
   </td>
   <td>
     <a href="sign-with-a-stamp.md">
-      <img alt="Signieren mit einem Stempel" src="../assets/Stamp.png" />
+      <img alt="Signieren mit einem Stempel" src="../assets/sign-stamp.png" />
     </a>
     <div>
     <a href="sign-with-a-stamp.md"><strong>Signieren mit einem Stempel</strong></a>
@@ -233,7 +233,7 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Vereinbarungen verwalten und verfolgen" src="../assets/Manage.png" />
+      <img alt="Vereinbarungen verwalten und verfolgen" src="../assets/manage-track.png" />
     </a>
     <div>
     <a href="manage-and-track.md"><strong>Vereinbarungen verwalten und verfolgen</strong></a>
@@ -243,7 +243,7 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
   </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="Erstellen von Dokumentvorlagen" src="../assets/Template.png" />
+      <img alt="Erstellen von Dokumentvorlagen" src="../assets/create-template.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Erstellen einer Dokumentvorlage</strong></a>
