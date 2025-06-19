@@ -24,4 +24,4 @@ In diesem aufgezeichneten Webinar (keine Registrierung erforderlich) erfahren Si
 
 >[!TIP]
 >
->Dieses Video ist Teil der Wiedergabelisten [Erweiterte Aufgaben für Benutzer](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users) und [Erweiterte Aufgaben für Administratoren](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators), die auf dem Experience League kostenlos verfügbar sind!
+>Dieses Video ist Teil der Wiedergabelisten [Erweiterte Aufgaben für Benutzer](https://experienceleague.adobe.com/de/playlists/acrobat-sign-get-started-business-users) und [Erweiterte Aufgaben für Administratoren](https://experienceleague.adobe.com/de/playlists/acrobat-sign-perform-advanced-tasks-administrators), die auf dem Experience League kostenlos verfügbar sind!
