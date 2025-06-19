@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
+source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 2%
@@ -38,7 +38,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="Einrichten der Unterschriftsreihenfolge" src="../assets/Routing.png">
+      <img alt="Einrichten der Unterschriftsreihenfolge" src="../assets/signing-order.png">
     </a>
     <div>
     <a href="setting-up-routing.md"><strong>Signierreihenfolge einrichten</strong></a>
@@ -48,7 +48,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
   </td>
   <td>
     <a href="delegate-signature.md">
-      <img alt="An eine andere Person delegieren" src="../assets/Delegating.png" />
+      <img alt="An eine andere Person delegieren" src="../assets/delegator-role.png" />
     </a>  
     <div>
     <a href="delegate-signature.md"><strong>Verwenden der Delegatorrolle </strong></a>
@@ -58,7 +58,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
   </td>
   <td>
     <a href="add-an-approver.md">
-      <img alt="Verwenden der Genehmigerrolle" src="../assets/Approver.png" />
+      <img alt="Verwenden der Genehmigerrolle" src="../assets/approver-role.png" />
     </a>
     <div>
     <a href="add-an-approver.md"><strong>Genehmigerrolle verwenden</strong></a>
@@ -90,7 +90,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
     </td>
   <td>
     <a href="set-up-online-payments.md">
-      <img alt="Onlinezahlungen einrichten" src="../assets/Payments.png" />
+      <img alt="Onlinezahlungen einrichten" src="../assets/payment.png" />
     </a>
     <div>
     <a href="set-up-online-payments.md"><strong>Onlinezahlungen einrichten</strong></a>
@@ -110,7 +110,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
   </td>
  <td>
       <a href="webform.md">
-        <img alt="Erstellen eines Webformulars" src="../assets/Webform.png" />
+        <img alt="Erstellen eines Webformulars" src="../assets/web-form.png" />
     </a>
       <div>
       <a href="webform.md"><strong>Erstellen eines Webformulars</strong></a>
@@ -122,7 +122,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
 <tr>
   <td>
       <a href="adobe-sign-text-tagging.md">
-        <img alt="Acrobat Sign Text-Tagging" src="../assets/Text-Tagging.png" />
+        <img alt="Acrobat Sign Text-Tagging" src="../assets/tagging.png" />
     </a>
       <div>
       <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign-Text-Tagging</strong></a>
@@ -132,7 +132,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
     </td>
   <td>
     <a href="text-tagging-word.md">
-      <img alt="Verwenden von Text-Tagging in [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
+      <img alt="Verwenden von Text-Tagging in [!DNL Microsoft Word]" src="../assets/word-tagging.png" />
   </a>
     <div>
     <a href="text-tagging-word.md"><strong>Verwenden von Text-Tagging in [!DNL Microsoft Word]</strong></a>
@@ -169,7 +169,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
   </td>
   <td>
     <a href="edit-a-template.md">
-      <img alt="Dokumentvorlagen verwalten" src="../assets/ManageTemplate.png" />
+      <img alt="Dokumentvorlagen verwalten" src="../assets/edit-template.png" />
     </a>
     <div>
     <a href="edit-a-template.md"><strong>Dokumentvorlagen verwalten</strong></a>
@@ -179,7 +179,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
   </td>
   <td>
     <a href="modify-webform.md">
-      <img alt="Vorhandenes Webformular ändern" src="../assets/Modifywebform.png" />
+      <img alt="Vorhandenes Webformular ändern" src="../assets/modify-web-form.png" />
     </a>
     <div>
     <a href="modify-webform.md"><strong>Vorhandenes Webformular ändern</strong></a>
@@ -189,7 +189,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
   </td>  
   <td>
     <a href="manage-webform-data.md">
-      <img alt="Verwalten von Webformulardaten" src="../assets/Managewebform.png" />
+      <img alt="Verwalten von Webformulardaten" src="../assets/manage-web-form.png" />
     </a>
     <div>
     <a href="manage-webform-data.md"><strong>Verwalten von Webformulardaten</strong></a>
