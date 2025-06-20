@@ -8,7 +8,7 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
+source-git-commit: c776790139b32c80655b7ce6a8bdef8b63acb357
 workflow-type: tm+mt
 source-wordcount: '615'
 ht-degree: 1%
@@ -43,7 +43,7 @@ Erfahren Sie, wie Sie das [Tool für den Massendownload](bulk-download-tool.md) 
 <tr>
   <td>
     <a href="get-started-admin.md">
-      <img alt="Erste Schritte für neue Administratoren" src="../assets/Gettingstartedadmin_1280.png" />
+      <img alt="Erste Schritte für neue Administratoren" src="../assets/get-started-admin.png" />
     </a>
     <div>
     <a href="get-started-admin.md"><strong>Erste Schritte für neue Administratoren</strong></a>
@@ -53,7 +53,7 @@ Erfahren Sie, wie Sie das [Tool für den Massendownload](bulk-download-tool.md) 
   </td>
   <td>
     <a href="up-and-running-admin.md">
-      <img alt="Einstieg in Administratoren" src="../assets/Up-Running.png" />
+      <img alt="Einstieg in Administratoren" src="../assets/up-and-running.png" />
     </a>
     <div>
     <a href="up-and-running-admin.md"><strong>Verfügbar für Administratoren</strong></a>
@@ -63,7 +63,7 @@ Erfahren Sie, wie Sie das [Tool für den Massendownload](bulk-download-tool.md) 
   </td>
   <td>
     <a href="set-up-shared-events-and-alert.md">
-      <img alt="Einrichten von freigegebenen Ereignissen und Warnungen" src="../assets/Notifications_1280.png" />
+      <img alt="Einrichten von freigegebenen Ereignissen und Warnungen" src="../assets/notifications.png" />
     </a>
     <div>
     <a href="set-up-shared-events-and-alert.md"><strong>Benachrichtigungen für Ereignisse und Warnungen konfigurieren</strong></a>
@@ -73,7 +73,7 @@ Erfahren Sie, wie Sie das [Tool für den Massendownload](bulk-download-tool.md) 
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="Neuen Benutzer hinzufügen" src="../assets/Add-a-new-user.jpg" />
+      <img alt="Neuen Benutzer hinzufügen" src="../assets/add-user.png" />
     </a>
     <div>
     <a href="add-users-to-your-account.md"><strong>Neuen Benutzer hinzufügen</strong></a>
@@ -85,7 +85,7 @@ Erfahren Sie, wie Sie das [Tool für den Massendownload](bulk-download-tool.md) 
 <tr>
  <td>
     <a href="add-admin.md">
-      <img alt="Neuen Kontoadministrator hinzufügen" src="../assets/Add-a-new-admin.jpg" />
+      <img alt="Neuen Kontoadministrator hinzufügen" src="../assets/add-admin.png" />
     </a>
     <div>
     <a href="add-admin.md"><strong>Neuen Kontoadministrator hinzufügen</strong></a>
@@ -95,7 +95,7 @@ Erfahren Sie, wie Sie das [Tool für den Massendownload](bulk-download-tool.md) 
   </td>
   <td>
     <a href="create-and-manage-groups.md">
-      <img alt="Erstellen und Verwalten von Gruppen" src="../assets/Creating-Groups.png" />
+      <img alt="Erstellen und Verwalten von Gruppen" src="../assets/groups.png" />
     </a>
     <div>
     <a href="create-and-manage-groups.md"><strong>Erstellen und Verwalten von Gruppen</strong></a>
@@ -105,7 +105,7 @@ Erfahren Sie, wie Sie das [Tool für den Massendownload](bulk-download-tool.md) 
   </td>
   <td>
     <a href="set-up-your-external-archive.md">
-      <img alt="Einrichten eines externen Archivs" src="../assets/ExternalArchive.png" />
+      <img alt="Einrichten eines externen Archivs" src="../assets/external-archive.png" />
     </a>
     <div>
     <a href="set-up-your-external-archive.md"><strong>Einrichten eines externen Archivs</strong></a>
@@ -179,7 +179,7 @@ Erfahren Sie, wie Sie das [Tool für den Massendownload](bulk-download-tool.md) 
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
-      <img alt="Einrichten eines Workflows" src="../assets/BuildingWorkflow.png" />
+      <img alt="Einrichten eines Workflows" src="../assets/workflow.png" />
     </a>
     <div>
     <a href="building-a-custom-workflow.md"><strong>Einrichten eines Workflows</strong></a>
@@ -189,7 +189,7 @@ Erfahren Sie, wie Sie das [Tool für den Massendownload](bulk-download-tool.md) 
   </td>
   <td>
     <a href="audit-reports.md">
-      <img alt="Audit-Berichte" src="../assets/audit-reports-configure.png" />
+      <img alt="Audit-Berichte" src="../assets/audit-report.png" />
     </a>
     <div>
     <a href="audit-reports.md"><strong>Audit-Berichte</strong></a>
@@ -199,7 +199,7 @@ Erfahren Sie, wie Sie das [Tool für den Massendownload](bulk-download-tool.md) 
   </td>
   <td>
     <a href="promote-admin.md">
-      <img alt="Produkt- und Support-Administratorrollen zuweisen" src="../assets/admin-roles.jpg" />
+      <img alt="Produkt- und Support-Administratorrollen zuweisen" src="../assets/assign-product.png" />
     </a>
     <div>
     <a href="promote-admin.md"><strong>Produkt- und Support-Administratorrollen zuweisen</strong></a>
@@ -216,7 +216,7 @@ Erfahren Sie, wie Sie das [Tool für den Massendownload](bulk-download-tool.md) 
 <tr>
   <td>
     <a href="learn-about-global-settings.md">
-      <img alt="Globale Einstellungen" src="../assets/GlobalSettings_1280.png">
+      <img alt="Globale Einstellungen" src="../assets/global-settings.png">
     </a>
     <div>
     <a href="learn-about-global-settings.md"><strong>Globale Einstellungen</strong></a>
@@ -226,7 +226,7 @@ Erfahren Sie, wie Sie das [Tool für den Massendownload](bulk-download-tool.md) 
   </td>
   <td>
     <a href="share-account-access.md">
-      <img alt="Kontozugriff freigeben" src="../assets/SharingAccess.png" />
+      <img alt="Kontozugriff freigeben" src="../assets/sharing.png" />
     </a>  
     <div>
     <a href="share-account-access.md"><strong>Kontozugriff wird freigegeben</strong></a>
@@ -236,7 +236,7 @@ Erfahren Sie, wie Sie das [Tool für den Massendownload](bulk-download-tool.md) 
   </td>
   <td>
     <a href="advanced-account-sharing.md">
-      <img alt="Erweiterte Kontofreigabe" src="../assets/AdvancedSharing_1280.png" />
+      <img alt="Erweiterte Kontofreigabe" src="../assets/advanced-sharing.png" />
     </a>
     <div>
     <a href="advanced-account-sharing.md"><strong>Erweiterte Kontofreigabe</strong></a>
@@ -246,7 +246,7 @@ Erfahren Sie, wie Sie das [Tool für den Massendownload](bulk-download-tool.md) 
   </td>
   <td>
     <a href="bulk-download-tool.md">
-      <img alt="Massen-Download-Tool" src="../assets/bulk-download-tool.png" />
+      <img alt="Massen-Download-Tool" src="../assets/bulk-download.png" />
     </a>
     <div>
     <a href="bulk-download-tool.md"><strong>Massen-Download-Tool</strong></a>
@@ -268,7 +268,7 @@ Erfahren Sie, wie Sie das [Tool für den Massendownload](bulk-download-tool.md) 
   </td>
   <td>
     <a href="use-bio-pharma-settings.md">
-      <img alt="Verwenden von Bio-Pharma-Einstellungen" src="../assets/Bio_1280.png" />
+      <img alt="Verwenden von Bio-Pharma-Einstellungen" src="../assets/bio-settings.png" />
     </a>
     <div>
     <a href="use-bio-pharma-settings.md"><strong>Bio-Pharma-Einstellungen verwenden</strong></a>
@@ -278,7 +278,7 @@ Erfahren Sie, wie Sie das [Tool für den Massendownload](bulk-download-tool.md) 
   </td>
   <td>
     <a href="privacy.md">
-      <img alt="So richten Sie den Datenschutzadministrator ein" src="../assets/privacy.png" />
+      <img alt="So richten Sie den Datenschutzadministrator ein" src="../assets/privacy-admin.png" />
     </a>
     <div>
     <a href="privacy.md"><strong>Einrichten von Datenschutzadministratoren</strong></a>
