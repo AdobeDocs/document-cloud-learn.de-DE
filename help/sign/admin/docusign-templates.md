@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie in drei einfachen Schritten Vorlagen und Workflows aus Document Sign nahtlos zu Acrobat Sign migrieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3465274?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3465283?quality=12&learn=on&hidetitle=true&captions=ger)
