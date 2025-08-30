@@ -5,7 +5,8 @@ feature: Workspace, Accessibility, Action
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
-source-git-commit: e49d52f7b83bccfe246ee69d377f3558c2b30a85
+exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
+source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 1%
@@ -20,9 +21,9 @@ Erfahren Sie, wie Sie barrierefreie PDF-Dateien erstellen. Die Bandbreite der Tu
 
 >[!BEGINTABS]
 
->[!TAB Wie und warum barrierefreier PDF-Dateien]
+>[!TAB Was und warum barrierefreier PDF-Dateien]
 
-Erfahren Sie [wie und warum es wichtig ist, PDF-Dateien barrierefrei zu machen](how-why-accessible-pdf.md).
+[was eine barrierefreie PDF-Datei ist und warum sie wichtig ist](what-why-accessible-pdf.md).
 
 >[!TAB Arbeitsbereich einrichten]
 
@@ -43,13 +44,13 @@ Erfahren Sie, wie Sie [Formulare in Acrobat barrierefrei](create-accessible-form
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="how-why-accessible-pdf.md">
-      <img alt="Wie und warum barrierefreie PDF" src="../assets/accessibility-series-2025.png" />
+    <a href="what-why-accessible-pdf.md">
+      <img alt="Was und warum barrierefreier PDF" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
-    <a href="how-why-accessible-pdf.md"><strong>Wie und warum barrierefreier PDF-Dateien</strong></a>
+    <a href="what-why-accessible-pdf.md"><strong>Was und warum barrierefreier PDF-Dateien</strong></a>
     </div>
-    <em>Erfahren Sie, wie und warum es wichtig ist, PDF-Dateien barrierefrei zu machen.</em>
+    <em>Erfahren Sie, was eine barrierefreie PDF-Datei ist und warum sie wichtig ist</em>
     2<br>
   </td>
   <td>

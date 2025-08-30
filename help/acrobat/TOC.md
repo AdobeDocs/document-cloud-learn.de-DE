@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: e49d52f7b83bccfe246ee69d377f3558c2b30a85
+source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 5%
@@ -24,7 +24,7 @@ ht-degree: 5%
    + [Mit AI Assistant PDF-Erkenntnisse gewinnen](getting-started/ai-assistant.md)
    + [Überall arbeiten - mit Acrobat Web](getting-started/acrobatweb.md)
    + [Unterwegs produktiv sein.](getting-started/productivity.md)
-   + [Arbeiten mit  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=de#microsoft)
+   + [Arbeiten mit  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Erstellen einer PDF](getting-started/create-pdf.md)
    + [Dateien zu einer einzigen PDF zusammenführen](getting-started/combine-to-pdf.md)
    + [Seiten organisieren](getting-started/organize.md)
@@ -68,7 +68,7 @@ ht-degree: 5%
       + [Hinzufügen von Formularfeldern zu einem PDF ohne Tags](advanced-tasks/accessibilitysession6.md)
 + Reihe für Barrierefreiheit {#accessibility-tutorials}
    + [Übersicht](accessibility-series/accessibility-overview.md)
-   + [Wie und warum barrierefreie PDF](accessibility-series/how-why-accessible-pdf.md)
+   + [Was und warum barrierefreier PDF](accessibility-series/what-why-accessible-pdf.md)
    + [Arbeitsbereich einrichten.](accessibility-series/set-up-workspace.md)
    + [Erstellen einer barrierefreien PDF aus Word](accessibility-series/create-accessible-from-word.md)
    + [Barrierefreie Formulare erstellen](accessibility-series/create-accessible-forms.md)
@@ -138,5 +138,5 @@ ht-degree: 5%
    + [Wichtige Updates für Acrobat DC für ETLA-Kunden](deploy/signentitlementchanges.md)
 + Mobile Endgeräte {#mobile}
    + [Übersicht](mobile/mobile-overview.md)
-   + [Produktivität unterwegs](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=de)
+   + [Produktivität unterwegs](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Alles auf PDF scannen](mobile/scan-mobile-app.md)
