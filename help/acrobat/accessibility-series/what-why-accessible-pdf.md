@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Erfahren Sie, was eine barrierefreie PDF-Datei ist und warum sie wichtig ist.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471613?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471638?quality=12&learn=on&hidetitle=true&captions=ger)
