@@ -30,4 +30,4 @@ Dieses Tutorial behandelt die folgenden Themen:
 * Vereinbarungen verwalten und verfolgen
 * Zugriff auf Support und Ressourcen
 
->[!VIDEO](https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3454392?quality=12&learn=on&hidetitle=true&captions=ger)
