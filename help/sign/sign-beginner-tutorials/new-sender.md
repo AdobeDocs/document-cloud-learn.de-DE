@@ -1,14 +1,14 @@
 ---
 title: Erste Schritte mit Acrobat Sign
-description: Dieses umfassende Tutorial ist ein guter Ausgangspunkt für neue Absender in Adobe Sign.
+description: Dieses Tutorial ist ein guter Einstieg für Einsteiger in Acrobat Sign.
 feature: Workspace
 role: User
 level: Beginner
 jira: KT-8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: 7e5cfcdeee47a205f3a013666069136cccab1867
+source-git-commit: 8b71554f14df8c072d14cda6123f01310d2bf803
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -30,4 +30,4 @@ Dieses Tutorial behandelt die folgenden Themen:
 * Vereinbarungen verwalten und verfolgen
 * Zugriff auf Support und Ressourcen
 
->[!VIDEO](https://video.tv.adobe.com/v/3454392?quality=12&learn=on&hidetitle=true&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true)
