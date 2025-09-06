@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Formulare in Acrobat barrierefrei machen. Mit diesen sieben Schritten können Sie das PDF mit interaktiven Formularfeldern beschleunigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471615?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471671?quality=12&learn=on&hidetitle=true&captions=ger)
