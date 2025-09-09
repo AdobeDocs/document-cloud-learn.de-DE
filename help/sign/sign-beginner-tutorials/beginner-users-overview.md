@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 8b71554f14df8c072d14cda6123f01310d2bf803
+source-git-commit: 3b4a86c78a1d80ba0c77a98a3d10bc7b1f3f6071
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '470'
 ht-degree: 3%
 
 ---
@@ -22,13 +22,13 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
 
 >[!BEGINTABS]
 
+>[!TAB Ein Dokument an einen einzelnen Unterzeichner senden]
+
+Springen Sie ein und erfahren Sie, wie einfach es ist, ein Dokument [zur Signatur zu senden](send-to-single-recipient.md)
+
 >[!TAB Erste Schritte mit Acrobat Sign]
 
 Verwenden Sie Acrobat Sign zum ersten Mal? Dieses [Tutorial](new-sender.md) ist ein guter Ausgangspunkt.
-
->[!TAB Termine und Erinnerungen festlegen]
-
-Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-deadlines-reminders.md) senden, um Ihre Dokumente schnell signieren zu lassen.
 
 >[!ENDTABS]
 
@@ -36,6 +36,16 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="new-sender.md">
+      <img alt="Erste Schritte mit Acrobat Sign" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>Erste Schritte mit Acrobat Sign</strong></a>
+    </div>
+    Dieses Tutorial ist ein guter Einstieg für Einsteiger in Acrobat Sign.
+    <br>
+  </td>
  <td>
     <a href="quick-tour.md">
       <img alt="Grundlagen des Arbeitsbereichs" src="../assets/workspace.png" />
@@ -47,21 +57,11 @@ Erfahren Sie, wie Sie regelmäßige E-Mails mit [Erinnerungen und Fristen](set-d
     <br>
   </td>
   <td>
-    <a href="new-sender.md">
-      <img alt="Erste Schritte mit Acrobat Sign" src="../assets/gettingstartednew.png" />
-    </a>
-    <div>
-    <a href="new-sender.md"><strong>Erste Schritte mit Acrobat Sign</strong></a>
-    </div>
-    Dieses Tutorial ist ein guter Einstieg für Einsteiger in Acrobat Sign.
-    <br>
-  </td>
-  <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Senden an einen einzelnen Empfänger" src="../assets/send-single-recipient.png" />
+      <img alt="Senden eines Dokuments an einen einzelnen Unterzeichner" src="../assets/send-single-recipient.png" />
     </a>
     <div>
-    <a href="send-to-single-recipient.md"><strong>Senden an einen einzelnen Empfänger</strong></a>
+    <a href="send-to-single-recipient.md"><strong>Ein Dokument an einen einzelnen Unterzeichner senden</strong></a>
     </div>
     Erfahre, wie einfach du Dokumente zur Unterzeichnung versenden kannst.
     <br>
