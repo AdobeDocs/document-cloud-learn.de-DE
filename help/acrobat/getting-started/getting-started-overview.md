@@ -140,7 +140,7 @@ Erfahren Sie, wie Sie [einen Kommentar zu einer freigegebenen PDF](comment-on-pd
                       <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
                  <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio" title="Was ist Acrobat Studio?" target="_self" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio" title="Was ist Acrobat Studio?" target="_self" rel="referrer">
                         <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/by-industry/media_1f6d6f7b7584d916a156a186267c3d3790ae9144a.png?width=400&format=webply&optimize=medium" alt="Was ist Acrobat Studio?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -149,11 +149,11 @@ Erfahren Sie, wie Sie [einen Kommentar zu einer freigegebenen PDF](comment-on-pd
                      <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio" target="_self" rel="referrer" title="Was ist Acrobat Studio?">Was ist Acrobat Studio?</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio" target="_self" rel="referrer" title="Was ist Acrobat Studio?">Was ist Acrobat Studio?</a>
                     </p>
                     <p class="is-size-6">Lerne, wie du mit Acrobat Studio markensichere Inhalte erstellst, Einblicke gewinnst und komplexe Projekte optimierst.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 3</a>
             </div>
