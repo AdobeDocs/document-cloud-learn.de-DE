@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Müssen mehrere Personen Ihr Dokument signieren? Erfahre, wie du ein Dokument in der richtigen Reihenfolge zur Unterzeichnung an mehrere Empfänger senden kannst.
 
->[!VIDEO](https://video.tv.adobe.com/v/341296?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425278?quality=12&learn=on&hidetitle=true&captions=ger)
 
 >[!TIP]
 >
