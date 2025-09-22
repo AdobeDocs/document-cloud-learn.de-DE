@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 1889816bcd1abf3f5fae2d1c43f1ac0339005854
+source-git-commit: 165df9226be5dd82ba7dc2ab90b79adb39329815
 workflow-type: tm+mt
-source-wordcount: '472'
-ht-degree: 3%
+source-wordcount: '495'
+ht-degree: 2%
 
 ---
 
@@ -21,6 +21,10 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
 ## Neue Funktionen
 
 >[!BEGINTABS]
+
+>[!TAB An mehrere Unterzeichner senden]
+
+Erfahren Sie, wie Sie ein Dokument in genau der gewünschten Reihenfolge zur elektronischen Signatur an [mehrere Personen](send-to-multiple-recipients.md) senden.
 
 >[!TAB Ein Dokument an einen einzelnen Unterzeichner senden]
 
@@ -68,10 +72,10 @@ Verwenden Sie Acrobat Sign zum ersten Mal? Dieses [Tutorial](new-sender.md) ist 
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="Senden an mehrere Empfangende" src="../assets/send-to-multiple-recipient.png" />
+      <img alt="An mehrere Unterzeichner senden" src="../assets/send-to-multiple-recipient.png" />
     </a>
     <div>
-    <a href="send-to-multiple-recipients.md"><strong>Senden an mehrere Empfänger</strong></a>
+    <a href="send-to-multiple-recipients.md"><strong>An mehrere Unterzeichner senden</strong></a>
     </div>
     Dokumente an mehrere Empfänger in der gewünschten Reihenfolge senden
     <br>
