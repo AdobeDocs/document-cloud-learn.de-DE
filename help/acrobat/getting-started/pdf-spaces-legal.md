@@ -18,4 +18,4 @@ Verwandelt Sammlungen von Dateien und Websites mit personalisierten KI-Assistent
 
 PDF Spaces stehen Benutzern zur Verfügung, die Acrobat Studio oder das AI Assistant Add-on erwerben.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475141?quality=12&learn=on&hidetitle=true&captions=ger)
