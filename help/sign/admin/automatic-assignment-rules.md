@@ -17,4 +17,4 @@ ht-degree: 1%
 
 Erfahren Sie, wie Sie automatische Zuweisungsregeln einrichten, die Anwendern Zugriff auf Acrobat Sign in der [Admin Console](https://adminconsole.adobe.com/) gewähren. Dadurch wird die Bereitstellung optimiert und manuelle Verwaltungsaufgaben werden reduziert. Benutzer können andere Benutzer über die Produktzugriff-URL, die von der Admin Console generiert wurde, zu Acrobat Sign einladen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475273?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475293?quality=12&learn=on&hidetitle=true&captions=ger)
