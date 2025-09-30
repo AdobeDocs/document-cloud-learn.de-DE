@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 16666ba6f96f85182fd7b8b4741bd3a009f5159a
+source-git-commit: 1aa7b65e507c6138b2adee6248153a1414afa4f1
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '666'
 ht-degree: 1%
 
 ---
@@ -23,6 +23,10 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
 
 >[!BEGINTABS]
 
+>[!TAB Automatische Benutzerzuweisungsregeln aktivieren]
+
+Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules.md) einrichten, die Benutzern Zugriff auf Acrobat Sign in der Admin Console gewähren.
+
 >[!TAB Dokumentvorlagen migrieren]
 
 Erfahren Sie, wie Sie Dokumentvorlagen[ und Workflows in drei einfachen Schritten nahtlos ](docusign-templates.md)migrieren können.
@@ -30,10 +34,6 @@ Erfahren Sie, wie Sie Dokumentvorlagen[ und Workflows in drei einfachen Schritte
 >[!TAB Neuen Benutzer hinzufügen]
 
 Erfahren Sie, wie Sie [neue Benutzer zu Acrobat Sign hinzufügen](add-users-to-your-account.md).
-
->[!TAB Einrichten von Datenschutzadministratoren]
-
-Erfahren Sie, wie Sie [Datenschutzadministratoren](privacy.md) einrichten und verwenden.
 
 >[!ENDTABS]
 
@@ -84,6 +84,16 @@ Erfahren Sie, wie Sie [Datenschutzadministratoren](privacy.md) einrichten und ve
 </tr>
 <tr>
   <td>
+    <a href="automatic-assignment-rules.md">
+      <img alt="Automatische Benutzerzuweisungsregeln aktivieren" src="../assets/automatic-assignment.png" />
+    </a>
+    <div>
+    <a href="automatic-assignment-rules.md"><strong>Automatische Benutzerzuweisungsregeln aktivieren</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie automatische Zuweisungsregeln einrichten, die Benutzern Zugriff auf Acrobat Sign in der Admin Console gewähren</em>
+    2<br>
+  </td>
+  <td>
     <a href="add-admin.md">
       <img alt="Neuen Kontoadministrator hinzufügen" src="../assets/add-admin.png" />
     </a>
@@ -93,14 +103,14 @@ Erfahren Sie, wie Sie [Datenschutzadministratoren](privacy.md) einrichten und ve
     <em>Erfahren Sie, wie Sie einen neuen Benutzer erstellen oder einen bestehenden Benutzer zur Acrobat Sign-Administratorrolle hochstufen</em>
     2<br>
   </td>
-  <td>
-      <a href="set-up-shared-events-and-alert.md">
-        <img alt="Einrichten von freigegebenen Ereignissen und Warnungen" src="../assets/notifications.png" />
+    <td>
+      <a href="promote-admin.md">
+        <img alt="Produkt- und Support-Administratorrollen zuweisen" src="../assets/assign-product.png" />
       </a>
       <div>
-      <a href="set-up-shared-events-and-alert.md"><strong>Benachrichtigungen für Ereignisse und Warnungen konfigurieren</strong></a>
+      <a href="promote-admin.md"><strong>Produkt- und Support-Administratorrollen zuweisen</strong></a>
       </div>
-      <em>Benachrichtigungen für Ereignisse und Warnungen für Ihr Konto konfigurieren</em>
+      <em>Erfahren Sie, wie Sie der Admin Console eine Acrobat Sign-Benutzerproduktadministrator- und Supportadministratorrolle zuweisen</em>
       2<br>
     </td>
     <td>
@@ -113,7 +123,9 @@ Erfahren Sie, wie Sie [Datenschutzadministratoren](privacy.md) einrichten und ve
       <em>Gruppen erstellen, Benutzer zu Gruppen hinzufügen und Gruppeneinstellungen bearbeiten</em>
       2<br>
     </td>
-    <td>
+</tr>
+<tr>
+ <td>
       <a href="set-up-your-external-archive.md">
         <img alt="Einrichten eines externen Archivs" src="../assets/external-archive.png" />
       </a>
@@ -123,8 +135,6 @@ Erfahren Sie, wie Sie [Datenschutzadministratoren](privacy.md) einrichten und ve
       <em>Ein externes Archiv für Sicherungskopien von signierten Vereinbarungen erstellen</em>
       2<br>
     </td>
-</tr>
-<tr>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
       <img alt="Erstellen von Dokumentvorlagen" src="../assets/create-template.png" />
@@ -155,7 +165,9 @@ Erfahren Sie, wie Sie [Datenschutzadministratoren](privacy.md) einrichten und ve
     <em>Informationen zum Einrichten von Berichtsoptionen für Benutzer</em>
     2<br>
   </td>
-  <td>
+</tr>  
+<tr>
+   <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="Erstellen eines Webformulars" src="../assets/web-form.png" />
     </a>
@@ -165,9 +177,7 @@ Erfahren Sie, wie Sie [Datenschutzadministratoren](privacy.md) einrichten und ve
     <em>Erstellen Sie ein Dokument, das direkt auf Ihrer Website elektronisch signiert werden kann</em>
     2<br>
   </td>
-</tr>  
-<tr>
-   <td>
+  <td>
     <a href="../sign-advanced-users/modify-webform.md">
       <img alt="Vorhandenes Webformular ändern" src="../assets/modify-web-form.png" />
     </a>
@@ -197,7 +207,9 @@ Erfahren Sie, wie Sie [Datenschutzadministratoren](privacy.md) einrichten und ve
     <em>Automatisieren von Dokumenten-Workflows, um elektronische Signaturen und Daten schnell zu erhalten</em>
     2<br>
   </td>
-  <td>
+</tr>
+<tr>
+     <td>
     <a href="audit-reports.md">
       <img alt="Audit-Berichte" src="../assets/audit-report.png" />
     </a>
@@ -206,23 +218,16 @@ Erfahren Sie, wie Sie [Datenschutzadministratoren](privacy.md) einrichten und ve
     </div>
     <em>Weitere Informationen zum Zugriff, zur Verwendung und Konfiguration von Audit-Berichten</em>
     2<br>
-  </td>
-</tr>
-<tr>
-    <td>
-      <a href="promote-admin.md">
-        <img alt="Produkt- und Support-Administratorrollen zuweisen" src="../assets/assign-product.png" />
-      </a>
-      <div>
-      <a href="promote-admin.md"><strong>Produkt- und Support-Administratorrollen zuweisen</strong></a>
-      </div>
-      <em>Erfahren Sie, wie Sie der Admin Console eine Acrobat Sign-Benutzerproduktadministrator- und Supportadministratorrolle zuweisen</em>
-      2<br>
     </td>
     <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
+      <a href="set-up-shared-events-and-alert.md">
+        <img alt="Einrichten von freigegebenen Ereignissen und Warnungen" src="../assets/notifications.png" />
+      </a>
       <div>
-      <br>
+      <a href="set-up-shared-events-and-alert.md"><strong>Benachrichtigungen für Ereignisse und Warnungen konfigurieren</strong></a>
+      </div>
+      <em>Benachrichtigungen für Ereignisse und Warnungen für Ihr Konto konfigurieren</em>
+      2<br>
     </td>
     <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
