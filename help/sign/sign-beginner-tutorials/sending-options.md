@@ -22,4 +22,4 @@ Erfahren Sie, wie Sie Vereinbarungsdetails anpassen, Dateien anhängen und zusä
 >
 >Die Sendeoptionen können von Ihrem Administrator konfiguriert werden. Unter Umständen werden Ihnen nicht genau die gleichen Optionen angezeigt, die in diesem Tutorial erwähnt werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417775?quality=12&learn=on&hidetitle=true&captions=ger)
