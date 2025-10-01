@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-10980
 thumbnail: KT-10980.jpg
 exl-id: 86c0825e-1f40-428f-ad0d-b69118c72be1
-source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
+source-git-commit: 80704a995b5767b5aa45f9a71bcbdcdea7e1a67c
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -20,6 +20,6 @@ Erfahren Sie, wie Sie Vereinbarungsdetails anpassen, Dateien anhängen und zusä
 
 >[!NOTE]
 >
->Die Sendeoptionen können von Ihrem Administrator konfiguriert werden. Unter Umständen werden Ihnen nicht genau die gleichen Optionen angezeigt, die in diesem Tutorial erwähnt werden.
+>Möglicherweise hat Ihr Administrator die Sendeoptionen angepasst. Die angezeigten Optionen können sich von den in diesem Tutorial angezeigten Optionen unterscheiden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3417775?quality=12&learn=on&hidetitle=true&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
