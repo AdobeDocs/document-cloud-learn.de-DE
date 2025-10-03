@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 2ad4bdf7af7560958ca90ebc14d09348b0352e49
+source-git-commit: 07e2a5a81b23efc49934c9693c625da47882f43f
 workflow-type: tm+mt
-source-wordcount: '666'
+source-wordcount: '678'
 ht-degree: 2%
 
 ---
@@ -23,13 +23,17 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
 
 >[!BEGINTABS]
 
+>[!TAB Wiederverwendbare Vorlage erstellen]
+
+Erfahren Sie, wie Sie eine [wiederverwendbare Dokumentvorlage](../sign-advanced-users/create-a-template.md) erstellen.
+
 >[!TAB Automatische Benutzerzuweisungsregeln aktivieren]
 
 Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules.md) einrichten, die Benutzern Zugriff auf Acrobat Sign in der Admin Console gewähren.
 
 >[!TAB Dokumentvorlagen migrieren]
 
-Erfahren Sie, wie Sie Dokumentvorlagen[&#x200B; und Workflows in drei einfachen Schritten nahtlos &#x200B;](docusign-templates.md)migrieren können.
+Erfahren Sie, wie Sie Dokumentvorlagen[ und Workflows in drei einfachen Schritten nahtlos ](docusign-templates.md)migrieren können.
 
 >[!TAB Neuen Benutzer hinzufügen]
 
