@@ -6,11 +6,10 @@ role: User, Admin
 level: Intermediate
 jira: KT-6851
 thumbnail: KT-6851.jpg
-kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: edf5851a3c7593ee79716b432d84f944a72e9343
+source-git-commit: fc99c38ffd46d916b185ede7a3a442c3a0083e00
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -41,15 +40,11 @@ Erfahrt, wie ihr die e-Signatur-Erlebnisse in eurem Unternehmen transformieren k
     <em>Erfahren Sie, wie verschiedene Unternehmen Acrobat Sign mit diesen Nutzungsszenarien in der realen Welt verwenden</em>
     2<br>
   </td>
+ </td>
   <td>
-    <a href="use-case-showcase.md">
-      <img alt="Nutzungsszenarien" src="../assets/UseCaseShowcaseR.png" />
-    </a>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
-    <a href="use-case-showcase.md"><strong>Anwendungsbeispiele</strong></a>
-    </div>
-    <em>Sehen Sie sich Live- oder aufgezeichnete Sessions an, in denen Sie neue Nutzungsszenarien und Trends für Acrobat Sign vorgestellt werden</em>
-    2<br>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />

@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
+source-git-commit: 2ad4bdf7af7560958ca90ebc14d09348b0352e49
 workflow-type: tm+mt
 source-wordcount: '511'
 ht-degree: 2%
@@ -139,10 +139,15 @@ Verwenden Sie Acrobat Sign zum ersten Mal? Dieses [Tutorial](new-sender.md) ist 
       <br>
     </td> 
   <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-    </td>
+    <a href="../sign-advanced-users/create-a-template.md">
+      <img alt="Wiederverwendbare Vorlage erstellen" src="../assets/create-template.png" />
+    </a>
+    <div>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>Wiederverwendbare Vorlage erstellen</strong></a>
+    </div>
+    Wiederverwendbare Dokumentvorlagen erstellen, um Ihrem Unternehmen Geschwindigkeit und Konsistenz zu verleihen
+    <br>
+  </td>
     <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
       <div>
@@ -250,13 +255,8 @@ Verwenden Sie Acrobat Sign zum ersten Mal? Dieses [Tutorial](new-sender.md) ist 
     <br>
   </td>
   <td>
-    <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="Erstellen von Dokumentvorlagen" src="../assets/create-template.png" />
-    </a>
+    <img alt="Spacer" src="../assets/Whitespacer.png" />
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>Erstellen einer Dokumentvorlage</strong></a>
-    </div>
-    Wiederverwendbare Dokumentvorlagen erstellen, um Ihrem Unternehmen Geschwindigkeit und Konsistenz zu verleihen
     <br>
   </td>
   <td>
