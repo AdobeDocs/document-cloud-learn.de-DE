@@ -29,7 +29,7 @@ Erfahren Sie, wie Sie mit Acrobat Sign, Acrobat Sign für Microsoft Dynamic, Mar
 
 1. Installieren Sie Acrobat Sign für Microsoft Dynamics.
 
-   Informationen zu diesem Plug-in sind hier [ verfügbar.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
+   Informationen zu diesem Plug-in sind hier [&#x200B; verfügbar.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## Benutzerdefiniertes Objekt suchen
 

@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Ausfüllbares Formular erstellen
 
-Ein gescanntes Papierformular oder ein in InDesign, Microsoft Word, Excel oder einer anderen Anwendung erstelltes Dokument in ein [ausfüllbares PDF-Formular ](https://www.adobe.com/de/acrobat/online/sign-pdf.html) umwandeln.
+Ein gescanntes Papierformular oder ein in InDesign, Microsoft Word, Excel oder einer anderen Anwendung erstelltes Dokument in ein [ausfüllbares PDF-Formular &#x200B;](https://www.adobe.com/de/acrobat/online/sign-pdf.html) umwandeln.
 
 1. Wählen Sie im mittleren oder rechten Fensterbereich [!UICONTROL Tools] die Option **[!UICONTROL Prepare Form]** aus.
 

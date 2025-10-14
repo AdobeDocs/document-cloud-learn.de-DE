@@ -16,6 +16,6 @@ ht-degree: 3%
 
 # Protect Ihrer PDF-Dateien mit einem Kennwort
 
-In diesem 60-Sekunden-Videotutorial erfahren Sie, wie Sie [eine PDF ](https://www.adobe.com/de/acrobat/online/password-protect-pdf.html){target="_blank"} schützen, sodass ein Kennwort erforderlich ist, um die PDF [&#128279;](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target="_blank"} zu öffnen oder zu bearbeiten.
+In diesem 60-Sekunden-Videotutorial erfahren Sie, wie Sie [eine PDF &#x200B;](https://www.adobe.com/de/acrobat/online/password-protect-pdf.html){target="_blank"} schützen, sodass ein Kennwort erforderlich ist, um die PDF [&#128279;](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target="_blank"} zu öffnen oder zu bearbeiten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409533?quality=12&learn=on&hidetitle=true&captions=ger)

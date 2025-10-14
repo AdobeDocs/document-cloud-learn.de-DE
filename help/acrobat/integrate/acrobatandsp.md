@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Mit [!DNL SharePoint] Dateien arbeiten
 
-Optimieren Sie Dokumenten-Workflows mit [!DNL SharePoint] und Acrobat mithilfe von [Adobe Acrobat für Microsoft 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). [!DNL Microsoft 365] Dateien sicher in PDF konvertieren, [PDF-Dokumente ](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} in einer Datei zusammenführen, kommentieren und Seiten neu anordnen - direkt von [!DNL SharePoint] online.
+Optimieren Sie Dokumenten-Workflows mit [!DNL SharePoint] und Acrobat mithilfe von [Adobe Acrobat für Microsoft 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). [!DNL Microsoft 365] Dateien sicher in PDF konvertieren, [PDF-Dokumente &#x200B;](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} in einer Datei zusammenführen, kommentieren und Seiten neu anordnen - direkt von [!DNL SharePoint] online.
 
 >[!NOTE]
 >

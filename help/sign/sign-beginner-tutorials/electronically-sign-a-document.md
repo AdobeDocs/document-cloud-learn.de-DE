@@ -16,6 +16,6 @@ ht-degree: 3%
 
 # Dokumente elektronisch unterschreiben
 
-Erfahren Sie, wie einfach es ist, ein Dokument zu unterschreiben, das Ihnen mit Acrobat Sign zugesendet wird. Schauen Sie sich dieses [Tutorial](../mobile/sign-mobile.md) an, um zu erfahren, wie Sie Dokumente mit der mobilen Acrobat Sign-App für [iOS](https://apps.apple.com/us/app/adobe-sign/id481082197) oder [Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=de) signieren.
+Erfahren Sie, wie einfach es ist, ein Dokument zu unterschreiben, das Ihnen mit Acrobat Sign zugesendet wird. Schauen Sie sich dieses [Tutorial](../mobile/sign-mobile.md) an, um zu erfahren, wie Sie Dokumente mit der mobilen Acrobat Sign-App für [iOS](https://apps.apple.com/us/app/adobe-sign/id481082197) oder [Android](https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=de) signieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412553?quality=12&learn=on&hidetitle=true&captions=ger)

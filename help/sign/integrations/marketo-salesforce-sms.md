@@ -29,7 +29,7 @@ Erfahren Sie, wie Sie eine Textnachricht, eine E-Mail oder eine Push-Benachricht
 
 1. Installieren Sie Acrobat Sign für Salesforce.
 
-   Informationen zu diesem Plug-in sind hier [ verfügbar.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
+   Informationen zu diesem Plug-in sind hier [&#x200B; verfügbar.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 ## Benutzerdefiniertes Objekt suchen
 

@@ -49,7 +49,7 @@ Die Adobe Scan-App kann auch nützlich sein, um eine Quittung, die Sie später b
 
 **Schritt 1:** Fotografiere die Quittung, die du speichern möchtest, während die Adobe Scan-App geöffnet ist.
 
-![Empfangsbestätigungsbild ](assets/scanreceipt.png) scannen
+![Empfangsbestätigungsbild &#x200B;](assets/scanreceipt.png) scannen
 
 
 **Schritt 2:** Beobachten Sie, wie die App Ihre Quittung automatisch erkennt und ihren Inhalt erfasst.

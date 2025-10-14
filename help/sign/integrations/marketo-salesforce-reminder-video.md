@@ -30,7 +30,7 @@ Hier erfahren Sie, wie Sie eine E-Mail-Erinnerung von Marketo für nicht signier
 
 1. Installieren Sie Acrobat Sign für Salesforce.
 
-   Informationen zu diesem Plug-in sind hier [ verfügbar.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
+   Informationen zu diesem Plug-in sind hier [&#x200B; verfügbar.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 >[!VIDEO](https://video.tv.adobe.com/v/332506?quality=12&learn=on&hidetitle=true)
 

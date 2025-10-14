@@ -33,7 +33,7 @@ Erfahren Sie, wie [Webformulare](usecase-edu-intern.md) verwendet werden, um den
 
 >[!TAB Webformular-Praktikumsanwendung für Bildungseinrichtungen erstellen]
 
-Erfahren Sie, wie Sie ein Praktikum [Webformular ](usecase-edu-intern-create.md) erstellen.
+Erfahren Sie, wie Sie ein Praktikum [Webformular &#x200B;](usecase-edu-intern-create.md) erstellen.
 
 >[!TAB Kreditantrag der Regierung mit mehreren unbekannten Unterzeichnern]
 

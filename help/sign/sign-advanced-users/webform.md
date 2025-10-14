@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Erstellen eines Webformulars
 
-Lerne, wie du ein Dokument erstellst, das direkt auf deiner Website elektronisch unterzeichnet werden kann. Sie können einen [gehosteten Hyperlink zu Ihrem Formular ](https://salesforceintegration.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhBTZvjMual0H-M6HTSunw9hV1t-OdGbQI3d-nWJdEH76dHPxK1QH6DO9XGjch6QVho*) erstellen oder den Link verwenden, um ihn auf Ihrer Website in HTML oder JavaScript einzubetten.
+Lerne, wie du ein Dokument erstellst, das direkt auf deiner Website elektronisch unterzeichnet werden kann. Sie können einen [gehosteten Hyperlink zu Ihrem Formular &#x200B;](https://salesforceintegration.na2.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhBTZvjMual0H-M6HTSunw9hV1t-OdGbQI3d-nWJdEH76dHPxK1QH6DO9XGjch6QVho*) erstellen oder den Link verwenden, um ihn auf Ihrer Website in HTML oder JavaScript einzubetten.
 
 [!BADGE Anwendungsfälle]
 

@@ -26,6 +26,6 @@ Das [Acrobat SDK](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/){
 
 [Adobe PDF Services-API](https://developer.adobe.com/document-services/apis/pdf-services/){target="_blank"}
 [Adobe PDF Extract-API](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}
-[API für die Dokumentenerzeugung ](https://developer.adobe.com/document-services/apis/doc-generation/){target="_blank"} für Adobe
+[API für die Dokumentenerzeugung &#x200B;](https://developer.adobe.com/document-services/apis/doc-generation/){target="_blank"} für Adobe
 [Adobe PDF Embed-API](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
 [Tutorials zu Adobe Acrobat Services](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html?lang=de){target="_blank"}

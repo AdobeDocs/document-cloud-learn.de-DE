@@ -261,7 +261,7 @@ Diese Ordner werden jetzt als Teil Ihres Power Automate -Ablaufs referenziert.
 1. Wählen Sie **Neu hinzugefügte Dateien in durchsuchbaren PDF in SharePoint umwandeln**.
 1. Klicken Sie auf das Symbol **+** neben Adobe PDF Tools.
 
-   ![Screenshot der Auswahl des Plus-Symbols ](assets/documentautomation/automation_27.png)
+   ![Screenshot der Auswahl des Plus-Symbols &#x200B;](assets/documentautomation/automation_27.png)
 
 1. Navigieren Sie auf einer neuen Registerkarte zu https://www.adobe.com/go/powerautomate_getstarted_de .
 1. Klicken Sie auf **Erste Schritte**.
@@ -495,7 +495,7 @@ Nachdem Sie einen Textfluss erstellt haben, bearbeiten Sie den Textfluss, um das
 
 1. Wählen Sie **Automatisieren** aus, um Ihren Flow auszuwählen.
 
-   ![Screenshot der Auswahl von &quot;Automatisch&quot; aus dem Menü ](assets/documentautomation/automation_59.png)
+   ![Screenshot der Auswahl von &quot;Automatisch&quot; aus dem Menü &#x200B;](assets/documentautomation/automation_59.png)
 
 1. Klicken Sie auf **Weiter**, um den Textfluss zu starten.
 
