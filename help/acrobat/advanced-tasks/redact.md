@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 716e979bcf0a3753edf131a78d7a55829ba026dc
+source-git-commit: f16755624a532246818d05d28fb76c6607790460
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 0%
@@ -44,7 +44,7 @@ Kundendatenschutz, Risikomanagement
 
 1. Wählen Sie **[!UICONTROL Text suchen und schwärzen]**, um nach einem bestimmten Wort oder Ausdruck zu suchen, oder suchen Sie nach einem Muster, um bestimmte Arten von Informationen zu finden. Legen Sie die Suche fest und wählen Sie &quot;Text suchen und entfernen&quot;.
 
-![Schritt 4 schwärzen](../assets/Redact_4.png)
+   ![Schritt 4 schwärzen](../assets/Redact_4.png)
 
 1. Aktivieren Sie im Dialogfeld mit den Suchergebnissen die Kontrollkästchen neben den Elementen und wählen Sie **[!UICONTROL Markierte Ergebnisse für Schwärzung markieren]**.
 
