@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 42950a5df4b6993796a55b3a1de847c1d395500d
+source-git-commit: 716e979bcf0a3753edf131a78d7a55829ba026dc
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
@@ -38,17 +38,17 @@ Kundendatenschutz, Risikomanagement
 
 1. Wählen Sie **[!UICONTROL Text und Bilder schwärzen]** aus, und markieren Sie den zu schwärzenden Inhalt mit dem Cursor.
 
-   ![Schritt 4 schwärzen](../assets/Redact_3.png)
+   ![Schritt 3 schwärzen](../assets/Redact_3.png)
 
    Sie können eine Vorschau der Schwärzung anzeigen, indem Sie mit dem Mauszeiger auf den ausgewählten Inhalt zeigen.
 
-   ![Schritt 5a](../assets/Redact_4.png) schwärzen
-
 1. Wählen Sie **[!UICONTROL Text suchen und schwärzen]**, um nach einem bestimmten Wort oder Ausdruck zu suchen, oder suchen Sie nach einem Muster, um bestimmte Arten von Informationen zu finden. Legen Sie die Suche fest und wählen Sie &quot;Text suchen und entfernen&quot;.
+
+![Schritt 4 schwärzen](../assets/Redact_4.png)
 
 1. Aktivieren Sie im Dialogfeld mit den Suchergebnissen die Kontrollkästchen neben den Elementen und wählen Sie **[!UICONTROL Markierte Ergebnisse für Schwärzung markieren]**.
 
-   ![Schritt 5b](../assets/Redact_5.png) schwärzen
+   ![Schritt 5 schwärzen](../assets/Redact_5.png)
 
 1. Wählen Sie **[!UICONTROL Seiten schwärzen]**, um ganze Seiten zum Schwärzen zu markieren.
 
@@ -56,13 +56,15 @@ Kundendatenschutz, Risikomanagement
 
 1. Wählen Sie Ihre Seiten aus und wählen Sie **[!UICONTROL OK]**.
 
+   ![Schritt 7 schwärzen](../assets/Redact_7.png)
+
 1. Wählen Sie im Bedienfeld &quot;PDF schwärzen&quot; die Option **[!UICONTROL Anwenden]** aus, um die markierten Schwärzungen anzuwenden.
 
-   ![Schritt 6 schwärzen](../assets/Redact_7.png)
+   ![Schritt 8 schwärzen](../assets/Redact_8.png)
 
 1. Wählen Sie **[!UICONTROL Weiter]**, um ausgeblendete Informationen zu bereinigen und zu entfernen.
 
-   ![Schritt 6 schwärzen](../assets/Redact_8.png)
+   ![Schritt 9 schwärzen](../assets/Redact_9.png)
 
 Sobald Sie dies bestätigen, werden die Schwärzungen und ausgeblendeten Informationen dauerhaft entfernt und in einer neuen Datei gespeichert.
 
