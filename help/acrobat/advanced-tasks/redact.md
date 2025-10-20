@@ -1,5 +1,5 @@
 ---
-title: Schwärzen und bereinigen
+title: Vertrauliche Informationen entfernen
 description: Hier erfahren Sie, wie Sie private oder vertrauliche Informationen dauerhaft von Ihrem PDF entfernen.
 feature: Security
 role: User
@@ -7,16 +7,16 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: 42950a5df4b6993796a55b3a1de847c1d395500d
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
 
-# Schwärzen und bereinigen
+# Vertrauliche Informationen entfernen
 
-Erfahren Sie, wie Sie das Werkzeug zum Schwärzen verwenden, um private oder vertrauliche Informationen dauerhaft von Ihrem PDF zu entfernen. Mit dem Werkzeug &quot;Bereinigen&quot; können Sie Informationen entfernen, die in der Datei nicht sichtbar sind, z. B. Kommentare, Metadaten oder ausgeblendete Ebenen.
+Erfahren Sie, wie Sie mit dem Werkzeug &quot;Schwärzen&quot; private oder vertrauliche Informationen dauerhaft von einer PDF entfernen und dann das Dokument bereinigen, um Informationen zu entfernen, die nicht in der Datei angezeigt werden, wie Kommentare, Metadaten oder ausgeblendete Ebenen. Vertrauliche Inhalte und verborgene Daten müssen dauerhaft entfernt werden, damit die Informationen beim Veröffentlichen Ihres PDF nicht weitergegeben werden. In diesem Tutorial wird das [neue Acrobat-Erlebnis](../getting-started/new-workspace.md) verwendet.
 
 >[!NOTE]
 >
@@ -25,50 +25,47 @@ Erfahren Sie, wie Sie das Werkzeug zum Schwärzen verwenden, um private oder ver
 [!BADGE Organisatorische Auswirkungen]
 Kundendatenschutz, Risikomanagement
 
-## Text und Bilder schwärzen
+## Informationen in Acrobat für den Desktop schwärzen
 
-1. Wählen Sie **[!UICONTROL Schwärzen]** im mittleren oder rechten Bereich von [!UICONTROL Tools] aus.
-
+1. Öffnen Sie eine Datei, und wählen Sie **[!UICONTROL Alle Tools]** in der Symbolleiste aus. Wählen Sie dann **[!UICONTROL PDF schwärzen]**.
    ![Schritt 1 schwärzen](../assets/Redact_1.png)
 
-1. Wählen Sie **[!UICONTROL Text und Bilder schwärzen]** **>** **[!UICONTROL Eigenschaften]** aus, um das Erscheinungsbild Ihrer Schwärzungen anzupassen, einschließlich der Farbe von Schwärzungsfeldern oder Textüberlagerungen.
+1. Wählen Sie **[!UICONTROL Eigenschaften festlegen]** aus, um das Erscheinungsbild Ihrer Schwärzungen einschließlich der Farbe der Schwärzungsfelder oder der Textüberlagerung anzupassen.
 
    ![Schritt 2 schwärzen](../assets/Redact_2.png)
 
-Um Informationen zu schwärzen, markieren Sie zuerst die zu entfernenden Elemente und wenden Sie dann die Schwärzungen an. Du kannst ganze Seiten oder ausgewählten Inhalt schwärzen.
+   Um Informationen zu schwärzen, markieren Sie zuerst die zu entfernenden Elemente und wenden Sie dann die Schwärzungen an. Du kannst ganze Seiten oder ausgewählten Inhalt schwärzen.
 
-1. Wählen Sie **[!UICONTROL Seiten schwärzen]**, wählen Sie dann die zu schwärzende Seite oder den zu schwärzenden Seitenbereich aus, und wählen Sie **[!UICONTROL OK]**.
+1. Wählen Sie **[!UICONTROL Text und Bilder schwärzen]** aus, und markieren Sie den zu schwärzenden Inhalt mit dem Cursor.
 
    ![Schritt 4 schwärzen](../assets/Redact_3.png)
 
-Oder wählen Sie den zu schwärzenden Inhalt mit dem Cursor aus. Sie können eine Vorschau der Schwärzung anzeigen, indem Sie mit dem Mauszeiger auf den ausgewählten Inhalt zeigen.
+   Sie können eine Vorschau der Schwärzung anzeigen, indem Sie mit dem Mauszeiger auf den ausgewählten Inhalt zeigen.
 
    ![Schritt 5a](../assets/Redact_4.png) schwärzen
 
-1. Wählen Sie **[!UICONTROL Text und Bilder schwärzen]** **>** **[!UICONTROL Text suchen und schwärzen]**, um bestimmte Inhalte zu finden, die geschwärzt werden sollen.
+1. Wählen Sie **[!UICONTROL Text suchen und schwärzen]**, um nach einem bestimmten Wort oder Ausdruck zu suchen, oder suchen Sie nach einem Muster, um bestimmte Arten von Informationen zu finden. Legen Sie die Suche fest und wählen Sie &quot;Text suchen und entfernen&quot;.
 
-Verwenden Sie das Suchfeld, um nach einem bestimmten Wort oder Ausdruck zu suchen.
-
-1. Wählen Sie **[!UICONTROL Muster]** aus, um bestimmte Typen zu finden. of -Informationen, aktivieren Sie dann die Kontrollkästchen, und wählen Sie **[!UICONTROL Text suchen und entfernen]** aus.
+1. Aktivieren Sie im Dialogfeld mit den Suchergebnissen die Kontrollkästchen neben den Elementen und wählen Sie **[!UICONTROL Markierte Ergebnisse für Schwärzung markieren]**.
 
    ![Schritt 5b](../assets/Redact_5.png) schwärzen
 
-1. Wählen Sie im obersten Menü [!UICONTROL Schwärzen] die Option **[!UICONTROL Anwenden]**, um die markierten Schwärzungen anzuwenden und die geschwärzte Datei zu speichern.
+1. Wählen Sie **[!UICONTROL Seiten schwärzen]**, um ganze Seiten zum Schwärzen zu markieren.
 
    ![Schritt 6 schwärzen](../assets/Redact_6.png)
 
-## Dokument bereinigen
+1. Wählen Sie Ihre Seiten aus und wählen Sie **[!UICONTROL OK]**.
 
-1. Wählen Sie im oberen Menü [!UICONTROL Schwärzen] die Option **[!UICONTROL Dokument]** bereinigen.
+1. Wählen Sie im Bedienfeld &quot;PDF schwärzen&quot; die Option **[!UICONTROL Anwenden]** aus, um die markierten Schwärzungen anzuwenden.
 
-1. Wählen Sie **[!UICONTROL OK]**, um das Entfernen von ausgeblendeten Informationen zu bestätigen. Oder wählen Sie **[!UICONTROL Klicken Sie hier]**, um ausgeblendete Informationen selektiv zu entfernen.
+   ![Schritt 6 schwärzen](../assets/Redact_7.png)
 
-   ![Schritt 2 bereinigen](../assets/Redact_7.png)
+1. Wählen Sie **[!UICONTROL Weiter]**, um ausgeblendete Informationen zu bereinigen und zu entfernen.
+
+   ![Schritt 6 schwärzen](../assets/Redact_8.png)
+
+Sobald Sie dies bestätigen, werden die Schwärzungen und ausgeblendeten Informationen dauerhaft entfernt und in einer neuen Datei gespeichert.
 
 >[!TIP]
 >
 >Um den Schwärzungsprozess zu beschleunigen, sollten Sie die [Action Wizard](../advanced-tasks/action.md) auschecken.
-
->[!TIP]
->
->Dieses Video ist Teil der Wiedergabeliste [Erweiterte Aufgaben in Adobe Acrobat ausführen](https://experienceleague.adobe.com/de/playlists/acrobat-peform-advanced-tasks), die auf dem Experience League kostenlos verfügbar ist!
