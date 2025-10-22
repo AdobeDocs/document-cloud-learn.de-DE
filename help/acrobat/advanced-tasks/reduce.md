@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: f6875404577165bc22cbfffee1fed66b27254aca
+source-git-commit: 3ee53aef230d66a5cdb4b663827bf9e0d83ccb77
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,15 @@ Erfahren Sie, wie Sie die Größe einer PDF-Datei komprimieren und optimieren k�
 
    ![Schritt 1 reduzieren](../assets/Reduce_1.png)
 
-1. Wählen Sie **[!UICONTROL Einzelne Dateien]** oder **[!UICONTROL Mehrere Dateien]** im Bedienfeld **[!UICONTROL PDF]** komprimieren aus und wählen Sie **[!UICONTROL Speichern]** aus.
-
-   Die Datei wird auf die kleinstmögliche Größe reduziert, wobei die Qualität des Dokuments erhalten bleibt.
+1. Wählen Sie **[!UICONTROL Einzelne Dateien]** oder **[!UICONTROL Mehrere Dateien]** im Bedienfeld **[!UICONTROL PDF]** komprimieren aus.
 
    ![Schritt 2 reduzieren](../assets/Reduce_2.png)
 
 1. Wähle **[!UICONTROL Speichern]** aus.
 
    ![Schritt 3 reduzieren](../assets/Reduce_3.png)
+
+   Die Datei wird auf die kleinstmögliche Größe reduziert, wobei die Qualität des Dokuments erhalten bleibt.
 
 
 ## PDF in Acrobat im Internet komprimieren
@@ -43,7 +43,7 @@ Erfahren Sie, wie Sie die Größe einer PDF-Datei komprimieren und optimieren k�
 
    ![Schritt 4 reduzieren](../assets/Reduce_4.png)
 
-1. Wählen Sie **[!UICONTROL Dateien auswählen]**, wählen Sie Ihre Dateien aus und wählen Sie [!UICONTROL Öffnen].
+1. Wählen Sie **[!UICONTROL Dateien auswählen]**, wählen Sie Ihre Dateien aus und wählen Sie **[!UICONTROL Öffnen]**.
 
    ![Schritt 5 reduzieren](../assets/Reduce_5.png)
 
