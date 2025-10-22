@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: 3ee53aef230d66a5cdb4b663827bf9e0d83ccb77
+source-git-commit: c977a4da1389b656e6bc3adb5ac52e9dbb6a6067
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Erfahren Sie, wie Sie die Größe einer PDF-Datei komprimieren und optimieren k�
 
    ![Schritt 1 reduzieren](../assets/Reduce_1.png)
 
-1. Wählen Sie **[!UICONTROL Einzelne Dateien]** oder **[!UICONTROL Mehrere Dateien]** im Bedienfeld **[!UICONTROL PDF]** komprimieren aus.
+1. Wählen Sie im Bedienfeld **[!UICONTROL PDF]** komprimieren **[!UICONTROL Einzelne Datei]** oder **[!UICONTROL Mehrere Dateien]** aus.
 
    ![Schritt 2 reduzieren](../assets/Reduce_2.png)
 
@@ -65,15 +65,13 @@ Erfahren Sie, wie Sie die Größe einer PDF-Datei komprimieren und optimieren k�
 
    ![Schritt 1 optimieren](../assets/Optimize_1.png)
 
-   Standardmäßig ist **Standard** im Menü **Einstellungen** ausgewählt. Wenn Sie im Dialogfeld &quot;PDF-Optimierung&quot; Einstellungen ändern, wechselt das Menü &quot;**Einstellungen**&quot; automatisch zu &quot;**Benutzerdefiniert**&quot;.
-
 1. Wählen Sie im Dropdown-Menü **Kompatibilität herstellen mit** aus, um die aktuelle PDF-Version beizubehalten, **Vorhandene beibehalten**, oder wählen Sie eine Acrobat-Version aus. Aktivieren Sie das Kontrollkästchen neben einem Bedienfeld (z. B. &quot;Bilder&quot;, &quot;Schriftarten&quot;, &quot;Transparenz&quot;), wählen Sie in diesem Bedienfeld Optionen aus, wählen Sie dann **[!UICONTROL OK]** und speichern Sie dann die Datei.
 
    ![Schritt 2 optimieren](../assets/Optimize_2.png)
 
-   Um zu verhindern, dass während der Optimierung alle Optionen in einem Fenster ausgeführt werden, deaktivieren Sie das Kontrollkästchen für dieses Fenster.
+   Standardmäßig ist **Standard** im Menü **Einstellungen** ausgewählt. Wenn Sie im Dialogfeld &quot;PDF-Optimierung&quot; Einstellungen ändern, wechselt das Menü &quot;**Einstellungen**&quot; automatisch zu &quot;**Benutzerdefiniert**&quot;. Um zu verhindern, dass während der Optimierung alle Optionen in einem Fenster ausgeführt werden, deaktivieren Sie das Kontrollkästchen für dieses Fenster.
 
-1. (Optional) Wählen Sie zum Speichern Ihrer benutzerdefinierten Einstellungen &quot;**[!UICONTROL Speichern]**&quot; aus und geben Sie einen Namen für die Einstellungen ein. Um eine gespeicherte Einstellung zu löschen, wählen Sie sie im Menü **Einstellungen** aus und wählen Sie **[!UICONTROL Löschen]**.
+1. (Optional) Wählen Sie zum Speichern Ihrer benutzerdefinierten Einstellungen &quot;**[!UICONTROL Speichern]**&quot; aus und geben Sie einen Namen für die Einstellungen ein. Um eine gespeicherte Einstellung zu löschen, wählen Sie sie im Dropdown-Menü **Einstellungen** aus und wählen Sie **[!UICONTROL Löschen]** aus.
 
    ![Schritt 3 optimieren](../assets/Optimize_3.png)
 
