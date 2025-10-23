@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: c977a4da1389b656e6bc3adb5ac52e9dbb6a6067
+source-git-commit: f3f8313450246a00ee3d07d31150e3991f19eb65
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '372'
 ht-degree: 0%
 
 ---
@@ -78,32 +78,3 @@ Erfahren Sie, wie Sie die Größe einer PDF-Datei komprimieren und optimieren k�
 >[!TIP]
 >
 >Um mehrere PDF-Dateien zu optimieren, verwenden Sie die [Action Wizard](../advanced-tasks/action.md).
-
-<table style="table-layout:fixed">
-  <td>
-    <a href="reduce.md">
-      <img alt="Komprimieren und Optimieren einer PDF" src="../assets/reduce.png" />
-    </a>
-    <div>
-    <a href="reduce.md"><strong>PDF komprimieren und optimieren</strong></a>
-    </div>
-    <em>Reduzieren Sie große Dateien, und optimieren Sie Ihre PDF, ohne die Qualität für die Freigabe, Veröffentlichung oder Archivierung zu beeinträchtigen</em>
-    2<br>
-  </td>
-  <td>
-        <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-      </td>
-    <td>
-        <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-    </td>
-    <td>
-        <img alt="Spacer" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-    </td>
-</tr>
-</table>
