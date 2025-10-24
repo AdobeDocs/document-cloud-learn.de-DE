@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
+source-git-commit: a6ab6bc9c667582b9d75f5582a895e175331186f
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 1%
+source-wordcount: '209'
+ht-degree: 0%
 
 ---
 
@@ -21,9 +21,9 @@ Erfahren Sie, wie Sie barrierefreie PDF-Dateien erstellen. Die Bandbreite der Tu
 
 >[!BEGINTABS]
 
->[!TAB Was und warum barrierefreier PDF-Dateien]
+>[!TAB Gescannte Dokumente]
 
-[was eine barrierefreie PDF-Datei ist und warum sie wichtig ist](what-why-accessible-pdf.md).
+Erfahren Sie, wie Sie ein [gescanntes Dokument](scanned-documents.md) barrierefrei machen.
 
 >[!TAB Arbeitsbereich einrichten]
 
@@ -74,14 +74,41 @@ Erfahren Sie, wie Sie [Formulare in Acrobat barrierefrei](create-accessible-form
     2<br>
   </td>
   <td>
+    <a href="scanned-documents.md">
+      <img alt="Gescannte Dokumente" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="scanned-documents.md"><strong>Gescannte Dokumente</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie gescannte Dokumente in Acrobat Pro barrierefrei machen</em>
+    2<br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="create-accessible-forms.md">
       <img alt="Barrierefreie Formulare erstellen" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
     <a href="create-accessible-forms.md"><strong>Barrierefreie Formulare erstellen</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie Formulare in Acrobat barrierefrei machen</em>
+    <em>Erfahren Sie, wie Sie Formulare in Acrobat Pro barrierefrei machen</em>
     2<br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
