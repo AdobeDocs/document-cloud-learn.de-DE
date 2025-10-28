@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: ae69e1a95a482c3faad886a07adb65af0bb8b56d
+source-git-commit: 5bf010d8fda369b42515eeb0cc26f3853322cc8a
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -76,33 +76,3 @@ Die Datei ist jetzt eine durchsuchbare, bearbeitbare PDF-Datei.
 >[!TIP]
 >
 >Verwenden Sie zum OCR mehrerer PDF-Dateien die [Action Wizard](../advanced-tasks/action.md) in Acrobat Pro auf dem Desktop.
-
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="scan-and-ocr.md">
-      <img alt="Vom Papier zum PDF" src="../assets/scan.png" />
-    </a>
-    <div>
-    <a href="scan-and-ocr.md"><strong>Vom Papier zum PDF</strong></a>
-    </div>
-    <em>Erfahren Sie, wie Sie ein Papierdokument in eine intelligente, durchsuchbare und bearbeitbare PDF-Dateifunktion umwandeln</em>
-    2<br>
-  </td>
-  <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-  <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-  <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-</tr>
-</table>
