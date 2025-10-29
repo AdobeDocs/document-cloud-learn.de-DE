@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: f3f8313450246a00ee3d07d31150e3991f19eb65
+source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Erfahren Sie, wie Sie die Größe einer PDF-Datei komprimieren und optimieren k�
    Die Datei wird auf die kleinstmögliche Größe reduziert, wobei die Qualität des Dokuments erhalten bleibt.
 
 
-## PDF in Acrobat im Internet komprimieren
+## PDF in Acrobat Web komprimieren
 
 1. Melden Sie sich in einem Browser bei [acrobat.adobe.com](https://acrobat.adobe.com/de/de) an.
 
@@ -77,4 +77,4 @@ Erfahren Sie, wie Sie die Größe einer PDF-Datei komprimieren und optimieren k�
 
 >[!TIP]
 >
->Um mehrere PDF-Dateien zu optimieren, verwenden Sie die [Action Wizard](../advanced-tasks/action.md).
+>Um mehrere PDF-Dateien zu optimieren, verwenden Sie die [Action Wizard](../advanced-tasks/action.md) in Acrobat Pro auf dem Desktop.
