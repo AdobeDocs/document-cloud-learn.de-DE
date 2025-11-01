@@ -21,4 +21,4 @@ Erfahren Sie, wie Sie gescannte Dokumente in Acrobat Pro barrierefrei machen. Ge
 >
 >Einige Funktionen dieses Tutorials sind nur in Acrobat Pro verfügbar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476233?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3476243?captions=ger&quality=12&learn=on&hidetitle=true)
