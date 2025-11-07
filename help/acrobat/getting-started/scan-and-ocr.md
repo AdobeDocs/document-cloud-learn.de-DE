@@ -7,16 +7,17 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 5bf010d8fda369b42515eeb0cc26f3853322cc8a
+source-git-commit: 6153591accebf9fa815100fa1545348e6f259f17
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
 
 # Vom Papier zum PDF
 
-Erfahren Sie, wie Sie ein Papierdokument scannen (oder fotografieren) und in eine durchsuchbare und [bearbeitbare PDF-Datei](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target="_blank"} umwandeln. Das Konvertieren von Papierdokumenten in PDF verbessert die Fähigkeit, Informationen schnell zu finden und für Menschen mit Behinderungen zugänglich zu machen.
+Erfahren Sie, wie Sie ein Papierdokument scannen (oder fotografieren) und in eine durchsuchbare und [bearbeitbare PDF-Datei](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target="_blank"} umwandeln. Das Konvertieren von Papierdokumenten in PDF verbessert die Fähigkeit, Informationen schnell zu finden und für Menschen mit Behinderungen zugänglich zu machen. Dieses Tutorial zeigt das [neue Acrobat-Erlebnis](new-workspace.md).
+
 
 ## Papierdokumente in PDF umwandeln in Acrobat auf dem Desktop
 
