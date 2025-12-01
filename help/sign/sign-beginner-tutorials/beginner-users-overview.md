@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 07e2a5a81b23efc49934c9693c625da47882f43f
+source-git-commit: b6198f50dbdbf6fab6c9f9e91e2395cb8b046406
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 2%
+source-wordcount: '502'
+ht-degree: 6%
 
 ---
 
@@ -21,6 +21,10 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
 ## Neue Funktionen
 
 >[!BEGINTABS]
+
+>[!TAB Ein Dokument elektronisch signieren]
+
+Erfahren Sie, wie einfach es ist, ein Dokument, das Ihnen mit Acrobat Sign gesendet wurde, [zu signieren](../sign-beginner-tutorials/electronically-sign-a-document.md).
 
 >[!TAB Wiederverwendbare Vorlage erstellen]
 
@@ -33,14 +37,6 @@ Erfahren Sie, wie Sie [verschiedene Optionen](sending-options.md) konfigurieren,
 >[!TAB An mehrere Unterzeichner senden]
 
 Erfahren Sie, wie Sie ein Dokument in genau der gewünschten Reihenfolge zur elektronischen Signatur an [mehrere Personen](send-to-multiple-recipients.md) senden.
-
->[!TAB Ein Dokument an einen einzelnen Unterzeichner senden]
-
-Springen Sie ein und erfahren Sie, wie einfach es ist, ein Dokument [zur Signatur zu senden](send-to-single-recipient.md).
-
->[!TAB Erste Schritte mit Acrobat Sign]
-
-Verwenden Sie Acrobat Sign zum ersten Mal? Dieses [Tutorial](new-sender.md) ist ein guter Ausgangspunkt.
 
 >[!ENDTABS]
 
@@ -70,7 +66,7 @@ Verwenden Sie Acrobat Sign zum ersten Mal? Dieses [Tutorial](new-sender.md) ist 
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Senden eines Dokuments an einen einzelnen Unterzeichner" src="../assets/send-single-recipient.png" />
+      <img alt="Dokument an einer Unterzeichnerin bzw. einem Unterzeichner senden" src="../assets/send-single-recipient.png" />
     </a>
     <div>
     <a href="send-to-single-recipient.md"><strong>Ein Dokument an einen einzelnen Unterzeichner senden</strong></a>
