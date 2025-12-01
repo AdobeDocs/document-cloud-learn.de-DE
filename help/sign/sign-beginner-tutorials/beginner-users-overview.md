@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: b6198f50dbdbf6fab6c9f9e91e2395cb8b046406
+source-git-commit: b8470e3cd127f6998e57d125b1acddb2e1d51b4c
 workflow-type: tm+mt
 source-wordcount: '502'
 ht-degree: 6%
@@ -170,7 +170,7 @@ Erfahren Sie, wie Sie ein Dokument in genau der gewünschten Reihenfolge zur ele
       <img alt="Dokumente elektronisch unterschreiben" src="../assets/sign-electronically.png" />
     </a>
     <div>
-    <a href="electronically-sign-a-document.md"><strong>Elektronisches Signieren eines Dokuments</strong></a>
+    <a href="electronically-sign-a-document.md"><strong>Ein Dokument elektronisch signieren</strong></a>
     </div>
     Erfahren Sie, wie einfach es ist, ein Dokument zu unterschreiben, das Ihnen mit Acrobat Sign gesendet wird
     <br>
