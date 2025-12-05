@@ -22,4 +22,4 @@ Erfahren Sie, wie Sie Formulare in Acrobat barrierefrei machen. Mit diesen siebe
 >
 >Einige Funktionen dieses Tutorials sind nur in Acrobat Pro, Premium und Studio verfügbar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471615?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471671?captions=ger&quality=12&learn=on&hidetitle=true)

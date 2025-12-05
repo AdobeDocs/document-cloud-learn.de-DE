@@ -22,7 +22,7 @@ Für die Bereitstellung der besten Kundenerlebnisse müssen Inhalte schneller de
 >
 >Nur in Acrobat Pro, Premium oder Studio verfügbar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433138?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444884?captions=ger&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

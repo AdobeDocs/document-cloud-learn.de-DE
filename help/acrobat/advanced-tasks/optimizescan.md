@@ -22,4 +22,4 @@ Egal, ob Ihr Dokument von einer Kamera oder einem Scanner stammt: Erfahren Sie, 
 >
 >Wenn Sie über Acrobat Pro (Premium oder Studio) verfügen, führen Sie im Action Wizard-Tool die Option Gescannte Dokumente optimieren aus, um diesen Prozess zu automatisieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/340823?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409527?captions=ger&quality=12&learn=on&hidetitle=true)
