@@ -45,7 +45,7 @@ Erfahren Sie, wie Sie überprüfen, ob Ihr PDF für Menschen mit Behinderungen a
 
    ![Schritt 4](../assets/Accessibility_4.png) zur Barrierefreiheit
 
-Sie können auch die Aktion [!UICONTROL Barrierefrei machen] im [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html)-Tool verwenden, die einen grundlegenden Satz von Schritten durchläuft, um eine barrierefreie PDF zu erstellen.
+Sie können auch die Aktion [!UICONTROL Barrierefrei machen] im [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html?lang=de)-Tool verwenden, die einen grundlegenden Satz von Schritten durchläuft, um eine barrierefreie PDF zu erstellen.
 
 ## Probleme mit der Barrierefreiheit beheben
 
