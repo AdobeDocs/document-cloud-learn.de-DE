@@ -8,9 +8,9 @@ topics: Accessibility
 jira: KT-6829
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Erfahren Sie, wie Sie überprüfen, ob Ihr PDF für Menschen mit Behinderungen a
 
 >[!NOTE]
 >
->Nur in Acrobat Pro verfügbar.
+>Nur in Acrobat Pro, Premium oder Studio verfügbar.
 
 ## Barrierefreiheitsprüfung
 
@@ -45,7 +45,7 @@ Erfahren Sie, wie Sie überprüfen, ob Ihr PDF für Menschen mit Behinderungen a
 
    ![Schritt 4](../assets/Accessibility_4.png) zur Barrierefreiheit
 
-Sie können auch die Aktion [!UICONTROL Barrierefrei machen] im [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html?lang=de)-Tool verwenden, die einen grundlegenden Satz von Schritten durchläuft, um eine barrierefreie PDF zu erstellen.
+Sie können auch die Aktion [!UICONTROL Barrierefrei machen] im [Action Wizard](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/action.html)-Tool verwenden, die einen grundlegenden Satz von Schritten durchläuft, um eine barrierefreie PDF zu erstellen.
 
 ## Probleme mit der Barrierefreiheit beheben
 

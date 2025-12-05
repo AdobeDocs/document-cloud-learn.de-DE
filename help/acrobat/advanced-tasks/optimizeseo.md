@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: cc1902cf295d3608fb8ac4ed564a39dbcc885e4a
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '757'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie eine PDF für eine verbesserte Auffindbarkeit und ein Suchmaschinen-Ranking im Web optimieren.
 
-## 1. Eindeutige Inhalte erstellen
+## &#x200B;1. Eindeutige Inhalte erstellen
 
 Erstellen Sie PDF-Inhalte, die sich von den Informationen auf Ihren Webseiten unterscheiden.
 
@@ -31,7 +31,7 @@ PDF-Inhalte sollten eindeutig sein und wie folgt strukturiert sein:
 * Verwenden Sie kurze Absätze mit Schlüsselwörtern und Listen
 * Interne und externe Hyperlinks (Inhalte Ihrer Website oder anderer Websites) hinzufügen
 * Hinzufügen eines verlinkten Inhaltsverzeichnisses für Dokumente mit mehr als 25 Seiten
-* [Texterkennung](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html?lang=de) für alle gescannten Dokumente ausführen
+* [Texterkennung](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) für alle gescannten Dokumente ausführen
 * Mobile-optimierte PDF.
 Um das mobile Anzeigeerlebnis Ihres PDF zu überprüfen, öffnen Sie die Datei in der [Acrobat Reader-App](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) und aktivieren Sie den Liquid Mode. Fügen Sie bei Bedarf weitere Unterüberschriften hinzu, um die Navigation zu verbessern.
 
@@ -41,7 +41,7 @@ Um das mobile Anzeigeerlebnis Ihres PDF zu überprüfen, öffnen Sie die Datei i
 
 <br> 
 
-## 2. Dokumenteigenschaften hinzufügen
+## &#x200B;2. Dokumenteigenschaften hinzufügen
 
 PDF-Dateien haben einen Titel und eine Meta-Beschreibung, genau wie eine Webseite.
 
@@ -62,9 +62,9 @@ Versuchen Sie, die Zusammenfassung mit einem Aktionsverb wie Lernen, Entdecken, 
 
 <br> 
 
-## 3. Markieren Sie Ihren PDF
+## &#x200B;3. Markieren Sie Ihren PDF
 
-Durch das Markieren von Inhalten auf Ihrem PDF wird Ihre Datei [nicht nur für Personen mit Behinderungen zugänglich](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html?lang=de), sondern auch für SEO verbessert.
+Durch das Markieren von Inhalten auf Ihrem PDF wird Ihre Datei [nicht nur für Personen mit Behinderungen zugänglich](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html), sondern auch für SEO verbessert.
 
 +++Anzeigen von Details zum Markieren eines PDF
 
@@ -82,11 +82,11 @@ Taggen Sie eine PDF wie folgt:
 
 >[!NOTE]
 >
->Nur in Acrobat Pro verfügbar.
+>Nur in Acrobat Pro, Premium oder Studio verfügbar.
 
 <br> 
 
-## 4. Für das Web vorbereiten
+## &#x200B;4. Für das Web vorbereiten
 
 Optimieren Sie die Interaktion mit Ihrem PDF, indem Sie ihn für die Webanzeige vorbereiten und [die PDF-Dateigröße reduzieren](https://www.adobe.com/de/acrobat/online/compress-pdf.html){target="_blank"}.
 
@@ -104,15 +104,15 @@ Durch diesen Schritt wird die Dateigröße reduziert und **Schnelle Webanzeige**
 
 >[!TIP]
 >
->Wenn Sie über Acrobat Pro verfügen, führen Sie im Action Wizard-Tool die Option &quot;Für Web und Mobil optimieren&quot; aus. Diese Aktion konvertiert Farben in sRGB und bettet Schriftarten ein, um eine einheitliche Anzeige der PDF auf allen Browsern und Mobilgeräten zu gewährleisten.
+>Wenn Sie über Acrobat Pro (Premium oder Studio) verfügen, führen Sie im Action Wizard-Tool die Option &quot;Für Web und Mobilgeräte optimieren&quot; aus. Diese Aktion konvertiert Farben in sRGB und bettet Schriftarten ein, um eine einheitliche Anzeige der PDF auf allen Browsern und Mobilgeräten zu gewährleisten.
 
 +++
 
 <br> 
 
-## 5. Schlüsselwortdateinamen erstellen
+## &#x200B;5. Schlüsselwortdateinamen erstellen
 
-+++Anzeigen von Details zum Erstellen eines Dateinamens mit Stichwörtern
++++Anzeigen von Details zum Erstellen eines Schlüsselwortdateinamens
 
 Erstellen Sie einen Schlüsselwortdateinamen wie folgt:
 
@@ -122,11 +122,11 @@ Der Dateiname wird Teil der URL, wenn eine PDF im Internet veröffentlicht wird.
 
 <br> 
 
-## 6. Sichern Sie Ihren PDF
+## &#x200B;6. Sichern Sie Ihren PDF
 
 Der letzte Schritt besteht darin, [Ihren PDF zu schützen](https://www.adobe.com/de/acrobat/online/password-protect-pdf.html){target="_blank"}, um nicht autorisierte Änderungen zu verhindern.
 
-+++Zum Sichern Ihres PDF
++++Anzeigen von Details zum Sichern Ihres PDF
 
 Sichern Sie eine PDF wie folgt:
 

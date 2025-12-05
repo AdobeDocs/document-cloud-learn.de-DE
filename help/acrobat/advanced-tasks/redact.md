@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Erfahren Sie, wie Sie mit dem Werkzeug &quot;Schwärzen&quot; private oder vertr
 
 >[!NOTE]
 >
->Nur in Acrobat Pro verfügbar.
+>Nur in Acrobat Pro, Premium oder Studio verfügbar.
 
 [!BADGE Organisatorische Auswirkungen]
 Kundendatenschutz, Risikomanagement
@@ -70,4 +70,4 @@ Sobald Sie dies bestätigen, werden die Schwärzungen und ausgeblendeten Informa
 
 >[!TIP]
 >
->Um den Schwärzungsprozess zu beschleunigen, sollten Sie die [Action Wizard](../advanced-tasks/action.md) in Acrobat Pro auf dem Desktop auschecken.
+>Um den Schwärzungsprozess zu beschleunigen, sollten Sie die [Action Wizard](../advanced-tasks/action.md) in Acrobat Pro, Premium oder Studio auf dem Desktop auschecken.

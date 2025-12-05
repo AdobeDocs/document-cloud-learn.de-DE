@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-8364
 thumbnail: KT-8364.jpg
 exl-id: f56fb6f4-bbb8-4698-bc19-047d9245c2ff
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ In dieser sechsteiligen On-Demand-Webinar-Reihe lernen Sie nicht nur die Grundla
     <div>
     <a href="accessibilitysession1.md"><strong>Einführung in die PDF-Barrierefreiheit</strong></a>
     </div>
-    <em>Erfahren Sie in dieser On-Demand-Session, was es bedeutet, eine PDF barrierefrei zu machen, wie Sie Acrobat Pro so einrichten, dass es auf PDF für Barrierefreiheit arbeitet, und wie Sie den Konvertierungsprozess von einem Quelldokument in eine PDF durchführen</em>
+    <em>Erfahren Sie in dieser On-Demand-Session, was es bedeutet, eine PDF barrierefrei zu machen, wie Sie Acrobat Pro (Premium oder Studio) so einrichten, dass es an PDF für Barrierefreiheit arbeitet, und wie Sie den Konvertierungsprozess von einem Quelldokument in eine PDF durchführen</em>
     2<br>
   </td>
   <td>
@@ -39,7 +39,7 @@ In dieser sechsteiligen On-Demand-Webinar-Reihe lernen Sie nicht nur die Grundla
     <div>
     <a href="accessibilitysession2.md"><strong>Eine nicht verfügbare PDF wird bearbeitet</strong></a>
     </div>
-    <em>Lernen Sie in dieser On-Demand-Sitzung den Arbeitsablauf kennen, mit dem Sie ein Word-Dokument konvertieren und einige grundlegende Tag-Probleme mit den Acrobat Pro-Tools beheben können, die im Einführungswebinar gezeigt werden</em>
+    <em>In dieser On-Demand-Session lernen Sie den Arbeitsablauf kennen, mit dem Sie ein Word-Dokument konvertieren und einige grundlegende Tag-Probleme mit den Tools von Acrobat Pro (Premium oder Studio) beheben können, die im Webinar zur Einführung gezeigt werden</em>
     2<br>
   </td>  
   <td>

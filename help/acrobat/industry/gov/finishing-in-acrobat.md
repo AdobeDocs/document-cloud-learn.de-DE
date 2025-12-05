@@ -7,9 +7,9 @@ level: Experienced
 topic-revisit: Accessibility
 thumbnail: 34514.jpg
 exl-id: 422ba8be-b24a-422b-b2d6-6070c2f06a7d
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Im dritten Video-Tutorial der Reihe &quot;PDF mit Eingabehilfen versehen&quot; e
 
 >[!NOTE]
 >
->Nur in Acrobat Pro verfügbar.
+>Nur in Acrobat Pro, Premium oder Studio verfügbar.
 
 ## Teil 3 - Fertigstellung in Acrobat (4:37)
 

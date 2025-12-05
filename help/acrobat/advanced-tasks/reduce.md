@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ Erfahren Sie, wie Sie die Größe einer PDF-Datei komprimieren und optimieren k�
 
 >[!NOTE]
 >
->Das Optimieren eines PDF ist nur in Acrobat Pro auf dem Desktop verfügbar.
+>Das Optimieren eines PDF ist nur in Acrobat Pro, Premium oder Studio auf dem Desktop verfügbar.
 
 1. Öffnen Sie eine Datei, und wählen Sie **[!UICONTROL Alle Tools]** in der Symbolleiste aus. Wählen Sie dann **[!UICONTROL PDF komprimieren]** aus.
 
@@ -77,4 +77,4 @@ Erfahren Sie, wie Sie die Größe einer PDF-Datei komprimieren und optimieren k�
 
 >[!TIP]
 >
->Um mehrere PDF-Dateien zu optimieren, verwenden Sie die [Action Wizard](../advanced-tasks/action.md) in Acrobat Pro auf dem Desktop.
+>Um mehrere PDF-Dateien zu optimieren, verwenden Sie die [Action Wizard](../advanced-tasks/action.md) in Acrobat Pro, Premium oder Studio auf dem Desktop.
