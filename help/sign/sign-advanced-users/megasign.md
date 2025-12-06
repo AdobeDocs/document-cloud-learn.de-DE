@@ -23,7 +23,7 @@ Erfahren Sie, wie Sie Hunderte von Signaturen (bis zu 1.000 Empfänger bei jedem
 * [Telearbeit-Vereinbarung](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=de)
 * [Richtlinienvereinbarung](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=de)
 
->[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477307?captions=ger&quality=12&learn=on&hidetitle=true)
 
 [Laden Sie die Beispiel-CSV-Datei im ZIP-Format herunter](../assets/sendInBulkSample.zip). Hier erfahren Sie mehr über alle Werte, die Sie in Ihrer CSV-Datei [festlegen können](https://helpx.adobe.com/de/sign/adv-user/send-in-bulk/send-with-csv.html).
 

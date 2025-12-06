@@ -22,4 +22,4 @@ Erfahren Sie, wie Sie die Signierreihenfolge für mehrere Unterzeichner einricht
 >
 >Hybrid-Routing ist nur für Enterprise-Abos verfügbar. Möglicherweise muss Ihr Acrobat Sign-Administrator diese Funktionen im Abschnitt Sendeeinstellungen der Kontoeinstellungen aktivieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/342249?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477312?captions=ger&quality=12&learn=on&hidetitle=true)
