@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: b8470e3cd127f6998e57d125b1acddb2e1d51b4c
+source-git-commit: 169855b701bbc9153e349687366a6f6e49adabe6
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 6%
+source-wordcount: '494'
+ht-degree: 7%
 
 ---
 
@@ -21,6 +21,10 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
 ## Neue Funktionen
 
 >[!BEGINTABS]
+
+>[!TAB Vereinbarungen verwalten und verfolgen]
+
+Erfahren Sie, wie [Vereinbarungen verwalten und verfolgen](../sign-beginner-tutorials/manage-and-track.md), die zur Signatur gesendet wurden.
 
 >[!TAB Ein Dokument elektronisch signieren]
 
@@ -33,10 +37,6 @@ Erfahren Sie, wie Sie eine [wiederverwendbare Dokumentvorlage](../sign-advanced-
 >[!TAB Sendeoptionen konfigurieren]
 
 Erfahren Sie, wie Sie [verschiedene Optionen](sending-options.md) konfigurieren, wenn Sie ein Dokument zur Signatur senden.
-
->[!TAB An mehrere Unterzeichner senden]
-
-Erfahren Sie, wie Sie ein Dokument in genau der gewünschten Reihenfolge zur elektronischen Signatur an [mehrere Personen](send-to-multiple-recipients.md) senden.
 
 >[!ENDTABS]
 
