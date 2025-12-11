@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: fd6ff74f94bd93fbd40086badf8158d4bc968e5a
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 1%
+source-wordcount: '214'
+ht-degree: 0%
 
 ---
 
@@ -20,6 +20,10 @@ Erfahren Sie, wie Sie barrierefreie PDF-Dateien erstellen. Die Bandbreite der Tu
 ## Neue Funktionen
 
 >[!BEGINTABS]
+
+>[!TAB Komplexe Listen]
+
+Erfahren Sie, wie Sie [komplexe Listen](complex-lists.md) mit Tags für Barrierefreiheit in Acrobat versehen.
 
 >[!TAB Gescannte Dokumente]
 
@@ -32,10 +36,6 @@ Erfahren Sie, wie Sie [Ihren Arbeitsbereich einrichten](set-up-workspace.md), um
 >[!TAB Erstellen einer barrierefreien PDF aus Word]
 
 Erfahren Sie, wie Sie [eine barrierefreie PDF-Datei aus Microsoft Word erstellen](create-accessible-from-word.md).
-
->[!TAB Barrierefreie Formulare erstellen]
-
-Erfahren Sie, wie Sie [Formulare in Acrobat barrierefrei](create-accessible-forms.md) machen.
 
 >[!ENDTABS]
 
@@ -96,9 +96,14 @@ Erfahren Sie, wie Sie [Formulare in Acrobat barrierefrei](create-accessible-form
     2<br>
   </td>
   <td>
-        <img alt="Spacer" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
+    <a href="complex-lists.md">
+      <img alt="Komplexe Listen" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="complex-lists.md"><strong>Komplexe Listen</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie komplexe Listen für die Barrierefreiheit in Acrobat taggen</em>
+    2<br>
   </td>
   <td>
         <img alt="Spacer" src="../assets/Grayspacer.png" />
