@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
+source-git-commit: 1fb311177830a22d7b269df4800444e65b30179d
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Erfahren Sie, wie Sie barrierefreie PDF-Dateien erstellen. Die Bandbreite der Tu
 
 >[!TAB Die Grundlagen des Taggens]
 
-Erfahren Sie mehr über die Grundlagen, wie Sie eine PDF[-Datei mit &#x200B;](basics-tagging.md)Tags versehen, um sie barrierefrei zu machen.
+Erfahren Sie mehr über die Grundlagen, wie Sie eine PDF[-Datei mit ](basics-tagging.md)Tags versehen, um sie barrierefrei zu machen.
 
 >[!TAB Komplexe Listen]
 
@@ -78,7 +78,7 @@ Erfahren Sie, wie Sie [Ihren Arbeitsbereich einrichten](set-up-workspace.md), um
       <img alt="Grundlagen zum Tagging." src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
-    <a href="basics-tagging.md"><strong>Die Grundlagen des Taggens von "</strong></a>
+    <a href="basics-tagging.md"><strong>Die Grundlagen des Taggens</strong></a>
     </div>
     <em>Grundlagen zum Kennzeichnen einer PDF-Datei, um sie barrierefrei zu machen</em>
     2<br>
