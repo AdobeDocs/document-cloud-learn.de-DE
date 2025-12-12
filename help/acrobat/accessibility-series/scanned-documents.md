@@ -1,14 +1,14 @@
 ---
 title: Gescannte Dokumente
-description: Erfahren Sie, wie Sie gescannte Dokumente in Acrobat Pro barrierefrei machen
+description: Erfahren Sie, wie Sie gescannte Dokumente in Acrobat barrierefrei machen
 feature: Accessibility
 role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18732
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ Erfahren Sie, wie Sie gescannte Dokumente in Acrobat barrierefrei machen. Gescan
 >
 >Einige Funktionen dieses Tutorials sind nur in Acrobat Pro, Premium und Studio verfügbar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476243?captions=ger&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3476233?quality=12&learn=on&hidetitle=true)

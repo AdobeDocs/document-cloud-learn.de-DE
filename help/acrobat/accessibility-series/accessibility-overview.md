@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: fd6ff74f94bd93fbd40086badf8158d4bc968e5a
+source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Erfahren Sie, wie Sie barrierefreie PDF-Dateien erstellen. Die Bandbreite der Tu
 
 >[!BEGINTABS]
 
+>[!TAB Die Grundlagen des Taggens]
+
+Erfahren Sie mehr über die Grundlagen, wie Sie eine PDF[-Datei mit ](basics-tagging.md)Tags versehen, um sie barrierefrei zu machen.
+
 >[!TAB Komplexe Listen]
 
 Erfahren Sie, wie Sie [komplexe Listen](complex-lists.md) mit Tags für Barrierefreiheit in Acrobat versehen.
@@ -32,10 +36,6 @@ Erfahren Sie, wie Sie ein [gescanntes Dokument](scanned-documents.md) barrierefr
 >[!TAB Arbeitsbereich einrichten]
 
 Erfahren Sie, wie Sie [Ihren Arbeitsbereich einrichten](set-up-workspace.md), um die Erstellung barrierefreier PDF-Dateien zu vereinfachen.
-
->[!TAB Erstellen einer barrierefreien PDF aus Word]
-
-Erfahren Sie, wie Sie [eine barrierefreie PDF-Datei aus Microsoft Word erstellen](create-accessible-from-word.md).
 
 >[!ENDTABS]
 
@@ -74,6 +74,18 @@ Erfahren Sie, wie Sie [eine barrierefreie PDF-Datei aus Microsoft Word erstellen
     2<br>
   </td>
   <td>
+    <a href="basics-tagging.md">
+      <img alt="Grundlagen zum Tagging." src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="basics-tagging.md"><strong>Die Grundlagen des Taggens von "</strong></a>
+    </div>
+    <em>Grundlagen zum Kennzeichnen einer PDF-Datei, um sie barrierefrei zu machen</em>
+    2<br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="scanned-documents.md">
       <img alt="Gescannte Dokumente" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -83,8 +95,6 @@ Erfahren Sie, wie Sie [eine barrierefreie PDF-Datei aus Microsoft Word erstellen
     <em>Erfahren Sie, wie Sie gescannte Dokumente in Acrobat barrierefrei machen</em>
     2<br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-accessible-forms.md">
       <img alt="Barrierefreie Formulare erstellen" src="../assets/accessibility-series-2025.png" />
@@ -95,7 +105,7 @@ Erfahren Sie, wie Sie [eine barrierefreie PDF-Datei aus Microsoft Word erstellen
     <em>Erfahren Sie, wie Sie Formulare in Acrobat barrierefrei machen</em>
     2<br>
   </td>
-  <td>
+   <td>
     <a href="complex-lists.md">
       <img alt="Komplexe Listen" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -104,11 +114,6 @@ Erfahren Sie, wie Sie [eine barrierefreie PDF-Datei aus Microsoft Word erstellen
     </div>
     <em>Erfahren Sie, wie Sie komplexe Listen für die Barrierefreiheit in Acrobat taggen</em>
     2<br>
-  </td>
-  <td>
-        <img alt="Spacer" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
   </td>
   <td>
         <img alt="Spacer" src="../assets/Grayspacer.png" />
