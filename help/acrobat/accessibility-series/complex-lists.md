@@ -21,4 +21,4 @@ Erfahren Sie, wie Sie komplexe Listen für die Barrierefreiheit in Acrobat mit T
 >
 >Einige Funktionen dieses Tutorials sind nur in Acrobat Pro, Premium und Studio verfügbar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477831?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477840?captions=ger&quality=12&learn=on&hidetitle=true)

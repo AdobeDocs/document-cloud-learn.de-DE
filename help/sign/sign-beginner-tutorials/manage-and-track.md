@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie in Acrobat Sign zum Unterschreiben gesendete Dokumente verwalten und verfolgen. Ihr erhaltet Statusaktualisierungen und Benachrichtigungen in Echtzeit für jedes Dokument, das ihr unterschreibt oder zum Unterschreiben versendet.
 
->[!VIDEO](https://video.tv.adobe.com/v/337884?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436627?captions=ger&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
