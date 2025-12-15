@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 1fb311177830a22d7b269df4800444e65b30179d
+source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,13 @@ Erfahren Sie, wie Sie barrierefreie PDF-Dateien erstellen. Die Bandbreite der Tu
 
 >[!BEGINTABS]
 
+>[!TAB Erstellen einer barrierefreien PDF in Acrobat]
+
+Erfahren Sie, wie Sie eine [barrierefreie PDF ab Acrobat](accessible-acrobat.md) erstellen.
+
 >[!TAB Die Grundlagen des Taggens]
 
-Erfahren Sie mehr über die Grundlagen, wie Sie eine PDF[-Datei mit &#x200B;](basics-tagging.md)Tags versehen, um sie barrierefrei zu machen.
+Erfahren Sie mehr über die Grundlagen, wie Sie eine PDF[-Datei mit ](basics-tagging.md)Tags versehen, um sie barrierefrei zu machen.
 
 >[!TAB Komplexe Listen]
 
@@ -32,10 +36,6 @@ Erfahren Sie, wie Sie [komplexe Listen](complex-lists.md) mit Tags für Barriere
 >[!TAB Gescannte Dokumente]
 
 Erfahren Sie, wie Sie ein [gescanntes Dokument](scanned-documents.md) barrierefrei machen.
-
->[!TAB Arbeitsbereich einrichten]
-
-Erfahren Sie, wie Sie [Ihren Arbeitsbereich einrichten](set-up-workspace.md), um die Erstellung barrierefreier PDF-Dateien zu vereinfachen.
 
 >[!ENDTABS]
 
@@ -74,6 +74,18 @@ Erfahren Sie, wie Sie [Ihren Arbeitsbereich einrichten](set-up-workspace.md), um
     2<br>
   </td>
   <td>
+    <a href="accessible-acrobat.md">
+      <img alt="Erstellen einer barrierefreien PDF in Acrobat" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="accessible-acrobat.md"><strong>Erstellen einer barrierefreien PDF in Acrobat</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie ab Acrobat eine barrierefreie PDF erstellen</em>
+    2<br>
+  </td>
+</tr>
+<tr>
+ <td>
     <a href="basics-tagging.md">
       <img alt="Grundlagen zum Tagging." src="../assets/accessibility-series-2025.png" />
     </a>
@@ -83,9 +95,7 @@ Erfahren Sie, wie Sie [Ihren Arbeitsbereich einrichten](set-up-workspace.md), um
     <em>Grundlagen zum Kennzeichnen einer PDF-Datei, um sie barrierefrei zu machen</em>
     2<br>
   </td>
-</tr>
-<tr>
-  <td>
+ <td>
     <a href="scanned-documents.md">
       <img alt="Gescannte Dokumente" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -105,7 +115,7 @@ Erfahren Sie, wie Sie [Ihren Arbeitsbereich einrichten](set-up-workspace.md), um
     <em>Erfahren Sie, wie Sie Formulare in Acrobat barrierefrei machen</em>
     2<br>
   </td>
-   <td>
+  <td>
     <a href="complex-lists.md">
       <img alt="Komplexe Listen" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -114,11 +124,6 @@ Erfahren Sie, wie Sie [Ihren Arbeitsbereich einrichten](set-up-workspace.md), um
     </div>
     <em>Erfahren Sie, wie Sie komplexe Listen für die Barrierefreiheit in Acrobat taggen</em>
     2<br>
-  </td>
-  <td>
-        <img alt="Spacer" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
   </td>
 </tr>
 </table>
