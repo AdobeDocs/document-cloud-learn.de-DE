@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
+source-git-commit: 5e67f280224d00a29d90ac1538e92e2334826e4f
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -21,21 +21,21 @@ Erfahren Sie, wie Sie barrierefreie PDF-Dateien erstellen. Die Bandbreite der Tu
 
 >[!BEGINTABS]
 
+>[!TAB Komplexe Tabellen]
+
+Erfahren Sie, wie Sie [Tabellen](complex-tables.md) für die Barrierefreiheit in Acrobat taggen.
+
+>[!TAB Geführte Aktion für Barrierefreiheit erstellen]
+
+Erfahren Sie, wie Sie die geführte Aktion [Barrierefrei machen](make-accessible-action.md) verwenden.
+
 >[!TAB Erstellen einer barrierefreien PDF in Acrobat]
 
 Erfahren Sie, wie Sie eine [barrierefreie PDF ab Acrobat](accessible-acrobat.md) erstellen.
 
 >[!TAB Die Grundlagen des Taggens]
 
-Erfahren Sie mehr über die Grundlagen, wie Sie eine PDF[-Datei mit &#x200B;](basics-tagging.md)Tags versehen, um sie barrierefrei zu machen.
-
->[!TAB Komplexe Listen]
-
-Erfahren Sie, wie Sie [komplexe Listen](complex-lists.md) mit Tags für Barrierefreiheit in Acrobat versehen.
-
->[!TAB Gescannte Dokumente]
-
-Erfahren Sie, wie Sie ein [gescanntes Dokument](scanned-documents.md) barrierefrei machen.
+Erfahren Sie mehr über die Grundlagen, wie Sie eine PDF[-Datei mit ](basics-tagging.md)Tags versehen, um sie barrierefrei zu machen.
 
 >[!ENDTABS]
 
@@ -125,5 +125,37 @@ Erfahren Sie, wie Sie ein [gescanntes Dokument](scanned-documents.md) barrierefr
     <em>Erfahren Sie, wie Sie komplexe Listen für die Barrierefreiheit in Acrobat taggen</em>
     2<br>
   </td>
+</tr>
+<tr>
+  <td>
+    <a href="complex-tables.md">
+      <img alt="Komplexe Tabellen" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="complex-tables.md"><strong>Komplexe Tabellen</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie Tabellen für Barrierefreiheit in Acrobat taggen</em>
+    2<br>
+  </td>
+  <td>
+    <a href="make-accessible-action.md">
+      <img alt="Assistent &quot;Barrierefrei machen&quot;" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="make-accessible-action.md"><strong>Geführte Aktion für Barrierefreiheit erstellen</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Sie die geführte Aktion "Barrierefrei machen" verwenden.</em>
+    2<br>
+  </td>
+   <td>
+        <img alt="Spacer" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+      </td>
+      <td>
+        <img alt="Spacer" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+    </td>
 </tr>
 </table>
