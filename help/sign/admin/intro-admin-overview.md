@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 07e2a5a81b23efc49934c9693c625da47882f43f
+source-git-commit: b24235986241d53bfd09d602192e50290bfb8817
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 2%
+source-wordcount: '697'
+ht-degree: 3%
 
 ---
 
@@ -23,6 +23,10 @@ Erfahren Sie mehr über das Hinzufügen von Benutzern zu Ihrem Konto, das Einric
 
 >[!BEGINTABS]
 
+>[!TAB Benutzerdefinierten Workflow erstellen]
+
+Erfahren Sie, wie Sie [benutzerdefinierte Workflows](building-a-custom-workflow.md) erstellen und verwenden, um das Erstellen und Senden einer Vereinbarung zu beschleunigen.
+
 >[!TAB Wiederverwendbare Vorlage erstellen]
 
 Erfahren Sie, wie Sie eine [wiederverwendbare Dokumentvorlage](../sign-advanced-users/create-a-template.md) erstellen.
@@ -33,11 +37,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
 
 >[!TAB Dokumentvorlagen migrieren]
 
-Erfahren Sie, wie Sie Dokumentvorlagen[&#x200B; und Workflows in drei einfachen Schritten nahtlos &#x200B;](docusign-templates.md)migrieren können.
-
->[!TAB Neuen Benutzer hinzufügen]
-
-Erfahren Sie, wie Sie [neue Benutzer zu Acrobat Sign hinzufügen](add-users-to-your-account.md).
+Erfahren Sie, wie Sie Dokumentvorlagen[ und Workflows in drei einfachen Schritten nahtlos ](docusign-templates.md)migrieren können.
 
 >[!ENDTABS]
 
@@ -151,7 +151,7 @@ Erfahren Sie, wie Sie [neue Benutzer zu Acrobat Sign hinzufügen](add-users-to-y
   </td>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
-      <img alt="Berichterstellung und Transaktionsnutzung" src="../assets/reporting.png" />
+      <img alt="Berichterstattung und Transaktionsnutzung" src="../assets/reporting.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/creating-a-report.md"><strong>Berichterstellung und Transaktionsnutzung</strong></a>
@@ -203,12 +203,12 @@ Erfahren Sie, wie Sie [neue Benutzer zu Acrobat Sign hinzufügen](add-users-to-y
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
-      <img alt="Einrichten eines Workflows" src="../assets/workflow.png" />
+      <img alt="Benutzerdefinierten Workflow erstellen" src="../assets/workflow.png" />
     </a>
     <div>
-    <a href="building-a-custom-workflow.md"><strong>Einrichten eines Workflows</strong></a>
+    <a href="building-a-custom-workflow.md"><strong>Benutzerdefinierten Workflow erstellen</strong></a>
     </div>
-    <em>Automatisieren von Dokumenten-Workflows, um elektronische Signaturen und Daten schnell zu erhalten</em>
+    <em>Erfahren Sie, wie Sie benutzerdefinierte Workflows erstellen und verwenden, um das Erstellen und Senden einer Vereinbarung zu beschleunigen</em>
     2<br>
   </td>
 </tr>
