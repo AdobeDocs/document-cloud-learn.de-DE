@@ -37,7 +37,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
 
 >[!TAB Dokumentvorlagen migrieren]
 
-Erfahren Sie, wie Sie Dokumentvorlagen[ und Workflows in drei einfachen Schritten nahtlos ](docusign-templates.md)migrieren können.
+Erfahren Sie, wie Sie Dokumentvorlagen[&#x200B; und Workflows in drei einfachen Schritten nahtlos &#x200B;](docusign-templates.md)migrieren können.
 
 >[!ENDTABS]
 
