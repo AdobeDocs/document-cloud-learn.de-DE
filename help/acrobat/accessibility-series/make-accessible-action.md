@@ -20,4 +20,4 @@ Erfahren Sie, wie Sie die geführte Aktion Barrierefrei machen verwenden, um Ihr
 >
 >Nur verfügbar in Acrobat Pro, Premium und Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477952?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477972?captions=ger&quality=12&learn=on&hidetitle=true)

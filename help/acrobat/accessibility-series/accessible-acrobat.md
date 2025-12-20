@@ -21,4 +21,4 @@ Erfahren Sie, wie Sie eine barrierefreie PDF ab Acrobat erstellen. Folgende Them
 >
 >Einige Funktionen dieses Tutorials sind nur in Acrobat Pro, Premium und Studio verfügbar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477925?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477934?captions=ger&quality=12&learn=on&hidetitle=true)
