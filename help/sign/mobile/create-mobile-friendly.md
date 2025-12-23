@@ -1,20 +1,20 @@
 ---
 title: Mobile Ansicht erstellen
-description: Erfahren Sie, wie Sie eine für Mobilgeräte optimierte Ansicht des Dokuments mit dem Modus "Fokus auf Mobilgeräte" erstellen.
+description: Erfahre, wie du nahtlos und ohne Unterstützung von Entwicklern ein für Smartphones und Tablets optimiertes Dokument erstellst.
 feature: Mobile, Sign
 role: User
 level: Beginner
 jira: KT-18736
-source-git-commit: 179d668e1029d12da5147aa259fe28dbd5b681bf
+source-git-commit: f053f885cce9d41478e581bddeba5fae4196fb91
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
 # Mobile-optimierte Ansicht erstellen
 
-Erfahren Sie, wie Sie mit dem Modus &quot;Fokus auf Mobilgeräte&quot; eine für Mobilgeräte optimierte Ansicht des Dokuments erstellen. Absender können jetzt nahtlos und ohne Unterstützung von Entwicklern ein mobilgerätefreundliches Formular generieren.
+Erfahre, wie du nahtlos und ohne Unterstützung von Entwicklern ein für Smartphones und Tablets optimiertes Dokument erstellst.
 
 Mobile Focus bietet Absendern folgende Vorteile:
 

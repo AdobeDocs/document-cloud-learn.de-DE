@@ -8,9 +8,9 @@ jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: 179d668e1029d12da5147aa259fe28dbd5b681bf
+source-git-commit: f053f885cce9d41478e581bddeba5fae4196fb91
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '194'
 ht-degree: 1%
 
 ---
@@ -26,6 +26,10 @@ Dokumente zur Unterzeichnung versenden, den Status verfolgen und in Echtzeit Ben
 >[!TAB Mobilfreundliche Ansicht]
 
 Erfahren Sie, wie Sie mit der [mobilgerätefreundlichen Ansicht](mobile-friendly.md) Formulare auf Ihrem Mobilgerät ausfüllen.
+
+>[!TAB Mobile Ansicht erstellen]
+
+Erfahren Sie, wie Sie ein [mobilgerätefreundliches](create-mobile-friendly.md) Dokument nahtlos und ohne Entwicklerunterstützung generieren können.
 
 >[!ENDTABS]
 
@@ -58,7 +62,7 @@ Erfahren Sie, wie Sie mit der [mobilgerätefreundlichen Ansicht](mobile-friendly
     <div>
     <a href="create-mobile-friendly.md"><strong>Mobile Ansicht erstellen</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie eine für Mobilgeräte optimierte Ansicht des Dokuments erstellen</em>
+    <em>Erfahren Sie, wie Sie ein mobilgerätefreundliches Dokument nahtlos und ohne Entwicklerunterstützung generieren können</em>
     2<br>
   </td>
    <td>
@@ -84,11 +88,11 @@ Erfahren Sie, wie Sie mit der [mobilgerätefreundlichen Ansicht](mobile-friendly
     2<br>
   </td>
   <td>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank">
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank">
       <img alt="Acrobat Sign-App für Android herunterladen" src="../assets/mobile-android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank"><strong>Acrobat Sign-App für Android herunterladen</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank"><strong>Acrobat Sign-App für Android herunterladen</strong></a>
     </div>
     <em>Acrobat Sign-App von Google Play herunterladen</em>
     2<br>
