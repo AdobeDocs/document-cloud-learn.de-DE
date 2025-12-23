@@ -74,11 +74,11 @@ Erfahren Sie, wie Sie mit der [mobilgerätefreundlichen Ansicht](mobile-friendly
 </tr>
 <tr>
   <td>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1">
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1">
       <img alt="Acrobat Sign-App für Android herunterladen" src="../assets/mobile-android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1"><strong>Acrobat Sign-App für Android herunterladen</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1"><strong>Acrobat Sign-App für Android herunterladen</strong></a>
     </div>
     <em>Acrobat Sign-App von Google Play herunterladen</em>
     2<br>
