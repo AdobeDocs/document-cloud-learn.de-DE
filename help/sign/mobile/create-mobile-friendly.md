@@ -23,4 +23,4 @@ Mobile Focus bietet Absendern folgende Vorteile:
 * Kein technisches Know-how erforderlich: Erstellung dynamischer, mobilgerätefreundlicher Formulare mit minimalem Aufwand
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3478398?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3478407?captions=ger&quality=12&learn=on&hidetitle=true)

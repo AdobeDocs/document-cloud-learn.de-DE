@@ -22,4 +22,4 @@ Mit &quot;Mobile Focus&quot; kann jeder Formulare mit Acrobat Sign auf jedem Ger
 * Verbesserte Genauigkeit: Reduziert Fehler und stellt sicher, dass alle erforderlichen Informationen erfasst werden.
 * Kontinuität: Benutzer können das für Mobilgeräte geeignete Formular jederzeit starten und zurückkehren, ohne den Fortschritt zu verlieren
 
->[!VIDEO](https://video.tv.adobe.com/v/3478386?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3478395?captions=ger&quality=12&learn=on&hidetitle=true)
