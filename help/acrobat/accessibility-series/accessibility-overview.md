@@ -6,16 +6,16 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 5e67f280224d00a29d90ac1538e92e2334826e4f
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
 # Übersicht über Eingabehilfen
 
-Erfahren Sie, wie Sie barrierefreie PDF-Dateien erstellen. Die Bandbreite der Tutorials in dieser Reihe reicht von den Grundlagen des Tags bis hin zum Arbeiten mit Formularen. Regelmäßig werden neue Inhalte hinzugefügt.
+Erfahren Sie, wie Sie barrierefreie PDF-Dateien erstellen. Die Bandbreite der Tutorials in dieser Reihe reicht von den Grundlagen des Tags bis hin zum Arbeiten mit Formularen. Diese Serie ist jetzt im [Kursformat](https://experienceleague.adobe.com/en/courses/acr-pdf-accessibility-essentials) auf dem Experience League verfügbar.
 
 ## Neue Funktionen
 
@@ -35,7 +35,7 @@ Erfahren Sie, wie Sie eine [barrierefreie PDF ab Acrobat](accessible-acrobat.md)
 
 >[!TAB Die Grundlagen des Taggens]
 
-Erfahren Sie mehr über die Grundlagen, wie Sie eine PDF[-Datei mit &#x200B;](basics-tagging.md)Tags versehen, um sie barrierefrei zu machen.
+Erfahren Sie mehr über die Grundlagen, wie Sie eine PDF[-Datei mit ](basics-tagging.md)Tags versehen, um sie barrierefrei zu machen.
 
 >[!ENDTABS]
 
