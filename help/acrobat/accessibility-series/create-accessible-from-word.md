@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie eine barrierefreie PDF-Datei aus Microsoft Word erstellen. Der Einstieg in eine gut strukturierte Word-Datei kann beim Erstellen einer barrierefreien PDF einen enormen Unterschied ausmachen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471614?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471660?captions=ger&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

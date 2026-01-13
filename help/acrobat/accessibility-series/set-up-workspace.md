@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Hier erfahren Sie, wie Sie barrierefreie PDF-Dateien ganz einfach erstellen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471612?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471625?captions=ger&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

@@ -21,7 +21,7 @@ Lernen Sie die Grundlagen zum Markieren einer PDF-Datei mit Tags kennen. Folgend
 >
 >Einige Funktionen dieses Tutorials sind nur in Acrobat Pro, Premium und Studio verfügbar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477882?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477891?captions=ger&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

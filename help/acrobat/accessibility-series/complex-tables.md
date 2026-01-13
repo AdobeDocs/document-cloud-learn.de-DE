@@ -20,7 +20,7 @@ Erfahren Sie, wie Sie in Acrobat Tabellen für Barrierefreiheit mit Tags versehe
 >
 >Nur verfügbar in Acrobat Pro, Premium und Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477951?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477961?captions=ger&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
