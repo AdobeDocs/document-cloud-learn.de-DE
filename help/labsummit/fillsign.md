@@ -6,7 +6,7 @@ solution: Acrobat
 role: User
 level: Beginner
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: c34798d5e4c08c57620cfd1507dd2f51d9f711b0
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Formulare auf dem Desktop, Smartphone oder Tablet ausfüllen und unterschreiben
 
-Sie können Formulare auf Ihrem Desktop, in Ihrem Browser oder in der mobilen App schnell ausfüllen, signieren und senden. Adobe Sensei erkennt und speichert häufig verwendete Daten für die Verwendung in einem PDF-Formular. Erstellen Sie eine Signatur durch Zeichnen, Importieren eines Scans oder Eingeben Ihres Namens und wenden Sie sie dann sicher auf ein Dokument an.
+Sie können Formulare auf Ihrem Desktop, in Ihrem Browser oder in der mobilen App schnell ausfüllen, signieren und senden. Adobe AI erkennt und speichert häufig verwendete Daten für die Verwendung in einem PDF-Formular. Erstellen Sie eine Signatur durch Zeichnen, Importieren eines Scans oder Eingeben Ihres Namens und wenden Sie sie dann sicher auf ein Dokument an.
 
 In dieser Übung werden Sie Dokumente mithilfe Ihres Mobilgeräts importieren, ausfüllen, signieren und versenden.
 
