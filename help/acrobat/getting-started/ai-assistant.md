@@ -6,37 +6,50 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: 5c8d2478290c935ae5d13b63b9493472eeda48e8
+source-git-commit: e2911087f78e07e269a387b9414f3fbaf8dfc57d
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 0%
+source-wordcount: '332'
+ht-degree: 1%
 
 ---
 
 # Mit AI Assistant PDF-Erkenntnisse gewinnen
 
-Erfahren Sie, wie Sie mit dem KI-Assistenten Einblicke in Ihre PDF-Dateien gewinnen. AI Assistant ist eine sichere Unterhaltungs-Engine, die Dokumenten-Workflows verbessert und komplexe Dokumentdaten analysiert. In diesem Video-Tutorial wird das [neue Acrobat-Erlebnis](new-workspace.md) verwendet.
+Erfahren Sie, wie Sie mit dem KI-Assistenten Einblicke in Ihre PDF-Dateien gewinnen. AI Assistant analysiert eine PDF, um Zusammenfassungen zu generieren, Fragen zu beantworten und Erkenntnisse mit klaren Attributen auf den Quellinhalt zu extrahieren. Dadurch müssen lange Dokumente nicht mehr manuell gelesen werden. KI-generierte Antworten werden überprüft, indem sie direkt auf die exakten Positionen im Dokument verweisen, was eine schnellere und vertrauenswürdigere Entscheidungsfindung ermöglicht. In diesem Video-Tutorial wird das [neue Acrobat-Erlebnis](new-workspace.md) verwendet.
 
-## Anwendungsfälle
+AI Assistant ist für Benutzer verfügbar, die Acrobat Studio oder das AI Assistant-Add-on erwerben.
 
->[!BEGINTABS]
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
 
->[!TAB Eine eindrucksvolle Präsentation erstellen]
+[!BADGE Nach Rolle]
 
-Sucht mithilfe von Eingabeaufforderungen unterwegs nach Erkenntnissen aus Branchen- und Kundenberichten. [Video](https://video.tv.adobe.com/v/3428811?quality=12&learn=on&hidetitle=true){target="_blank"} ansehen.
+## Wie KI Assistant verschiedene Teams unterstützt.
 
->[!TAB Schnelleres Teilen von Forschungsergebnissen]
+* Compliance.
 
-Fasst Branchenberichte zusammen, erhaltet detailliertere Erkenntnisse und entwirft in kürzester Zeit Recaps für euer Team. [Video](https://video.tv.adobe.com/v/3427286?quality=12&learn=on&hidetitle=true){target="_blank"} ansehen.
+  Rechtsteams nutzen den KI-Assistenten, um lange Verträge, Richtlinien und Regulierungsdokumente zusammenzufassen, wichtige Klauseln oder Änderungen schnell zu identifizieren und Erkenntnisse durch direkte Zitate im Quelltext zu verifizieren. Dies beschleunigt die Überprüfung und sorgt gleichzeitig für Vertrauen und Rückverfolgbarkeit.
 
->[!TAB Vorschläge schnell erstellen]
+* Personalbestand
 
-Beschleunigt RFP-Reaktionen, indem ihr wichtige Dokumenteninformationen extrahiert und zeitaufwendige Überprüfungen ausspart. [Video](https://video.tv.adobe.com/v/3428639?quality=12&learn=on&hidetitle=true){target="_blank"} ansehen.
+  Die Personalabteilungen nutzen KI Assistant, um wichtige Punkte aus Richtliniendokumenten, Schulungsmaterialien und Mitarbeiterhandbüchern zu extrahieren. So können sie klare Zusammenfassungen und FAQs erstellen, ohne lange Inhalte manuell lesen oder neu schreiben zu müssen.
 
->[!TAB Kurze Besprechungszusammenfassung senden]
+* Verkauf
 
-Prüfen Sie die Protokolle der Meetings, und entwerfen Sie eine E-Mail-Zusammenfassung mit wichtigen Informationen. [Video](https://video.tv.adobe.com/v/3427292?quality=12&learn=on&hidetitle=true){target="_blank"} ansehen.
+  Vertriebsteams verwenden AI Assistant, um Angebote, Angebotsanfragen und Kundendokumentation zu scannen, schnell relevante Antworten oder Diskussionspunkte zu erhalten und präzise Zusammenfassungen zu erstellen, die schnellere Reaktionen und die Vorbereitung auf Geschäftsabschlüsse unterstützen.
 
->[!ENDTABS]
+* Marketing und Kommunikation
 
->[!VIDEO](https://video.tv.adobe.com/v/3445831?enablevpops&quality=12&learn=on&hidetitle=true&captions=ger)
+  Marketing-Teams verwenden KI Assistant zur Analyse von Berichten und Forschungsdokumenten, zur Gewinnung von Erkenntnissen und zur Erstellung gut strukturierter Zusammenfassungen, die in Präsentationen, Briefings und Content-Planungen wiederverwendet werden können.
+
+* Finanzen
+
+  Finanzteams verwenden AI Assistant, um Finanzberichte und unterstützende Dokumente zu prüfen, Trends oder Abweichungen zusammenzufassen und Erkenntnisse zu gewinnen, die für die Berichterstattung auf Führungsebene erforderlich sind, ohne vollständige Dateien manuell lesen zu müssen.
+
+* Betriebs- und Programmmanagement
+
+  Operations-Teams verwenden AI Assistant zur Analyse von SOPs, zur Projektdokumentation und für Aktualisierungen. Sie verstehen schnell, worauf es ankommt, und generieren Zusammenfassungen, um die Abstimmung der Stakeholder zu gewährleisten.
+
+* Führungskräfte und Führungskräfte
+
+  Führungskräfte verwenden AI Assistant, um allgemeine Zusammenfassungen und direkte Antworten aus komplexen Dokumenten zu erhalten, mit Zitaten, die es ihnen ermöglichen, Erkenntnisse zu validieren, ohne das gesamte Quellmaterial zu prüfen.
+
