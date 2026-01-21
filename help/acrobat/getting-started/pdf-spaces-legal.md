@@ -19,7 +19,7 @@ Erfahrt, wie eine interne Rechtsabteilung mithilfe von PDF Spaces Richtliniendok
 
 PDF Spaces stehen Benutzern zur Verfügung, die Acrobat Studio oder das AI Assistant-Add-on erwerben.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475141?captions=ger&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Nach Rolle]
 
