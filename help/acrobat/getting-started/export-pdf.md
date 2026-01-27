@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5529
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 6153591accebf9fa815100fa1545348e6f259f17
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 2%
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 # PDF in verschiedene Dateiformate konvertieren
 
-Erfahren Sie, wie Sie Ihre PDF-Dateien in verschiedene Dateiformate konvertieren, z. B. [Microsoft Word](https://www.adobe.com/de/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/de/acrobat/online/pdf-to-ppt.html) und [Excel](https://www.adobe.com/de/acrobat/online/pdf-to-excel.html). Das Konvertieren Ihrer PDF in [Adobe Expreß](https://express.adobe.com) zum Hinzufügen von Branding-Designelementen wird ebenfalls behandelt. Wenn Sie Ihren PDF in ein anderes Dateiformat wie Microsoft Word konvertieren, verbessert dies die Effizienz des Dokumenten-Workflows und spart erheblich Zeit, wenn Sie umfangreiche Änderungen an Ihren langen Dokumenten vornehmen. In diesem Video-Tutorial wird das [neue Acrobat-Erlebnis](new-workspace.md) verwendet.
+Erfahren Sie, wie Sie Ihre PDF-Dateien in verschiedene Dateiformate konvertieren, z. B. [Microsoft Word](https://www.adobe.com/de/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/de/acrobat/online/pdf-to-ppt.html) und [Excel](https://www.adobe.com/de/acrobat/online/pdf-to-excel.html). Das Konvertieren Ihrer PDF in [Adobe Expreß](https://express.adobe.com) zum Hinzufügen von Branding-Designelementen wird ebenfalls behandelt. Wenn Sie Ihren PDF in ein anderes Dateiformat wie Microsoft Word konvertieren, verbessert dies die Effizienz des Dokumenten-Workflows und spart erheblich Zeit, wenn Sie umfangreiche Änderungen an Ihren langen Dokumenten vornehmen. In diesem Video-Tutorial wird das [neue Acrobat-Erlebnis](new-experience.md) verwendet.
 
 >[!TIP]
 >
@@ -24,7 +24,7 @@ Erfahren Sie, wie Sie Ihre PDF-Dateien in verschiedene Dateiformate konvertieren
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3415781?captions=ger&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35494?enablevpops&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
@@ -32,4 +32,4 @@ Erfahren Sie, wie Sie Ihre PDF-Dateien in verschiedene Dateiformate konvertieren
 
 >[!TIP]
 >
->Dieses Video ist Teil der Wiedergabeliste [Erste Schritte mit Adobe Acrobat](https://experienceleague.adobe.com/de/playlists/acrobat-get-started-business-users), die auf dem Experience League kostenlos verfügbar ist!
+>Dieses Video ist Teil der Wiedergabeliste [Erste Schritte mit Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users), die auf dem Experience League kostenlos verfügbar ist!

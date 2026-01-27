@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Vertrauliche Informationen entfernen
 
-Erfahren Sie, wie Sie mit dem Werkzeug &quot;Schwärzen&quot; private oder vertrauliche Informationen dauerhaft von einer PDF entfernen und dann das Dokument bereinigen, um Informationen zu entfernen, die nicht in der Datei angezeigt werden, wie Kommentare, Metadaten oder ausgeblendete Ebenen. Vertrauliche Inhalte und verborgene Daten müssen dauerhaft entfernt werden, damit die Informationen beim Veröffentlichen Ihres PDF nicht weitergegeben werden. In diesem Tutorial wird das [neue Acrobat-Erlebnis](../getting-started/new-workspace.md) verwendet.
+Erfahren Sie, wie Sie mit dem Werkzeug &quot;Schwärzen&quot; private oder vertrauliche Informationen dauerhaft von einer PDF entfernen und dann das Dokument bereinigen, um Informationen zu entfernen, die nicht in der Datei angezeigt werden, wie Kommentare, Metadaten oder ausgeblendete Ebenen. Vertrauliche Inhalte und verborgene Daten müssen dauerhaft entfernt werden, damit die Informationen beim Veröffentlichen Ihres PDF nicht weitergegeben werden. In diesem Tutorial wird das [neue Acrobat-Erlebnis](../getting-started/new-experience.md) verwendet.
 
 >[!NOTE]
 >

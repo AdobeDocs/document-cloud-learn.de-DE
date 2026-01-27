@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 # Mit AI Assistant PDF-Erkenntnisse gewinnen
 
-Erfahren Sie, wie Sie mit dem KI-Assistenten Einblicke in Ihre PDF-Dateien gewinnen. AI Assistant analysiert eine PDF, um Zusammenfassungen zu generieren, Fragen zu beantworten und Erkenntnisse mit klaren Attributen auf den Quellinhalt zu extrahieren. Dadurch müssen lange Dokumente nicht mehr manuell gelesen werden. KI-generierte Antworten werden überprüft, indem sie direkt auf die exakten Positionen im Dokument verweisen, was eine schnellere und vertrauenswürdigere Entscheidungsfindung ermöglicht. In diesem Video-Tutorial wird das [neue Acrobat-Erlebnis](new-workspace.md) verwendet.
+Erfahren Sie, wie Sie mit dem KI-Assistenten Einblicke in Ihre PDF-Dateien gewinnen. AI Assistant analysiert eine PDF, um Zusammenfassungen zu generieren, Fragen zu beantworten und Erkenntnisse mit klaren Attributen auf den Quellinhalt zu extrahieren. Dadurch müssen lange Dokumente nicht mehr manuell gelesen werden. KI-generierte Antworten werden überprüft, indem sie direkt auf die exakten Positionen im Dokument verweisen, was eine schnellere und vertrauenswürdigere Entscheidungsfindung ermöglicht. In diesem Video-Tutorial wird das [neue Acrobat-Erlebnis](new-experience.md) verwendet.
 
 AI Assistant ist für Benutzer verfügbar, die Acrobat Studio oder das AI Assistant-Add-on erwerben.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445831?captions=ger&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Nach Rolle]
 

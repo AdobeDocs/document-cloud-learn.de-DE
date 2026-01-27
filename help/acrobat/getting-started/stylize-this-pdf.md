@@ -6,7 +6,7 @@ role: User
 level: Intermediate
 jira: KT-14195
 exl-id: 30a17c43-1efb-4c76-9133-18bb4dab2238
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 # Stilisieren dieser PDF
 
-Erfahren Sie, wie Sie mit &quot;PDF stilisieren&quot; das Erscheinungsbild einer PDF verbessern können, indem Sie Schriftempfehlungen, Farbdesigns, Bilder und Designelemente mithilfe von In-App-Tools, die vom Adobe Expreß [Adobe Expreß](https://express.adobe.com) unterstützt werden, anwenden. In diesem Tutorial lernen Sie außerdem, wie Sie Layouts optimieren, Adobe Stock- oder KI-generierte Bilder hinzufügen und Textstile anpassen, um professionelle Dokumente zu erstellen. In diesem Video-Tutorial wird das [neue Acrobat-Erlebnis](new-workspace.md) verwendet.
+Erfahren Sie, wie Sie mit &quot;PDF stilisieren&quot; das Erscheinungsbild einer PDF verbessern können, indem Sie Schriftempfehlungen, Farbdesigns, Bilder und Designelemente mithilfe von In-App-Tools, die vom Adobe Expreß [Adobe Expreß](https://express.adobe.com) unterstützt werden, anwenden. In diesem Tutorial lernen Sie außerdem, wie Sie Layouts optimieren, Adobe Stock- oder KI-generierte Bilder hinzufügen und Textstile anpassen, um professionelle Dokumente zu erstellen. In diesem Video-Tutorial wird das [neue Acrobat-Erlebnis](new-experience.md) verwendet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445550?captions=ger&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Nach Rolle]
 
