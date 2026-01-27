@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 7b76b90df77bf73e7f5d17eabe761f106c74d62b
+source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
 workflow-type: tm+mt
-source-wordcount: '589'
+source-wordcount: '566'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 5%
    + Grundlagen lernen {#basics}
       + [Grundlagen des Arbeitsbereichs](getting-started/workspace-basics.md)
       + [Neues Erlebnis mit Acrobat](getting-started/new-experience.md)
-      + [Arbeiten mit  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=de#microsoft)
+      + [Arbeiten mit  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Überall arbeiten - mit Acrobat Web](getting-started/acrobatweb.md)
       + [Unterwegs produktiv sein.](getting-started/productivity.md)
       + [Woher kommen die PDF?](getting-started/where-do-pdfs-come-from.md)
@@ -65,26 +65,22 @@ ht-degree: 5%
    + [Assistent &quot;Barrierefrei machen&quot;](accessibility-series/make-accessible-action.md)
 + Erweiterte Aufgaben {#advanced-tasks}
    + [Übersicht](advanced-tasks/advanced-tasks-overview.md)
-   + [Hinzufügen von Lesezeichen und Hyperlinks](advanced-tasks/bookmarks.md)
-   + [Gescannte Dokumente optimieren](advanced-tasks/optimizescan.md)
-   + [Benutzerdefinierte Befehle und Werkzeuge](advanced-tasks/custom.md)
-   + [Erweiterte Formularfelder](advanced-tasks/advancedforms.md)
-   + [Optimize PDF für SEO](advanced-tasks/optimizeseo.md)
-   + [Arbeiten mit Formularfeldern](advanced-tasks/workforms.md)
-   + [PDF verbessern](advanced-tasks/enhance.md)
-   + [Unterschiede zwischen zwei PDF erkennen](advanced-tasks/compare.md)
-   + [Geführte Aktionen](advanced-tasks/action.md)
-   + [Vertrauliche Informationen entfernen](advanced-tasks/redact.md)
-   + [Komprimieren und Optimieren einer PDF](advanced-tasks/reduce.md)
-   + [Arbeiten mit Formulardaten](advanced-tasks/formdata.md)
-   + Webinare zur Barrierefreiheit in Acrobat {#accessibility-series}
-      + [Übersicht](advanced-tasks/accessibility-series.md)
-      + [Einführung in die Barrierefreiheit für PDF](advanced-tasks/accessibilitysession1.md)
-      + [Beheben einer nicht zugänglichen PDF](advanced-tasks/accessibilitysession2.md)
-      + [Komplexe Tabellen](advanced-tasks/accessibilitysession3.md)
-      + [Gescannte Dokumente und komplexe Listen](advanced-tasks/accessibilitysession4.md)
-      + [Hinzufügen von Formularfeldern zu einem mit Tags versehenen PDF](advanced-tasks/accessibilitysession5.md)
-      + [Hinzufügen von Formularfeldern zu einem PDF ohne Tags](advanced-tasks/accessibilitysession6.md)
+   + Vorbereiten und optimieren {#prepare}
+      + [Komprimieren und Optimieren einer PDF](advanced-tasks/reduce.md)
+      + [Gescannte Dokumente optimieren](advanced-tasks/optimizescan.md)
+      + [Optimize PDF für SEO](advanced-tasks/optimizeseo.md)
+      + [Hinzufügen von Lesezeichen und Hyperlinks](advanced-tasks/bookmarks.md)
+      + [Unterschiede zwischen zwei PDF erkennen](advanced-tasks/compare.md)
+      + [PDF verbessern](advanced-tasks/enhance.md)
+   + Formulare erstellen und verwalten {#forms}
+      + [Arbeiten mit Formularfeldern](advanced-tasks/workforms.md)
+      + [Erweiterte Formularfelder](advanced-tasks/advancedforms.md)
+      + [Arbeiten mit Formulardaten](advanced-tasks/formdata.md)
+   + Schützen {#protect}
+      + [Vertrauliche Informationen entfernen](advanced-tasks/redact.md)
+   + Workflows automatisieren und skalieren {#automate}
+      + [Geführte Aktionen](advanced-tasks/action.md)
+      + [Benutzerdefinierte Befehle und Werkzeuge](advanced-tasks/custom.md)
 + KI-gestützt {#ai-powered}
    + [Übersicht](ai-powered/ai-overview.md)
    + [Entdecken Sie PDF-Erkenntnisse mit AI Assistant](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
