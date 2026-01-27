@@ -24,7 +24,7 @@ Erfahren Sie, wie Sie [PDF aus allen verschiedenen Dokumenttypen erstellen](http
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35491?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409551?captions=ger&enablevpops&quality=12&learn=on&hidetitle=true)
 
 Möchten Sie eine tragbare Version dieses Tutorials? Wählen Sie das PDF-Symbol, um eine geschriebene Version dieses Tutorials zu öffnen oder herunterzuladen.
 
