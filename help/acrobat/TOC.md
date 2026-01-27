@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
+source-git-commit: bebd1666353b6bef2bc98fd2b97b38ad9a75fa02
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '546'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 5%
    + Grundlagen lernen {#basics}
       + [Grundlagen des Arbeitsbereichs](getting-started/workspace-basics.md)
       + [Neues Erlebnis mit Acrobat](getting-started/new-experience.md)
-      + [Arbeiten mit  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=de#microsoft)
+      + [Arbeiten mit  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Überall arbeiten - mit Acrobat Web](getting-started/acrobatweb.md)
       + [Unterwegs produktiv sein.](getting-started/productivity.md)
       + [Woher kommen die PDF?](getting-started/where-do-pdfs-come-from.md)
@@ -141,12 +141,6 @@ ht-degree: 5%
          + [Tipp #3: Digitale Protect-Dokumente.](industry/gov/protect-digital-documents.md)
          + [Tipp #4 - Arbeiten Sie mit Formularen und Signaturen](industry/gov/work-with-forms-and-signatures.md)
          + [Tipp #5 - Scannen und Bearbeiten auf Mobilgeräten](industry/gov/scan-and-edit-on-mobile.md)
-      + Barrierefreiheit {#pdfs}
-         + [Barrierefreie PDF](industry/gov/making-pdfs-accessible.md)
-         + [#1 - Erläuterungen zur Barrierefreiheit](industry/gov/understanding-accessibility.md)
-         + [#2 - Authoring in Word](industry/gov/authoring-in-word.md)
-         + [#3 - Fertigstellung in Acrobat](industry/gov/finishing-in-acrobat.md)
-         + [Zugänglichere PDF-Abstimmungen](industry/gov/making-pdf-ballots-accessible.md)
 + entwickeln {#develop}
    + [Übersicht](develop/develop-overview.md)
 + Bereitstellen {#deploy}
