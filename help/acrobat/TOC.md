@@ -22,7 +22,7 @@ ht-degree: 5%
    + Grundlagen lernen {#basics}
       + [Grundlagen des Arbeitsbereichs](getting-started/workspace-basics.md)
       + [Neues Erlebnis mit Acrobat](getting-started/new-experience.md)
-      + [Arbeiten mit  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+      + [Arbeiten mit  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=de#microsoft)
       + [Überall arbeiten - mit Acrobat Web](getting-started/acrobatweb.md)
       + [Unterwegs produktiv sein.](getting-started/productivity.md)
       + [Woher kommen die PDF?](getting-started/where-do-pdfs-come-from.md)
