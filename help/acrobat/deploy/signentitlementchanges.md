@@ -47,7 +47,7 @@ Darüber hinaus bietet Adobe Sign Enterprise im Vergleich zu der in der [!DNL Ad
 * Anpassung und Optimierung.
    * Erweiterte Authentifizierung, erweiterte Authentifizierung für Unterzeichner, erweiterte Authentifizierung der Identität von Unterzeichnern, Workflow-Designer, erweiterte Sprachunterstützung usw.
 
-Adobe Sign ist die weltweit führende Lösung für die Erfassung rechtsgültiger Unterschriften. Adobe Sign ist so konzipiert, dass es allen Anforderungen an elektronische Unterschriften in Ihrem Unternehmen gerecht wird und über IT-Tools verfügt, die sich an den Administrator anpassen, um sicherzustellen, dass Sie und Ihre Anwender elektronische Unterschriften verwenden, die die verschiedenen regionalen und branchenspezifischen Vorschriften für elektronische Unterschriften vollständig erfüllen. Weitere Informationen zum Verwalten von Sign über [Adobe Admin Console](https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html) finden Sie [hier](https://helpx.adobe.com/de/enterprise/using/admin-console.html).
+Adobe Sign ist die weltweit führende Lösung für die Erfassung rechtsgültiger Unterschriften. Adobe Sign ist so konzipiert, dass es allen Anforderungen an elektronische Unterschriften in Ihrem Unternehmen gerecht wird und über IT-Tools verfügt, die sich an den Administrator anpassen, um sicherzustellen, dass Sie und Ihre Anwender elektronische Unterschriften verwenden, die die verschiedenen regionalen und branchenspezifischen Vorschriften für elektronische Unterschriften vollständig erfüllen. Weitere Informationen zum Verwalten von Sign über [Adobe Admin Console](https://helpx.adobe.com/de/enterprise/using/adobe-sign-for-enterprise.html) finden Sie [hier](https://helpx.adobe.com/de/enterprise/using/admin-console.html).
 
 Bitte wende dich an deinen Adobe-Kontakt, um zu besprechen, wie du weiterhin Funktionen für elektronische Unterschriften in deinem Unternehmen über unsere breitere digitale Dokumentenplattform bereitstellen kannst, die Acrobat DC und Adobe Sign Enterprise umfasst.
 
@@ -70,10 +70,10 @@ Die Benutzer können sich bei https://documentcloud.adobe.com/ anmelden, um auf 
 
 ## Weitere Informationen finden Sie auf den folgenden Seiten:
 
-* [Anmelden bei Adobe Document Cloud](https://helpx.adobe.com/document-cloud/help/sign-in.html)
-* [Dateien verwalten (Wo sind meine Dateien?)](https://helpx.adobe.com/document-cloud/help/manage-files.html)
+* [Anmelden bei Adobe Document Cloud](https://helpx.adobe.com/de/document-cloud/help/sign-in.html)
+* [Dateien verwalten (Wo sind meine Dateien?)](https://helpx.adobe.com/de/document-cloud/help/manage-files.html)
 * [Verwenden von [!UICONTROL Acrobat Customization Wizard] für die Konfiguration &#x200B;](https://www.adobe.com/de/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
 * [Übersicht über [!UICONTROL Admin Console]](https://helpx.adobe.com/de/enterprise/using/admin-console.html)
-* [Verwalten von Adobe Sign auf der [!UICONTROL Admin Console]](https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html)
+* [Verwalten von Adobe Sign auf der [!UICONTROL Admin Console]](https://helpx.adobe.com/de/enterprise/using/adobe-sign-for-enterprise.html)
 
 **Überarbeitungen** 20. Mai 2020; Originalbeitrag - August 2019

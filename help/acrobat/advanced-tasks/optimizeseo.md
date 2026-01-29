@@ -31,7 +31,7 @@ PDF-Inhalte sollten eindeutig sein und wie folgt strukturiert sein:
 * Verwenden Sie kurze Absätze mit Schlüsselwörtern und Listen
 * Interne und externe Inhalte über Hyperlinks zu Websites oder anderen Websites hinzufügen
 * Hinzufügen eines verlinkten Inhaltsverzeichnisses für Dokumente mit mehr als 25 Seiten
-* [Texterkennung](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) für alle gescannten Dokumente ausführen
+* [Texterkennung](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) für alle gescannten Dokumente ausführen
 * Mobile-optimierte PDF.
 Um das mobile Anzeigeerlebnis Ihres PDF zu überprüfen, öffnen Sie die Datei in der [Acrobat Reader-App](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) und aktivieren Sie den Liquid Mode. Fügen Sie bei Bedarf weitere Unterüberschriften hinzu, um die Navigation zu verbessern.
 
@@ -64,7 +64,7 @@ Versuchen Sie, die Zusammenfassung mit einem Aktionsverb wie Lernen, Entdecken, 
 
 ## &#x200B;3. Markieren Sie Ihren PDF
 
-Durch das Markieren von Inhalten auf Ihrem PDF wird Ihre Datei [nicht nur für Personen mit Behinderungen zugänglich](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview), sondern auch für SEO verbessert.
+Durch das Markieren von Inhalten auf Ihrem PDF wird Ihre Datei [nicht nur für Personen mit Behinderungen zugänglich](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview), sondern auch für SEO verbessert.
 
 +++Anzeigen von Details zum Markieren eines PDF
 

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Artikel zur Bereitstellung und zu Best Practices mit wertvollen Einblicken und Kenntnissen, die durch die Zusammenarbeit mit Kunden gewonnen wurden.
 
-* Erfahren Sie, wie Sie [Adobe Acrobat](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html){target="_blank"} bereitstellen, wenn Sie Adobe® Creative Cloud™ für Teams oder Unternehmen verwenden.
+* Erfahren Sie, wie Sie [Adobe Acrobat](https://helpx.adobe.com/de/enterprise/using/deploying-acrobat.html){target="_blank"} bereitstellen, wenn Sie Adobe® Creative Cloud™ für Teams oder Unternehmen verwenden.
 
 * Erfahren Sie mehr über das [Enterprise Toolkit für Acrobat-Produkte](https://www.adobe.com/devnet-docs/acrobatetk/index.html){target="_blank"}, mit dem Sie angepasste Produkte unternehmensweit bereitstellen, virtualisierte Installationen einrichten und unternehmensweite PDF-Workflows erstellen können.
 

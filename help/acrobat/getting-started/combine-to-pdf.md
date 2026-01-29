@@ -28,4 +28,4 @@ Für die Bereitstellung der besten Kundenerlebnisse müssen Inhalte schneller de
 
 >[!TIP]
 >
->Dieses Video ist Teil der Wiedergabeliste [Erste Schritte mit Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users), die auf dem Experience League kostenlos verfügbar ist!
+>Dieses Video ist Teil der Wiedergabeliste [Erste Schritte mit Adobe Acrobat](https://experienceleague.adobe.com/de/playlists/acrobat-get-started-business-users), die auf dem Experience League kostenlos verfügbar ist!
