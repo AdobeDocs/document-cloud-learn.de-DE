@@ -6,18 +6,18 @@ role: User
 level: Intermediate
 jira: KT-14195
 exl-id: 30a17c43-1efb-4c76-9133-18bb4dab2238
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
 # Stilisieren dieser PDF
 
-Erfahren Sie, wie Sie mit &quot;PDF stilisieren&quot; das Erscheinungsbild einer PDF verbessern können, indem Sie Schriftempfehlungen, Farbdesigns, Bilder und Designelemente mithilfe von In-App-Tools, die vom Adobe Expreß [Adobe Expreß](https://express.adobe.com) unterstützt werden, anwenden. In diesem Tutorial lernen Sie außerdem, wie Sie Layouts optimieren, Adobe Stock- oder KI-generierte Bilder hinzufügen und Textstile anpassen, um professionelle Dokumente zu erstellen. In diesem Video-Tutorial wird das [neue Acrobat-Erlebnis](new-experience.md) verwendet.
+Erfahren Sie, wie Sie mit &quot;PDF stilisieren&quot; das Erscheinungsbild einer PDF verbessern können, indem Sie Schriftempfehlungen, Farbdesigns, Bilder und Designelemente mithilfe von integrierten Tools, die von [Adobe Expreß](https://express.adobe.com) unterstützt werden, anwenden. In diesem Tutorial lernen Sie außerdem, wie Sie Layouts optimieren, Adobe Stock- oder KI-generierte Bilder hinzufügen und Textstile anpassen, um professionelle Dokumente zu erstellen. In diesem Video-Tutorial wird das [neue Acrobat-Erlebnis](new-experience.md) verwendet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445550?captions=ger&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Teamspezifisch]
 
@@ -25,11 +25,11 @@ Erfahren Sie, wie Sie mit &quot;PDF stilisieren&quot; das Erscheinungsbild einer
 
 * **Legal**
 
-  Rechtsabteilungen verwenden Stilisieren Sie diese PDF, um konsistente Formatierungen, Typografie und Grafiken auf Richtlinien- und Anleitungsdokumente anzuwenden, damit sie professionell und leicht lesbar erscheinen und dabei konform und in ihrer Bedeutung unverändert bleiben.
+  Rechtsabteilungen verwenden Stilisieren Sie diese PDF, um konsistente Formatierungen und Visuals anzuwenden, damit Richtlinien- und Anleitungsdokumente professionell aussehen und klar und präzise bleiben.
 
 * **Vertrieb**
 
-  Mit Stylize dieser PDF können Vertriebsteams Angebote und Präsentationen schnell optimieren, indem sie Schriften, Farben und Bilder mit Branding-Elementen hinzufügen. So könnt ihr Dokumente für Kunden bereitstellen, ohne zu den Design-Tools zurückkehren zu müssen.
+  Mit dieser PDF können Vertriebsteams Angebote und Präsentationen schnell mit Branding-Schriften, -Farben und -Bildern optimieren. So könnt ihr kundenfertige Dokumente ohne Rückkehr zu Design-Tools bereitstellen.
 
 * **HR**
 
@@ -37,7 +37,7 @@ Erfahren Sie, wie Sie mit &quot;PDF stilisieren&quot; das Erscheinungsbild einer
 
 * **Finanzen**
 
-  Mit Stylize dieser PDF können Finanzteams schnell übersichtliche, konsistente visuelle Stile auf Berichte und Präsentationen anwenden, um Finanzdokumente professioneller zu gestalten und sie einfacher an Führungskräfte und Stakeholder weiterzugeben.
+  Finanz-Teams verwenden Stylize this PDF , um Reports und Präsentationen zu optimieren und ihnen sofort visuelle Stile hinzuzufügen.
 
 * **Einkauf**
 

@@ -5,22 +5,22 @@ role: User
 level: Intermediate, Experienced
 topics: Accessibility
 jira: KT-18730
-source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
 
 # Komplexe Tabellen
 
-Erfahren Sie, wie Sie in Acrobat Tabellen für Barrierefreiheit mit Tags versehen. Zu den behandelten Themen gehören: Festlegen von Optionen für den Tabellen-Editor, Identifizieren des Zellentyps (TD oder TH), Festlegen des Kopfzeilenbereichs und -bereichs, Erstellen einer Tabellenzusammenfassung, Generieren von Kopfzeilenzellen-IDs, Zuordnen von Datenzellen zu Kopfzeilenzellen-IDs und Artefaktieren einer wiederholten Kopfzeile.
+Erfahren Sie, wie Sie in Acrobat Tabellen für Barrierefreiheit mit Tags versehen. Zu den behandelten Themen gehören das Festlegen von Optionen für den Tabellen-Editor, das Identifizieren des Zellentyps (TD oder TH), das Festlegen des Kopfzeilenbereichs und des -bereichs sowie das Erstellen einer Tabellenzusammenfassung. In diesem Tutorial lernen Sie außerdem, wie Sie Kopfzellen-IDs generieren, Datenzellen mit Kopfzellen-IDs verknüpfen und eine sich wiederholende Kopfzeile künstlich gestalten.
 
 >[!NOTE]
 >
 >Nur verfügbar in Acrobat Pro, Premium und Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477961?captions=ger&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477951?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

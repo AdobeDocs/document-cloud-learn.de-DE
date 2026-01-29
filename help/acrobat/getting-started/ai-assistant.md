@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Erfahren Sie, wie Sie mit dem KI-Assistenten Einblicke in Ihre PDF-Dateien gewin
 
 AI Assistant ist für Benutzer verfügbar, die Acrobat Studio oder das AI Assistant-Add-on erwerben.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445831?captions=ger&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Teamspezifisch]
 
@@ -27,7 +27,7 @@ AI Assistant ist für Benutzer verfügbar, die Acrobat Studio oder das AI Assist
 
 * **Legal**
 
-  Rechtsteams nutzen den KI-Assistenten, um lange Verträge, Richtlinien und Regulierungsdokumente zusammenzufassen, wichtige Klauseln oder Änderungen schnell zu identifizieren und Erkenntnisse durch direkte Zitate im Quelltext zu verifizieren. Dies beschleunigt die Überprüfung und sorgt gleichzeitig für Vertrauen und Rückverfolgbarkeit.
+  Rechtsteams nutzen den KI-Assistenten, um lange Verträge, Richtlinien und Regulierungsdokumente zusammenzufassen, wichtige Klauseln oder Änderungen schnell zu identifizieren und Erkenntnisse durch direkte Zitate im Quelltext zu verifizieren.
 
 * **Vertrieb**
 

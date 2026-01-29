@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5532
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 1%
@@ -22,7 +22,7 @@ Erfahren Sie, wie Sie [Ihrem PDF ein Kennwort hinzufügen](https://www.adobe.com
 
 >[!TIP]
 >
->Verwenden Sie zum Kennwortschutz mehrerer PDF-Dateien die [Action Wizard](../advanced-tasks/action.md).
+>Verwenden Sie die [Action Wizard](../advanced-tasks/action.md), um mehrere PDF-Dateien mit einem Kennwort zu schützen.
 
 [!BADGE Teamspezifisch]
 
@@ -30,7 +30,7 @@ Erfahren Sie, wie Sie [Ihrem PDF ein Kennwort hinzufügen](https://www.adobe.com
 
 * **Legal**
 
-  Der Schutz von PDF stellt sicher, dass vertrauliche Verträge, Falldateien und Kundenkommunikation nur von autorisierten Parteien aufgerufen werden können, wodurch Compliance- und Datenschutzrisiken reduziert werden.
+  Der Schutz von PDF stellt sicher, dass nur autorisierte Personen auf vertrauliche Verträge, Falldateien und Kundenkommunikation zugreifen können. Dadurch werden Compliance- und Datenschutzrisiken reduziert.
 
 * **Vertrieb**
 

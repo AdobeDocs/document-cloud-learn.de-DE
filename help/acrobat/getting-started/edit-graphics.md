@@ -6,18 +6,18 @@ role: User
 level: Beginner
 jira: KT-15476
 exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
 # Bearbeiten von Grafiken auf einem PDF
 
-Erfahren Sie, wie Sie im Bearbeitungsmodus von Acrobat Bilder direkt auf einem PDF im Web oder auf dem Desktop hinzufügen, ersetzen, zuschneiden, in der Größe ändern, drehen und anordnen. Das Tutorial zeigt außerdem, wie Sie mithilfe des In-App-Bildgenerators auf Basis von Adobe Expreß Bilder aus Textaufforderungen generieren und optimieren. In diesem Video-Tutorial wird das [neue Acrobat-Erlebnis](new-experience.md) verwendet.
+Erfahren Sie, wie Sie im Bearbeitungsmodus von Acrobat Bilder direkt auf einem PDF im Web oder auf dem Desktop hinzufügen, ersetzen, zuschneiden, in der Größe ändern, drehen und anordnen. Das Tutorial zeigt auch, wie Sie Bilder aus Textaufforderungen mit dem In-App-Bildgenerator auf Basis von Adobe Expreß generieren und optimieren. In diesem Video-Tutorial wird das [neue Acrobat-Erlebnis](new-experience.md) verwendet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446938?captions=ger&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Teamspezifisch]
 
@@ -37,8 +37,8 @@ Erfahren Sie, wie Sie im Bearbeitungsmodus von Acrobat Bilder direkt auf einem P
 
 * **Finanzen**
 
-  Finanzteams können den Bearbeitungsmodus verwenden, um Diagramme und Grafiken in PDF schnell zu aktualisieren. Dadurch bleiben die Berichte präzise und übersichtlich, ohne zur Quelldatei zurückzukehren.
+  Finanzteams können im Bearbeitungsmodus Diagramme und Grafiken in PDF schnell aktualisieren. Dadurch bleiben die Berichte präzise und übersichtlich, ohne zur Quelldatei zurückzukehren.
 
 * **Einkauf**
 
-  Beschaffungsteams können den Bearbeitungsmodus verwenden, um Lieferantendiagramme, Produktbilder und visuelle Details in Lieferantenvorschlägen oder Verträgen schnell zu aktualisieren. Dadurch werden die Quelldokumente korrekt und präsentationsbereit gehalten, ohne dass die Originaldateien erforderlich sind.
+  Beschaffungsteams können im Bearbeitungsmodus Lieferantendiagramme, Produktbilder und visuelle Details in Lieferantenangeboten oder Verträgen schnell aktualisieren, ohne dass die Originaldateien erforderlich sind.

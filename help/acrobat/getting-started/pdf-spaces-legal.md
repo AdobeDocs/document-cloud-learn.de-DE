@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-18747
 exl-id: dab3498a-3cc7-44b9-bb6f-3d843b521716
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Erfahrt, wie eine interne Rechtsabteilung mithilfe von PDF Spaces Richtliniendok
 
 PDF Spaces stehen Benutzern zur Verfügung, die Acrobat Studio oder das AI Assistant-Add-on erwerben.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475141?captions=ger&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
 
 [!BADGE Teamspezifisch]
 
@@ -27,20 +27,20 @@ PDF Spaces stehen Benutzern zur Verfügung, die Acrobat Studio oder das AI Assis
 
 * **Legal**
 
-  Rechtsabteilungen verwenden PDF Spaces, um Verträge, Richtlinien und Richtlinien in einem zentralen Arbeitsbereich zusammenzufassen. So ist es leichter, Dokumente gemeinsam zu prüfen, Änderungen zu erkennen und zitierte Zusammenfassungen zu erstellen, die eine präzise und überprüfbare Entscheidungsfindung unterstützen.
+  Rechtsabteilungen nutzen PDF Spaces zur Zentralisierung von Verträgen, Richtlinien und Richtlinien, um die gemeinsame Überprüfung von Dokumenten, die Verfolgung von Änderungen und die Erstellung präziser, überprüfbarer Übersichten zu erleichtern.
 
 * **Vertrieb**
 
-  Vertriebsteams nutzen PDF Spaces, um Angebote, RFP-Dokumente und Hilfsmaterialien an einem Ort zu sammeln, sodass sie Inhalte effizient prüfen, wichtige Punkte extrahieren und kundenbereite Antworten schneller vorbereiten können.
+  Vertriebsteams verwenden PDF Spaces, um Angebote, Angebotsanfragen und Hilfsmaterialien an einem zentralen Ort zusammenzutragen, damit sie Inhalte effizient prüfen, wichtige Punkte extrahieren und kundenbereite Antworten schneller vorbereiten können.
 
 * **HR**
 
-  Personalabteilungen verwenden PDF Spaces, um Richtliniendokumente, Onboarding-Materialien und Schulungsressourcen zu organisieren und schnell übersichtliche Zusammenfassungen oder Referenznotizen zu erstellen, die unternehmensweit konsistent gemeinsam genutzt werden können.
+  Personalabteilungen verwenden PDF Spaces, um Richtlinien, Onboarding-Materialien und Schulungsressourcen zu organisieren und schnell übersichtliche Zusammenfassungen oder Referenznotizen zu erstellen, damit sie im gesamten Unternehmen einheitlich weitergegeben werden können.
 
 * **Finanzen**
 
-  Finanzteams verwenden PDF Spaces, um Berichte, Tabellenblätter und unterstützende Dokumentation kontextbezogen zu prüfen. So lassen sich Informationen leichter vergleichen, wichtige Erkenntnisse gewinnen und Berichte von Führungskräften unterstützen.
+  Finanzteams verwenden PDF Spaces, um Berichte, Tabellenblätter und unterstützende Dokumente kontextbezogen zu prüfen. So lassen sich Informationen leichter vergleichen, Erkenntnisse gewinnen und Berichte von Führungskräften unterstützen.
 
 * **Einkauf**
 
-  Beschaffungsteams verwenden PDF Spaces, um alle herstellerbezogenen Dokumente, wie Verträge, Angebotsanfragen, Angebote, Leistungsbeschreibungen, Compliance-Formulare und Verhandlungshinweise, in gemeinsam genutzten, organisierten Arbeitsbereichen zu zentralisieren. Dies trägt dazu bei, die Zusammenarbeit mit Stakeholdern zu optimieren, Versionen und Genehmigungen zu verfolgen, Konsistenz über alle Beschaffungsprozesse hinweg zu wahren und sicherzustellen, dass alle Dokumente während des gesamten Beschaffungslebenszyklus sicher, zugänglich und leicht auffindbar bleiben.
+  Beschaffungsteams verwenden PDF Spaces, um alle Lieferantendokumente in einem einzigen Arbeitsbereich zusammenzufassen. Hier fasst KI automatisch Inhalte zusammen, hebt wichtige Änderungen hervor und gewinnt wichtige Erkenntnisse.

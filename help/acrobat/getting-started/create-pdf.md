@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-5526
 thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
 
 # Erstellen einer PDF
 
-Erfahren Sie, wie Sie [PDF aus allen verschiedenen Dokumenttypen erstellen](https://www.adobe.com/de/acrobat/online/convert-pdf.html). Beginnen Sie mit einer in Microsoft Office erstellten Datei oder einer Creative Cloud-App, oder verwenden Sie ein Bild, einen Scan oder sogar eine Website. Das Konvertieren von Inhalten in PDF bietet eine praktische und zuverlässige Möglichkeit, Dokumente freizugeben, zu bewahren und zu schützen, während die Originalformatierung beibehalten wird. In diesem Video-Tutorial wird das [neue Acrobat-Erlebnis](new-experience.md) verwendet.
+Erfahren Sie, wie Sie [PDF aus allen verschiedenen Dokumenttypen erstellen](https://www.adobe.com/de/acrobat/online/convert-pdf.html). Beginnen Sie mit einer in Microsoft Office erstellten Datei oder einer Creative Cloud-App, oder verwenden Sie ein Bild, einen Scan oder sogar eine Website. Das Konvertieren von Inhalten in PDF bietet eine praktische und zuverlässige Möglichkeit, Dokumente freizugeben, zu bewahren und zu schützen, während die Originalformatierung beibehalten wird. In diesem Video-Tutorial wird das [n-Erlebnis ](new-experience.md) verwendet.
 
 >[!TIP]
 >
@@ -24,7 +24,7 @@ Erfahren Sie, wie Sie [PDF aus allen verschiedenen Dokumenttypen erstellen](http
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3409551?captions=ger&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35491?enablevpops&quality=12&learn=on&hidetitle=true)
 
 Möchten Sie eine tragbare Version dieses Tutorials? Wählen Sie das PDF-Symbol, um eine geschriebene Version dieses Tutorials zu öffnen oder herunterzuladen.
 

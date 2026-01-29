@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '752'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,9 @@ PDF-Inhalte sollten eindeutig sein und wie folgt strukturiert sein:
 * Verwenden einer einzelnen Hauptüberschrift/eines Titels, der mit einem Schlüsselwort beginnt
 * Schlüsselwort-Unterüberschriften in einer hierarchischen Struktur verwenden
 * Verwenden Sie kurze Absätze mit Schlüsselwörtern und Listen
-* Interne und externe Hyperlinks (Inhalte Ihrer Website oder anderer Websites) hinzufügen
+* Interne und externe Inhalte über Hyperlinks zu Websites oder anderen Websites hinzufügen
 * Hinzufügen eines verlinkten Inhaltsverzeichnisses für Dokumente mit mehr als 25 Seiten
-* [Texterkennung](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html?lang=de) für alle gescannten Dokumente ausführen
+* [Texterkennung](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) für alle gescannten Dokumente ausführen
 * Mobile-optimierte PDF.
 Um das mobile Anzeigeerlebnis Ihres PDF zu überprüfen, öffnen Sie die Datei in der [Acrobat Reader-App](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) und aktivieren Sie den Liquid Mode. Fügen Sie bei Bedarf weitere Unterüberschriften hinzu, um die Navigation zu verbessern.
 
@@ -64,7 +64,7 @@ Versuchen Sie, die Zusammenfassung mit einem Aktionsverb wie Lernen, Entdecken, 
 
 ## &#x200B;3. Markieren Sie Ihren PDF
 
-Durch das Markieren von Inhalten auf Ihrem PDF wird Ihre Datei [nicht nur für Personen mit Behinderungen zugänglich](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html?lang=de), sondern auch für SEO verbessert.
+Durch das Markieren von Inhalten auf Ihrem PDF wird Ihre Datei [nicht nur für Personen mit Behinderungen zugänglich](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview), sondern auch für SEO verbessert.
 
 +++Anzeigen von Details zum Markieren eines PDF
 
@@ -88,7 +88,7 @@ Taggen Sie eine PDF wie folgt:
 
 ## &#x200B;4. Für das Web vorbereiten
 
-Optimieren Sie die Interaktion mit Ihrem PDF, indem Sie ihn für die Webanzeige vorbereiten und [die PDF-Dateigröße reduzieren](https://www.adobe.com/de/acrobat/online/compress-pdf.html){target="_blank"}.
+Optimieren Sie Ihren PDF, indem Sie ihn für die Webanzeige vorbereiten und [die PDF-Dateigröße reduzieren](https://www.adobe.com/de/acrobat/online/compress-pdf.html){target="_blank"}.
 
 +++Details zur Vorbereitung Ihres PDF für das Web anzeigen
 
@@ -141,4 +141,4 @@ Sichern Sie eine PDF wie folgt:
 
 +++
 
-Ihr PDF kann jetzt im Web veröffentlicht werden - mit einem optimalen Keyword-Ranking-Potenzial und der Möglichkeit zur Interaktion mit den Endbenutzern.
+Ihr PDF kann jetzt im Web veröffentlicht werden - mit optimalem Keyword-Ranking und Benutzerinteraktion.

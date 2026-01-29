@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-5531
 thumbnail: KT-5531.jpg
 exl-id: 4638061c-6ed7-4dc0-b865-5e0b8da9cbd4
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '65'
 ht-degree: 3%
 
 ---
@@ -20,8 +20,8 @@ Erfahren Sie, wie Sie über die Acrobat-Oberfläche bei konsistentem Arbeitsbere
 
 >[!TIP]
 >
->Möchten Sie mehr über das neue Acrobat-Erlebnis erfahren, das Sie in Acrobat aktivieren können? [Neues Acrobat-Erlebnis](new-experience.md).
+>Möchten Sie mehr über das neue Acrobat-Erlebnis erfahren, das Sie in Acrobat aktivieren können? Sehen Sie sich das [neue Acrobat-Erlebnis](new-experience.md)-Tutorial an.
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3409548?captions=ger&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337971?quality=12&learn=on&hidetitle=true)
