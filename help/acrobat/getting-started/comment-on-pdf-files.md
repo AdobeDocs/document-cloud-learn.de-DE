@@ -20,4 +20,4 @@ Erfahren Sie, wie Sie Kommentare auf einem freigegebenen PDF mit nur einem Webbr
 
 Wie Sie eine PDF freigeben können, erfahren Sie im Tutorial [Zusammenarbeit in Echtzeit](collaborate.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/35492?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409550?captions=ger&quality=12&learn=on&hidetitle=true)

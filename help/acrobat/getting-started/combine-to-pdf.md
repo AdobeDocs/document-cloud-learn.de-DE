@@ -24,7 +24,7 @@ Für die Bereitstellung der besten Kundenerlebnisse müssen Inhalte schneller de
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35452?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3415772?captions=ger&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

@@ -18,4 +18,4 @@ ht-degree: 2%
 
 Erfahren Sie, wie Sie ein PDF-Formular [&#x200B; schnell und einfach ausfüllen und signieren können. &#x200B;](https://www.adobe.com/de/acrobat/online/sign-pdf.html){target="_blank"} Kein unsauberes Drucken oder Scannen erforderlich.
 
->[!VIDEO](https://video.tv.adobe.com/v/35495?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3415779?captions=ger&quality=12&learn=on&hidetitle=true)

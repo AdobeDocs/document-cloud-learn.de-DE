@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie im Bearbeitungsmodus von Acrobat Bilder direkt auf einem PDF im Web oder auf dem Desktop hinzufügen, ersetzen, zuschneiden, in der Größe ändern, drehen und anordnen. Das Tutorial zeigt auch, wie Sie Bilder aus Textaufforderungen mit dem In-App-Bildgenerator auf Basis von Adobe Expreß generieren und optimieren. In diesem Video-Tutorial wird das [neue Acrobat-Erlebnis](new-experience.md) verwendet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446938?captions=ger&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Teamspezifisch]
 

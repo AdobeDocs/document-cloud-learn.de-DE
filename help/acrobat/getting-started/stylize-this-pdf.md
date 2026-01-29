@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit &quot;PDF stilisieren&quot; das Erscheinungsbild einer PDF verbessern können, indem Sie Schriftempfehlungen, Farbdesigns, Bilder und Designelemente mithilfe von integrierten Tools, die von [Adobe Expreß](https://express.adobe.com) unterstützt werden, anwenden. In diesem Tutorial lernen Sie außerdem, wie Sie Layouts optimieren, Adobe Stock- oder KI-generierte Bilder hinzufügen und Textstile anpassen, um professionelle Dokumente zu erstellen. In diesem Video-Tutorial wird das [neue Acrobat-Erlebnis](new-experience.md) verwendet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445550?captions=ger&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Teamspezifisch]
 
