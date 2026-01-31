@@ -83,11 +83,11 @@ ht-degree: 5%
       + [Benutzerdefinierte Befehle und Werkzeuge](advanced-tasks/custom.md)
 + KI-gestützt {#ai-powered}
    + [Übersicht](ai-powered/ai-overview.md)
-   + [Entdecken Sie PDF-Erkenntnisse mit AI Assistant](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-   + [Steigern Sie die Teameffizienz mit PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-   + [Was ist Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-   + [Grafiken auf einem PDF bearbeiten](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-   + [Diesen PDF stilisieren](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+   + [Entdecken Sie PDF-Erkenntnisse mit AI Assistant](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+   + [Steigern Sie die Teameffizienz mit PDF Spaces](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + [Was ist Acrobat Studio?](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+   + [Grafiken auf einem PDF bearbeiten](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+   + [Diesen PDF stilisieren](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + 60-Sekunden-Acrobat {#60-second}
    + [Übersicht](60-second/60-second-overview.md)
    + [PDF mit Acrobat Web bearbeiten](60-second/edit.md)
@@ -148,5 +148,5 @@ ht-degree: 5%
    + [Wichtige Updates für Acrobat DC für ETLA-Kunden](deploy/signentitlementchanges.md)
 + Mobile Endgeräte {#mobile}
    + [Übersicht](mobile/mobile-overview.md)
-   + [Produktivität unterwegs](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+   + [Produktivität unterwegs](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
    + [Alles auf PDF scannen](mobile/scan-mobile-app.md)
