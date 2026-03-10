@@ -6,18 +6,18 @@ role: User
 level: Beginner
 jira: KT-18748
 exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: 4bb236eeda0e9a569b0c9b2639623ad10f28d5f3
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
 
 # Was ist Acrobat Studio?
 
-Lernt, wie ihr mit Acrobat Studio markensichere Inhalte erstellt, Einblicke gewinnt und komplexe Workflows optimiert, damit euer Team schneller arbeiten kann. Acrobat Studio ist eine Komplettlösung, die Acrobat Pro, AI Assistant, PDF Spaces sowie Adobe Expreß Premium umfasst. Diese integrierten Tools beschleunigen die Teamproduktivität, indem sie Dateien zentralisieren, KI-gestützte Analysen ermöglichen und die Erstellung von End-to-End-Inhalten in einem einheitlichen Arbeitsbereich unterstützen.
+Lernt, wie ihr mit Acrobat Studio markensichere Inhalte erstellt, Einblicke gewinnt und komplexe Workflows optimiert, damit euer Team schneller arbeiten kann. Acrobat Studio ist eine Komplettlösung, die Acrobat Pro, AI Assistant, PDF Spaces sowie Adobe Expreß Premium umfasst. Entdecken Sie die *Jetzt testen* interaktiven Optionen unten, um zu erfahren, wie Acrobat Studio die Arbeit Ihres Teams optimiert.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475065?captions=ger&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
 [!BADGE Teamspezifisch]
 
@@ -25,20 +25,20 @@ Lernt, wie ihr mit Acrobat Studio markensichere Inhalte erstellt, Einblicke gewi
 
 * **Rechtsgültigkeit und Compliance**
 
-  Zentralisiert Richtlinien, Verträge und regulatorische Vorgaben in einem zentralen Workspace. Mit KI Assistant könnt ihr dann Änderungen ermitteln, Risiken identifizieren und mit nachprüfbaren Zitaten rechtsgültige Updates generieren.
+  Zentralisiert Richtlinien, Verträge und regulatorische Vorgaben in einem zentralen Workspace. Mit KI Assistant könnt ihr dann Änderungen ermitteln, Risiken identifizieren und mit nachprüfbaren Zitaten rechtsgültige Updates generieren. [Jetzt testen](https://w.adobedemo.com/s/ujZN1y).
 
 * **Personalwesen**
 
-  Verwandelt komplexe Richtliniendokumente in klare Zusammenfassungen, FAQs und Materialien für Mitarbeiter, und sorgt dafür, dass Botschaften konsistent und richtlinienkonform bleiben.
+  Verwandelt komplexe Richtliniendokumente in klare Zusammenfassungen, FAQs und Materialien für Mitarbeiter, und sorgt dafür, dass Botschaften konsistent und richtlinienkonform bleiben. [Jetzt testen](https://w.adobedemo.com/s/NvvfVm).
 
 * **Vertrieb**
 
-  Stellen Sie schnell Angebote und RFP-Antworten zusammen, indem Sie genehmigte Inhalte aus vorhandenen Dokumenten abrufen und in polierte, kundenfertige Dateien umwandeln.
+  Stellen Sie schnell Angebote und RFP-Antworten zusammen, indem Sie genehmigte Inhalte aus vorhandenen Dokumenten abrufen und in polierte, kundenfertige Dateien umwandeln. [Jetzt testen](https://w.adobedemo.com/s/HEEljN).
 
 * **Marketing und Kommunikation**
 
   Gewinnt Erkenntnisse aus Quelldokumenten und verwandelt sie mithilfe von Adobe Expreß in markengerechte Präsentationen, One Pager und visuelle Inhalte.
 
-* **Führungskräfte und Führungskräfte**
+* **Finanzen**
 
-  Erhaltet prägnante, mit der Quelle verknüpfte Zusammenfassungen für mehrere Dokumente, sodass Entscheidungen schneller getroffen werden können, ohne jede Datei einzeln überprüfen zu müssen.
+  Findet heraus, wie Finanzteams durch Finanzberichte schneller agieren können, ohne dabei die Exaktheit, das Vertrauen oder die Kontrolle zu beeinträchtigen. [Jetzt testen]https://w.adobedemo.com/s/31LpAI.
