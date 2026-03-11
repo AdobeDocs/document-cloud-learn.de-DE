@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-18748
 exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
-source-git-commit: cbd35489e8b5736ef7461ea60d357bf4df1f5fd9
+source-git-commit: 7540d070cd8efe97535a1d25f3c49bd46a7bcd44
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Lernt, wie ihr mit Acrobat Studio markensichere Inhalte erstellt, Einblicke gewinnt und komplexe Workflows optimiert, damit euer Team schneller arbeiten kann. Acrobat Studio ist eine Komplettlösung, die Acrobat Pro, AI Assistant, PDF Spaces sowie Adobe Expreß Premium umfasst. Entdecken Sie die **Jetzt testen** interaktiven Optionen unten, um zu erfahren, wie Acrobat Studio die Arbeit Ihres Teams optimiert.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475065?captions=ger&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
 [!BADGE Teamspezifisch]
 
@@ -41,4 +41,4 @@ Lernt, wie ihr mit Acrobat Studio markensichere Inhalte erstellt, Einblicke gewi
 
 * **Finanzen**
 
-  Findet heraus, wie Finanzteams durch Finanzberichte schneller agieren können, ohne dabei die Exaktheit, das Vertrauen oder die Kontrolle zu beeinträchtigen. **[Jetzt testen](https://w.adobedemo.com/s/31LpAI){target="_blank"}**
+  Findet heraus, wie Finanzteams durch Finanzberichte schneller agieren können, ohne dabei die Exaktheit, das Vertrauen oder die Kontrolle zu beeinträchtigen. **[Jetzt testen](https://w.adobedemo.com/s/31LpAI){target="_blank"}.**
