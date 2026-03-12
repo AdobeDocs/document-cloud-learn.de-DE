@@ -22,7 +22,7 @@ ht-degree: 4%
    + Grundlagen lernen {#basics}
       + [Grundlagen des Arbeitsbereichs](getting-started/workspace-basics.md)
       + [Neues Erlebnis mit Acrobat](getting-started/new-experience.md)
-      + [Arbeiten mit  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+      + [Arbeiten mit  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=de#microsoft)
       + [Überall arbeiten - mit Acrobat Web](getting-started/acrobatweb.md)
       + [Unterwegs produktiv sein.](getting-started/productivity.md)
       + [Woher kommen die PDF?](getting-started/where-do-pdfs-come-from.md)
@@ -83,11 +83,11 @@ ht-degree: 4%
       + [Benutzerdefinierte Befehle und Tools](advanced-tasks/custom.md)
 + KI-betrieben {#ai-powered}
    + [Überblick](ai-powered/ai-overview.md)
-   + [PDF Insights mit dem KI-Assistenten entdecken](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-   + [Steigern der Team-Effizienz mit PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-   + [Was ist Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-   + [Bearbeiten von Grafiken in einer PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-   + [Diese PDF formatieren](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+   + [PDF Insights mit dem KI-Assistenten entdecken](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+   + [Steigern der Team-Effizienz mit PDF Spaces](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + [Was ist Acrobat Studio?](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+   + [Bearbeiten von Grafiken in einer PDF](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+   + [Diese PDF formatieren](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Anwendungsbeispiele {#use-cases}
    + [Überblick](use-cases/use-cases-overview.md)
    + Regierungseinrichtungen {#gov}
@@ -148,5 +148,5 @@ ht-degree: 4%
    + [Wichtige Updates für Acrobat DC für ETLA-Kunden](deploy/signentitlementchanges.md)
 + Mobile Endgeräte {#mobile}
    + [Überblick](mobile/mobile-overview.md)
-   + [Unterwegs produktiv sein.](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+   + [Unterwegs produktiv sein.](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
    + [Alles auf PDF scannen](mobile/scan-mobile-app.md)
