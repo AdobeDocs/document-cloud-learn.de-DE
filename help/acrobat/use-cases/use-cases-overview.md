@@ -1,22 +1,56 @@
 ---
-title: Anwendungsfälle
-description: Seht, wie ihr Kunden- und Mitarbeitererlebnisse transformieren könnt, indem ihr verschiedene Nutzungsszenarien untersucht
+title: Übersicht über Anwendungsfälle
+description: Verschiedene Nutzungsszenarien, in denen ihr erfahrt, wie Acrobat eure Arbeit transformieren kann
 feature: Accessibility, Security, Create PDF, Mobile, Workspace, Sign, Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 68cdb0c38c9fe64bf9643b4165485fe90f333b07
+source-git-commit: 70988640e34ad1f06da7e8447c055435a2ac7239
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
-# Anwendungsfälle
+# Nutzungsszenarien - Übersicht
 
-Erfahrt, wie ihr mit Acrobat die Produktivität steigern und Informationen in verwertbare Erkenntnisse für euer Team verwandeln könnt.
+Erfahrt, wie ihr mit Acrobat die Produktivität steigern und Informationen in verwertbare Erkenntnisse für euer Team und eure Branche verwandeln könnt.
+
+## Geschäftsbereich
+
+Erfahrt, wie Teams in verschiedenen Geschäftsbereichen Acrobat einsetzen, um alltägliche Dokumentenprobleme zu lösen, Workflows zu optimieren und unternehmenskritische Aufgaben zu unterstützen.
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="lob/finance/finance-overview.md">
+      <img alt="Finanzierungsbedarf." src="../assets/use-case-finance.png" />
+    </a>
+    <div>
+    <a href="lob/finance/finance-overview.md"><strong>Nutzungsszenarien für Finanzierungen</strong></a>
+    </div>
+    <em>Erfahren Sie, wie Finanzteams Acrobat zum Erstellen, Verwalten, Analysieren und Sichern von Finanzdokumenten verwenden</em>
+    2
+  <br></td>
+  <td>
+        <img alt="Spacer" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
 
 ## Branche
 
@@ -27,7 +61,7 @@ Erfahrt, wie ihr mit Acrobat die Produktivität steigern und Informationen in ve
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat für Behörden" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat für Behörden"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat für Behörden"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
