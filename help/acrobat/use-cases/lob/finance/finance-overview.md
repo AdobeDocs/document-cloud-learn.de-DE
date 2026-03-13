@@ -1,57 +1,58 @@
 ---
-title: Übersicht über Acrobat Finance-Anwendungsfälle
-description: Erfahren Sie, wie Finanz-Teams mit Acrobat Finanzdokumente erstellen, verwalten, analysieren und sichern
+title: Nutzungsszenarien für Acrobat Finance - Übersicht
+description: Erfahrt, wie Finanzteams mit Acrobat Finanzdokumente erstellen, verwalten, analysieren und sichern.
 feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20533
-source-git-commit: 70988640e34ad1f06da7e8447c055435a2ac7239
+exl-id: 2e37e636-df5b-4c6a-93c7-8df68d60bc65
+source-git-commit: 8245d1a196a240fd640ddea2e90d65e1e20265d9
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '108'
 ht-degree: 1%
 
 ---
 
-# Übersicht über Acrobat Finance-Anwendungsfälle
+# Nutzungsszenarien für Acrobat Finance - Übersicht
 
-Erfahren Sie mehr über finanzspezifische Workflows, die zeigen, wie Acrobat die Dokumenterstellung, Datenanalyse, Validierungen, Sicherheit und Compliance in Reporting-, Budgetierungs- und Auditprozessen unterstützt.
+Findet heraus, wie ihr mit finanzspezifischen Workflows belegt, wie Acrobat Dokumentenerstellung, Datenanalyse, Genehmigungen, Sicherheit und Compliance in allen Reporting-, Budgeting- und Audit-Prozessen unterstützt.
 
 ## Neue Funktionen
 
 >[!BEGINTABS]
 
->[!TAB Verwandeln Sie Finanzberichte in für Führungskräfte geeignete Einblicke]
+>[!TAB Finanzberichte in Informationen für Führungskräfte umwandeln]
 
-Erfahren Sie, wie Finanz-Teams Finanzinformationen konsolidieren können, um wichtige Leistungsmerkmale schnell zu ermitteln [insight](finance-insights.md).
+Erfahren Sie, wie Finanzteams Finanzinformationen konsolidieren können, um wichtige Performance schnell zu ermitteln [Insight](finance-insights.md).
 
 >[!ENDTABS]
 
-## Tutorials zu Finanzanwendungsfällen
+## Tutorials zu Use Cases für Finanzdienstleistungen.
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="finance-insights.md">
-      <img alt="Umwandeln von Finanzberichten in Einblicke für Führungskräfte" src="../../../assets/use-case-financial-insights.png" />
+      <img alt="Bereiten Sie Finanzdokumente für Führungskräfte vor - vom Einblick bis zur Bereitstellung." src="../../../assets/use-case-financial-insights.png" />
     </a>
     <div>
-    <a href="finance-insights.md"><strong>Verwandeln Sie Finanzberichte in für Führungskräfte geeignete Einblicke</strong></a>
+    <a href="finance-insights.md"><strong>Bereiten Sie Finanzdokumente für Führungskräfte vom Einblick bis zur Bereitstellung vor</strong></a>
     </div>
-    <em>Erfahren Sie, wie Finanz-Teams Finanzinformationen konsolidieren können, um schnell wichtige Leistungseinblicke zu erhalten</em>
-    <br>
-  </td>
+    <em>Erfahren Sie, wie Finanzteams Acrobat Studio verwenden, um von der Analyse zur Bereitstellung zu wechseln</em>
+    2
+  <br></td>
   <td>
-        <img alt="Distanzstück" src="../../../assets/Whitespacer.png" />
+        <img alt="Spacer" src="../../../assets/Whitespacer.png" />
         <div>
         <br>
   </td>
   <td>
-        <img alt="Distanzstück" src="../../../assets/Whitespacer.png" />
+        <img alt="Spacer" src="../../../assets/Whitespacer.png" />
         <div>
         <br>
   </td>
   <td>
-        <img alt="Distanzstück" src="../../../assets/Whitespacer.png" />
+        <img alt="Spacer" src="../../../assets/Whitespacer.png" />
         <div>
         <br>
   </td>

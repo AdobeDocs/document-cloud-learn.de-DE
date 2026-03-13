@@ -1,48 +1,48 @@
 ---
-user-guide-title: Acrobat-Tutorials
+user-guide-title: Acrobat Tutorials
 solution: Acrobat
-breadcrumb-title: Acrobat-Tutorials
+breadcrumb-title: Acrobat Tutorials
 feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: a6bfbb75a89221e4ac63e3922f8763326f85bdca
+source-git-commit: 8c7b6e8e80f89e5f2c5f6a1d957657096bccd9c2
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '648'
 ht-degree: 4%
 
 ---
 
 
-# Acrobat-Tutorials {#acrobat-learning}
+# Acrobat Tutorials {#acrobat-learning}
 
 + [Überblick](overview.md)
 + Erste Schritte {#get-started}
    + [Überblick](getting-started/getting-started-overview.md)
    + Grundlagen lernen {#basics}
       + [Grundlagen des Arbeitsbereichs](getting-started/workspace-basics.md)
-      + [Neues Acrobat-Erlebnis](getting-started/new-experience.md)
-      + [Arbeiten mit [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=de#microsoft)
-      + [Überall mit Acrobat Web arbeiten](getting-started/acrobatweb.md)
-      + [Produktivität unterwegs](getting-started/productivity.md)
-      + [Woher kommen PDFs?](getting-started/where-do-pdfs-come-from.md)
-   + Intelligenter Arbeiten mit KI {#ai}
-      + [PDF Insights mit dem KI-Assistenten entdecken](getting-started/ai-assistant.md)
-      + [Steigern der Team-Effizienz mit PDF Spaces](getting-started/pdf-spaces-legal.md)
+      + [Neues Erlebnis mit Acrobat](getting-started/new-experience.md)
+      + [Arbeiten mit  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+      + [Überall arbeiten - mit Acrobat Web](getting-started/acrobatweb.md)
+      + [Unterwegs produktiv sein.](getting-started/productivity.md)
+      + [Woher kommen die PDF?](getting-started/where-do-pdfs-come-from.md)
+   + Intelligenter arbeiten mit KI. {#ai}
+      + [Mit AI Assistant PDF-Erkenntnisse gewinnen](getting-started/ai-assistant.md)
+      + [Mehr Team-Effizienz dank PDF Spaces](getting-started/pdf-spaces-legal.md)
       + [Was ist Acrobat Studio?](getting-started/acrobat-studio.md)
    + Erstellen und Organisieren {#create}
       + [Erstellen einer PDF](getting-started/create-pdf.md)
-      + [Dateien zu einer einzigen PDF kombinieren](getting-started/combine-to-pdf.md)
+      + [Dateien zu einer einzigen PDF zusammenführen](getting-started/combine-to-pdf.md)
       + [Seiten organisieren](getting-started/organize.md)
-      + [Erstellen einer neuen Seite](getting-started/add-custom-page.md)
-      + [Papier an PDF](getting-started/scan-and-ocr.md)
-   + Bearbeiten und Verbessern {#edit}
-      + [Bearbeiten von Text in einer PDF](getting-started/edit-pdf.md)
-      + [Bearbeiten von Grafiken in einer PDF](getting-started/edit-graphics.md)
-      + [Diese PDF formatieren](getting-started/stylize-this-pdf.md)
-      + [Automatische Anpassung des Layouts](getting-started/auto-adjust-layout.md)
-      + [Konvertieren von PDF in verschiedene Dateiformate](getting-started/export-pdf.md)
-   + Zusammenarbeiten und Überprüfen {#collaborate}
+      + [Entwerfen einer neuen Seite](getting-started/add-custom-page.md)
+      + [Vom Papier zum PDF](getting-started/scan-and-ocr.md)
+   + Bearbeiten und optimieren {#edit}
+      + [Bearbeiten von Text auf einem PDF](getting-started/edit-pdf.md)
+      + [Bearbeiten von Grafiken auf einem PDF](getting-started/edit-graphics.md)
+      + [Stilisieren dieser PDF](getting-started/stylize-this-pdf.md)
+      + [Layout automatisch anpassen](getting-started/auto-adjust-layout.md)
+      + [PDF in verschiedene Dateiformate konvertieren](getting-started/export-pdf.md)
+   + Zusammenarbeit und Überprüfung {#collaborate}
       + [In Echtzeit zusammenarbeiten.](getting-started/collaborate.md)
       + [Auf einem PDF kommentieren](getting-started/comment-on-pdf-files.md)
    + Forms, elektronische Unterschriften und Datenschutz. {#tools}
@@ -83,17 +83,17 @@ ht-degree: 4%
       + [Benutzerdefinierte Befehle und Werkzeuge](advanced-tasks/custom.md)
 + KI-gestützt {#ai-powered}
    + [Überblick](ai-powered/ai-overview.md)
-   + [Mit AI Assistant PDF-Erkenntnisse gewinnen](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-   + [Mehr Team-Effizienz dank PDF Spaces](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-   + [Was ist Acrobat Studio?](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-   + [Bearbeiten von Grafiken auf einem PDF](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-   + [Stilisieren dieser PDF](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+   + [Mit AI Assistant PDF-Erkenntnisse gewinnen](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+   + [Mehr Team-Effizienz dank PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + [Was ist Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+   + [Bearbeiten von Grafiken auf einem PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+   + [Stilisieren dieser PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Anwendungsfälle {#use-cases}
    + [Überblick](use-cases/use-cases-overview.md)
    + Geschäftsbereich {#lob}
       + [Überblick](use-cases/lob/finance/finance-overview.md)
       + Finanzen {#finance}
-         + [Finanzberichte als Insights für Führungskräfte nutzen.](use-cases/lob/finance/finance-insights.md)
+         + [Bereiten Sie Finanzdokumente für Führungskräfte vor - vom Einblick bis zur Bereitstellung.](use-cases/lob/finance/finance-insights.md)
    + Regierungseinrichtungen {#gov}
       + [Überblick](use-cases/gov/gov-overview.md)
       + 5 Tipps für Produktivität an jedem Ort mit Acrobat {#tips}
@@ -152,5 +152,5 @@ ht-degree: 4%
    + [Wichtige Updates für Acrobat DC für ETLA-Kunden](deploy/signentitlementchanges.md)
 + Mobile Endgeräte {#mobile}
    + [Überblick](mobile/mobile-overview.md)
-   + [Unterwegs produktiv sein.](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+   + [Unterwegs produktiv sein.](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
    + [Alles auf PDF scannen](mobile/scan-mobile-app.md)
