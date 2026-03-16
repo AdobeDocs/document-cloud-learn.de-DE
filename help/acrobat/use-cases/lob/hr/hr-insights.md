@@ -6,14 +6,14 @@ role: User
 level: Intermediate
 jira: KT-20543
 exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
-source-git-commit: b10939fdfaa83b8926019ebe91b01dbcfb03a68e
+source-git-commit: 0777e123ef5665052453a787bd39828a9ca167be
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '257'
 ht-degree: 2%
 
 ---
 
-# Von der Erkenntnis zur Wirkung: Optimieren der Onboarding-Workflows
+# Von der Erkenntnis zur Wirkung: Optimieren Sie Ihre Onboarding-Workflows
 
 Erfahrt, wie HR-Teams mit Acrobat Studio das Onboarding von Mitarbeitern durchgängig optimieren. Erfahrt, wie ihr komplexe Onboarding-Dokumente in klare Erkenntnisse verwandelt, mit Stakeholdern in gemeinsam genutzten PDF Spaces zusammenarbeitet und hochwertigen, markenkonformen Content erstellt, der sofort von Neueinsteigern geteilt werden kann - schneller, konsistenter und zuverlässiger. Dieser Anwendungsfall ist so konzipiert, dass er in der Reihenfolge abgeschlossen werden kann, wobei jedes Video auf dem vorherigen Schritt aufbaut.
 
@@ -31,7 +31,7 @@ Erkenntnisse können jetzt vom Team geprüft werden. Erfahrt, wie PDF Spaces Fee
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481509?quality=12&learn=on&hidetitle=true)
 
-## Schritt 3. Präsentationen für Führungskräfte erstellen.
+## Schritt 3. Neue Mitarbeiter mit ansprechenden Onboarding-Inhalten zufriedenstellen
 
 Das Feedback ist vollständig und der Content kann bereitgestellt werden. Erfahre, wie Acrobat Studio KI und Vorlagen mit Branding-Elementen einsetzt, um Präsentationen und Materialien zu erstellen, die sich leicht teilen und aktualisieren lassen.
 
