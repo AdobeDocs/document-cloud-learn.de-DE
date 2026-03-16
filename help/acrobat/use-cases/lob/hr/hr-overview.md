@@ -5,7 +5,8 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20534
-source-git-commit: 5f9eb79aaedd0dcab16ef0483f1df7e359280b73
+exl-id: a3527421-1f3f-43da-af60-ceed93369ab0
+source-git-commit: b10939fdfaa83b8926019ebe91b01dbcfb03a68e
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 1%
@@ -32,10 +33,10 @@ Entdecken Sie, wie HR-Teams mit Acrobat Studio das Onboarding von Inhalten für 
 <tr>
   <td>
     <a href="hr-insights.md">
-      <img alt="Von der Erkenntnis zur Wirkung: Optimiert eure Workflows." src="../../../assets/use-case-hr-insights.png" />
+      <img alt="Von der Erkenntnis zur Wirkung: Optimieren Sie Ihre Onboarding-Workflows" src="../../../assets/use-case-hr-insights.png" />
     </a>
     <div>
-    <a href="hr-insights.md"><strong>Von der Erkenntnis zur Auswirkung: Optimieren Sie Ihre HR-Workflows</strong></a>
+    <a href="hr-insights.md"><strong>Von der Erkenntnis zur Auswirkung: Optimieren der Onboarding-Workflows</strong></a>
     </div>
     <em>Entdecken Sie, wie HR-Teams Acrobat Studio verwenden, um das Onboarding von Mitarbeitern von Anfang bis Ende zu optimieren</em>
     2

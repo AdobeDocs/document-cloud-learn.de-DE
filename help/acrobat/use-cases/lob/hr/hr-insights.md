@@ -1,22 +1,23 @@
 ---
-title: Von der Erkenntnis zur Wirkung - Optimiert eure Workflows.
+title: Von der Erkenntnis zur Wirkung - Optimieren der Onboarding-Workflows
 description: Erfahrt, wie HR-Teams mit Acrobat Studio das Onboarding von Mitarbeitern durchgängig optimieren.
 feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20543
-source-git-commit: 21b016a7471f874f538ad2eac73d2833e49a6dc1
+exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
+source-git-commit: b10939fdfaa83b8926019ebe91b01dbcfb03a68e
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '253'
 ht-degree: 2%
 
 ---
 
-# Von der Erkenntnis zur Wirkung: Optimiert eure Workflows.
+# Von der Erkenntnis zur Wirkung: Optimieren der Onboarding-Workflows
 
 Erfahrt, wie HR-Teams mit Acrobat Studio das Onboarding von Mitarbeitern durchgängig optimieren. Erfahrt, wie ihr komplexe Onboarding-Dokumente in klare Erkenntnisse verwandelt, mit Stakeholdern in gemeinsam genutzten PDF Spaces zusammenarbeitet und hochwertigen, markenkonformen Content erstellt, der sofort von Neueinsteigern geteilt werden kann - schneller, konsistenter und zuverlässiger. Dieser Anwendungsfall ist so konzipiert, dass er in der Reihenfolge abgeschlossen werden kann, wobei jedes Video auf dem vorherigen Schritt aufbaut.
 
-**Am besten geeignet für:** Personalverantwortliche, HR-Abteilungen und Geschäftspartner, Onboarding- und Mitarbeitererlebnis-Teams sowie alle, die für die Überprüfung, Zusammenarbeit oder Erstellung von Personalunterlagen für Mitarbeiter verantwortlich sind.
+**Am besten geeignet für:** Personalverantwortliche, HR Operations- und Geschäftspartner, Onboarding- und Mitarbeitererlebnis-Teams sowie alle, die HR-Materialien für Mitarbeiter oder Führungskräfte vorbereiten.
 
 ## Schritt 1. Aus Onboarding-Dokumenten klare Erkenntnisse machen
 
@@ -37,4 +38,3 @@ Das Feedback ist vollständig und der Content kann bereitgestellt werden. Erfahr
 >[!VIDEO](https://video.tv.adobe.com/v/3481521?quality=12&learn=on&hidetitle=true)
 
 Sie verfügen jetzt über einen wiederholbaren Prozess zum Analysieren, Überprüfen und Ausliefern von Dokumenten, die für Mitarbeiter an Bord geeignet sind, mit Acrobat Studio.
-
