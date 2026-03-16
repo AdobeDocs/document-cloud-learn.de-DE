@@ -1,0 +1,59 @@
+---
+title: Acrobat HR - Übersicht über Nutzungsszenarien
+description: Erfahrt, wie HR-Teams mithilfe von Acrobat Dokumente und Workflows über den gesamten Lebenszyklus von Mitarbeitern verwalten.
+feature: Gen AI
+role: User
+level: Beginner, Intermediate
+jira: KT-20534
+source-git-commit: 77761ef2b213a6cc900b349febb782d452dd6d97
+workflow-type: tm+mt
+source-wordcount: '136'
+ht-degree: 1%
+
+---
+
+# Nutzungsszenarien für Acrobat HR - Übersicht
+
+Erfahrt, wie HR-Teams mit Acrobat Dokumente und Workflows über den gesamten Lebenszyklus von Mitarbeitern verwalten. Von der Planung komplexer HR-Materialien über die Zusammenarbeit mit Stakeholdern bis hin zur Erstellung klarer, markenkonformer Inhalte zeigt Acrobat Studio, wie HR-Teams effizienter arbeiten, zusammenarbeiten und bessere Mitarbeitererlebnisse bereitstellen können.
+
+## Neue Funktionen
+
+>[!BEGINTABS]
+
+>[!TAB Von der Erkenntnis zur Auswirkung: Optimieren Sie Ihre HR-Workflows]
+
+Entdecken Sie, wie HR-Teams mit Acrobat Studio das Onboarding von Inhalten für Mitarbeiter optimieren - von [Einblicken, Zusammenarbeit bis hin zur markenkonformen Bereitstellung](hr-insights.md).
+
+>[!ENDTABS]
+
+## Übungen zu HR-Use-Cases.
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="hr-insights.md">
+      <img alt="Von der Erkenntnis zur Wirkung: Optimiert eure Workflows." src="../../../assets/use-case-hr-insights.png" />
+    </a>
+    <div>
+    <a href="hr-insights.md"><strong>Von der Erkenntnis zur Auswirkung: Optimieren Sie Ihre HR-Workflows</strong></a>
+    </div>
+    <em>Entdecken Sie, wie HR-Teams Acrobat Studio verwenden, um das Onboarding von Mitarbeitern von Anfang bis Ende zu optimieren</em>
+    2
+  <br></td>
+  <td>
+        <img alt="Spacer" src="../../../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../../../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../../../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
