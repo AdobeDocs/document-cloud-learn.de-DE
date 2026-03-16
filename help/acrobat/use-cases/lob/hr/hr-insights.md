@@ -1,20 +1,20 @@
 ---
-title: Von der Erkenntnis zur Wirkung - HR-Workflows optimieren
+title: Von der Erkenntnis zur Wirkung - Optimiert eure Workflows.
 description: Erfahrt, wie HR-Teams mit Acrobat Studio das Onboarding von Mitarbeitern durchgängig optimieren.
 feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20543
-source-git-commit: 77761ef2b213a6cc900b349febb782d452dd6d97
+source-git-commit: 21b016a7471f874f538ad2eac73d2833e49a6dc1
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 2%
 
 ---
 
-# Von der Erkenntnis zur Wirkung: HR-Workflows optimieren.
+# Von der Erkenntnis zur Wirkung: Optimiert eure Workflows.
 
-Erfahrt, wie HR-Teams mit Acrobat Studio das Onboarding von Mitarbeitern durchgängig optimieren. Erfahrt, wie ihr komplexe Onboarding-Dokumente in klare Erkenntnisse verwandelt, mit Stakeholdern in gemeinsam genutzten PDF Spaces zusammenarbeitet und hochwertigen, markenkonformen Content erstellt, der sofort von neuen Mitarbeitern geteilt werden kann - schneller, konsistenter und verlässlicher. Dieser Anwendungsfall ist so konzipiert, dass er in der Reihenfolge abgeschlossen werden kann, wobei jedes Video auf dem vorherigen Schritt aufbaut.
+Erfahrt, wie HR-Teams mit Acrobat Studio das Onboarding von Mitarbeitern durchgängig optimieren. Erfahrt, wie ihr komplexe Onboarding-Dokumente in klare Erkenntnisse verwandelt, mit Stakeholdern in gemeinsam genutzten PDF Spaces zusammenarbeitet und hochwertigen, markenkonformen Content erstellt, der sofort von Neueinsteigern geteilt werden kann - schneller, konsistenter und zuverlässiger. Dieser Anwendungsfall ist so konzipiert, dass er in der Reihenfolge abgeschlossen werden kann, wobei jedes Video auf dem vorherigen Schritt aufbaut.
 
 **Am besten geeignet für:** Personalverantwortliche, HR-Abteilungen und Geschäftspartner, Onboarding- und Mitarbeitererlebnis-Teams sowie alle, die für die Überprüfung, Zusammenarbeit oder Erstellung von Personalunterlagen für Mitarbeiter verantwortlich sind.
 

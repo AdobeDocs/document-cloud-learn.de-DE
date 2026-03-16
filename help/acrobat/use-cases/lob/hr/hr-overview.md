@@ -5,16 +5,16 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20534
-source-git-commit: 77761ef2b213a6cc900b349febb782d452dd6d97
+source-git-commit: 5f9eb79aaedd0dcab16ef0483f1df7e359280b73
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '135'
 ht-degree: 1%
 
 ---
 
 # Nutzungsszenarien für Acrobat HR - Übersicht
 
-Erfahrt, wie HR-Teams mit Acrobat Dokumente und Workflows über den gesamten Lebenszyklus von Mitarbeitern verwalten. Von der Planung komplexer HR-Materialien über die Zusammenarbeit mit Stakeholdern bis hin zur Erstellung klarer, markenkonformer Inhalte zeigt Acrobat Studio, wie HR-Teams effizienter arbeiten, zusammenarbeiten und bessere Mitarbeitererlebnisse bereitstellen können.
+Erfahrt, wie HR-Teams mit Acrobat Dokumente und Workflows über den gesamten Lebenszyklus von Mitarbeitern verwalten. Von der Erstellung komplexer HR-Materialien über die Zusammenarbeit mit Stakeholdern bis hin zur Erstellung klarer, markenkonformer Inhalte - erfahrt, wie HR-Teams mit Acrobat effizienter arbeiten, zusammenarbeiten und bessere Mitarbeitererlebnisse bereitstellen können.
 
 ## Neue Funktionen
 
