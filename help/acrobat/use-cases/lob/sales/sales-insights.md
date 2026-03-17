@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20546
-source-git-commit: df117083332859e2ff8009b24424b4bdb2f9f748
+source-git-commit: e0561a2b7a25dd36bf8bc5eb37219a4decdcfee8
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '240'
 ht-degree: 2%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 2%
 
 Erfahrt, wie Vertriebsteams Kundeneinblicke gewinnen, in einem gemeinsamen Arbeitsbereich zusammenarbeiten und validierte Intelligenz in markenkonforme Präsentationen und Angebote verwandeln können - schneller und mit mehr Selbstvertrauen. Dieser Anwendungsfall ist so konzipiert, dass er in der Reihenfolge abgeschlossen werden kann, wobei jedes Video auf dem vorherigen Schritt aufbaut.
 
-**Am besten geeignet für:** Am besten geeignet für: Personalverantwortliche, HR-Abteilungen und Geschäftspartner, Onboarding- und Mitarbeitererlebnisteams sowie alle, die HR-Materialien für Mitarbeiter oder Führungskräfte vorbereiten.
+**Am besten geeignet für:** Kundenbetreuer, Vertriebsleiter, Vertriebsteams und alle, die kundenorientierte Vertriebsmaterialien für Meetings, Präsentationen oder Angebote vorbereiten.
 
-## Schritt 1. Aus Onboarding-Dokumenten klare Erkenntnisse machen
+## Schritt 1. Versteht eure Kunden mithilfe KI-gestützter Erkenntnisse.
 
 Lernen Sie zunächst, wie Sie Kundendokumente erfassen, wichtige Informationen analysieren und KI-gestützte Zusammenfassungen und Erkenntnisse nutzen, um die Anforderungen von Kunden zu verstehen und sich auf effektivere Verkaufsgespräche vorzubereiten.
 
@@ -36,4 +36,4 @@ Das Feedback ist vollständig und der Content kann bereitgestellt werden. Erfahr
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481564?quality=12&learn=on&hidetitle=true)
 
-Acrobat Studio bietet einen wiederholbaren Prozess für das Verständnis von Kunden, die Zusammenarbeit mit Stakeholdern und die Bereitstellung vertriebsfähiger Präsentationen und Angebote.
+Acrobat Studio bietet euch jetzt einen wiederholbaren Prozess zum Verständnis von Kunden, zur Zusammenarbeit mit Interessengruppen und zur Bereitstellung vertriebsfähiger Präsentationen und Angebote.
