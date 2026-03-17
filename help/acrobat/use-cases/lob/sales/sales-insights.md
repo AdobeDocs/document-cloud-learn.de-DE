@@ -1,0 +1,39 @@
+---
+title: Customer Intelligence zu gewinnbringenden Verkaufsressourcen machen
+description: Erfahrt, wie Vertriebsteams Kundeneinblicke gewinnen, zusammenarbeiten und markenkonforme Präsentationen erstellen können.
+feature: Gen AI
+role: User
+level: Intermediate
+jira: KT-20546
+source-git-commit: df117083332859e2ff8009b24424b4bdb2f9f748
+workflow-type: tm+mt
+source-wordcount: '244'
+ht-degree: 2%
+
+---
+
+# Verwandlung von Customer Intelligence in gewinnbringende Verkaufsargumente
+
+Erfahrt, wie Vertriebsteams Kundeneinblicke gewinnen, in einem gemeinsamen Arbeitsbereich zusammenarbeiten und validierte Intelligenz in markenkonforme Präsentationen und Angebote verwandeln können - schneller und mit mehr Selbstvertrauen. Dieser Anwendungsfall ist so konzipiert, dass er in der Reihenfolge abgeschlossen werden kann, wobei jedes Video auf dem vorherigen Schritt aufbaut.
+
+**Am besten geeignet für:** Am besten geeignet für: Personalverantwortliche, HR-Abteilungen und Geschäftspartner, Onboarding- und Mitarbeitererlebnisteams sowie alle, die HR-Materialien für Mitarbeiter oder Führungskräfte vorbereiten.
+
+## Schritt 1. Aus Onboarding-Dokumenten klare Erkenntnisse machen
+
+Lernen Sie zunächst, wie Sie Kundendokumente erfassen, wichtige Informationen analysieren und KI-gestützte Zusammenfassungen und Erkenntnisse nutzen, um die Anforderungen von Kunden zu verstehen und sich auf effektivere Verkaufsgespräche vorzubereiten.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3481562?quality=12&learn=on&hidetitle=true)
+
+## Schritt 2. Verträge durch zielgerichtete Zusammenarbeit im Team schneller abschließen.
+
+Erkenntnisse können jetzt vom Team geprüft werden. Erfahren Sie, wie Sie in einem gemeinsamen Arbeitsbereich an Kundenkonten zusammenarbeiten, Stakeholder mit rollenbasiertem Zugriff auf Informationen ausrichten und Einblicke, Notizen und Dokumente überprüfen können, ohne den Kontext oder die Kontrolle zu verlieren.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3481563?quality=12&learn=on&hidetitle=true)
+
+## Schritt 3. Schnellere Abschlüsse mit vertriebsfähigem Content.
+
+Das Feedback ist vollständig und der Content kann bereitgestellt werden. Erfahrt, wie ihr validierte Kundeneinblicke in professionelle, markenkonforme Verkaufspräsentationen und -vorschläge verwandelt - ohne bei null anfangen zu müssen oder auf Design-Support angewiesen zu sein.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3481564?quality=12&learn=on&hidetitle=true)
+
+Acrobat Studio bietet einen wiederholbaren Prozess für das Verständnis von Kunden, die Zusammenarbeit mit Stakeholdern und die Bereitstellung vertriebsfähiger Präsentationen und Angebote.
