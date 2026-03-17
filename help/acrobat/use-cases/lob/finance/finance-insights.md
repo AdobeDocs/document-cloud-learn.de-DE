@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 jira: KT-20532
 exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
-source-git-commit: c4f34f8331a6e6d823ec1ef0c5f9df0ef8a750b5
+source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '198'
 ht-degree: 3%
 
 ---
@@ -23,13 +23,13 @@ Findet heraus, wie Finanzteams Finanzdokumente mit Acrobat von der Auswertung bi
 
 Führen Sie zunächst die Konsolidierung von Finanzdokumenten durch und gewinnen Sie wichtige Erkenntnisse, um Informationen für die Prüfung durch Führungskräfte vorzubereiten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481432?captions=ger&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481423?quality=12&learn=on&hidetitle=true)
 
 ## Schritt 2. Zusammenarbeit an Finanzberichten
 
 Erkenntnisse können jetzt vom Team geprüft werden. In einem sicheren Arbeitsbereich können Projektbeteiligte Finanzmaterialien prüfen, Feedback abgeben und Erkenntnisse verfeinern.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481445?captions=ger&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481436?quality=12&learn=on&hidetitle=true)
 
 ## Schritt 3. Präsentationen für Führungskräfte erstellen.
 
@@ -37,5 +37,5 @@ Das Feedback ist vollständig und der Content kann bereitgestellt werden. Verwan
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481449?quality=12&learn=on&hidetitle=true)
 
-Mit Acrobat steht euch jetzt ein wiederholbarer Prozess für die Analyse, Prüfung und Bereitstellung exekutivfreundlicher Finanzdokumente zur Verfügung.
+Acrobat Studio bietet jetzt einen wiederholbaren Prozess für die Analyse, Prüfung und Bereitstellung exekutivfreundlicher Finanzdokumente.
 
