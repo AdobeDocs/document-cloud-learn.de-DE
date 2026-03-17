@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20546
-source-git-commit: e0561a2b7a25dd36bf8bc5eb37219a4decdcfee8
+source-git-commit: 70378a366d714f100b7f4e4f4591c4369f6fee8b
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 2%
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 # Verwandlung von Customer Intelligence in gewinnbringende Verkaufsargumente
 
-Erfahrt, wie Vertriebsteams Kundeneinblicke gewinnen, in einem gemeinsamen Arbeitsbereich zusammenarbeiten und validierte Intelligenz in markenkonforme Präsentationen und Angebote verwandeln können - schneller und mit mehr Selbstvertrauen. Dieser Anwendungsfall ist so konzipiert, dass er in der Reihenfolge abgeschlossen werden kann, wobei jedes Video auf dem vorherigen Schritt aufbaut.
+Erfahrt, wie Vertriebsteams Kundeneinblicke sammeln, in einem gemeinsamen Arbeitsbereich zusammenarbeiten und validierte Intelligenz in markenkonforme Präsentationen und Angebote verwandeln können - schneller und mit mehr Selbstvertrauen. Dieser Anwendungsfall ist so konzipiert, dass er in der Reihenfolge abgeschlossen werden kann, wobei jedes Video auf dem vorherigen Schritt aufbaut.
 
 **Am besten geeignet für:** Kundenbetreuer, Vertriebsleiter, Vertriebsteams und alle, die kundenorientierte Vertriebsmaterialien für Meetings, Präsentationen oder Angebote vorbereiten.
 
