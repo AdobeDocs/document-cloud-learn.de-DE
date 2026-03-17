@@ -22,7 +22,7 @@ Erfahrt, wie ihr mit einem einzigen sicheren, geregelten Workflow die Rechtsabst
 
 >[!TAB Rechtsgültige Erkenntnisse in verwertbare Anleitungen umwandeln]
 
-Erfahren Sie, wie Teams in Rechtsabteilungen mithilfe von Acrobat Studio komplexe Dokumente [ analysieren, sicher zusammenarbeiten und Erkenntnisse ](legal-insights.md) in klare, umsetzbare Anleitungen verwandeln - schneller und mit mehr Selbstvertrauen.
+Erfahren Sie, wie Teams in Rechtsabteilungen mithilfe von Acrobat Studio komplexe Dokumente [&#x200B; analysieren, sicher zusammenarbeiten und Erkenntnisse &#x200B;](legal-insights.md) in klare, umsetzbare Anleitungen verwandeln - schneller und mit mehr Selbstvertrauen.
 
 >[!ENDTABS]
 
