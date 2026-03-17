@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20545
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: 5645a4ec1bd6f5489f2ae2c50e66507481a140e2
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # Rechtsgültige Acrobat-Nutzungsszenarien
 
-Erfahrt, wie ihr mit einem einzigen sicheren, geregelten Workflow die Rechtsabstimmung optimiert, indem ihr Dokumentanalyse, Zusammenarbeit und Content-Erstellung zusammenführt.
+Beschleunigt die Arbeit von Rechtsabteilungen, senkt Risiken und sorgt für mehr Kontrolle in jeder Phase der Abstimmung und Bereitstellung von Dokumenten.
 
 ## Neue Funktionen
 
@@ -22,7 +22,7 @@ Erfahrt, wie ihr mit einem einzigen sicheren, geregelten Workflow die Rechtsabst
 
 >[!TAB Rechtsgültige Erkenntnisse in verwertbare Anleitungen umwandeln]
 
-Erfahren Sie, wie Teams in Rechtsabteilungen mithilfe von Acrobat Studio komplexe Dokumente [&#x200B; analysieren, sicher zusammenarbeiten und Erkenntnisse &#x200B;](legal-insights.md) in klare, umsetzbare Anleitungen verwandeln - schneller und mit mehr Selbstvertrauen.
+Erfahren Sie, wie Teams in Rechtsabteilungen mithilfe von Acrobat Studio komplexe Dokumente [ analysieren, sicher zusammenarbeiten und Erkenntnisse ](legal-insights.md) in klare, umsetzbare Anleitungen verwandeln - schneller und mit mehr Selbstvertrauen.
 
 >[!ENDTABS]
 
