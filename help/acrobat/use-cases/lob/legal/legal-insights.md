@@ -22,19 +22,19 @@ Erfahrt, wie Teams in Rechtsabteilungen mithilfe von Acrobat Studio komplexe Dok
 
 Analysiert zunächst komplexe Rechtsdokumente, stellt wichtige Änderungen fest und identifiziert Risiken mithilfe KI-gestützter Erkenntnisse.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481634?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481643?captions=ger&quality=12&learn=on&hidetitle=true)
 
 ## Schritt 2. Sichere Zusammenarbeit bei der Überprüfung von Rechtsdokumenten.
 
 Erkenntnisse können jetzt vom Team geprüft werden. Reduziert das E-Mail-Chaos, sorgt für Versionskontrolle, und arbeitet sicher an komplexen rechtlichen Abstimmungen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481646?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481656?captions=ger&quality=12&learn=on&hidetitle=true)
 
 ## Schritt 3. Rechtliche Erkenntnisse in sofort nutzbare Inhalte umwandeln
 
 Das Feedback ist vollständig und der Content kann bereitgestellt werden. Erfahrt, wie Rechtsteams schnell Leitlinien entwerfen, genehmigtes Branding anwenden und sichere, barrierefreie PDF bereitstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481647?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481667?captions=ger&quality=12&learn=on&hidetitle=true)
 
 So erhaltet ihr einen wiederholbaren Prozess für das Verständnis von Rechtsdokumenten, die sichere Zusammenarbeit und klare, geschäftsfähige Anleitungen.
 

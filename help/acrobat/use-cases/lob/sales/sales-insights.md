@@ -22,18 +22,18 @@ Erfahrt, wie Vertriebsteams Kundeneinblicke sammeln, in einem gemeinsamen Arbeit
 
 Lernen Sie zunächst, wie Sie Kundendokumente erfassen, wichtige Informationen analysieren und KI-gestützte Zusammenfassungen und Erkenntnisse nutzen, um die Anforderungen von Kunden zu verstehen und sich auf effektivere Verkaufsgespräche vorzubereiten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481562?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481573?captions=ger&quality=12&learn=on&hidetitle=true)
 
 ## Schritt 2. Verträge durch zielgerichtete Zusammenarbeit im Team schneller abschließen.
 
 Erkenntnisse können jetzt vom Team geprüft werden. Erfahren Sie, wie Sie in einem gemeinsamen Arbeitsbereich an Kundenkonten zusammenarbeiten, Stakeholder mit rollenbasiertem Zugriff auf Informationen ausrichten und Einblicke, Notizen und Dokumente überprüfen können, ohne den Kontext oder die Kontrolle zu verlieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481563?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481597?captions=ger&quality=12&learn=on&hidetitle=true)
 
 ## Schritt 3. Schnellere Abschlüsse mit vertriebsfähigem Content.
 
 Das Feedback ist vollständig und der Content kann bereitgestellt werden. Erfahrt, wie ihr validierte Kundeneinblicke in professionelle, markenkonforme Verkaufspräsentationen und -vorschläge verwandelt - ohne bei null anfangen zu müssen oder auf Design-Support angewiesen zu sein.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481564?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481608?captions=ger&quality=12&learn=on&hidetitle=true)
 
 Acrobat Studio bietet euch jetzt einen wiederholbaren Prozess zum Verständnis von Kunden, zur Zusammenarbeit mit Interessengruppen und zur Bereitstellung vertriebsfähiger Präsentationen und Angebote.
