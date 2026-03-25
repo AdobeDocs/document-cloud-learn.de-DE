@@ -8,10 +8,10 @@ jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: f053f885cce9d41478e581bddeba5fae4196fb91
+source-git-commit: 31fa4d4ddb5f4c7b6404c17ca90783564dd80075
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 1%
+source-wordcount: '242'
+ht-degree: 0%
 
 ---
 
@@ -43,18 +43,18 @@ Erfahren Sie, wie Sie ein [mobilgerätefreundliches](create-mobile-friendly.md) 
     <a href="sign-mobile.md"><strong>Dokumente unterwegs signieren</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie Dokumente mit der mobilen Acrobat Sign-App signieren</em>
-    2<br>
-  </td>
+    2
+  <br></td>
   <td>
     <a href="mobile-friendly.md">
-      <img alt="Mobilfreundliche Ansicht" src="../assets/mobile-friendly.png" />
+      <img alt="Mobilfreundliche Ansicht" src="../assets/mobile-friendly.png"/>
     </a>
     <div>
     <a href="mobile-friendly.md"><strong>Mobilfreundliche Ansicht</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie Formulare in der für Mobilgeräte geeigneten Ansicht auf Ihrem Mobilgerät ausfüllen</em>
-    2<br>
-  </td>  
+    2
+  <br></td>  
   <td>
     <a href="create-mobile-friendly.md">
       <img alt="Mobile-optimierte Ansicht erstellen" src="../assets/create-mobile-friendly.png" />
@@ -63,8 +63,8 @@ Erfahren Sie, wie Sie ein [mobilgerätefreundliches](create-mobile-friendly.md) 
     <a href="create-mobile-friendly.md"><strong>Mobile Ansicht erstellen</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie ein mobilgerätefreundliches Dokument nahtlos und ohne Entwicklerunterstützung generieren können</em>
-    2<br>
-  </td>
+    2
+  <br></td>
    <td>
     <a href="liquidmode.md">
       <img alt="Liquid Mode in Acrobat Sign" src="../assets/liquid-mode.png" />
@@ -73,8 +73,8 @@ Erfahren Sie, wie Sie ein [mobilgerätefreundliches](create-mobile-friendly.md) 
     <a href="liquidmode.md"><strong>Liquid Mode in Acrobat Sign</strong></a>
     </div>
     <em>Erfahren Sie, wie der Liquid Mode das mobile Signiererlebnis verbessert</em>
-    2<br>
-  </td>
+    2
+  <br></td>
 </tr>
 <tr>
   <td>
@@ -85,18 +85,18 @@ Erfahren Sie, wie Sie ein [mobilgerätefreundliches](create-mobile-friendly.md) 
     <a href="https://apps.apple.com/us/app/adobe-acrobat-sign/id481082197_blank"><strong>Acrobat Sign-App für iOS herunterladen</strong></a>
     </div>
     <em>Acrobat Sign-App aus App Store herunterladen</em>
-    2<br>
-  </td>
+    2
+  <br></td>
   <td>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank">
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank">
       <img alt="Acrobat Sign-App für Android herunterladen" src="../assets/mobile-android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank"><strong>Acrobat Sign-App für Android herunterladen</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank"><strong>Acrobat Sign-App für Android herunterladen</strong></a>
     </div>
     <em>Acrobat Sign-App von Google Play herunterladen</em>
-    2<br>
-  </td>
+    2
+  <br></td>
   <td>
     <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
