@@ -7,4 +7,4 @@ ht-degree: 14%
 ---
 # ARCHIVIERT
 
-Dieser Repo wurde zu <https://github.com/Adobe-Enterprise-Docs/document-cloud-learn.en> migriert.
+Dieser Repo wurde zu <https://github.com/Adobe-Enterprise-Docs/document-cloud-learn.de-DE> migriert.
