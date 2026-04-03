@@ -15,13 +15,13 @@ Dieses Projekt hat den [Adobe Open Source Code of Conduct](code-of-conduct.md) o
 
 ## Beiträge zu Adobe-Inhalten
 
-Siehe [Leitfaden für Mitwirkende an Adobe-Dokumentation](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Siehe [Leitfaden für Mitwirkende an Adobe-Dokumentation](https://docs.adobe.com/content/help/de-DE/contributor/contributor-guide/introduction.html).
 
 Die Art und Weise Ihrer Mitwirkung hängt davon ab, wer Sie sind und welche Änderungen Sie beitragen möchten:
 
 ### Geringfügige Änderungen
 
-Wenn Sie so freundlich sind, geringfügige Änderungen vornehmen zu wollen, rufen Sie den Artikel auf und klicken Sie im Artikel auf den Link **Bearbeiten**, über den Sie zur GitHub-Quelle für den Artikel gelangen. Verwenden Sie dann einfach die GitHub-Benutzeroberfläche, um Ihre Aktualisierungen vorzunehmen. Weitere Informationen finden Sie im allgemeinen Leitfaden für Mitwirkende an [Adobe-Dokumentation](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Wenn Sie so freundlich sind, geringfügige Änderungen vornehmen zu wollen, rufen Sie den Artikel auf und klicken Sie im Artikel auf den Link **Bearbeiten**, über den Sie zur GitHub-Quelle für den Artikel gelangen. Verwenden Sie dann einfach die GitHub-Benutzeroberfläche, um Ihre Aktualisierungen vorzunehmen. Weitere Informationen finden Sie im allgemeinen Leitfaden für Mitwirkende an [Adobe-Dokumentation](https://docs.adobe.com/content/help/de-DE/contributor/contributor-guide/introduction.html).
 
 Geringfügige Korrekturen oder Klarstellungen, die Sie für die Dokumentation und Codebeispiele in diesem Repo einreichen, werden von den Adobe-Nutzungsbedingungen abgedeckt.
 
@@ -43,7 +43,7 @@ Wenn Sie ein technischer Autor, Programmmanager oder Entwickler des Produktteams
 
 Community-Mitwirkende können die GitHub-Benutzeroberfläche für grundlegende Bearbeitungen verwenden oder das Repo verzweigen, um wichtige Beiträge zu leisten.
 
-Weitere Informationen finden Sie im [Leitfaden für Mitwirkende an Adobe-Dokumentation](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Weitere Informationen finden Sie im [Leitfaden für Mitwirkende an Adobe-Dokumentation](https://docs.adobe.com/content/help/de-DE/contributor/contributor-guide/introduction.html).
 
 ## Verwenden von Markdown zum Formatieren Ihres Themas
 
