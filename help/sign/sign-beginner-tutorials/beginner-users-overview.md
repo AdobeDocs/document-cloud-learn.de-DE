@@ -24,7 +24,7 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
 
 >[!TAB Dokument nach dem Senden ändern]
 
-Erfahren Sie, wie [ein Dokument ](../sign-beginner-tutorials/manage-and-track.md) ändern kann, das bereits zur Signatur gesendet wurde.
+Erfahren Sie, wie [ein Dokument &#x200B;](../sign-beginner-tutorials/manage-and-track.md) ändern kann, das bereits zur Signatur gesendet wurde.
 
 >[!TAB Vereinbarungen verwalten und verfolgen]
 
