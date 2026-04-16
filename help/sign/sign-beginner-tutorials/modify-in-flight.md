@@ -1,5 +1,5 @@
 ---
-title: Ändern eines Dokuments nach dem Senden
+title: Dokument nach dem Senden ändern
 description: Erfahren Sie, wie Sie den Arbeitsablauf für ein Dokument ändern, das bereits in Bearbeitung ist.
 feature: Workflow, Sign
 role: User
@@ -7,21 +7,20 @@ level: Beginner
 jira: KT-5316
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: 2efeaa6ee37e4cbf6550d6ef868aa416abe1a7c0
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
-# Ändern eines Dokuments nach dem Senden
+# Dokument nach dem Senden ändern
 
-Erfahren Sie, wie Sie ein Dokument ändern, das bereits zum Unterschreiben versendet wurde, z. B. wenn versehentlich ein falsches Dokument versendet wurde. Das Ändern von Vereinbarungen kann nur für Dokumente verwendet werden, die die folgenden Kriterien erfüllen:
+Erfahre, wie du ein Dokument bearbeitest, das bereits zur Unterzeichnung versendet wurde - z. B. wenn versehentlich ein falsches Dokument versendet wurde. Verwenden Sie die Option Vereinbarung ändern, wenn Sie:
 
-* Das Dokument wurde nicht signiert, genehmigt oder delegiert.
-* Das Dokument enthält keine digitale Signatur oder handschriftliche Signatur
-* Das Dokument wurde nicht von einem benutzerdefinierten Arbeitsablauf initiiert.
-
+* Dokument ersetzen oder aktualisieren
+* Formularfelder und Vorfüllwerte korrigieren
+* Entfernen eines Empfängers, der seine Aktion nicht abgeschlossen hat
 
 >[!NOTE]
 >
@@ -31,4 +30,4 @@ Erfahren Sie, wie Sie ein Dokument ändern, das bereits zum Unterschreiben verse
 
 >[!TIP]
 >
->Dieses Video ist Teil der Wiedergabeliste [Erweiterte Benutzeraufgaben](https://experienceleague.adobe.com/de/playlists/acrobat-sign-perform-advanced-tasks-business-users), die auf dem Experience League kostenlos verfügbar ist!
+>Dieses Video ist Teil der Wiedergabeliste [Erweiterte Benutzeraufgaben](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users), die auf dem Experience League kostenlos verfügbar ist!
