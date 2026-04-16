@@ -12,10 +12,10 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 179d668e1029d12da5147aa259fe28dbd5b681bf
+source-git-commit: 2efeaa6ee37e4cbf6550d6ef868aa416abe1a7c0
 workflow-type: tm+mt
-source-wordcount: '568'
-ht-degree: 15%
+source-wordcount: '683'
+ht-degree: 14%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 15%
       + [An mehrere Unterzeichner senden](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [Hinzufügen von Feldern zu Ihren Dokumenten](sign-beginner-tutorials/adding-fields.md)
       + [Sendeoptionen konfigurieren](sign-beginner-tutorials/sending-options.md)
-      + [Ändern eines Dokuments nach dem Senden](sign-beginner-tutorials/modify-in-flight.md)
+      + [Dokument nach dem Senden ändern](sign-beginner-tutorials/modify-in-flight.md)
       + [Ersetzen eines Unterzeichners](sign-beginner-tutorials/replace-signer.md)
       + [Termine und Erinnerungen festlegen](sign-beginner-tutorials/set-deadlines-reminders.md)
       + [Wiederverwendbare Vorlage erstellen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=de)
@@ -56,7 +56,7 @@ ht-degree: 15%
       + [Benutzerdefinierten Workflow erstellen](https://experienceleague.adobe.com/de/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [Onlinezahlungen einrichten](sign-advanced-users/set-up-online-payments.md)
       + [Authentifizierungsmethoden in Acrobat Sign](sign-advanced-users/authentication-methods.md)
-      + [Acrobat Sign-Text-Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html?lang=de)
+      + [Acrobat Sign Text-Tagging](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html?lang=de)
       + [Verwenden von Text-Tagging in  [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Verwalten {#advanced-tasks-managing}
       + [Berichterstattung und Transaktionsnutzung](sign-advanced-users/creating-a-report.md)
@@ -77,7 +77,7 @@ ht-degree: 15%
       + [Erstellen und Verwalten von Gruppen](admin/create-and-manage-groups.md)
       + [Einrichten eines externen Archivs](admin/set-up-your-external-archive.md)
       + [Vorlage für wiederverwendbare Dateien erstellen](sign-advanced-users/create-a-template.md)
-      + [Berichterstellung und Transaktionsnutzung](https://experienceleague.adobe.com/de/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [Berichterstattung und Transaktionsnutzung](https://experienceleague.adobe.com/de/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [Berichtsoptionen für Benutzer](admin/report-options.md)
       + [Erstellen eines Webformulars](sign-advanced-users/webform.md)
       + [Vorhandenes Webformular ändern](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=de)

@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 169855b701bbc9153e349687366a6f6e49adabe6
+source-git-commit: 2efeaa6ee37e4cbf6550d6ef868aa416abe1a7c0
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 7%
+source-wordcount: '510'
+ht-degree: 26%
 
 ---
 
@@ -21,6 +21,10 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
 ## Neue Funktionen
 
 >[!BEGINTABS]
+
+>[!TAB Dokument nach dem Senden ändern]
+
+Erfahren Sie, wie [ein Dokument &#x200B;](../sign-beginner-tutorials/manage-and-track.md) ändern kann, das bereits zur Signatur gesendet wurde.
 
 >[!TAB Vereinbarungen verwalten und verfolgen]
 
@@ -33,10 +37,6 @@ Erfahren Sie, wie einfach es ist, ein Dokument, das Ihnen mit Acrobat Sign gesen
 >[!TAB Wiederverwendbare Vorlage erstellen]
 
 Erfahren Sie, wie Sie eine [wiederverwendbare Dokumentvorlage](../sign-advanced-users/create-a-template.md) erstellen.
-
->[!TAB Sendeoptionen konfigurieren]
-
-Erfahren Sie, wie Sie [verschiedene Optionen](sending-options.md) konfigurieren, wenn Sie ein Dokument zur Signatur senden.
 
 >[!ENDTABS]
 
@@ -51,7 +51,7 @@ Erfahren Sie, wie Sie [verschiedene Optionen](sending-options.md) konfigurieren,
     <div>
     <a href="new-sender.md"><strong>Erste Schritte mit Acrobat Sign</strong></a>
     </div>
-    Dieses Tutorial ist ein guter Einstieg für Einsteiger in Acrobat Sign.
+    Dieses Tutorial ist ein guter Ausgangspunkt für neue Benutzende in Acrobat Sign
     <br>
   </td>
  <td>
@@ -71,7 +71,7 @@ Erfahren Sie, wie Sie [verschiedene Optionen](sending-options.md) konfigurieren,
     <div>
     <a href="send-to-single-recipient.md"><strong>Ein Dokument an einen einzelnen Unterzeichner senden</strong></a>
     </div>
-    Erfahre, wie einfach du Dokumente zur Unterzeichnung versenden kannst.
+    Erfahre, wie einfach es ist, ein Dokument zur Signatur zu versenden
     <br>
   </td>
   <td>
@@ -81,7 +81,7 @@ Erfahren Sie, wie Sie [verschiedene Optionen](sending-options.md) konfigurieren,
     <div>
     <a href="send-to-multiple-recipients.md"><strong>An mehrere Unterzeichner senden</strong></a>
     </div>
-    Dokumente an mehrere Empfänger in der gewünschten Reihenfolge senden
+    Sende ein Dokument zur elektronischen Signatur an mehrere Leute in genau der gewünschten Reihenfolge
     <br>
   </td>
 </tr>
@@ -93,7 +93,7 @@ Erfahren Sie, wie Sie [verschiedene Optionen](sending-options.md) konfigurieren,
     <div>
     <a href="sending-options.md"><strong>Sendeoptionen konfigurieren</strong></a>
     </div>
-    Erfahren Sie, wie Sie verschiedene Optionen konfigurieren, wenn Sie ein Dokument zur Signatur senden
+    Erfahre, wie du beim Versenden eines Dokuments zur Signatur verschiedene Optionen konfigurierst
     <br>
   </td>
   <td>
@@ -108,12 +108,12 @@ Erfahren Sie, wie Sie [verschiedene Optionen](sending-options.md) konfigurieren,
   </td>
   <td>
     <a href="modify-in-flight.md">
-      <img alt="Ändern eines Dokuments nach dem Senden" src="../assets/modify.png" />
+      <img alt="Dokument nach dem Senden ändern" src="../assets/modify.png" />
     </a>
     <div>
-    <a href="modify-in-flight.md"><strong>Ändern eines Dokuments nach dem Senden</strong></a>
+    <a href="modify-in-flight.md"><strong>Dokument nach dem Senden ändern</strong></a>
     </div>
-    Ändern von Dokumenten, die bereits in Bearbeitung sind
+    Erfahren Sie, wie Sie ein Dokument ändern, das bereits in Bearbeitung ist.
     <br>
   </td>
   <td>
@@ -145,7 +145,7 @@ Erfahren Sie, wie Sie [verschiedene Optionen](sending-options.md) konfigurieren,
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Wiederverwendbare Vorlage erstellen</strong></a>
     </div>
-    Wiederverwendbare Dokumentvorlagen erstellen, um Ihrem Unternehmen Geschwindigkeit und Konsistenz zu verleihen
+    Erstelle eine wiederverwendbare Dokumentvorlage, um deinem Unternehmen eine schnelle und einheitliche Arbeitsweise zu ermöglichen
     <br>
   </td>
     <td>
@@ -172,7 +172,7 @@ Erfahren Sie, wie Sie [verschiedene Optionen](sending-options.md) konfigurieren,
     <div>
     <a href="electronically-sign-a-document.md"><strong>Ein Dokument elektronisch signieren</strong></a>
     </div>
-    Erfahren Sie, wie einfach es ist, ein Dokument zu unterschreiben, das Ihnen mit Acrobat Sign gesendet wird
+    Erfahre, wie einfach es ist, ein Dokument zu signieren, das dir mit Acrobat Sign zugesendet wird
     <br>
   </td>
   <td>
@@ -251,7 +251,7 @@ Erfahren Sie, wie Sie [verschiedene Optionen](sending-options.md) konfigurieren,
     <div>
     <a href="manage-and-track.md"><strong>Vereinbarungen verwalten und verfolgen</strong></a>
     </div>
-    Hier erfahren Sie, wie Sie zum Unterschreiben gesendete Vereinbarungen verwalten und verfolgen.
+    Erfahre, wie du zur Signatur versendete Vereinbarungen verwaltest und nachverfolgst
     <br>
   </td>
   <td>
