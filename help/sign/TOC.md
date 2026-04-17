@@ -12,10 +12,10 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 2efeaa6ee37e4cbf6550d6ef868aa416abe1a7c0
+source-git-commit: 184d041d27da2172761c4bfbb6f58ac80f3395cc
 workflow-type: tm+mt
-source-wordcount: '683'
-ht-degree: 14%
+source-wordcount: '688'
+ht-degree: 13%
 
 ---
 
@@ -85,6 +85,7 @@ ht-degree: 14%
       + [Benutzerdefinierten Workflow erstellen](admin/building-a-custom-workflow.md)
       + [Audit-Berichte](admin/audit-reports.md)
       + [Konfigurieren von Benachrichtigungen für Ereignisse und Warnungen](admin/set-up-shared-events-and-alert.md)
+      + [Konfigurieren und Steuern der Option &quot;Vereinbarung ändern&quot;](admin/configure-modify-agreement.md)
    + Erweiterte Aufgaben {#advanced-tasks-admins}
       + [Globale Einstellungen](admin/learn-about-global-settings.md)
       + [Kontozugriff freigeben](admin/share-account-access.md)
