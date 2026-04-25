@@ -23,4 +23,4 @@ Lernziel:
 * Schutz der Vereinbarungsintegrität durch den Revisionsmodus
 * Welche Änderungen werden im Audit-Bericht protokolliert?
 
->[!VIDEO](https://video.tv.adobe.com/v/3483690?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3483700?captions=ger&quality=12&learn=on&hidetitle=true)
