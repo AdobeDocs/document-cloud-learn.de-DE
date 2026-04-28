@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 2efeaa6ee37e4cbf6550d6ef868aa416abe1a7c0
+source-git-commit: c4dd480735696feee27fe21320b24aaa74c990f8
 workflow-type: tm+mt
-source-wordcount: '510'
-ht-degree: 26%
+source-wordcount: '539'
+ht-degree: 24%
 
 ---
 
@@ -24,7 +24,7 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
 
 >[!TAB Dokument nach dem Senden ändern]
 
-Erfahren Sie, wie [ein Dokument &#x200B;](../sign-beginner-tutorials/manage-and-track.md) ändern kann, das bereits zur Signatur gesendet wurde.
+Erfahren Sie, wie [ein Dokument ](../sign-beginner-tutorials/manage-and-track.md) ändern kann, das bereits zur Signatur gesendet wurde.
 
 >[!TAB Vereinbarungen verwalten und verfolgen]
 
@@ -149,9 +149,14 @@ Erfahren Sie, wie Sie eine [wiederverwendbare Dokumentvorlage](../sign-advanced-
     <br>
   </td>
     <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
+     <a href="checkbox-groups.md">
+      <img alt="Erforderliche Auswahlen durch Kontrollkästchengruppen führen" src="../assets/checkboxes.png" />
+    </a>
+    <div>
+    <a href="checkbox-groups.md"><strong>Erforderliche Auswahlen mit Kontrollkästchengruppen anzeigen</strong></a>
+    </div>
+    Erfahren Sie, wie Sie Kontrollkästchengruppen verwenden, um zu steuern, wie viele Optionen ein Unterzeichner in einem Formular auswählen kann.
+    <br>
     </td>
     <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
