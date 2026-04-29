@@ -6,18 +6,20 @@ role: User
 level: Intermediate
 jira: KT-20543
 exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
-source-git-commit: 0777e123ef5665052453a787bd39828a9ca167be
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '272'
 ht-degree: 2%
 
 ---
 
-# Von der Erkenntnis zur Wirkung: Optimieren Sie Ihre Onboarding-Workflows
+# Von der Erkenntnis zur Wirkung: Optimieren von Onboarding-Workflows
 
 Erfahrt, wie HR-Teams mit Acrobat Studio das Onboarding von Mitarbeitern durchgängig optimieren. Erfahrt, wie ihr komplexe Onboarding-Dokumente in klare Erkenntnisse verwandelt, mit Stakeholdern in gemeinsam genutzten PDF Spaces zusammenarbeitet und hochwertigen, markenkonformen Content erstellt, der sofort von Neueinsteigern geteilt werden kann - schneller, konsistenter und zuverlässiger. Dieser Anwendungsfall ist so konzipiert, dass er in der Reihenfolge abgeschlossen werden kann, wobei jedes Video auf dem vorherigen Schritt aufbaut.
 
 **Am besten geeignet für:** Personalverantwortliche, HR Operations- und Geschäftspartner, Onboarding- und Mitarbeitererlebnis-Teams sowie alle, die HR-Materialien für Mitarbeiter oder Führungskräfte vorbereiten.
+
+**Testen:** Entdecken Sie diesen HR-Onboarding-Arbeitsablauf [praxisnah](https://w.adobedemo.com/s/NvvfVm){target="_blank"}.
 
 ## Schritt 1. Aus Onboarding-Dokumenten klare Erkenntnisse machen
 

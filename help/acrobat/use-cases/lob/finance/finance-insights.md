@@ -6,10 +6,10 @@ role: User
 level: Intermediate
 jira: KT-20532
 exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 3%
+source-wordcount: '213'
+ht-degree: 2%
 
 ---
 
@@ -18,6 +18,8 @@ ht-degree: 3%
 Findet heraus, wie Finanzteams Finanzdokumente mit Acrobat von der Auswertung bis zur Bereitstellung verwalten. Dieses Nutzungsszenario durchläuft einen durchgängigen Arbeitsablauf für die Analyse von Informationen, die Zusammenarbeit mit Stakeholdern und die Erstellung von exekutivfähigem Finanzmaterial. Dieser Anwendungsfall ist so konzipiert, dass er in der Reihenfolge abgeschlossen werden kann, wobei jedes Video auf dem vorherigen Schritt aufbaut.
 
 **Am besten geeignet für:** Finanzleiter, FP&amp;A-Teams, Analysten und alle, die Materialien für die Überprüfung durch Führungskräfte oder Vorstände vorbereiten.
+
+**Testen:** Sehen Sie sich diesen Workflow für Finanzberichte [direkt an](https://w.adobedemo.com/s/31LpAI){target="_blank"}.
 
 ## Schritt 1. Finanzielle Leistung verstehen
 

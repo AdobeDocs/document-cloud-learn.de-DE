@@ -5,9 +5,10 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20546
-source-git-commit: 70378a366d714f100b7f4e4f4591c4369f6fee8b
+exl-id: 4fdb38c6-e742-41c9-8b14-1491532f1d4b
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '254'
 ht-degree: 2%
 
 ---
@@ -17,6 +18,9 @@ ht-degree: 2%
 Erfahrt, wie Vertriebsteams Kundeneinblicke sammeln, in einem gemeinsamen Arbeitsbereich zusammenarbeiten und validierte Intelligenz in markenkonforme Präsentationen und Angebote verwandeln können - schneller und mit mehr Selbstvertrauen. Dieser Anwendungsfall ist so konzipiert, dass er in der Reihenfolge abgeschlossen werden kann, wobei jedes Video auf dem vorherigen Schritt aufbaut.
 
 **Am besten geeignet für:** Kundenbetreuer, Vertriebsleiter, Vertriebsteams und alle, die kundenorientierte Vertriebsmaterialien für Meetings, Präsentationen oder Angebote vorbereiten.
+
+
+**Testen:** Sehen Sie sich diesen Vertriebs-Workflow [direkt an](https://w.adobedemo.com/s/HEEljN){target="_blank"}.
 
 ## Schritt 1. Versteht eure Kunden mithilfe KI-gestützter Erkenntnisse.
 
