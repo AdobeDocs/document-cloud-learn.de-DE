@@ -22,4 +22,4 @@ Erfahren Sie, wie Kontrollkästchengruppen:
 * Unterzeichner mit klarem, eingebundenem Feedback unterstützen
 * Verbesserung der Genauigkeit der in Formularen erfassten Informationen
 
->[!VIDEO](https://video.tv.adobe.com/v/3484144?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3484169?captions=ger&quality=12&learn=on&hidetitle=true)
