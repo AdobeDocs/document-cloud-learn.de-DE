@@ -7,16 +7,18 @@ level: Beginner
 jira: KT-5532
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+source-git-commit: 51c7b414f2a0b4a67d70274e1d7d81f4c8be3455
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 1%
+source-wordcount: '217'
+ht-degree: 5%
 
 ---
 
 # Protect einer PDF-Datei mit einem Kennwort
 
 Erfahren Sie, wie Sie [Ihrem PDF ein Kennwort hinzufügen](https://www.adobe.com/de/acrobat/online/password-protect-pdf.html){target="_blank"}, um andere vor dem Öffnen oder [Bearbeiten der PDF-Datei zu schützen](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target="_blank"}. Der Schutz Ihrer PDF-Dateien verhindert unbefugten Zugriff, schützt vertrauliche Informationen, wahrt die Dokumentintegrität und trägt zur Einhaltung bestimmter Branchenbestimmungen bei.
+
+**Versuchen Sie es:** Erkunden Sie, wie Sie eine PDF [direkt sichern](https://w.adobedemo.com/s/-gNaDL){target="_blank"}.
 
 >[!SLIDE](protect-pdfs)
 
