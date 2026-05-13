@@ -35,4 +35,4 @@ Lernen Sie die Grundlagen zum Markieren einer PDF-Datei mit Tags kennen. Folgend
 
 >[!TIP]
 >
->Dieses Video ist Teil der [Reihe zur Barrierefreiheit für PDF](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility), die auf dem Experience League kostenlos verfügbar ist!
+>Dieses Video ist Teil der [Reihe zur Barrierefreiheit für PDF](https://experienceleague.adobe.com/de/playlists/acrobat-pdf-accessibility), die auf dem Experience League kostenlos verfügbar ist!

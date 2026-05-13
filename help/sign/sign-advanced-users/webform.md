@@ -30,17 +30,17 @@ Lerne, wie du ein Dokument erstellst, das direkt auf deiner Website elektronisch
 
 [!BADGE Anwendungsfälle]
 
-* [Bewerbung für Webformularpraktikum für Bildungseinrichtungen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=en)
+* [Bewerbung für Webformularpraktikum für Bildungseinrichtungen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=de)
 Erfahren Sie, wie Webformulare den Zugriff von Schülern auf erforderliche Formulare verbessern
-* [Eine Praktikumsanwendung für ein Webformular für Bildungseinrichtungen erstellen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=en)
+* [Eine Praktikumsanwendung für ein Webformular für Bildungseinrichtungen erstellen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=de)
 Erfahren Sie, wie Sie ein Webformular für ein Praktikum erstellen
-* [Beantragung eines Regierungsdarlehens mit mehreren unbekannten Unterzeichnern](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/webform-multiple-signers.html?lang=en)
+* [Beantragung eines Regierungsdarlehens mit mehreren unbekannten Unterzeichnern](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/webform-multiple-signers.html?lang=de)
 Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerbungen mit öffentlichen Krediten verwendet wird, an dem mehrere unbekannte Teilnehmer beteiligt sind.
-* [Unternehmenszuschüsse und -darlehen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en)
-* [Wiederbeschäftigungsbeihilfe](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en)
+* [Unternehmenszuschüsse und -darlehen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=de)
+* [Wiederbeschäftigungsbeihilfe](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=de)
 
 >[!VIDEO](https://video.tv.adobe.com/v/37841?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Dieses Video ist Teil der Wiedergabelisten [Erweiterte Benutzeraufgaben](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) und [Erste Schritte mit Acrobat Sign für Administratoren](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators), die auf dem Experience League kostenlos zur Verfügung stehen!
+>Dieses Video ist Teil der Wiedergabelisten [Erweiterte Benutzeraufgaben](https://experienceleague.adobe.com/de/playlists/acrobat-sign-perform-advanced-tasks-business-users) und [Erste Schritte mit Acrobat Sign für Administratoren](https://experienceleague.adobe.com/de/playlists/acrobat-sign-get-started-administrators), die auf dem Experience League kostenlos zur Verfügung stehen!

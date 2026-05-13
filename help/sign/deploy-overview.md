@@ -37,11 +37,11 @@ Artikel mit wertvollen Einblicken und Best Practices für die Bereitstellung von
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank">
+    <a href="https://helpx.adobe.com/de/enterprise/using/adobe-sign-for-enterprise.html" target="_blank">
       <img alt="Admin Console" src="assets/Deploy_Admin.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Verwalten von Acrobat Sign auf der Admin Console</strong></a>
+    <a href="https://helpx.adobe.com/de/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Verwalten von Acrobat Sign auf der Admin Console</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie Acrobat Sign-Benutzer und -Lizenzen auf der Unternehmensplattform von Adobe in der Adobe Admin Console verwalten</em>
     <br>

@@ -37,4 +37,4 @@ Der Bereich „Globale Einstellungen“ der Registerkarte „Konto“ ist einer 
 
 >[!TIP]
 >
->Dieses Video ist Teil der Wiedergabeliste [Erweiterte Aufgaben für Administratoren](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators), die auf dem Experience League kostenlos verfügbar ist!
+>Dieses Video ist Teil der Wiedergabeliste [Erweiterte Aufgaben für Administratoren](https://experienceleague.adobe.com/de/playlists/acrobat-sign-perform-advanced-tasks-administrators), die auf dem Experience League kostenlos verfügbar ist!
