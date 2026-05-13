@@ -9,9 +9,15 @@ thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
 TQID: https://experienceleague.adobe.com/cFe-pEI4rVpXw5g8-QhKneAq-9PiHho0lUPIqh44OVI
-product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909id: c1c5fb98-9105-44ed-9df1-9e04d062a784id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+  - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
 source-wordcount: 428
@@ -37,7 +43,7 @@ Erfahren Sie, wie [Webformulare](usecase-edu-intern.md) verwendet werden, um den
 
 >[!TAB Webformular-Praktikumsanwendung für Bildungseinrichtungen erstellen]
 
-Erfahren Sie, wie Sie ein Praktikum [Webformular ](usecase-edu-intern-create.md) erstellen.
+Erfahren Sie, wie Sie ein Praktikum [Webformular &#x200B;](usecase-edu-intern-create.md) erstellen.
 
 >[!TAB Kreditantrag der Regierung mit mehreren unbekannten Unterzeichnern]
 
