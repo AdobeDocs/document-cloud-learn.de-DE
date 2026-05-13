@@ -25,7 +25,7 @@ ht-degree: 6%
 
 In diesem 60-Sekunden-Videotutorial erfahren Sie, wie Sie eine E-Mail-Anlage [PowerPoint in eine PDF](https://www.adobe.com/de/acrobat/online/ppt-to-pdf.html){target="_blank"}-Anlage auf Ihrem Smartphone konvertieren. Wenn die Datei zurückkehrt, können Sie sie anzeigen und auf Freigeben tippen, um sie an Ihr Team zu senden - ohne PowerPoint auf Ihrem Smartphone zu haben.
 
->[!VIDEO](https://video.tv.adobe.com/v/336366?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409553?captions=ger&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

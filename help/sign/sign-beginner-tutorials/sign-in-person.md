@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit der [mobilen Acrobat Sign-App](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html?lang=de) die Unterschrift einer anderen Person persönlich einholen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/345169?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412563?captions=ger&quality=12&learn=on&hidetitle=true)

@@ -25,4 +25,4 @@ ht-degree: 0%
 
 In diesem 60-Sekunden-Video-Tutorial erfahren Sie, wie Sie mit Adobe Scan ein gedrucktes Formular signieren. Einfach scannen, unterschreiben und als PDF versenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/338331?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409535?captions=ger&quality=12&learn=on&hidetitle=true)

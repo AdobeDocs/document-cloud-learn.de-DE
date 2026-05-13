@@ -31,4 +31,4 @@ ht-degree: 4%
 
 Erfahren Sie, wie Sie eine Acrobat Sign-Benutzerproduktadministrator- und Supportadministratorrolle in der [Admin Console](https://adminconsole.adobe.com/) zuweisen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453157?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453167?captions=ger&quality=12&learn=on&hidetitle=true)

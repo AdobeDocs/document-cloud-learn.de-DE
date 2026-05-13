@@ -39,7 +39,7 @@ Erfahren Sie, wie ein Webformular für einen komplexen Arbeitsablauf für Bewerb
 * [Unternehmenszuschüsse und -darlehen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=de)
 * [Wiederbeschäftigungsbeihilfe](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=de)
 
->[!VIDEO](https://video.tv.adobe.com/v/37841?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412551?captions=ger&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

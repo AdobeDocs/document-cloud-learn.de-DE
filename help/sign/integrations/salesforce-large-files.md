@@ -32,4 +32,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie große Dokumente einrichten und Vereinbarungsdienste in Acrobat Sign für [!DNL Salesforce] bereitstellen. Mit Push-Vereinbarungen können Sie Dokumente senden, ein Webformular erstellen und Vereinbarungen wie in [!DNL Salesforce] erstellt übertragen lassen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432842?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3455786?captions=ger&quality=12&learn=on&hidetitle=true)

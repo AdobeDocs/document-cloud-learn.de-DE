@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Salesforce-Daten direkt in einem Acrobat Sign-Dokument zusammenführen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409412?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417798?captions=ger&quality=12&learn=on&hidetitle=true)

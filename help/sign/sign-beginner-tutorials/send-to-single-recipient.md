@@ -30,7 +30,7 @@ ht-degree: 7%
 
 Das Senden eines Dokuments zum einmaligen Unterschreiben ist die häufigste Aktion in Acrobat Sign. In diesem Tutorial lernst du, wie du ein Dokument am einfachsten vorbereiten und zum Unterschreiben senden kannst.
 
->[!VIDEO](https://video.tv.adobe.com/v/341295?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425267?captions=ger&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

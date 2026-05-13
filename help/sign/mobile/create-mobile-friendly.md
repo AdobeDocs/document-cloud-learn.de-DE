@@ -33,4 +33,4 @@ Mit der Mobile View profitieren Absender von:
 * Kein technisches Know-how erforderlich: Dynamische, für Mobilgeräte optimierte Formulare mit minimalem Aufwand erstellen
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3478398?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3478407?captions=ger&quality=12&learn=on&hidetitle=true)

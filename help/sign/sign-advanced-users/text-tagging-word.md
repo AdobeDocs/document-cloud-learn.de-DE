@@ -30,4 +30,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie eine wiederverwendbare Dokumentvorlage erstellen, indem Sie Acrobat Sign-Text-Tags in [!DNL Microsoft Word] hinzufügen. Das Text-Tagging erstellt automatisch Formularfelder in Ihrem Dokument, wenn es zur Signatur gesendet wird. Eine manuelle Feldplatzierung ist nicht erforderlich. Dieser Prozess verkürzt die Zeit, die benötigt wird, um Überarbeitungen und Änderungen an [!DNL Microsoft Word]-Dokumenten vorzunehmen, die Sie zur Signatur senden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409482?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417795?captions=ger&quality=12&learn=on&hidetitle=true)

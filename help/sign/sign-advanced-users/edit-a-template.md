@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie eine Vorlage in Ihrer Bibliothek bearbeiten oder löschen.
 
->[!VIDEO](https://video.tv.adobe.com/v/342567?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412543?captions=ger&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

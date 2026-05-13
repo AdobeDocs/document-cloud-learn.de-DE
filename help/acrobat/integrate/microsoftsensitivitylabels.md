@@ -27,4 +27,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie PDF schützen können, indem Sie [Microsoft Purview Information](https://learn.microsoft.com/en-us/microsoft-365/compliance/information-protection?view=o365-worldwide)-Sensitivitätskennzeichnungen direkt in Acrobat hinzufügen, bearbeiten, anpassen und löschen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410552?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444307?captions=ger&quality=12&learn=on&hidetitle=true)

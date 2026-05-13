@@ -30,7 +30,7 @@ ht-degree: 0%
 
 Sehen Sie sich eine kurze Videotour zum Arbeitsbereich von Acrobat Sign an, um mit der Arbeit zu beginnen.
 
->[!VIDEO](https://video.tv.adobe.com/v/41205?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425252?captions=ger&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

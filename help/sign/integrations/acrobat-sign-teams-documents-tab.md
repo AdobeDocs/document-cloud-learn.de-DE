@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Dokumente direkt über die Registerkarte &quot;Dokumente&quot; in [!DNL Microsoft Teams] zur Signatur senden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425477?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439657?captions=ger&quality=12&learn=on&hidetitle=true)

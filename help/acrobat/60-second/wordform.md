@@ -25,4 +25,4 @@ ht-degree: 12%
 
 In diesem 60-Sekunden-Videolehrgang erfahren Sie, wie Sie Word-Dateien und -Formulare in PDF[&#128279;](https://www.adobe.com/de/acrobat/online/word-to-pdf.html){target="_blank"} konvertieren und Formularfelder automatisch erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/340082?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409531?captions=ger&quality=12&learn=on&hidetitle=true)

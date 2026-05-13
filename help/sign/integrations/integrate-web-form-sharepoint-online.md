@@ -34,4 +34,4 @@ Erfahren Sie, wie Sie die über ein Webformular gesammelten Daten einer [!DNL Sh
 >
 >Die Feldzuordnung zwischen Acrobat Sign Web Forms und [!DNL SharePoint] Listen ist nur für Online-Installationen und nicht für On-Premises-Installationen verfügbar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421616?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423561?captions=ger&quality=12&learn=on&hidetitle=true)

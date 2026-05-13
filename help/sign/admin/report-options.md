@@ -35,4 +35,4 @@ Informieren Sie sich als Acrobat Sign-Administrator über die Einrichtung von Be
 >
 >Die Berichterstellung ist nur für Abos auf Business- und Enterprise-Ebene verfügbar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419303?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437153?captions=ger&quality=12&learn=on&hidetitle=true)

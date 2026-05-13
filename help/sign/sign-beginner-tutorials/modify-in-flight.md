@@ -35,7 +35,7 @@ Erfahre, wie du ein Dokument bearbeitest, das bereits zur Unterzeichnung versend
 >
 >Das Ändern eines Dokuments nach dem Senden ist nur für Abos auf Enterprise-Ebene verfügbar. Ihr Acrobat Sign-Administrator muss **Vereinbarungen ändern** im Abschnitt **Sendeeinstellungen** der **Kontoeinstellungen** aktivieren, um diese Funktion verwenden zu können.
 
->[!VIDEO](https://video.tv.adobe.com/v/342299?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3483517?captions=ger&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

@@ -31,7 +31,7 @@ Lernen Sie, wie Sie auf Ihrem PDF Wörter, Sätze oder sogar ganze Seiten bearbe
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35493?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409549?captions=ger&enablevpops&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

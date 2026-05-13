@@ -32,7 +32,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie den schreibgeschützten Zugriff auf Transaktionen im Konto eines anderen Benutzers einrichten.
 
->[!VIDEO](https://video.tv.adobe.com/v/40187?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412541?captions=ger&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

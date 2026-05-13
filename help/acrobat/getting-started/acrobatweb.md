@@ -31,7 +31,7 @@ Remote-Arbeit ist überall ein Muss, damit Inhalte schnell und skaliert bereitge
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337436?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443543?captions=ger&enablevpops&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

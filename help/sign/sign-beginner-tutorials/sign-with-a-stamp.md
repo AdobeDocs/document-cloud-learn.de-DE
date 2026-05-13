@@ -27,4 +27,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Stempel verwenden, um ein Dokument als genehmigt oder abgeschlossen zu markieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/345170?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412561?captions=ger&quality=12&learn=on&hidetitle=true)

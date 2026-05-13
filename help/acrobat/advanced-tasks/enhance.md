@@ -38,7 +38,7 @@ Beispieldateien zum Üben (ZIP, 342 KB)
 
 Verwenden Sie das [PDF-Tool bearbeiten](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target="_blank"}, um Hintergrundgrafiken zu Ihrem PDF hinzuzufügen.
 
->[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443826?captions=ger&hidetitle=true)
 
 <br> 
 
@@ -58,7 +58,7 @@ Geben Sie im Abschnitt **Seiten aus** 2 bis 26 ein, und wählen Sie dann **OK** 
 
 Verwenden Sie das Bearbeitungswerkzeug , um Ihrer PDF eine neue Fußzeile hinzuzufügen.
 
->[!VIDEO](https://video.tv.adobe.com/v/338745?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437742?captions=ger&hidetitle=true)
 
 <br> 
 

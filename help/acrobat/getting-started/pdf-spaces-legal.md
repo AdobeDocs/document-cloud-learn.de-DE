@@ -31,7 +31,7 @@ PDF Spaces stehen Benutzern zur Verfügung, die Acrobat Studio oder das AI Assis
 
 **Testen:** Durchsuchen Sie PDF Spaces [direkt](https://w.adobedemo.com/s/Y1h_Xk){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475141?captions=ger&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Teamspezifisch]
 

@@ -34,4 +34,4 @@ Erfahren Sie, wie Sie Vereinbarungsdetails anpassen, Dateien anhängen und zusä
 >
 >Möglicherweise hat Ihr Administrator die Sendeoptionen angepasst. Die angezeigten Optionen können sich von den in diesem Tutorial angezeigten Optionen unterscheiden.
 
->[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417775?captions=ger&quality=12&learn=on&hidetitle=true)

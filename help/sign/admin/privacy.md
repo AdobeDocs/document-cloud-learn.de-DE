@@ -32,4 +32,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie Datenschutzadministratoren für Acrobat Sign-Workflows in der Admin Console einrichten und verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432695?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448225?captions=ger&quality=12&learn=on&hidetitle=true)

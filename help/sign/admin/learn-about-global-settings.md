@@ -33,7 +33,7 @@ ht-degree: 32%
 
 Der Bereich „Globale Einstellungen“ der Registerkarte „Konto“ ist einer der optionsreichsten der Kontoeinstellungen, wobei alle Einstellungen dem jeweiligen Anwendungsfall angepasst werden sollten. Hier erfahren Sie, wie Sie Einstellungen global für Ihre gesamte Organisation oder für bestimmte Gruppen bearbeiten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3452111?captions=ger&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

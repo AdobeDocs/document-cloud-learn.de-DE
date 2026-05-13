@@ -25,4 +25,4 @@ ht-degree: 11%
 
 In diesem 60-Sekunden-Videotutorial erfahren Sie, wie Sie mit der mobilen Acrobat-App eine PDF-Datei in ein vollständig bearbeitbares Microsoft Word-Dokument [&#128279;](https://www.adobe.com/de/acrobat/online/pdf-to-word.html){target="_blank"} konvertieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/340214?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409534?captions=ger&quality=12&learn=on&hidetitle=true)

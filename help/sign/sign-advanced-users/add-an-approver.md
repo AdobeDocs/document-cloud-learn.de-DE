@@ -29,7 +29,7 @@ ht-degree: 21%
 
 Erfahren Sie, wie Sie ein Dokument über einen Genehmigungsprozess senden. In diesem Beispiel erfahren Sie, wie Sie einen Mietvertrag über HR, einen potenziellen Mitarbeiter und den Personalleiter senden. Die Empfängerrolle „Genehmiger“ eignet sich in Situationen, in denen eine Person einem Dokument das „Okay“ geben muss, bevor es an die Unterzeichner weitergesendet wird.
 
->[!VIDEO](https://video.tv.adobe.com/v/343854?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412549?captions=ger&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

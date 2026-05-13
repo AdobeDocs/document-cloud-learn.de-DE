@@ -31,7 +31,7 @@ Sorgen Sie für konstante Prozesse, indem Sie rechtsverbindliche [E-Signaturen](
 >
 >Sie müssen zusätzlich zu Ihrem Acrobat Enterprise-Abonnement über eine Acrobat Sign Enterprise-Berechtigung verfügen.
 
->[!VIDEO](https://video.tv.adobe.com/v/338359?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409540?captions=ger&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

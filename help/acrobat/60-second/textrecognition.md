@@ -25,4 +25,4 @@ ht-degree: 0%
 
 In diesem 60-Sekunden-Tutorial lernen Sie, wie Sie eine gescannte PDF konvertieren, damit Sie auf der PDF nach Text suchen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/340081?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409529?captions=ger&quality=12&learn=on&hidetitle=true)
