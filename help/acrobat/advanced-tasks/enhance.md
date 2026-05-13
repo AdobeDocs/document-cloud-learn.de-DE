@@ -7,10 +7,14 @@ level: Intermediate
 jira: KT-9343
 thumbnail: KT-9343.jpg
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: cc1902cf295d3608fb8ac4ed564a39dbcc885e4a
+TQID: https://experienceleague.adobe.com/PD7GJ1JxUbczgXIgvxf1roU0P0qIpNsK-6P9AS-okqw
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 0%
+source-wordcount: 337
+ht-degree: 1%
 
 ---
 
@@ -31,11 +35,11 @@ Beispieldateien zum Üben (ZIP, 342 KB)
 
 Verwenden Sie das [PDF-Tool bearbeiten](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target="_blank"}, um Hintergrundgrafiken zu Ihrem PDF hinzuzufügen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443826?hidetitle=true&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
 
 <br> 
 
-## Hintergrundgrafiken zu einem PDF hinzufügen - Zusammenfassung.
+## Zusammenfassung. So fügen Sie Ihrem PDF Hintergrundgrafiken hinzu
 
 Durch das Hinzufügen von Hintergründen können Sie visuelle Elemente zu Ihrem PDF hinzufügen, ohne zur ursprünglichen Quelldatei oder Anwendung zurückzukehren.
 
@@ -51,11 +55,11 @@ Geben Sie im Abschnitt **Seiten aus** 2 bis 26 ein, und wählen Sie dann **OK** 
 
 Verwenden Sie das Bearbeitungswerkzeug , um Ihrer PDF eine neue Fußzeile hinzuzufügen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3437742?hidetitle=true&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/338745?hidetitle=true)
 
 <br> 
 
-## Neue Fußzeile zu PDF hinzufügen - Zusammenfassung.
+## Zusammenfassung. So fügen Sie Ihrem PDF eine neue Fußzeile hinzu
 
 Durch Hinzufügen neuer Kopf- oder Fußzeilen können Sie einheitliche PDF-Dateien für ein verbessertes Anzeigeerlebnis erstellen.
 

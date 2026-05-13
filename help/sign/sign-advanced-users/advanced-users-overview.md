@@ -7,9 +7,13 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 05438cb78ede952466c4c15c3cacc427c6bd83f1
+TQID: https://experienceleague.adobe.com/asIglQE0n6Na-3UkKDgsJl8Qex4i1AeLwFdy2e7J1Gs
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909id: c1c5fb98-9105-44ed-9df1-9e04d062a784id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: 480
 ht-degree: 3%
 
 ---
@@ -48,7 +52,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
     <a href="setting-up-routing.md"><strong>Signierreihenfolge einrichten</strong></a>
     </div>
     <em>Signierreihenfolge für mehrere Unterzeichner einrichten</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="delegate-signature.md">
@@ -58,7 +62,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
     <a href="delegate-signature.md"><strong>Verwenden der Delegatorrolle </strong></a>
     </div>
     <em>Verwenden Sie die Rolle "Delegierender", um ein Dokument an einen Mittler zu senden, der das Dokument dann zur Signatur weiterleiten kann</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="add-an-approver.md">
@@ -68,7 +72,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
     <a href="add-an-approver.md"><strong>Genehmigerrolle verwenden</strong></a>
     </div>
     <em>Genehmigerrolle zu Ihrem Vertragsgenehmigungsprozess hinzufügen</em>
-    2<br>
+    <br>
   </td>
   <td>
       <a href="megasign.md">
@@ -78,7 +82,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
       <a href="megasign.md"><strong>Massenversand</strong></a>
       </div>
       <em>Für jedes Dokument in nur wenigen Schritten Hunderte von Unterschriften gleichzeitig einholen</em>
-      2<br>
+      <br>
   </td>
 </tr>
 <tr>
@@ -90,7 +94,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
       <a href="webform.md"><strong>Erstellen eines Webformulars</strong></a>
       </div>
       <em>Erfahren Sie, wie Sie ein Dokument erstellen, das direkt auf Ihrer Website elektronisch signiert werden kann</em>
-      2<br>
+      <br>
   </td>
   <td>
       <a href="../admin/building-a-custom-workflow.md">
@@ -100,7 +104,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
       <a href="../admin/building-a-custom-workflow.md"><strong>Benutzerdefinierten Workflow erstellen</strong></a>
       </div>
       <em>Erfahren Sie, wie Sie benutzerdefinierte Workflows erstellen und verwenden, um das Erstellen und Senden einer Vereinbarung zu beschleunigen</em>
-      2<br>
+      <br>
   </td>
   <td>
       <a href="set-up-online-payments.md">
@@ -110,7 +114,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
       <a href="set-up-online-payments.md"><strong>Onlinezahlungen einrichten</strong></a>
       </div>
       <em>Weitere Informationen zum Einrichten und Annehmen von Online-Zahlungen in Ihren Dokumenten</em>
-      2<br>
+      <br>
   </td>
   <td>
       <a href="authentication-methods.md">
@@ -120,7 +124,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
       <a href="authentication-methods.md"><strong>Authentifizierungsmethoden in Acrobat Sign</strong></a>
       </div>
       <em>Erfahren Sie mehr über die in Acrobat Sign verfügbaren Methoden zur Identitätsauthentifizierung</em>
-      2<br>
+      <br>
   </td>
 </tr>
 <tr>
@@ -132,7 +136,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
       <a href="adobe-sign-text-tagging.md"><strong>Acrobat Sign-Text-Tagging</strong></a>
       </div>
       <em>Acrobat Sign-Formularfelder durch Text-Tagging mit Adobe Acrobat erstellen</em>
-      2<br>
+      <br>
     </td>
   <td>
     <a href="text-tagging-word.md">
@@ -142,7 +146,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
     <a href="text-tagging-word.md"><strong>Verwenden von Text-Tagging in [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie eine wiederverwendbare Dokumentvorlage erstellen, indem Sie Acrobat Sign-Text-Tags in [!DNL Microsoft Word]</em> hinzufügen.
-    2<br>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -169,7 +173,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
     <a href="creating-a-report.md"><strong>Berichterstellung und Transaktionsnutzung</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie Berichte generieren und die Transaktionsnutzung verfolgen</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="edit-a-template.md">
@@ -179,7 +183,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
     <a href="edit-a-template.md"><strong>Dokumentvorlagen verwalten</strong></a>
     </div>
     <em>Vorlage in Ihrer Bibliothek bearbeiten oder löschen</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="modify-webform.md">
@@ -189,7 +193,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
     <a href="modify-webform.md"><strong>Vorhandenes Webformular ändern</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie ein vorhandenes Webformular deaktivieren, bearbeiten und wieder aktivieren</em>
-    2<br>
+    <br>
   </td>  
   <td>
     <a href="manage-webform-data.md">
@@ -199,7 +203,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
     <a href="manage-webform-data.md"><strong>Verwalten von Webformulardaten</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie Daten aus einem Webformular verfolgen, verwalten und exportieren</em>
-    2<br>
+    <br>
   </td>  
 </tr>
 <tr>
@@ -211,7 +215,7 @@ Erfahren Sie mehr über den Bereich der in Acrobat Sign verfügbaren Methoden, m
       <a href="manage-form-data.md"><strong>Formulardaten verwalten</strong></a>
       </div>
       <em>Erfahren Sie, wie Sie Formulardaten aus Ihren Dokumenten konsolidieren</em>
-      2<br>
+      <br>
     </td>
     <td>
     <img alt="Spacer" src="../assets/Grayspacer.png" />

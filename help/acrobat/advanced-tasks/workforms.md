@@ -7,10 +7,15 @@ level: Intermediate
 jira: KT-9345
 thumbnail: KT-9345.jpg
 exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/e6UxLIxTmzvuzAqZ8gId67CWtOzEuMFM8aHnjlmu3cs
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '726'
-ht-degree: 0%
+source-wordcount: 737
+ht-degree: 1%
 
 ---
 
@@ -37,17 +42,17 @@ Verwenden Sie das Prepare Form-Tool, um Formularfelder automatisch zu einer best
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3448520?captions=ger&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
-## Formularfelder bearbeiten - Zusammenfassung.
+## Zusammenfassung. So arbeiten Sie mit Formularfeldern
 
 So fügen Sie verschiedene Formularfeldtypen hinzu und legen ihre Eigenschaften auf einer vorhandenen PDF fest.
 
 1. Laden Sie *Fragebogen.pdf* herunter und öffnen Sie diese.
 1. Wählen Sie im Werkzeugfenster **Prepare Form** aus.
-1. Wählen Sie **Start**.
+1. Wählen Sie **Start** aus.
 1. Wählen Sie **Text und Bilder bearbeiten** in der Symbolleiste aus, um den Tippfehler zu beheben.
 1. Wählen Sie in der Symbolleiste &quot;**Auswählen**&quot; aus, um den Bearbeitungsmodus zu beenden.
 1. Wählen Sie das obere Formularfeld aus und löschen Sie es.
@@ -94,11 +99,11 @@ Mit Kombinationseigenschaften wird Text gleichmäßig über die Breite eines Tex
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3439901?captions=ger&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
 
 <br> 
 
-## Eigenschaften für mehrere Felder gleichzeitig, die Tab-Reihenfolge festlegen und ein Formular sichern - Zusammenfassung.
+## Zusammenfassung. So legen Sie Eigenschaften für mehrere Felder gleichzeitig fest, indem Sie die Tabulatorreihenfolge ändern und ein Formular sichern
 
 Um Eigenschaften für mehrere Felder gleichzeitig festzulegen, führen Sie die Registerkartenreihenfolge aus und sichern Sie ein Formular. Durch das einmalige Festlegen der Eigenschaften von Textfeldern sparen Sie Zeit und sorgen für eine visuelle Konsistenz des Formulars.
 

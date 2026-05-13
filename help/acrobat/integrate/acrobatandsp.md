@@ -9,16 +9,20 @@ topic-revisit: Integrations
 jira: KT-7190
 thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+TQID: https://experienceleague.adobe.com/NBCpG3zMEzuHL-BcVRPQutgqqE8Ol1UqsOTxSU34Uyk
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 0%
+source-wordcount: 132
+ht-degree: 4%
 
 ---
 
 # Mit [!DNL SharePoint] Dateien arbeiten
 
-Optimieren Sie Dokumenten-Workflows mit [!DNL SharePoint] und Acrobat mithilfe von [Adobe Acrobat für Microsoft 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). [!DNL Microsoft 365] Dateien sicher in PDF konvertieren, [PDF-Dokumente &#x200B;](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} in einer Datei zusammenführen, kommentieren und Seiten neu anordnen - direkt von [!DNL SharePoint] online.
+Optimieren Sie Dokumenten-Workflows mit [!DNL SharePoint] und Acrobat mithilfe von [Adobe Acrobat für Microsoft 365](https://appsource.microsoft.com/en-us/product/web-apps/adobeinc.adobe-document-cloud-pdf?tab=Overview). [!DNL Microsoft 365] Dateien sicher in PDF konvertieren, [PDF-Dokumente ](https://www.adobe.com/de/acrobat/online/merge-pdf.html){target="_blank"} in einer Datei zusammenführen, kommentieren und Seiten neu anordnen - direkt von [!DNL SharePoint] online.
 
 >[!NOTE]
 >
@@ -26,8 +30,8 @@ Optimieren Sie Dokumenten-Workflows mit [!DNL SharePoint] und Acrobat mithilfe v
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3415787?quality=12&learn=on&hidetitle=true&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/331855?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Dieses Video ist Teil der Wiedergabeliste [Acrobat und Microsoft 365 integrieren](https://experienceleague.adobe.com/de/playlists/acrobat-integrate-microsoft-365), die auf dem Experience League kostenlos verfügbar ist!
+>Dieses Video ist Teil der Wiedergabeliste [Acrobat und Microsoft 365 integrieren](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365), die auf dem Experience League kostenlos verfügbar ist!

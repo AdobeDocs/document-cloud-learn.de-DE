@@ -6,9 +6,14 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
+TQID: https://experienceleague.adobe.com/tbtYNqK8p3mnv9HO-zWKMRaXBJwb0FEfY5niTYxAQqA
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: 303
 ht-degree: 0%
 
 ---
@@ -35,7 +40,7 @@ Erfahren Sie, wie Sie eine [barrierefreie PDF ab Acrobat](accessible-acrobat.md)
 
 >[!TAB Die Grundlagen des Taggens]
 
-Erfahren Sie mehr über die Grundlagen, wie Sie eine PDF[-Datei mit &#x200B;](basics-tagging.md)Tags versehen, um sie barrierefrei zu machen.
+Erfahren Sie mehr über die Grundlagen, wie Sie eine PDF](basics-tagging.md)-Datei mit [Tags versehen, um sie barrierefrei zu machen.
 
 >[!ENDTABS]
 
@@ -51,7 +56,7 @@ Erfahren Sie mehr über die Grundlagen, wie Sie eine PDF[-Datei mit &#x200B;](ba
     <a href="what-why-accessible-pdf.md"><strong>Was und warum barrierefreier PDF-Dateien</strong></a>
     </div>
     <em>Erfahren Sie, was eine barrierefreie PDF-Datei ist und warum sie wichtig ist</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="set-up-workspace.md">
@@ -61,7 +66,7 @@ Erfahren Sie mehr über die Grundlagen, wie Sie eine PDF[-Datei mit &#x200B;](ba
     <a href="set-up-workspace.md"><strong>Arbeitsbereich einrichten</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie alle Barrierefreiheits-Tools direkt zur Hand haben</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="create-accessible-from-word.md">
@@ -71,7 +76,7 @@ Erfahren Sie mehr über die Grundlagen, wie Sie eine PDF[-Datei mit &#x200B;](ba
     <a href="create-accessible-from-word.md"><strong>Erstellen einer barrierefreien PDF aus Word</strong></a>
     </div>
     <em>Erstellen einer barrierefreien PDF aus Microsoft Word</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="accessible-acrobat.md">
@@ -81,7 +86,7 @@ Erfahren Sie mehr über die Grundlagen, wie Sie eine PDF[-Datei mit &#x200B;](ba
     <a href="accessible-acrobat.md"><strong>Erstellen einer barrierefreien PDF in Acrobat</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie ab Acrobat eine barrierefreie PDF erstellen</em>
-    2<br>
+    <br>
   </td>
 </tr>
 <tr>
@@ -93,7 +98,7 @@ Erfahren Sie mehr über die Grundlagen, wie Sie eine PDF[-Datei mit &#x200B;](ba
     <a href="basics-tagging.md"><strong>Die Grundlagen des Taggens</strong></a>
     </div>
     <em>Grundlagen zum Kennzeichnen einer PDF-Datei, um sie barrierefrei zu machen</em>
-    2<br>
+    <br>
   </td>
  <td>
     <a href="scanned-documents.md">
@@ -103,7 +108,7 @@ Erfahren Sie mehr über die Grundlagen, wie Sie eine PDF[-Datei mit &#x200B;](ba
     <a href="scanned-documents.md"><strong>Gescannte Dokumente</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie gescannte Dokumente in Acrobat barrierefrei machen</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="create-accessible-forms.md">
@@ -113,7 +118,7 @@ Erfahren Sie mehr über die Grundlagen, wie Sie eine PDF[-Datei mit &#x200B;](ba
     <a href="create-accessible-forms.md"><strong>Barrierefreie Formulare erstellen</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie Formulare in Acrobat barrierefrei machen</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="complex-lists.md">
@@ -123,7 +128,7 @@ Erfahren Sie mehr über die Grundlagen, wie Sie eine PDF[-Datei mit &#x200B;](ba
     <a href="complex-lists.md"><strong>Komplexe Listen</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie komplexe Listen für die Barrierefreiheit in Acrobat taggen</em>
-    2<br>
+    <br>
   </td>
 </tr>
 <tr>
@@ -135,7 +140,7 @@ Erfahren Sie mehr über die Grundlagen, wie Sie eine PDF[-Datei mit &#x200B;](ba
     <a href="complex-tables.md"><strong>Komplexe Tabellen</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie Tabellen für Barrierefreiheit in Acrobat taggen</em>
-    2<br>
+    <br>
   </td>
   <td>
     <a href="make-accessible-action.md">
@@ -145,7 +150,7 @@ Erfahren Sie mehr über die Grundlagen, wie Sie eine PDF[-Datei mit &#x200B;](ba
     <a href="make-accessible-action.md"><strong>Geführte Aktion für Barrierefreiheit erstellen</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie die geführte Aktion "Barrierefrei machen" verwenden.</em>
-    2<br>
+    <br>
   </td>
    <td>
         <img alt="Spacer" src="../assets/Whitespacer.png" />

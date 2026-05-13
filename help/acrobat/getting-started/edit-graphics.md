@@ -6,9 +6,13 @@ role: User
 level: Beginner
 jira: KT-15476
 exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/B9BTFJhfr85ZXy-30mGZmM1ZyXlzIlHneBXZ-KoQZ-g
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: 231
 ht-degree: 0%
 
 ---
@@ -17,7 +21,7 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie im Bearbeitungsmodus von Acrobat Bilder direkt auf einem PDF im Web oder auf dem Desktop hinzufügen, ersetzen, zuschneiden, in der Größe ändern, drehen und anordnen. Das Tutorial zeigt auch, wie Sie Bilder aus Textaufforderungen mit dem In-App-Bildgenerator auf Basis von Adobe Expreß generieren und optimieren. In diesem Video-Tutorial wird das [neue Acrobat-Erlebnis](new-experience.md) verwendet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446938?captions=ger&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Teamspezifisch]
 
