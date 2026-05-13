@@ -6,9 +6,16 @@ solution: Acrobat
 role: User
 level: Beginner
 exl-id: 5fab3cd2-315e-4c5d-b435-2d1401bd172a
-source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
+TQID: https://experienceleague.adobe.com/3iYzICVD--pXE4BGnTxOYO4yOII-tMdHYIPwEFdQcBQ
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: 88
 ht-degree: 1%
 
 ---
@@ -19,6 +26,6 @@ ht-degree: 1%
 
 Dieses Handbuch enthält weitere Übungen und eine Übersicht über die behandelten Arbeitsabläufe. Im Folgenden finden Sie die Demodateien, die wir in den folgenden Übungen verwenden. Bei jeder Übung wird auch dieser Inhalt erneut aufgeführt:
 
-* Beispiel 1: Scannen beliebiger Formulare - Verwenden Sie Ihre eigenen Visitenkarten, Quittungen oder andere Papierdokumente
-* [Beispiel 2: Formulare ausfüllen und unterschreiben](assets/03_FillSignScan.zip)
-* [Beispiel 3: Freigeben von PDF-Dateien und Online-Überprüfung](assets/01_Review.zip)
+* Beispiel 1: Scannen Sie jedes Formular - verwenden Sie Ihre eigenen Visitenkarten, Belege oder andere Papierdokumente
+* [Beispiel 2: Formulare ausfüllen und unterschreiben.](assets/03_FillSignScan.zip)
+* [Beispiel 3: PDF-Dateien freigeben und online überprüfen](assets/01_Review.zip)

@@ -8,10 +8,18 @@ topic-revisit: mobile
 jira: KT-6863
 thumbnail: KT-6863.jpg
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
+TQID: https://experienceleague.adobe.com/eXYxxE6n8-KJgWVqYWiC66eYH3WqNQcfCt6j1XyJlLk
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 0%
+source-wordcount: 324
+ht-degree: 1%
 
 ---
 
@@ -42,7 +50,7 @@ Erstellen, füllen und [signieren Sie PDF](https://www.adobe.com/de/acrobat/onli
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -72,7 +80,7 @@ Erstellen, füllen und [signieren Sie PDF](https://www.adobe.com/de/acrobat/onli
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/mobile/scan-mobile-app" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -81,12 +89,12 @@ Erstellen, füllen und [signieren Sie PDF](https://www.adobe.com/de/acrobat/onli
 
 Laden Sie [Adobe Acrobat Reader mobile app](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target="_blank"} herunter, den kostenlosen globalen Standard für die zuverlässige Anzeige, Kommentierung und Unterzeichnung von PDF.
 
-[Acrobat Reader für iOS-Handbuch für Mobilgeräte](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target="_blank"}
+[Handbuch für Acrobat Reader für iOS für Mobilgeräte](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target="_blank"}
 [Acrobat Reader für Android - Handbuch für Mobilgeräte](https://www.adobe.com/devnet-docs/acrobat/android/en/){target="_blank"}
 
 Laden Sie die [mobile Adobe Scan-App](https://www.adobe.com/acrobat/mobile/scanner-app.html){target="_blank"} herunter, um ein beliebiges Papierdokument zu erfassen und in eine hochwertige PDF mit durchsuchbarem Text zu verwandeln.
 
-[Adobe Scan für iOS-Handbuch für Mobilgeräte](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target="_blank"}
+[Handbuch für Adobe Scan für iOS für Mobilgeräte](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target="_blank"}
 [Adobe Scan für Android - Handbuch für Mobilgeräte](https://www.adobe.com/devnet-docs/adobescan/android/en/){target="_blank"}
 
 Laden Sie die [mobile Adobe Fill &amp; Sign-App](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target="_blank"} herunter, um Formulare überall und auf jedem Gerät auszufüllen, zu signieren und zu senden - mit nur Ihrem Finger oder einem Eingabestift.

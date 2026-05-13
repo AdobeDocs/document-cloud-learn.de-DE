@@ -9,9 +9,18 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 88bbe7e4866b46984017455c61f13c518b1465fc
+TQID: https://experienceleague.adobe.com/Ou8oN-1Pqv6iPqJkAVjQtIlkAQNHW4zGpKPAubYXzMc
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: 777
 ht-degree: 0%
 
 ---
@@ -46,7 +55,7 @@ Erfahren Sie, wie alle Mitarbeiter Ihres Teams direkt in [Microsoft 365](https:/
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/integrations/createfromword" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -69,7 +78,7 @@ Erfahren Sie, wie alle Mitarbeiter Ihres Teams direkt in [Microsoft 365](https:/
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/integrations/createofficeweb" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -92,7 +101,7 @@ Erfahren Sie, wie alle Mitarbeiter Ihres Teams direkt in [Microsoft 365](https:/
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandsp" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -115,7 +124,7 @@ Erfahren Sie, wie alle Mitarbeiter Ihres Teams direkt in [Microsoft 365](https:/
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandteams" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -138,7 +147,7 @@ Erfahren Sie, wie alle Mitarbeiter Ihres Teams direkt in [Microsoft 365](https:/
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/integrations/outlook" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -161,7 +170,7 @@ Erfahren Sie, wie alle Mitarbeiter Ihres Teams direkt in [Microsoft 365](https:/
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/integrations/edge" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -184,7 +193,7 @@ Erfahren Sie, wie alle Mitarbeiter Ihres Teams direkt in [Microsoft 365](https:/
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/integrations/microsoftsensitivitylabels" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -216,7 +225,7 @@ Erfahren Sie, wie Sie mit den wichtigsten Tools für PDF und elektronische Signa
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandgoogle" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -248,7 +257,7 @@ Erfahren Sie, wie einfach Sie auf in [!DNL Dropbox] gespeicherte Dateien zugreif
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/integrations/acrobat-dropbox" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -257,4 +266,4 @@ Erfahren Sie, wie einfach Sie auf in [!DNL Dropbox] gespeicherte Dateien zugreif
 
 ## Box
 
-Erfahren Sie, wie Acrobat und [Box](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"} es für alle in Ihrem Unternehmen einfacher machen, produktiv zu bleiben.
+Erfahren Sie, wie Acrobat und [Box](https://www.adobe.com/documentcloud/integrations/box.html){target="_blank"} es allen Mitarbeitern Ihres Unternehmens erleichtern, produktiv zu bleiben.

@@ -7,10 +7,21 @@ level: Intermediate
 jira: KT-7269
 thumbnail: KT-7269.jpg
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/yAZqS-n9dBEr5B56ibBNPNF8MfEOfCq3J74wNHFnYo0
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e9001ce2-5245-4a8e-8601-dd958009072f
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 2%
+source-wordcount: 803
+ht-degree: 7%
 
 ---
 
@@ -47,7 +58,7 @@ Darüber hinaus bietet Adobe Sign Enterprise im Vergleich zu der in der [!DNL Ad
 * Anpassung und Optimierung.
    * Erweiterte Authentifizierung, erweiterte Authentifizierung für Unterzeichner, erweiterte Authentifizierung der Identität von Unterzeichnern, Workflow-Designer, erweiterte Sprachunterstützung usw.
 
-Adobe Sign ist die weltweit führende Lösung für die Erfassung rechtsgültiger Unterschriften. Adobe Sign ist so konzipiert, dass es allen Anforderungen an elektronische Unterschriften in Ihrem Unternehmen gerecht wird und über IT-Tools verfügt, die sich an den Administrator anpassen, um sicherzustellen, dass Sie und Ihre Anwender elektronische Unterschriften verwenden, die die verschiedenen regionalen und branchenspezifischen Vorschriften für elektronische Unterschriften vollständig erfüllen. Weitere Informationen zum Verwalten von Sign über [Adobe Admin Console](https://helpx.adobe.com/de/enterprise/using/adobe-sign-for-enterprise.html) finden Sie [hier](https://helpx.adobe.com/de/enterprise/using/admin-console.html).
+Adobe Sign ist die weltweit führende Lösung für die Erfassung rechtsgültiger Unterschriften. Adobe Sign ist so konzipiert, dass es allen Anforderungen an elektronische Unterschriften in Ihrem Unternehmen gerecht wird und über IT-Tools verfügt, die sich an den Administrator anpassen, um sicherzustellen, dass Sie und Ihre Anwender elektronische Unterschriften verwenden, die die verschiedenen regionalen und branchenspezifischen Vorschriften für elektronische Unterschriften vollständig erfüllen. Weitere Informationen zum Verwalten von Sign über [Adobe Admin Console](https://helpx.adobe.com/de/enterprise/using/admin-console.html) finden Sie [hier](https://helpx.adobe.com/de/enterprise/using/adobe-sign-for-enterprise.html).
 
 Bitte wende dich an deinen Adobe-Kontakt, um zu besprechen, wie du weiterhin Funktionen für elektronische Unterschriften in deinem Unternehmen über unsere breitere digitale Dokumentenplattform bereitstellen kannst, die Acrobat DC und Adobe Sign Enterprise umfasst.
 
@@ -71,8 +82,8 @@ Die Benutzer können sich bei https://documentcloud.adobe.com/ anmelden, um auf 
 ## Weitere Informationen finden Sie auf den folgenden Seiten:
 
 * [Anmelden bei Adobe Document Cloud](https://helpx.adobe.com/de/document-cloud/help/sign-in.html)
-* [Dateien verwalten (Wo sind meine Dateien?)](https://helpx.adobe.com/de/document-cloud/help/manage-files.html)
-* [Verwenden von [!UICONTROL Acrobat Customization Wizard] für die Konfiguration &#x200B;](https://www.adobe.com/de/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
+* [Verwalten von Dateien (Wo sind meine Dateien?)](https://helpx.adobe.com/de/document-cloud/help/manage-files.html)
+* [[!UICONTROL Acrobat Customization Wizard] wird für die Konfiguration verwendet.](https://www.adobe.com/de/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
 * [Übersicht über [!UICONTROL Admin Console]](https://helpx.adobe.com/de/enterprise/using/admin-console.html)
 * [Verwalten von Adobe Sign auf der [!UICONTROL Admin Console]](https://helpx.adobe.com/de/enterprise/using/adobe-sign-for-enterprise.html)
 

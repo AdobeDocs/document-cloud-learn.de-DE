@@ -8,9 +8,24 @@ topic: Integrations
 thumbnail: KT-7488.jpg
 jira: KT-7488
 exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+TQID: https://experienceleague.adobe.com/-6Wi-1ypmwdIENbdMRe2z8dJ-OM7KQl3cGmyuIyKIC4
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+  - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+  - id: f002a92a-b99f-47a4-90c8-65e0e415bc7a
+feature_v2:
+  - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '2448'
+source-wordcount: 2466
 ht-degree: 0%
 
 ---
@@ -23,7 +38,7 @@ Erfahren Sie, wie Sie die Connectors für Acrobat Sign und Adobe PDF Tools für 
 <tr>
   <td>
     <a href="documentautomation.md#part1">
-        <img alt="Teil 1: Signierte Vereinbarungen in SharePoint mit Acrobat Sign speichern" src="assets/documentautomation/AutomationPart1_thumb.jpg" />
+        <img alt="Teil 1: Signierte Vereinbarungen mit Acrobat Sign in SharePoint speichern" src="assets/documentautomation/AutomationPart1_thumb.jpg" />
     </a>
     <div>
     <a href="documentautomation.md#part1"><strong>Teil 1: Signierte Vereinbarung in SharePoint mit Acrobat Sign speichern</strong></a>
@@ -39,10 +54,10 @@ Erfahren Sie, wie Sie die Connectors für Acrobat Sign und Adobe PDF Tools für 
   </td>
   <td>
    <a href="documentautomation.md#part3">
-      <img alt="Teil 3: Automatisierte OCR mit Adobe PDF Tools" src="assets/documentautomation/AutomationPart3_thumb.jpg" />
+      <img alt="Teil 3: Automatisierte Texterkennung in Dokumenten mit Adobe PDF Tools" src="assets/documentautomation/AutomationPart3_thumb.jpg" />
    </a>
     <div>
-    <a href="documentautomation.md#part3"><strong>Teil 3: Automatisierte OCR für Dokumente mit Adobe PDF Tools</strong></a>
+    <a href="documentautomation.md#part3"><strong>Teil 3: Automatisierte OCR mit Adobe PDF Tools</strong></a>
     </div>
   </td>
   <td>
@@ -73,7 +88,7 @@ Erfahren Sie, wie Sie die Connectors für Acrobat Sign und Adobe PDF Tools für 
 
 Materialien [hier herunterladen](https://github.com/benvanderberg/adobe-sign-pdftools-powerautomate-tutorial)
 
-## Teil 1: Signierte Vereinbarungen in SharePoint mit Acrobat Sign speichern {#part1}
+## Teil 1: Signierte Vereinbarungen mit Acrobat Sign in SharePoint speichern {#part1}
 
 Im ersten Teil verwendest du eine Power Automate Flow-Vorlage, um einen automatisierten Workflow einzurichten, der alle signierten Verträge auf deiner SharePoint-Website speichert.
 
@@ -153,7 +168,7 @@ Im zweiten Teil bauen wir den ersten Teil mit einem robusteren Flow auf und test
    **Site-Adresse:** Ihre SharePoint-Site
    **Bibliotheksname:** Ihr Dokumentenrepository
 1. Fügen Sie wie folgt eine Eingabe hinzu:
-   **Typ**: E-Mail
+   **Typ**: Email
    **Name**: E-Mail des Unterzeichners
 
    ![Screenshot der Konfiguration des Flows](assets/documentautomation/automation_11.png)
@@ -234,7 +249,7 @@ Schließen Sie die Signatur ab und sehen Sie dann in Ihrem SharePoint-Ordner nac
 
 ![Screenshot des SharePoint-Ordners](assets/documentautomation/automation_23.png)
 
-## Teil 3: Automatisierte OCR mit Adobe PDF Tools {#part3}
+## Teil 3: Automatisierte Texterkennung in Dokumenten mit Adobe PDF Tools {#part3}
 
 Im dritten Teil lernen Sie, wie Sie OCR in PDF automatisieren, wenn diese in Microsoft SharePoint importiert werden. Damit wird ein Problem behoben, das bei gescannten PDF-Dokumenten auftritt, die in SharePoint nicht durchsucht werden können.
 
@@ -363,7 +378,7 @@ Im Ordner &quot;Vorlagen&quot; befindet sich der Ordner &quot;Covers&quot;, der 
 
 1. Wählen Sie unter &quot;Setup&quot; &quot;**Als neu erstellen&quot;** aus.
 1. Legen Sie den Namen des Textflusses unter &quot;Ressourcenname&quot; fest.
-1. Klicke auf **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
    Wiederholen Sie diesen Vorgang für die anderen Ressourcen des Typs &quot;Verwandte Themen&quot;, und wählen Sie die Verbindung aus.
 
@@ -418,10 +433,10 @@ Fügen Sie Ihre Bibliothek der Bibliothek hinzu.
 
    ![Screenshot der erweiterten Bedingung &quot;Whitepaper hinzufügen&quot;](assets/documentautomation/automation_48.png)
 
-1. Erweitern Sie **Whitepaper 1: Abrufen von Dateiinhalten mithilfe des Pfads**.
+1. **Whitepaper 1 erweitern: Rufen Sie Dateiinhalte mithilfe von Pfad** ab.
 Bearbeiten Sie die Site-Adresse für die angegebene SharePoint-Site.
 
-Wiederholen Sie dieselben Schritte für **Bedingung: Whitepaper hinzufügen 2**.
+Wiederholen Sie dieselben Schritte für die **Bedingung: Whitepaper 2** hinzufügen.
 
 ### Erstellungsdatei festlegen
 
@@ -429,7 +444,7 @@ Wiederholen Sie dieselben Schritte für **Bedingung: Whitepaper hinzufügen 2**.
 
    Bearbeiten Sie die Site-Adresse und den Ordnerpfad zur SharePoint-Site und zum Pfad, in dem sich der Ordner &quot;Generated Docs&quot; befindet.
 
-1. Klicke auf **Speichern**.
+1. Klicken Sie auf **Speichern**.
 
 ### Testen des Interaktionsflusses
 

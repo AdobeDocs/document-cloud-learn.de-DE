@@ -7,9 +7,21 @@ level: Beginner
 jira: KT-8990
 thumbnail: KT-8990.jpg
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
+TQID: https://experienceleague.adobe.com/tfcRhctdTvfjNr0IXldxOsz9bXHYpE-TuWMDc74akpE
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+  - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+  - id: f002a92a-b99f-47a4-90c8-65e0e415bc7a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: 300
 ht-degree: 0%
 
 ---
@@ -48,7 +60,7 @@ Erfahren Sie, wie Sie Ihre Identität bei [[!DNL D-Trust]](d-trust.md) registrie
     <a href="aadhaar-sign.md"><strong>Signieren mit [!DNL Aadhaar]</strong></a>
     </div>
     <em>Weitere Informationen zur Verwendung Ihrer [!DNL Aadhaar] digitalen ID mit Acrobat Sign</em>
-    3<br>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -80,7 +92,7 @@ Erfahren Sie, wie Sie Ihre Identität bei [[!DNL D-Trust]](d-trust.md) registrie
     <a href="digidentity-sign.md"><strong>Registrieren und signieren mit [!DNL Digidentity]</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie Ihre [!DNL Digidentity] digitale ID bei Acrobat Sign registrieren und verwenden</em>
-    3<br>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -112,7 +124,7 @@ Erfahren Sie, wie Sie Ihre Identität bei [[!DNL D-Trust]](d-trust.md) registrie
     <a href="d-trust.md"><strong>Registrieren und Signieren mit D-Trust</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie Ihre Identität bei [!DNL D-Trust] registrieren und dann die [!DNL D-Trust] digitale Signatur für ein Dokument in Acrobat Sign verwenden</em>
-    4<br>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -144,7 +156,7 @@ Erfahren Sie, wie Sie Ihre Identität bei [[!DNL D-Trust]](d-trust.md) registrie
     <a href="intesi-advanced.md"><strong>Digitale ID von [!DNL Intesi Group] abrufen (erweitert)</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie ein erweitertes digitales Signaturzertifikat von [!DNL Intesi Group]</em> erhalten.
-    2<br>
+    <br>
   </td>
   <td>
     <a href="intesi-qualified.md">
@@ -154,7 +166,7 @@ Erfahren Sie, wie Sie Ihre Identität bei [[!DNL D-Trust]](d-trust.md) registrie
     <a href="intesi-qualified.md"><strong>Eine digitale ID von [!DNL Intesi Group] abrufen (qualifiziert)</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie ein qualifiziertes digitales Signaturzertifikat von [!DNL Intesi Group]</em> erhalten.
-    2<br>
+    <br>
   </td>
   <td>
     <a href="intesi-sign.md">
@@ -164,7 +176,7 @@ Erfahren Sie, wie Sie Ihre Identität bei [[!DNL D-Trust]](d-trust.md) registrie
     <a href="intesi-sign.md"><strong>Signieren mit [!DNL Intesi Group]</strong></a>
     </div>
     <em>Weitere Informationen zur Verwendung Ihrer [!DNL Intesi Group] digitalen ID mit Acrobat Sign</em>
-    3<br>
+    <br>
   </td>
   <td>
     <img alt="Spacer" src="../assets/Whitespacer.png" />

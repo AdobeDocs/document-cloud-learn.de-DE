@@ -7,9 +7,19 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/L-gJkWBpZ5juJ1fWR9dC7jrbONtjvE-DTphSMU2Dtmk
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '931'
+source-wordcount: 1991
 ht-degree: 1%
 
 ---
@@ -63,7 +73,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -86,7 +96,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/new-experience" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -109,7 +119,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorials anzeigen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -132,7 +142,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -155,7 +165,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                         </div>
                         <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                             <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                        3</a>
+                        </a>
             </div>
         </div>
     </div>         
@@ -178,7 +188,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/where-do-pdfs-come-from" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -208,7 +218,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -231,7 +241,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -254,7 +264,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -284,7 +294,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/create/create-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -307,7 +317,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/create/combine-to-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -330,7 +340,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/create/organize" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -353,7 +363,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/create/add-custom-page" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -376,7 +386,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/create/scan-and-ocr" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Lesen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -406,7 +416,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -429,7 +439,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -452,7 +462,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -475,7 +485,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/auto-adjust-layout" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -498,7 +508,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/export-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -528,7 +538,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/collaborate" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -551,7 +561,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/comment-on-pdf-files" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -581,7 +591,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/tools/create-fillable-forms" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Lesen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -604,7 +614,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/tools/fill-and-sign" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -627,7 +637,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/tools/password-protect" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -650,7 +660,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/tools/signatures" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -673,7 +683,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/tools/track" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>

@@ -7,10 +7,21 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/jvrxTpsT2V-n1HZxzA2dnBro7FEIFEoL1z9sYqmMa-g
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '444'
-ht-degree: 2%
+source-wordcount: 885
+ht-degree: 1%
 
 ---
 
@@ -59,7 +70,7 @@ Erfahren Sie, wie Sie die Effizienz mithilfe von [geführten Aktionen](action.md
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/reduce" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Lesen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -82,7 +93,7 @@ Erfahren Sie, wie Sie die Effizienz mithilfe von [geführten Aktionen](action.md
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/optimizescan" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -105,7 +116,7 @@ Erfahren Sie, wie Sie die Effizienz mithilfe von [geführten Aktionen](action.md
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/optimizeseo" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Lesen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -128,7 +139,7 @@ Erfahren Sie, wie Sie die Effizienz mithilfe von [geführten Aktionen](action.md
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/bookmarks" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -151,7 +162,7 @@ Erfahren Sie, wie Sie die Effizienz mithilfe von [geführten Aktionen](action.md
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/enhance" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Erste Schritte</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -174,7 +185,7 @@ Erfahren Sie, wie Sie die Effizienz mithilfe von [geführten Aktionen](action.md
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/compare" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -204,7 +215,7 @@ Erfahren Sie, wie Sie die Effizienz mithilfe von [geführten Aktionen](action.md
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/workforms" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Erste Schritte</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -227,7 +238,7 @@ Erfahren Sie, wie Sie die Effizienz mithilfe von [geführten Aktionen](action.md
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/advancedforms" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -250,7 +261,7 @@ Erfahren Sie, wie Sie die Effizienz mithilfe von [geführten Aktionen](action.md
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/formdata" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Lesen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -280,7 +291,7 @@ Erfahren Sie, wie Sie die Effizienz mithilfe von [geführten Aktionen](action.md
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/advanced-tasks/protect/redact" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Lesen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -310,7 +321,7 @@ Erfahren Sie, wie Sie die Effizienz mithilfe von [geführten Aktionen](action.md
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/action" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
@@ -333,7 +344,7 @@ Erfahren Sie, wie Sie die Effizienz mithilfe von [geführten Aktionen](action.md
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/custom" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                3</a>
+                </a>
             </div>
         </div>
     </div>
