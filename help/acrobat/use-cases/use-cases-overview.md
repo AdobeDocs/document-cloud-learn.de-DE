@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: d0dff6f4ad6274a97845c5e4b77c7dd968dd18d2
+source-git-commit: 6d5130128ab9c5084b6476ee5bd5c04869a3f0a9
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -64,8 +64,8 @@ Erfahrt, wie Teams in verschiedenen Geschäftsbereichen Acrobat einsetzen, um al
     <em>Erfahren Sie, wie Marketing-Teams die Zusammenarbeit optimieren, Genehmigungen beschleunigen und neue Ideen schneller auf den Markt bringen</em>
     <br>
   </td>
-  </tr>
-  <tr>
+</tr>
+<tr>
   <td>
     <a href="lob/sales/sales-overview.md">
       <img alt="Nutzungsszenarien im Vertrieb" src="../assets/use-case-sales.png" />
@@ -75,6 +75,21 @@ Erfahrt, wie Teams in verschiedenen Geschäftsbereichen Acrobat einsetzen, um al
     </div>
     <em>Erfahren Sie, wie Vertriebsteams durch intelligentere Zusammenarbeit und schnellere Content-Erstellung von Erkenntnissen zu Effekten gelangen</em>
     <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Spacer" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
