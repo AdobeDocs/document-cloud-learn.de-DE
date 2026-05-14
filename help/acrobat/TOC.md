@@ -8,9 +8,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 02a0d02585936fc89b855bf994ad6b6fa803dec0
+source-git-commit: 8137e92fd1731d6b8f3c03176371b397061d227c
 workflow-type: tm+mt
-source-wordcount: 681
+source-wordcount: 682
 ht-degree: 5%
 
 ---
@@ -103,6 +103,7 @@ ht-degree: 5%
          + [Überblick](use-cases/lob/legal/legal-overview.md)
          + [Verwandlung rechtlicher Erkenntnisse in verwertbare Anleitungen](use-cases/lob/legal/legal-insights.md)
       + Marketing {#marketing}
+         + [Überblick](use-cases/lob/marketing/marketing-overview.md)
          + [Produkteinführungen mit Acrobat Studio beschleunigen](use-cases/lob/marketing/marketing-product-launch.md)
       + Verkauf {#sales}
          + [Überblick](use-cases/lob/sales/sales-overview.md)
