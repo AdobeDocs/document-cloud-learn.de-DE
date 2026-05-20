@@ -8,20 +8,14 @@ jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
 TQID: https://experienceleague.adobe.com/vh-3Jo7Qm6k-Kt-JAdScJm7RIq7eCB4JmqpH6wLoHLE
-product_v2:
-  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
-  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
-  - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
-feature_v2:
-  - id: a8a587a8-9b83-4ab3-a2c9-24c085c8c7ba
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: e7b587ebd5c53bb275289de2afba95f510746074
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909id: c1c5fb98-9105-44ed-9df1-9e04d062a784id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+feature_v2: id: a8a587a8-9b83-4ab3-a2c9-24c085c8c7ba
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 6be89d2539d3a17a74f75460b58b924590e89d43
 workflow-type: tm+mt
-source-wordcount: 539
-ht-degree: 24%
+source-wordcount: 583
+ht-degree: 22%
 
 ---
 
@@ -33,9 +27,13 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
 
 >[!BEGINTABS]
 
+>[!TAB Verwendung von Kopie erstellen]
+
+Erfahren Sie, wie Sie mit [Kopie erstellen](../sign-beginner-tutorials/create-a-copy.md) eine vorhandene Vereinbarung duplizieren. Du kannst schnell anpassen, was geändert werden muss, und das Dokument in Sekunden erneut versenden. Keine Wiederherstellung von Grund auf.
+
 >[!TAB Dokument nach dem Senden ändern]
 
-Erfahren Sie, wie [ein Dokument &#x200B;](../sign-beginner-tutorials/manage-and-track.md) ändern kann, das bereits zur Signatur gesendet wurde.
+Erfahren Sie, wie [ein Dokument ](../sign-beginner-tutorials/manage-and-track.md) ändern kann, das bereits zur Signatur gesendet wurde.
 
 >[!TAB Vereinbarungen verwalten und verfolgen]
 
@@ -44,10 +42,6 @@ Erfahren Sie, wie [Vereinbarungen verwalten und verfolgen](../sign-beginner-tuto
 >[!TAB Ein Dokument elektronisch signieren]
 
 Erfahren Sie, wie einfach es ist, ein Dokument, das Ihnen mit Acrobat Sign gesendet wurde, [zu signieren](../sign-beginner-tutorials/electronically-sign-a-document.md).
-
->[!TAB Wiederverwendbare Vorlage erstellen]
-
-Erfahren Sie, wie Sie eine [wiederverwendbare Dokumentvorlage](../sign-advanced-users/create-a-template.md) erstellen.
 
 >[!ENDTABS]
 
@@ -159,7 +153,7 @@ Erfahren Sie, wie Sie eine [wiederverwendbare Dokumentvorlage](../sign-advanced-
     Erstelle eine wiederverwendbare Dokumentvorlage, um deinem Unternehmen eine schnelle und einheitliche Arbeitsweise zu ermöglichen
     <br>
   </td>
-    <td>
+  <td>
      <a href="checkbox-groups.md">
       <img alt="Erforderliche Auswahlen durch Kontrollkästchengruppen führen" src="../assets/checkboxes.png" />
     </a>
@@ -169,10 +163,15 @@ Erfahren Sie, wie Sie eine [wiederverwendbare Dokumentvorlage](../sign-advanced-
     Erfahren Sie, wie Sie Kontrollkästchengruppen verwenden, um zu steuern, wie viele Optionen ein Unterzeichner in einem Formular auswählen kann.
     <br>
     </td>
-    <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
+  <td>
+     <a href="create-a-copy.md">
+      <img alt="Wann eignet sich die Option Kopie erstellen?" src="../assets/create-copy.png" />
+    </a>
+    <div>
+    <a href="create-a-copy.md"><strong>Verwendung von Kopie erstellen</strong></a>
+    </div>
+    Hier erfahren Sie, wie Sie eine Kopie erstellen verwenden, um eine vorhandene Vereinbarung zu duplizieren.
+    <br>
     </td>
 </tr>
 </table>
