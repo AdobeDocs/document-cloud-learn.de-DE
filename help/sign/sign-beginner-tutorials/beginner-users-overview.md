@@ -18,10 +18,10 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: e7b587ebd5c53bb275289de2afba95f510746074
+source-git-commit: 6be89d2539d3a17a74f75460b58b924590e89d43
 workflow-type: tm+mt
-source-wordcount: 539
-ht-degree: 24%
+source-wordcount: 583
+ht-degree: 22%
 
 ---
 
@@ -32,6 +32,10 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
 ## Neue Funktionen
 
 >[!BEGINTABS]
+
+>[!TAB Verwendung von Kopie erstellen]
+
+Erfahren Sie, wie Sie mit [Kopie erstellen](../sign-beginner-tutorials/create-a-copy.md) eine vorhandene Vereinbarung duplizieren. Du kannst schnell anpassen, was geändert werden muss, und das Dokument in Sekunden erneut versenden. Keine Wiederherstellung von Grund auf.
 
 >[!TAB Dokument nach dem Senden ändern]
 
@@ -44,10 +48,6 @@ Erfahren Sie, wie [Vereinbarungen verwalten und verfolgen](../sign-beginner-tuto
 >[!TAB Ein Dokument elektronisch signieren]
 
 Erfahren Sie, wie einfach es ist, ein Dokument, das Ihnen mit Acrobat Sign gesendet wurde, [zu signieren](../sign-beginner-tutorials/electronically-sign-a-document.md).
-
->[!TAB Wiederverwendbare Vorlage erstellen]
-
-Erfahren Sie, wie Sie eine [wiederverwendbare Dokumentvorlage](../sign-advanced-users/create-a-template.md) erstellen.
 
 >[!ENDTABS]
 
@@ -159,7 +159,7 @@ Erfahren Sie, wie Sie eine [wiederverwendbare Dokumentvorlage](../sign-advanced-
     Erstelle eine wiederverwendbare Dokumentvorlage, um deinem Unternehmen eine schnelle und einheitliche Arbeitsweise zu ermöglichen
     <br>
   </td>
-    <td>
+  <td>
      <a href="checkbox-groups.md">
       <img alt="Erforderliche Auswahlen durch Kontrollkästchengruppen führen" src="../assets/checkboxes.png" />
     </a>
@@ -169,10 +169,15 @@ Erfahren Sie, wie Sie eine [wiederverwendbare Dokumentvorlage](../sign-advanced-
     Erfahren Sie, wie Sie Kontrollkästchengruppen verwenden, um zu steuern, wie viele Optionen ein Unterzeichner in einem Formular auswählen kann.
     <br>
     </td>
-    <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
+  <td>
+     <a href="create-a-copy.md">
+      <img alt="Wann eignet sich die Option Kopie erstellen?" src="../assets/create-copy.png" />
+    </a>
+    <div>
+    <a href="create-a-copy.md"><strong>Verwendung von Kopie erstellen</strong></a>
+    </div>
+    Hier erfahren Sie, wie Sie eine Kopie erstellen verwenden, um eine vorhandene Vereinbarung zu duplizieren.
+    <br>
     </td>
 </tr>
 </table>
