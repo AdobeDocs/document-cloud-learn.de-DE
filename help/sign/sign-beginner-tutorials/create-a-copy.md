@@ -26,4 +26,4 @@ Eine Vereinbarung wurde bereits gesendet. Sie ist jedoch abgelaufen, wurde abgeb
 >
 >Das Erstellen einer Kopie ist für Abos auf Enterprise-Ebene verfügbar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491372?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3491381?captions=ger&quality=12&learn=on&hidetitle=true)

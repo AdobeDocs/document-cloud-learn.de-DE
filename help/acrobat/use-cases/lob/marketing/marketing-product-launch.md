@@ -19,5 +19,5 @@ In diesem Tutorial erklärt sie, wie sie einen PDF-Space nutzt, um den Arbeitsab
 
 **Am besten geeignet für:** Marketing-Manager und Leads, Projekt-/Programm-Manager sowie Kommunikations- und Enablement-Teams
 
->[!VIDEO](https://video.tv.adobe.com/v/3491107?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3491116?captions=ger&quality=12&learn=on&hidetitle=true)
 
