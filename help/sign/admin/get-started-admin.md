@@ -39,142 +39,142 @@ Dieser umfassende Videoleitfaden wurde speziell für neue Acrobat Sign-Administr
 <table style="table-layout:auto">
 <tr>
   <td>
-    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=60">
+    <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=60">
       <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=60"><strong>Zugriff auf die Admin Console</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=60"><strong>Zugriff auf die Admin Console</strong></a>
          <br>
         <em>Beginnen um 1:00</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=105">
+    <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=105">
       <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=105"><strong>Berechtigung von Acrobat Sign für einen Benutzer</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=105"><strong>Berechtigung von Acrobat Sign für einen Benutzer</strong></a>
         <br>
         <em>Beginnen Sie um 1:45</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=191">
+    <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=191">
       <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=191"><strong>Überblick über das Acrobat Sign-Webportal</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=191"><strong>Überblick über das Acrobat Sign-Webportal</strong></a>
         <br>
         <em>Beginnen um 3:11</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=358">
+    <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=358">
       <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=358"><strong>Globale Einstellungen und Konfigurationen</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=358"><strong>Globale Einstellungen und Konfigurationen</strong></a>
         <br>
         <em>Beginnen um 5:58</em>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=460">
+    <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=460">
       <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=460"><strong>Branding und Einrichtung von Konten</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=460"><strong>Branding und Einrichtung von Konten</strong></a>
          <br>
         <em>Beginnen um 7:40</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=502">
+    <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=502">
       <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=502"><strong>Signaturvorgaben</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=502"><strong>Signaturvorgaben</strong></a>
         <br>
         <em>Beginnen um 8:22</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=543">
+    <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=543">
       <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=543"><strong>Sicherheitseinstellungen</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=543"><strong>Sicherheitseinstellungen</strong></a>
         <br>
         <em>Beginnen um 9:03</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=595">
+    <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=595">
       <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=595"><strong>Sendeeinstellungen</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=595"><strong>Sendeeinstellungen</strong></a>
         <br>
         <em>Beginnen um 9:55</em>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=720">
+    <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=720">
       <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=720"><strong>Nachrichtenvorlagen</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=720"><strong>Nachrichtenvorlagen</strong></a>
          <br>
         <em>Beginnen um 12:00</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=755">
+    <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=755">
       <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=755"><strong>E-Mail-Einstellungen</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=755"><strong>E-Mail-Einstellungen</strong></a>
         <br>
         <em>Beginnen um 12:35</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=783">
+    <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=783">
       <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=783"><strong>Benutzer- und Gruppenverwaltung</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=783"><strong>Benutzer- und Gruppenverwaltung</strong></a>
         <br>
         <em>Beginnen um 13:03</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=917">
+    <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=917">
       <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=917"><strong>Arbeitsabläufe erstellen und aktivieren</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=917"><strong>Arbeitsabläufe erstellen und aktivieren</strong></a>
         <br>
         <em>Um 15:17 beginnen</em>
   </td>
 </tr>
 <tr>
   <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=1145">
+     <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=1145">
       <img alt="Schneller Bildvorlauf" src="../assets/Stepforward_18.png" />
     </a>
     </td>
     <td>
-     <a href="https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true&t=1145"><strong>Zugriff auf Support und zusätzliche Ressourcen</strong></a>
+     <a href="https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true&t=1145"><strong>Zugriff auf Support und zusätzliche Ressourcen</strong></a>
         <br>
         <em>Beginnen um 19:05</em>
     </td>
   </tr>
   </table>
 
->[!VIDEO](https://video.tv.adobe.com/v/3477284?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477296?captions=ger&quality=12&learn=on&hidetitle=true)

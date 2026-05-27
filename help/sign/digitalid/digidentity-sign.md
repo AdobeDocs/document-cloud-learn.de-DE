@@ -34,4 +34,4 @@ Digidentity ist ein EU-qualifizierter Trust Service Provider (QTSP). Der Digiden
 
 In diesem Video-Tutorial erfährst du, wie es vom Eingang der E-Mail mit der Registrierungseinladung zur Authentifizierung und Anwenden einer Cloud-Signatur mit einer digitalen ID in Acrobat Sign weitergeht.
 
->[!VIDEO](https://video.tv.adobe.com/v/336991?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449791?captions=ger&quality=12&learn=on&hidetitle=true)
