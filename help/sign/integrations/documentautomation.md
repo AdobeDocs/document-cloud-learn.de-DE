@@ -9,11 +9,20 @@ thumbnail: KT-7488.jpg
 jira: KT-7488
 exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
 TQID: https://experienceleague.adobe.com/-6Wi-1ypmwdIENbdMRe2z8dJ-OM7KQl3cGmyuIyKIC4
-product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909id: c1c5fb98-9105-44ed-9df1-9e04d062a784id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1id: f002a92a-b99f-47a4-90c8-65e0e415bc7a
-feature_v2: id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+  - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+  - id: f002a92a-b99f-47a4-90c8-65e0e415bc7a
+feature_v2:
+  - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
 source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
 source-wordcount: 2466
@@ -267,7 +276,7 @@ Diese Ordner werden jetzt als Teil Ihres Power Automate -Ablaufs referenziert.
 1. Wählen Sie **Neu hinzugefügte Dateien in durchsuchbaren PDF in SharePoint umwandeln**.
 1. Klicken Sie auf das Symbol **+** neben Adobe PDF Tools.
 
-   ![Screenshot der Auswahl des Plus-Symbols ](assets/documentautomation/automation_27.png)
+   ![Screenshot der Auswahl des Plus-Symbols &#x200B;](assets/documentautomation/automation_27.png)
 
 1. Navigieren Sie auf einer neuen Registerkarte zu https://www.adobe.com/go/powerautomate_getstarted .
 1. Klicken Sie auf **Erste Schritte**.
@@ -501,7 +510,7 @@ Nachdem Sie einen Textfluss erstellt haben, bearbeiten Sie den Textfluss, um das
 
 1. Wählen Sie **Automatisieren** aus, um Ihren Flow auszuwählen.
 
-   ![Screenshot der Auswahl von &quot;Automatisch&quot; aus dem Menü ](assets/documentautomation/automation_59.png)
+   ![Screenshot der Auswahl von &quot;Automatisch&quot; aus dem Menü &#x200B;](assets/documentautomation/automation_59.png)
 
 1. Klicken Sie auf **Weiter**, um den Textfluss zu starten.
 
