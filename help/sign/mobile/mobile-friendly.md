@@ -5,9 +5,10 @@ feature: Mobile, Sign
 role: User
 level: Beginner
 jira: KT-18735
-source-git-commit: 67d0b3568daab5d957b917fa9d52203dcc2bb0f8
+exl-id: ffa5c39a-c3cc-45b1-a8ae-85b2e813e364
+source-git-commit: ff801a13834e099a1769821e908a65e1e9fc077f
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -18,8 +19,8 @@ Aufgaben unterwegs zu erledigen ist nicht mehr optional - von Profis, die Vertr�
 
 Mit der Mobile View von Acrobat Sign kann jeder Formulare auf einem Mobilgerät einfacher ausfüllen und unterschreiben, egal wo er sich befindet. Die mobile Ansicht führt die Benutzer durch die automatische Erstellung und Bereitstellung einer vereinfachten Benutzeroberfläche auf Mobilgeräten und erleichtert so das effiziente und präzise Ausfüllen von Dokumenten über folgende Funktionen:
 
-* Mobiltaugliche Felder: kein Verkleinern und Zoomen mehr, Formulare passen perfekt in Ihren Bildschirm
-* Verbesserte Genauigkeit: Reduziert Fehler und stellt sicher, dass alle erforderlichen Informationen erfasst werden.
-* Kontinuität: Benutzer können das für Mobilgeräte geeignete Formular jederzeit starten und zurückkehren, ohne den Fortschritt zu verlieren
+* Mobile-freundliche Felder: Formulare müssen nicht mehr gezoomt und gequetscht werden, sie passen perfekt in Ihren Bildschirm
+* Verbesserte Genauigkeit: reduziert Fehler und stellt sicher, dass alle erforderlichen Informationen erfasst werden
+* Kontinuität: Benutzer können das für Mobilgeräte geeignete Formular jederzeit starten und wieder aufrufen, ohne den Fortschritt zu verlieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478395?captions=ger&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3478386?quality=12&learn=on&hidetitle=true)
