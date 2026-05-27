@@ -11,19 +11,11 @@ jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
 TQID: https://experienceleague.adobe.com/J-UO0MiY9BG6zt7UcwxYTupl00NBWNbjamrkoF-nKKE
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
-feature_v2:
-  - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-subfeature_v2:
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+feature_v2: id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+subfeature_v2: id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
 source-wordcount: 686
@@ -39,11 +31,11 @@ Erfahren Sie, wie Sie mit Acrobat Sign, Acrobat Sign für Microsoft Dynamic, Mar
 
 1. Installieren Sie Marketo Microsoft Dynamics Sync.
 
-   Informationen und das neueste Plug-in für Microsoft Dynamics Sync sind hier [verfügbar.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html?lang=de)
+   Informationen und das neueste Plug-in für Microsoft Dynamics Sync sind hier [verfügbar.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
 1. Installieren Sie Acrobat Sign für Microsoft Dynamics.
 
-   Informationen zu diesem Plug-in sind hier [&#x200B; verfügbar.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
+   Informationen zu diesem Plug-in sind hier [ verfügbar.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## Benutzerdefiniertes Objekt suchen
 
