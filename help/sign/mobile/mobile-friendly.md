@@ -23,4 +23,4 @@ Mit der Mobile View von Acrobat Sign kann jeder Formulare auf einem Mobilgerät 
 * Verbesserte Genauigkeit: reduziert Fehler und stellt sicher, dass alle erforderlichen Informationen erfasst werden
 * Kontinuität: Benutzer können das für Mobilgeräte geeignete Formular jederzeit starten und wieder aufrufen, ohne den Fortschritt zu verlieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478386?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3478395?captions=ger&quality=12&learn=on&hidetitle=true)
