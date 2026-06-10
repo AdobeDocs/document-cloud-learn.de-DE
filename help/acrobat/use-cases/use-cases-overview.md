@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 00f1d9b37a4e9d2a76b7585bf97bd56b7b647f68
+source-git-commit: d6924927618a9dac4a208d03e55601fdf0232695
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -32,8 +32,8 @@ Erfahrt, wie Teams in verschiedenen Geschäftsbereichen Acrobat einsetzen, um al
       <a href="lob/finance/finance-overview.md"><strong>Nutzungsszenarien für Finanzierungen</strong></a>
       </div>
       <em>Erfahren Sie, wie Finanzteams Acrobat zum Erstellen, Verwalten, Analysieren und Sichern von Finanzdokumenten verwenden</em>
-      <br>
-    </td>
+      2
+    <br></td>
     <td>
       <a href="lob/hr/hr-overview.md">
         <img alt="HR-Nutzungsszenarien" src="../assets/use-case-hr.png" />
@@ -42,8 +42,18 @@ Erfahrt, wie Teams in verschiedenen Geschäftsbereichen Acrobat einsetzen, um al
       <a href="lob/hr/hr-overview.md"><strong>Nutzungsszenarien für Personalabteilungen</strong></a>
       </div>
       <em>Erfahren Sie, wie HR-Teams Acrobat zur Verwaltung von Dokumenten und Workflows während des gesamten Lebenszyklus von Mitarbeitern verwenden</em>
-      <br>
-    </td>
+      2
+    <br></td>
+    <td>
+      <a href="lob/it/it-overview.md">
+        <img alt="IT-Nutzungsszenarien" src="../assets/use-case-it.png" />
+      </a>
+      <div>
+      <a href="lob/it/it-overview.md"><strong>IT-Nutzungsszenarien</strong></a>
+      </div>
+      <em>Erfahren Sie, wie IT-Teams Acrobat Studio verwenden, um Dokumenten-Workflows zu optimieren, die Sicherheit und Compliance zu verbessern und die Governance-Programme im gesamten Unternehmen zu skalieren</em>
+      2
+    <br></td>
     <td>
       <a href="lob/legal/legal-overview.md">
         <img alt="Rechtliche Anwendungsfälle" src="../assets/use-case-legal.png" />
@@ -52,8 +62,10 @@ Erfahrt, wie Teams in verschiedenen Geschäftsbereichen Acrobat einsetzen, um al
       <a href="lob/legal/legal-overview.md"><strong>Nutzungsszenarien</strong></a>
       </div>
       <em>Erfahren Sie, wie Rechtsteams komplexe Dokumente schnell verstehen und kritische Risiken und Änderungen ermitteln</em>
-      <br>
-    </td>
+      2
+    <br></td>
+  </tr>
+  <tr>
     <td>
       <a href="lob/marketing/marketing-overview.md">
         <img alt="Nutzungsszenarien" src="../assets/use-case-marketing.png" />
@@ -62,10 +74,8 @@ Erfahrt, wie Teams in verschiedenen Geschäftsbereichen Acrobat einsetzen, um al
       <a href="lob/marketing/marketing-overview.md"><strong>Nutzungsszenarien für das Marketing</strong></a>
       </div>
       <em>Erfahren Sie, wie Marketing-Teams die Zusammenarbeit optimieren, Genehmigungen beschleunigen und neue Ideen schneller auf den Markt bringen</em>
-      <br>
-    </td>
-  </tr>
-  <tr>
+      2
+    <br></td>
     <td>
       <a href="lob/sales/sales-overview.md">
         <img alt="Nutzungsszenarien im Vertrieb" src="../assets/use-case-sales.png" />
@@ -74,13 +84,8 @@ Erfahrt, wie Teams in verschiedenen Geschäftsbereichen Acrobat einsetzen, um al
       <a href="lob/sales/sales-overview.md"><strong>Nutzungsszenarien für Verkäufe</strong></a>
       </div>
       <em>Erfahren Sie, wie Vertriebsteams durch intelligentere Zusammenarbeit und schnellere Content-Erstellung von Erkenntnissen zu Effekten gelangen</em>
-      <br>
-    </td>
-    <td>
-          <img alt="Spacer" src="../assets/Grayspacer.png" />
-          <div>
-          <br>
-    </td>
+      2
+    <br></td>
     <td>
           <img alt="Spacer" src="../assets/Grayspacer.png" />
           <div>
@@ -102,8 +107,8 @@ Erfahrt, wie Teams in verschiedenen Geschäftsbereichen Acrobat einsetzen, um al
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat für Behörden" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat für Behörden"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat für Behörden" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat für Behörden"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -111,14 +116,14 @@ Erfahrt, wie Teams in verschiedenen Geschäftsbereichen Acrobat einsetzen, um al
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" title="Acrobat für Behörden">Acrobat für Behörden</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" title="Acrobat für Behörden">Acrobat für Behörden</a>
                     </p>
                     <p class="is-size-6">Unsere Tutorials zu Acrobat sind speziell für Bund, Länder und Gemeinden konzipiert.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorials durchsuchen</span>
-                </a>
-            </div>
+                3
+            </a></div>
         </div>
     </div>
 </div>
