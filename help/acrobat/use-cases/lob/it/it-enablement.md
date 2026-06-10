@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-21582
-source-git-commit: d6924927618a9dac4a208d03e55601fdf0232695
+source-git-commit: dba63896a6b35d2c8930ad2fad2f92fc8d833945
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # IT-Aktivierung ohne Engpass
 
-In diesem Tutorial zeigen Sie einem IT-Team von SecurFinancial anhand von drei Workflows aus der realen Welt. Entfernen Sie die personenbezogenen Daten, und erstellen Sie eine Zusammenfassung aus einem Vorfallsbericht. Analysieren eines Lieferantenvertrags anhand Ihrer internen Sicherheitsstandards und Erstellen eines Follow-up-Fragebogens. Wandelt Dokumente mit statischen Richtlinien in interaktive, unternehmensweite Governance-Ressourcen um, auf die Mitarbeiter auf jedem Gerät zugreifen und Fragen stellen können. Jedes Tutorial nutzt den KI-Assistenten, die PDF-Spaces und den Adobe Expreß von Acrobat Studio, um manuelle Arbeitsstunden auf wenige Minuten zu reduzieren und gleichzeitig die IT-Abteilung bei jedem Arbeitsschritt zu unterstützen.Dieser Anwendungsfall ist so konzipiert, dass er in der Reihenfolge abgeschlossen werden kann, wobei jedes Video auf dem vorherigen Schritt aufbaut.
+In diesem Tutorial zeigen Sie einem IT-Team von SecurFinancial anhand von drei Workflows aus der realen Welt. Entfernen Sie die personenbezogenen Daten, und erstellen Sie eine Zusammenfassung aus einem Vorfallsbericht. Analysieren eines Lieferantenvertrags anhand Ihrer internen Sicherheitsstandards und Erstellen eines Follow-up-Fragebogens. Wandelt Dokumente mit statischen Richtlinien in interaktive, unternehmensweite Governance-Ressourcen um, auf die Mitarbeiter auf jedem Gerät zugreifen und Fragen stellen können. In jedem Tutorial werden der KI-Assistent, PDF Spaces und der Adobe Expreß von Acrobat Studio eingesetzt, um den Zeitaufwand für manuelle Aufgaben auf wenige Minuten zu reduzieren und gleichzeitig die IT-Abteilung in die Lage zu versetzen, alle Arbeitsschritte selbst zu erledigen. Dieser Anwendungsfall ist so konzipiert, dass er in der Reihenfolge abgeschlossen werden kann, wobei jedes Video auf dem vorherigen Schritt aufbaut.
 
 **Am besten geeignet für:** IT-Direktoren, Sicherheits- und Betriebsteams
 
