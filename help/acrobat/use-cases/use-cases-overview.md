@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 96b25ef9f65fc25684ab971a3e5f8cdcfb5ee343
+source-git-commit: 7f4316ba94749de4ee1edb28948c312674965553
 workflow-type: tm+mt
-source-wordcount: '762'
+source-wordcount: '628'
 ht-degree: 0%
 
 ---
@@ -178,86 +178,6 @@ Erfahren Sie, wie Marketing-Teams mit Acrobat Studio [Elemente für den Produkts
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-<!-- COMMENT -->
-
-<table style="table-layout:fixed">
-  <tr>
-    <td>
-      <a href="lob/finance/finance-overview.md">
-        <img alt="Finanzierungsbedarf." src="../assets/use-case-finance.png" />
-      </a>
-      <div>
-      <a href="lob/finance/finance-overview.md"><strong>Nutzungsszenarien für Finanzierungen</strong></a>
-      </div>
-      <em>Erfahren Sie, wie Finanzteams Acrobat zum Erstellen, Verwalten, Analysieren und Sichern von Finanzdokumenten verwenden</em>
-      2
-    <br></td>
-    <td>
-      <a href="lob/hr/hr-overview.md">
-        <img alt="HR-Nutzungsszenarien" src="../assets/use-case-hr.png" />
-      </a>
-      <div>
-      <a href="lob/hr/hr-overview.md"><strong>Nutzungsszenarien für Personalabteilungen</strong></a>
-      </div>
-      <em>Erfahren Sie, wie HR-Teams Acrobat zur Verwaltung von Dokumenten und Workflows während des gesamten Lebenszyklus von Mitarbeitern verwenden</em>
-      2
-    <br></td>
-    <td>
-      <a href="lob/it/it-overview.md">
-        <img alt="IT-Nutzungsszenarien" src="../assets/use-case-it.png" />
-      </a>
-      <div>
-      <a href="lob/it/it-overview.md"><strong>IT-Nutzungsszenarien</strong></a>
-      </div>
-      <em>Erfahren Sie, wie IT-Teams Acrobat Studio verwenden, um Dokumenten-Workflows zu optimieren, die Sicherheit und Compliance zu verbessern und die Governance-Programme im gesamten Unternehmen zu skalieren</em>
-      2
-    <br></td>
-    <td>
-      <a href="lob/legal/legal-overview.md">
-        <img alt="Rechtliche Anwendungsfälle" src="../assets/use-case-legal.png" />
-      </a>
-      <div>
-      <a href="lob/legal/legal-overview.md"><strong>Nutzungsszenarien</strong></a>
-      </div>
-      <em>Erfahren Sie, wie Rechtsteams komplexe Dokumente schnell verstehen und kritische Risiken und Änderungen ermitteln</em>
-      2
-    <br></td>
-  </tr>
-  <tr>
-    <td>
-      <a href="lob/marketing/marketing-overview.md">
-        <img alt="Nutzungsszenarien" src="../assets/use-case-marketing.png" />
-      </a>
-      <div>
-      <a href="lob/marketing/marketing-overview.md"><strong>Nutzungsszenarien für das Marketing</strong></a>
-      </div>
-      <em>Erfahren Sie, wie Marketing-Teams die Zusammenarbeit optimieren, Genehmigungen beschleunigen und neue Ideen schneller auf den Markt bringen</em>
-      2
-    <br></td>
-    <td>
-      <a href="lob/sales/sales-overview.md">
-        <img alt="Nutzungsszenarien im Vertrieb" src="../assets/use-case-sales.png" />
-      </a>
-      <div>
-      <a href="lob/sales/sales-overview.md"><strong>Nutzungsszenarien für Verkäufe</strong></a>
-      </div>
-      <em>Erfahren Sie, wie Vertriebsteams durch intelligentere Zusammenarbeit und schnellere Content-Erstellung von Erkenntnissen zu Effekten gelangen</em>
-      2
-    <br></td>
-    <td>
-          <img alt="Spacer" src="../assets/Grayspacer.png" />
-          <div>
-          <br>
-    </td>
-    <td>
-          <img alt="Spacer" src="../assets/Grayspacer.png" />
-          <div>
-          <br>
-    </td>
-  </tr>
-</table>
-<!-- END COMMENT -->
 
 ## Regierungseinrichtungen
 
