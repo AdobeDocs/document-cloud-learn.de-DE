@@ -22,19 +22,19 @@ In diesem Tutorial zeigen Sie einem IT-Team von SecurFinancial anhand von drei W
 
 Vertrauliche Informationen lassen sich aus einem Vorfallsbericht entfernen, das Dokument sichern und weitergeben und eine Präsentation erstellen, die von Führungskräften eingesetzt werden kann - ohne Acrobat Studio verlassen zu müssen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492183?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492192?captions=ger&quality=12&learn=on&hidetitle=true)
 
 ## Schritt 2. Lieferantenvertrag analysieren und entsprechend agieren
 
 Aufbauend auf dem gesicherten Vorfallsbericht aus Teil 1 erfahren Sie, wie Sie einen Lieferantenvertrag anhand der Sicherheitsstandards Ihres Unternehmens analysieren, Lücken sofort schließen und einen Follow-up-Fragebogen generieren können - alles von einem einzigen PDF-Space aus.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492184?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492201?captions=ger&quality=12&learn=on&hidetitle=true)
 
 ## Schritt 3. Richtlinien für KI-Governance erstellen und bereitstellen.
 
 Erfahren Sie, wie Sie statische Richtliniendokumente in einen gesteuerten, interaktiven Arbeitsbereich umwandeln und dann als Self-Service-Ressource bereitstellen können, auf die das gesamte Unternehmen zugreifen und Abfragen auf jedem Gerät durchführen kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492185?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492210?captions=ger&quality=12&learn=on&hidetitle=true)
 
 Sie haben einen Vorfallsbericht gesichert und zusammengefasst, einen Lieferantenvertrag auf Grundlage Ihrer internen Sicherheitsstandards analysiert und statische Policy-Dokumente in eine gesteuerte Self-Service-Ressource für Ihr gesamtes Unternehmen umgewandelt - drei Workflows, eine Plattform, kein Tool-Wechsel.
 
