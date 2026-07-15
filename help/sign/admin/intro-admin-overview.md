@@ -24,12 +24,13 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: e7b587ebd5c53bb275289de2afba95f510746074
+source-git-commit: 31b6696fe63501f70cc7de0bf4d00c86e9105d11
 workflow-type: tm+mt
 source-wordcount: 719
 ht-degree: 3%
 
 ---
+
 
 # Administratoren - Übersicht
 
@@ -69,7 +70,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
     <a href="get-started-admin.md"><strong>Erste Schritte für neue Administratoren</strong></a>
     </div>
     <em>Informieren Sie sich in diesem umfassenden Videoleitfaden über alle Tools, die erforderlich sind, damit Ihr Unternehmen mit Acrobat Sign arbeiten kann</em>
-    <br>
+    
   </td>
   <td>
     <a href="up-and-running-admin.md">
@@ -79,7 +80,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
     <a href="up-and-running-admin.md"><strong>Verfügbar für Administratoren</strong></a>
     </div>
     <em>Übersicht über 7 wichtige Bereiche, in denen Administratoren schnell mit Acrobat Sign arbeiten können</em>
-    <br>
+    
   </td>
   <td>
     <a href="docusign-templates.md">
@@ -89,7 +90,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
     <a href="docusign-templates.md"><strong>Dokumentvorlagen migrieren</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie Dokumentationsvorlagen und Workflows nahtlos migrieren</em>
-    <br>
+    
   </td>
   <td>
     <a href="add-users-to-your-account.md">
@@ -99,7 +100,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
     <a href="add-users-to-your-account.md"><strong>Neuen Benutzer hinzufügen</strong></a>
     </div>
     <em>Weitere Informationen zum Hinzufügen neuer Benutzer zu Acrobat Sign</em>
-    <br>
+    
   </td>
 </tr>
 <tr>
@@ -111,7 +112,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
     <a href="automatic-assignment-rules.md"><strong>Automatische Benutzerzuweisungsregeln aktivieren</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie automatische Zuweisungsregeln einrichten, die Benutzern Zugriff auf Acrobat Sign in der Admin Console gewähren</em>
-    <br>
+    
   </td>
   <td>
     <a href="add-admin.md">
@@ -121,7 +122,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
     <a href="add-admin.md"><strong>Neuen Kontoadministrator hinzufügen</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie einen neuen Benutzer erstellen oder einen bestehenden Benutzer zur Acrobat Sign-Administratorrolle hochstufen</em>
-    <br>
+    
   </td>
     <td>
       <a href="promote-admin.md">
@@ -131,7 +132,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
       <a href="promote-admin.md"><strong>Produkt- und Support-Administratorrollen zuweisen</strong></a>
       </div>
       <em>Erfahren Sie, wie Sie der Admin Console eine Acrobat Sign-Benutzerproduktadministrator- und Supportadministratorrolle zuweisen</em>
-      <br>
+      
     </td>
     <td>
       <a href="create-and-manage-groups.md">
@@ -141,7 +142,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
       <a href="create-and-manage-groups.md"><strong>Erstellen und Verwalten von Gruppen</strong></a>
       </div>
       <em>Gruppen erstellen, Benutzer zu Gruppen hinzufügen und Gruppeneinstellungen bearbeiten</em>
-      <br>
+      
     </td>
 </tr>
 <tr>
@@ -153,7 +154,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
       <a href="set-up-your-external-archive.md"><strong>Einrichten eines externen Archivs</strong></a>
       </div>
       <em>Ein externes Archiv für Sicherungskopien von signierten Vereinbarungen erstellen</em>
-      <br>
+      
     </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
@@ -163,7 +164,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
     <a href="../sign-advanced-users/create-a-template.md"><strong>Wiederverwendbare Vorlage erstellen</strong></a>
     </div>
     <em>Eine wiederverwendbare Dokumentvorlage erstellen, um Geschwindigkeit und Konsistenz sicherzustellen</em>
-    <br>
+    
   </td>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
@@ -173,7 +174,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
     <a href="../sign-advanced-users/creating-a-report.md"><strong>Berichterstellung und Transaktionsnutzung</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie Berichte generieren und die Transaktionsnutzung verfolgen</em>
-    <br>
+    
   </td>
   <td>
     <a href="report-options.md">
@@ -183,7 +184,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
     <a href="report-options.md"><strong>Berichtsoptionen für Benutzer</strong></a>
     </div>
     <em>Informationen zum Einrichten von Berichtsoptionen für Benutzer</em>
-    <br>
+    
   </td>
 </tr>  
 <tr>
@@ -195,7 +196,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
     <a href="../sign-advanced-users/webform.md"><strong>Erstellen eines Webformulars</strong></a>
     </div>
     <em>Erstellen Sie ein Dokument, das direkt auf Ihrer Website elektronisch signiert werden kann</em>
-    <br>
+    
   </td>
   <td>
     <a href="../sign-advanced-users/modify-webform.md">
@@ -205,7 +206,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
     <a href="../sign-advanced-users/modify-webform.md"><strong>Vorhandenes Webformular ändern</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie ein vorhandenes Webformular deaktivieren, bearbeiten und wieder aktivieren</em>
-    <br>
+    
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
@@ -215,7 +216,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
     <a href="../sign-advanced-users/megasign.md"><strong>Massenversand</strong></a>
     </div>
     <em>Mehrere Tausend Unterschriften gleichzeitig für jedes Dokument einholen</em>
-    <br>
+    
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
@@ -225,7 +226,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
     <a href="building-a-custom-workflow.md"><strong>Benutzerdefinierten Workflow erstellen</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie benutzerdefinierte Workflows erstellen und verwenden, um das Erstellen und Senden einer Vereinbarung zu beschleunigen</em>
-    <br>
+    
   </td>
 </tr>
 <tr>
@@ -237,7 +238,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
     <a href="audit-reports.md"><strong>Audit-Berichte</strong></a>
     </div>
     <em>Weitere Informationen zum Zugriff, zur Verwendung und Konfiguration von Audit-Berichten</em>
-    <br>
+    
     </td>
     <td>
       <a href="set-up-shared-events-and-alert.md">
@@ -247,7 +248,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
       <a href="set-up-shared-events-and-alert.md"><strong>Benachrichtigungen für Ereignisse und Warnungen konfigurieren</strong></a>
       </div>
       <em>Benachrichtigungen für Ereignisse und Warnungen für Ihr Konto konfigurieren</em>
-      <br>
+      
     </td>
     <td>
       <a href="configure-modify-agreement.md">
@@ -257,7 +258,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
       <a href="configure-modify-agreement.md"><strong>Vereinbarung ändern konfigurieren und steuern</strong></a>
       </div>
       <em>Informationen zum Konfigurieren und Steuern des Modifizierens von Vereinbarungen</em>
-      <br>
+      
     </td>
     <td>
       <img alt="Spacer" src="../assets/Whitespacer.png" />
@@ -279,7 +280,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
     <a href="learn-about-global-settings.md"><strong>Globale Einstellungen</strong></a>
     </div>
     <em>Produkteinstellungen global für Ihre gesamte Organisation oder für bestimmte Gruppen bearbeiten</em>
-    <br>
+    
   </td>
   <td>
     <a href="share-account-access.md">
@@ -289,7 +290,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
     <a href="share-account-access.md"><strong>Kontozugriff wird freigegeben</strong></a>
     </div>
     <em>Einrichten eines schreibgeschützten Zugriffs auf Transaktionen im Konto eines anderen Benutzers</em>
-    <br>
+    
   </td>
   <td>
     <a href="advanced-account-sharing.md">
@@ -299,7 +300,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
     <a href="advanced-account-sharing.md"><strong>Erweiterte Kontofreigabe</strong></a>
     </div>
     <em>Richten Sie die Kontofreigabe ein, damit Administratoren und Benutzer ihre Sende-, Änderungs- und Anzeigeberechtigungen delegieren können</em>
-    <br>
+    
   </td>
   <td>
     <a href="bulk-download-tool.md">
@@ -309,7 +310,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
     <a href="bulk-download-tool.md"><strong>Massen-Download-Tool</strong></a>
     </div>
     <em>Erfahren Sie, wie Sie mit dem Massen-Download-Tool schnell alle Ihre signierten Vereinbarungen herunterladen</em>
-    <br>
+    
   </td> 
 </tr>
 <tr>
@@ -321,7 +322,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Acrobat Sign-Text-Tagging</strong></a>
     <div>
     <em>Acrobat Sign-Formularfelder durch Text-Tagging mit Adobe Acrobat erstellen</em>
-    <br>
+    
   </td>
   <td>
     <a href="use-bio-pharma-settings.md">
@@ -331,7 +332,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
     <a href="use-bio-pharma-settings.md"><strong>Bio-Pharma-Einstellungen verwenden</strong></a>
     </div>
     <em>Richten Sie Bio-Pharma-Einstellungen ein, mit denen Sie die Anforderungen von FDA 21 CFR Part 11 erfüllen können</em>
-    <br>
+    
   </td>
   <td>
     <a href="privacy.md">
@@ -341,7 +342,7 @@ Erfahren Sie, wie Sie [automatische Zuweisungsregeln](automatic-assignment-rules
     <a href="privacy.md"><strong>Einrichten von Datenschutzadministratoren</strong></a>
     </div>
     <em>Informationen zum Einrichten und Verwenden von Datenschutzadministratoren</em>
-    <br>
+    
   </td>
   <td>
     <img alt="Spacer" src="../assets/Grayspacer.png" />
