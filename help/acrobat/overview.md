@@ -18,16 +18,20 @@ level_v2:
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+source-git-commit: ed17f6a547ddf4e1fd7f5675bade9e2457cc14cb
 workflow-type: tm+mt
-source-wordcount: 483
-ht-degree: 1%
+source-wordcount: 802
+ht-degree: 2%
 
 ---
 
 # Tutorials zu Acrobat
 
 Mit Adobe Acrobat, einer Lösung von Adobe Document Cloud, kannst du PDF-Dokumente konvertieren, bearbeiten, weitergeben und elektronisch unterzeichnen. Hier finden Sie eine Vielzahl von Lernerlebnissen, die sowohl Anfänger als auch Fortgeschrittene schnell auf den neuesten Stand bringen.
+
+>[!NOTE]
+>
+>Der Zugriff auf die Funktionen ist von Ihrem Acrobat-Abo abhängig. Verwenden Sie den [Acrobat-Abo-Vergleich](https://www.adobe.com/acrobat/pricing.html), um die verfügbaren Funktionen zu ermitteln. Einige Funktionen werden in Phasen eingeführt und sind möglicherweise noch nicht für alle verfügbar.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>

@@ -17,9 +17,9 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+source-git-commit: e218b30764222c5cd83cedbe0d5dd7d61da764df
 workflow-type: tm+mt
-source-wordcount: 1991
+source-wordcount: 2909
 ht-degree: 1%
 
 ---
@@ -54,12 +54,12 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Workspace basics">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="What is Acrobat Studio?">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" title="Grundlagen des Arbeitsbereichs" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/media_1829b23b3d26ba9ab2687a87be27ecf1b2adde71e.png?width=400&format=webply&optimize=medium" alt="Grundlagen des Arbeitsbereichs"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" title="Was ist Acrobat Studio?" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/media_12789c7c38d4d314c98ac632578aa46e427cdf603.webp?width=400&format=webply&optimize=medium" alt="Was ist Acrobat Studio?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -67,11 +67,34 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" target="_self" rel="referrer" title="Grundlagen des Arbeitsbereichs">Grundlagen des Arbeitsbereichs</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" target="_blank" rel="referrer" title="Was ist Acrobat Studio?">Was ist Acrobat Studio?</a>
+                    </p>
+                    <p class="is-size-6">Lernt, wie ihr mit Acrobat Studio markensichere Inhalte erstellt, Erkenntnisse gewinnt und komplexe Arbeiten optimiert.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Workspace basics">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" title="Grundlagen des Arbeitsbereichs" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/media_12a241a5a43185e5dc74133d75dbad2f4d3e1f13e.webp?width=400&format=webply&optimize=medium" alt="Grundlagen des Arbeitsbereichs"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" target="_blank" rel="referrer" title="Grundlagen des Arbeitsbereichs">Grundlagen des Arbeitsbereichs</a>
                     </p>
                     <p class="is-size-6">Grundlagen des Acrobat-Arbeitsbereichs</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -81,8 +104,8 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/new-experience" title="Neues Erlebnis mit Acrobat" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium" alt="Neues Erlebnis mit Acrobat"
+                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/new-experience" title="Neues Erlebnis mit Acrobat" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/media_178831fd1a5ee792617ad1bc508c02ffee1efcdb8.webp?width=400&format=webply&optimize=medium" alt="Neues Erlebnis mit Acrobat"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -90,11 +113,11 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/new-experience" target="_self" rel="referrer" title="Neues Erlebnis mit Acrobat">Neues Acrobat-Erlebnis</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/new-experience" target="_blank" rel="referrer" title="Neues Erlebnis mit Acrobat">Neues Acrobat-Erlebnis</a>
                     </p>
                     <p class="is-size-6">Das neue Erlebnis mit Acrobat kennenlernen</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/new-experience" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/new-experience" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -104,8 +127,8 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" title="Arbeiten mit Microsoft 365" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/media_1e715d1ec959dc755a27cab94e21039372673afac.png?width=400&format=webply&optimize=medium" alt="Arbeiten mit Microsoft 365"
+                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" title="Arbeiten mit Microsoft 365" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft./media_1d6fb8502ae79fc181a3db2596fd73cdacb05eb00.webp?width=400&format=webp&optimize=medium" alt="Arbeiten mit Microsoft 365"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -113,11 +136,11 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" target="_self" rel="referrer" title="Arbeiten mit Microsoft 365">Mit Microsoft 365 arbeiten</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" target="_blank" rel="referrer" title="Arbeiten mit Microsoft 365">Mit Microsoft 365 arbeiten</a>
                     </p>
                     <p class="is-size-6">Microsoft 365-PDF</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorials anzeigen</span>
                 </a>
             </div>
@@ -127,8 +150,8 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" title="Überall arbeiten - mit Acrobat Web" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/media_1bfcf9b6746a553be3bae3718499df7f83847b637.png?width=400&format=webply&optimize=medium" alt="Überall arbeiten - mit Acrobat Web"
+                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" title="Überall arbeiten - mit Acrobat Web" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443543?captions=ger&enablevpops=&quality=12&hidetitle=true&format=jpeg&nocache=1784302288118" alt="Überall arbeiten - mit Acrobat Web"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -136,11 +159,11 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" target="_self" rel="referrer" title="Überall arbeiten - mit Acrobat Web">Überall arbeiten mit Acrobat Web</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" target="_blank" rel="referrer" title="Überall arbeiten - mit Acrobat Web">Überall arbeiten mit Acrobat Web</a>
                     </p>
                     <p class="is-size-6">Von überall aus arbeiten</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -150,31 +173,8 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" title="Unterwegs produktiv sein." target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/media_1baac857c8ccc7eb8f0af7c27bd123772b2d5cac4.png?width=400&format=webply&optimize=medium" alt="Unterwegs produktiv sein."
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-            </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                        <div class="top-card-content">
-                            <p class="headline is-size-6 has-text-weight-bold">
-                                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" target="_self" rel="referrer" title="Unterwegs produktiv sein.">Produktivität unterwegs</a>
-                            </p>
-                            <p class="is-size-6">Erfahren Sie, wie Sie direkt auf Ihrem Tablet oder Smartphone mehr tun können.</p>
-                        </div>
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                            <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                        </a>
-            </div>
-        </div>
-    </div>         
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Where do PDFs come from?">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/where-do-pdfs-come-from" title="Unterwegs produktiv sein." target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/media_133ee13f07ef84d06eef5d6b1c81d024747f19f36.png?width=400&format=webply&optimize=medium" alt="Woher kommen die PDF?"
+                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" title="Unterwegs produktiv sein." target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3409538?captions=ger&quality=12&hidetitle=true&format=jpeg&nocache=1784302288137" alt="Unterwegs produktiv sein."
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -182,11 +182,11 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/where-do-pdfs-come-from" target="_self" rel="referrer" title="Woher kommen die PDF?">Woher kommen die PDF?</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" target="_blank" rel="referrer" title="Unterwegs produktiv sein.">Produktivität unterwegs</a>
                     </p>
-                    <p class="is-size-6">Erfahren Sie, woher die PDF kommen und wie Sie sie verwenden können.</p>
+                    <p class="is-size-6">Erfahren Sie, wie Sie direkt auf Ihrem Tablet oder Smartphone mehr tun können.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/where-do-pdfs-come-from" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -222,7 +222,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
             </div>
         </div>
     </div>
-                <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Boost team efficiency with PDF Spaces">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Boost team efficiency with PDF Spaces">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
@@ -240,29 +240,6 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
                     <p class="is-size-6">Lerne, wie du Sammlungen von Dateien und Websites in Wissensdatenbanken verwandelst, die sich untereinander austauschen können</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
-                </a>
-            </div>
-        </div>
-    </div>
-                 <div class="column is-half-tablet is-half-desktop is-one-third-widescreen"         aria-label="What is Acrobat Studio?">
-                      <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-                 <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio" title="Was ist Acrobat Studio?" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/by-industry/media_1f6d6f7b7584d916a156a186267c3d3790ae9144a.png?width=400&format=webply&optimize=medium" alt="Was ist Acrobat Studio?"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
-                 </div>
-                     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio" target="_self" rel="referrer" title="Was ist Acrobat Studio?">Was ist Acrobat Studio?</a>
-                    </p>
-                    <p class="is-size-6">Lernt, wie ihr mit Acrobat Studio markensichere Inhalte erstellt, Erkenntnisse gewinnt und komplexe Arbeiten optimiert.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
