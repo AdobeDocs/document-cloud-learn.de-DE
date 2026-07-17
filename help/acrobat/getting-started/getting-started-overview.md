@@ -151,7 +151,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" title="Überall arbeiten - mit Acrobat Web" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/337436?enablevpops=&quality=12&hidetitle=true&format=jpeg&nocache=1784302288118" alt="Überall arbeiten - mit Acrobat Web"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3443543?captions=ger&enablevpops=&quality=12&hidetitle=true&format=jpeg&nocache=1784302288118" alt="Überall arbeiten - mit Acrobat Web"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -174,7 +174,7 @@ Erfahren Sie, wie Sie [PDF-Einblicke](ai-assistant.md) auf Ihrem PDF entdecken.
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" title="Unterwegs produktiv sein." target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/337972?quality=12&hidetitle=true&format=jpeg&nocache=1784302288137" alt="Unterwegs produktiv sein."
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3409538?captions=ger&quality=12&hidetitle=true&format=jpeg&nocache=1784302288137" alt="Unterwegs produktiv sein."
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
