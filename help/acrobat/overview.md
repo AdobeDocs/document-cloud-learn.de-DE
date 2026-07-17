@@ -8,26 +8,24 @@ jira: KT-6864
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
 TQID: https://experienceleague.adobe.com/NybSWjRwDsbNNoKTb-AyBmTZMaBCgTIMoAzDEmlDPd4
-product_v2:
-  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: ed17f6a547ddf4e1fd7f5675bade9e2457cc14cb
 workflow-type: tm+mt
-source-wordcount: 483
-ht-degree: 1%
+source-wordcount: 802
+ht-degree: 2%
 
 ---
 
 # Tutorials zu Acrobat
 
 Mit Adobe Acrobat, einer Lösung von Adobe Document Cloud, kannst du PDF-Dokumente konvertieren, bearbeiten, weitergeben und elektronisch unterzeichnen. Hier finden Sie eine Vielzahl von Lernerlebnissen, die sowohl Anfänger als auch Fortgeschrittene schnell auf den neuesten Stand bringen.
+
+>[!NOTE]
+>
+>Der Zugriff auf die Funktionen ist von Ihrem Acrobat-Abo abhängig. Verwenden Sie den [Acrobat-Abo-Vergleich](https://www.adobe.com/acrobat/pricing.html), um die verfügbaren Funktionen zu ermitteln. Einige Funktionen werden in Phasen eingeführt und sind möglicherweise noch nicht für alle verfügbar.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -44,8 +42,8 @@ Mit Adobe Acrobat, einer Lösung von Adobe Document Cloud, kannst du PDF-Dokumen
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/getting-started-overview" title="Erste Schritte" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/media_19b331849a47f54403361e7661d1882d95fe97fcf.png?width=400&format=webply&optimize=medium" alt="Erste Schritte"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/getting-started-overview" title="Erste Schritte" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/media_19b331849a47f54403361e7661d1882d95fe97fcf.png?width=400&format=webply&optimize=medium" alt="Erste Schritte"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -53,11 +51,11 @@ Mit Adobe Acrobat, einer Lösung von Adobe Document Cloud, kannst du PDF-Dokumen
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/getting-started-overview" target="_self" rel="referrer" title="Erste Schritte">Erste Schritte</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/getting-started-overview" target="_self" rel="referrer" title="Erste Schritte">Erste Schritte</a>
                     </p>
                     <p class="is-size-6">Erfahre, wie du PDF-Dateien erstellen, bearbeiten, umwandeln, schützen und mehr.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/getting-started-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/getting-started-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Entdecken</span>
                 </a>
             </div>
@@ -67,8 +65,8 @@ Mit Adobe Acrobat, einer Lösung von Adobe Document Cloud, kannst du PDF-Dokumen
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview" title="Barrierefreiheitsserie" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/media_1160a8358f39482862ca2409c878ecea8815b0e35.png?width=400&format=webply&optimize=medium" alt="Barrierefreiheitsserie"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview" title="Barrierefreiheitsserie" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/media_1160a8358f39482862ca2409c878ecea8815b0e35.png?width=400&format=webply&optimize=medium" alt="Barrierefreiheitsserie"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -76,11 +74,11 @@ Mit Adobe Acrobat, einer Lösung von Adobe Document Cloud, kannst du PDF-Dokumen
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview" target="_self" rel="referrer" title="Barrierefreiheitsserie">Eingabehilfen-Serie</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview" target="_self" rel="referrer" title="Barrierefreiheitsserie">Eingabehilfen-Serie</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie barrierefreie PDF-Dateien erstellen</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Entdecken</span>
                 </a>
             </div>
@@ -90,8 +88,8 @@ Mit Adobe Acrobat, einer Lösung von Adobe Document Cloud, kannst du PDF-Dokumen
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advanced-tasks-overview" title="Erweiterte Aufgaben" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/media_17d55969ad72e5933df620c2d5c84ba8e273ab39c.png?width=400&format=webply&optimize=medium" alt="Erweiterte Aufgaben"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advanced-tasks-overview" title="Erweiterte Aufgaben" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/media_17d55969ad72e5933df620c2d5c84ba8e273ab39c.png?width=400&format=webply&optimize=medium" alt="Erweiterte Aufgaben"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -99,11 +97,11 @@ Mit Adobe Acrobat, einer Lösung von Adobe Document Cloud, kannst du PDF-Dokumen
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advanced-tasks-overview" target="_self" rel="referrer" title="Erweiterte Aufgaben">Erweiterte Aufgaben</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advanced-tasks-overview" target="_self" rel="referrer" title="Erweiterte Aufgaben">Erweiterte Aufgaben</a>
                     </p>
                     <p class="is-size-6">Gehen Sie mit bestimmten Aufgaben und Automatisierung über die Grundlagen hinaus</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advanced-tasks-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advanced-tasks-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Entdecken</span>
                 </a>
             </div>
@@ -113,8 +111,8 @@ Mit Adobe Acrobat, einer Lösung von Adobe Document Cloud, kannst du PDF-Dokumen
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/ai-powered/ai-overview" title="KI-gestützt" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/ai-powered/media_1220d424bff112d1d5f154e5ab4f2fe8a5cbd4334.png?width=2000?width=400&format=webply&optimize=medium" alt="KI-gestützt"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/ai-powered/ai-overview" title="KI-gestützt" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/ai-powered/media_1220d424bff112d1d5f154e5ab4f2fe8a5cbd4334.png?width=2000?width=400&format=webply&optimize=medium" alt="KI-gestützt"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -122,11 +120,11 @@ Mit Adobe Acrobat, einer Lösung von Adobe Document Cloud, kannst du PDF-Dokumen
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/ai-powered/ai-overview" target="_self" rel="referrer" title="KI-gestützt">KI-gestützt</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/ai-powered/ai-overview" target="_self" rel="referrer" title="KI-gestützt">KI-gestützt</a>
                     </p>
                     <p class="is-size-6">Workflows mit KI transformieren.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/ai-powered/ai-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/ai-powered/ai-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Entdecken</span>
                 </a>
             </div>
@@ -136,8 +134,8 @@ Mit Adobe Acrobat, einer Lösung von Adobe Document Cloud, kannst du PDF-Dokumen
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/use-cases/use-cases-overview" title="Anwendungsfälle" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/by-industry/media_1c9a698c7bae70a0e784d1cea181152f5dd4e17ec.png?width=400&format=webply&optimize=medium" alt="Anwendungsfälle"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/use-cases-overview" title="Anwendungsfälle" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/media_1c9a698c7bae70a0e784d1cea181152f5dd4e17ec.png?width=400&format=webply&optimize=medium" alt="Anwendungsfälle"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -145,11 +143,11 @@ Mit Adobe Acrobat, einer Lösung von Adobe Document Cloud, kannst du PDF-Dokumen
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/use-cases/use-cases-overview" target="_self" rel="referrer" title="Anwendungsfälle">Anwendungsfälle</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/use-cases-overview" target="_self" rel="referrer" title="Anwendungsfälle">Anwendungsfälle</a>
                     </p>
                     <p class="is-size-6">Workflows in der echten Acrobat-Welt.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/use-cases/use-cases-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/use-cases-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Entdecken</span>
                 </a>
             </div>
@@ -159,8 +157,8 @@ Mit Adobe Acrobat, einer Lösung von Adobe Document Cloud, kannst du PDF-Dokumen
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/60-second/60-second-overview" title="60-Sekunden-Acrobat" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/media_1e95e07bbceaf7e8f9bfccff9dccc7827fe813d96.png?width=400&format=webply&optimize=medium" alt="60-Sekunden-Acrobat"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/60-second-overview" title="60-Sekunden-Acrobat" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/media_1e95e07bbceaf7e8f9bfccff9dccc7827fe813d96.png?width=400&format=webply&optimize=medium" alt="60-Sekunden-Acrobat"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -168,11 +166,11 @@ Mit Adobe Acrobat, einer Lösung von Adobe Document Cloud, kannst du PDF-Dokumen
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/60-second/60-second-overview" target="_self" rel="referrer" title="60-Sekunden-Acrobat">Acrobat (60 Sekunden)</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/60-second-overview" target="_self" rel="referrer" title="60-Sekunden-Acrobat">Acrobat (60 Sekunden)</a>
                     </p>
                     <p class="is-size-6">Tutorials in Bissgröße, die dir helfen, in maximal einer Minute einen neuen Trick in Acrobat zu erlernen</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/60-second/60-second-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/60-second-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Entdecken</span>
                 </a>
             </div>
@@ -182,8 +180,8 @@ Mit Adobe Acrobat, einer Lösung von Adobe Document Cloud, kannst du PDF-Dokumen
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview" title="Integrationen" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/media_171337d52d3205c2011e230e71736cc71f74ba0ee.png?width=400&format=webply&optimize=medium" alt="Integrationen"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview" title="Integrationen" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/media_171337d52d3205c2011e230e71736cc71f74ba0ee.png?width=400&format=webply&optimize=medium" alt="Integrationen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -191,11 +189,11 @@ Mit Adobe Acrobat, einer Lösung von Adobe Document Cloud, kannst du PDF-Dokumen
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview" target="_self" rel="referrer" title="Integrationen">Integrationen</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview" target="_self" rel="referrer" title="Integrationen">Integrationen</a>
                     </p>
                     <p class="is-size-6">Acrobat zu bestehenden Anwendungen wie Microsoft, Google Drive, Dropbox und Box hinzufügen</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Entdecken</span>
                 </a>
             </div>
