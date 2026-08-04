@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Hier erfahren Sie, wie Sie den Fortschritt eines Vertrags direkt in Microsoft SharePoint verfolgen können. Versendet ein Dokument zur Unterzeichnung, und ihr könnt den Bearbeitungsstatus verfolgen, ohne SharePoint verlassen zu müssen.
 
->[!VIDEO](https://video.tv.adobe.com/v/29767t1?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3415775?captions=ger&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
