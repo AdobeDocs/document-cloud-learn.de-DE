@@ -1,18 +1,10 @@
 ---
 user-guide-title: Acrobat Tutorials
-solution: Acrobat
-product_v2:
-  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
-usetq: true
-breadcrumb-title: Acrobat Tutorials
-feature-set: Document Cloud
-role: User
-type: Tutorial
 auto-video-transcripts: true
 nudge: true
-source-git-commit: ed17f6a547ddf4e1fd7f5675bade9e2457cc14cb
+source-git-commit: f6dc02139caacbab8468d056fbcaef3534c09e1d
 workflow-type: tm+mt
-source-wordcount: 689
+source-wordcount: '687'
 ht-degree: 5%
 
 ---
@@ -89,7 +81,7 @@ ht-degree: 5%
   + [Überblick](ai-powered/ai-overview.md)
   + [Mit AI Assistant PDF-Erkenntnisse gewinnen](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
   + [Mehr Team-Effizienz dank PDF Spaces](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-  + [Was ist Acrobat Studio?](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+  + [Was ist Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
   + [Bearbeiten von Grafiken auf einem PDF](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
   + [Stilisieren dieser PDF](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Anwendungsfälle {#use-cases}
