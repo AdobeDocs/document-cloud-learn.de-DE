@@ -88,7 +88,7 @@ Erfahren Sie, wie Marketing-Teams mit Acrobat Studio [Elemente für den Produkts
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/it/it-overview" title="IT-Nutzungsszenarien" target="_self" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/use-cases/lob/it/it-overview" title="IT-Nutzungsszenarien" target="_self" rel="referrer">
                         <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/use-cases/media_1a7c003cf866650b1275539d36bf87a4aaa136dda.png?width=400&format=webply&optimize=medium" alt="IT-Nutzungsszenarien"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -97,11 +97,11 @@ Erfahren Sie, wie Marketing-Teams mit Acrobat Studio [Elemente für den Produkts
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/it/it-overview" target="_self" rel="referrer" title="IT-Nutzungsszenarien">IT-Nutzungsszenarien</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/use-cases/lob/it/it-overview" target="_self" rel="referrer" title="IT-Nutzungsszenarien">IT-Nutzungsszenarien</a>
                     </p>
                     <p class="is-size-6">Erfahrt, wie IT-Teams mit Acrobat Studio Dokumenten-Workflows optimieren, die Sicherheit und Compliance verbessern und die Governance-Programme im gesamten Unternehmen skalieren können.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/it/it-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/use-cases/lob/it/it-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorials durchsuchen</span>
                 3
             </a></div>
