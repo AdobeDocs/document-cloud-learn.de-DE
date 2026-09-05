@@ -2,10 +2,10 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: f6dc02139caacbab8468d056fbcaef3534c09e1d
+source-git-commit: be030b0a26f367e8c79cdf08329b1597c1e4ee8b
 workflow-type: tm+mt
-source-wordcount: '687'
-ht-degree: 5%
+source-wordcount: '702'
+ht-degree: 6%
 
 ---
 
@@ -84,6 +84,11 @@ ht-degree: 5%
   + [Was ist Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
   + [Bearbeiten von Grafiken auf einem PDF](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
   + [Stilisieren dieser PDF](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
++ Analyzer in Acrobat Studio {#analyzer}
+  + [Überblick](analyzer/analyzer-overview.md)
+  + [Erste Schritte](analyzer/get-started.md)
+  + [Verwenden von Sammlungen](analyzer/collections.md)
+  + [M&amp;A-Prüfung nach Integration](analyzer/m-and-a-post-audit.md)
 + Anwendungsfälle {#use-cases}
   + [Überblick](use-cases/use-cases-overview.md)
   + Geschäftsbereich {#lob}
@@ -119,7 +124,7 @@ ht-degree: 5%
   + [PDF mit Acrobat Web bearbeiten](60-second/edit.md)
   + [Text in einer gescannten PDF-Datei erkennen](60-second/textrecognition.md)
   + [Dateien auf einer PDF zusammenführen](60-second/combine-to-one-pdf.md)
-  + [Seiten schnell organisieren.](60-second/organize.md)
+  + [Seiten in einem einrasten verwalten](60-second/organize.md)
   + [Ein Foto auf dem PDF bearbeiten.](60-second/editphoto.md)
   + [Grafiken auf dem PDF bearbeiten.](60-second/editgraphic.md)
   + [PDF in Word umwandeln](60-second/convert-pdf-word.md)
@@ -131,7 +136,7 @@ ht-degree: 5%
   + [Word-Dokumente einschließlich Formularfelder in PDF-Dateien konvertieren](60-second/wordform.md)
   + [PDF mit wenigen Klicks erstellen](60-second/photo.md)
   + [PPT- in PDF-Dateien umwandeln - auf dem Smartphone.](60-second/phone.md)
-  + [Effizienteres PDF von Dateien mit wenigen Klicks](60-second/optimize.md)
+  + [Erstellen von effizienteren PDF-Dateien in einem einrasten](60-second/optimize.md)
   + [Papierdokument elektronisch unterschreiben](60-second/sign.md)
   + [Protect Ihrer PDF-Dateien mit einem Kennwort](60-second/protect.md)
   + [Schwärzung: Der richtige Weg](60-second/redaction.md)
