@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: be030b0a26f367e8c79cdf08329b1597c1e4ee8b
+source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '705'
 ht-degree: 6%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 6%
     + [Was ist Acrobat Studio?](getting-started/acrobat-studio.md)
     + [Grundlagen des Arbeitsbereichs](getting-started/workspace-basics.md)
     + [Neues Erlebnis mit Acrobat](getting-started/new-experience.md)
-    + [Arbeiten mit  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=de#microsoft)
+    + [Arbeiten mit  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
     + [Überall arbeiten - mit Acrobat Web](getting-started/acrobatweb.md)
     + [Unterwegs produktiv sein.](getting-started/productivity.md)
     + [Woher kommen die PDF?](getting-started/where-do-pdfs-come-from.md)
@@ -79,15 +79,16 @@ ht-degree: 6%
     + [Benutzerdefinierte Befehle und Werkzeuge](advanced-tasks/custom.md)
 + KI-gestützt {#ai-powered}
   + [Überblick](ai-powered/ai-overview.md)
-  + [Mit AI Assistant PDF-Erkenntnisse gewinnen](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-  + [Mehr Team-Effizienz dank PDF Spaces](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+  + [Mit AI Assistant PDF-Erkenntnisse gewinnen](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+  + [Mehr Team-Effizienz dank PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
   + [Was ist Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-  + [Bearbeiten von Grafiken auf einem PDF](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-  + [Stilisieren dieser PDF](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+  + [Bearbeiten von Grafiken auf einem PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+  + [Stilisieren dieser PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Analyzer in Acrobat Studio {#analyzer}
   + [Überblick](analyzer/analyzer-overview.md)
   + [Erste Schritte](analyzer/get-started.md)
   + [Verwenden von Sammlungen](analyzer/collections.md)
+  + [Arbeiten mit Attributen](analyzer/attributes.md)
   + [M&amp;A-Prüfung nach Integration](analyzer/m-and-a-post-audit.md)
 + Anwendungsfälle {#use-cases}
   + [Überblick](use-cases/use-cases-overview.md)
@@ -136,7 +137,7 @@ ht-degree: 6%
   + [Word-Dokumente einschließlich Formularfelder in PDF-Dateien konvertieren](60-second/wordform.md)
   + [PDF mit wenigen Klicks erstellen](60-second/photo.md)
   + [PPT- in PDF-Dateien umwandeln - auf dem Smartphone.](60-second/phone.md)
-  + [Erstellen von effizienteren PDF-Dateien in einem einrasten](60-second/optimize.md)
+  + [Effizienteres PDF von Dateien mit wenigen Klicks](60-second/optimize.md)
   + [Papierdokument elektronisch unterschreiben](60-second/sign.md)
   + [Protect Ihrer PDF-Dateien mit einem Kennwort](60-second/protect.md)
   + [Schwärzung: Der richtige Weg](60-second/redaction.md)
@@ -168,5 +169,5 @@ ht-degree: 6%
   + [Wichtige Updates für Acrobat DC für ETLA-Kunden](deploy/signentitlementchanges.md)
 + Mobile Endgeräte {#mobile}
   + [Überblick](mobile/mobile-overview.md)
-  + [Unterwegs produktiv sein.](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+  + [Unterwegs produktiv sein.](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
   + [Alles auf PDF scannen](mobile/scan-mobile-app.md)
