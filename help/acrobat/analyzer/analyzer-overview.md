@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: 17b3c33bb1ff3c88938b9468b9934b7addebfecc
+source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---
@@ -55,6 +55,16 @@ Erfahren Sie, wie Sie manuelle und verknüpfte [Sammlungen](collections.md) erst
     <br>
   </td>
   <td>
+    <a href="attributes.md">
+      <img alt="Arbeiten mit Attributen" src="../assets/analyzer_attributes.png" />
+    </a>
+    <div>
+    <a href="attributes.md"><strong>Mit Attributen arbeiten</strong></a>
+    </div>
+    Erfahren Sie, wie Sie Attribute mit Analyzer in Acrobat Studio erstellen, testen und optimieren können.
+    <br>
+  </td>
+  <td>
     <a href="m-and-a-post-audit.md">
       <img alt="M&amp;A-Prüfung nach Integration" src="../assets/m-and-a.jpg" />
     </a>
@@ -63,11 +73,6 @@ Erfahren Sie, wie Sie manuelle und verknüpfte [Sammlungen](collections.md) erst
     </div>
     Erfahrt, wie Analyzer Unternehmen dabei unterstützen kann, eine M&amp;A-Prüfung nach der Integration in Minuten statt in Wochen durchzuführen.
     <br>
-  </td>
-  <td>
-      <img alt="Spacer" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
   </td>
 </tr>
 </table>
