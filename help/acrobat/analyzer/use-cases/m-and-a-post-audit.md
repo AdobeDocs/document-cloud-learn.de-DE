@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Erfahrt, wie Adobe Analyzer in Acrobat Studio Unternehmen dabei helfen kann, ein M&amp;A-Audit nach der Integration durchzuführen - innerhalb von Minuten statt Wochen. Dabei werden mithilfe von GenAI wichtige Informationen extrahiert und festgestellt, welche Verträge das Risiko beinhalten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496335?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3496361?captions=ger&quality=12&learn=on&hidetitle=true)
