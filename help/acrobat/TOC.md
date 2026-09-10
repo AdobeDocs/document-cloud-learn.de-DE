@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
+source-git-commit: 494aca2da9f3540264d81d60620a7a442a85ebc2
 workflow-type: tm+mt
-source-wordcount: '705'
+source-wordcount: '715'
 ht-degree: 6%
 
 ---
@@ -90,6 +90,7 @@ ht-degree: 6%
   + [Verwenden von Sammlungen](analyzer/collections.md)
   + [Arbeiten mit Attributen](analyzer/attributes.md)
   + [M&amp;A-Prüfung nach Integration](analyzer/m-and-a-post-audit.md)
+  + [Schulungsvideos (in englischer Sprache)](https://experienceleague.adobe.com/en/docs/events/acrobat-analyser-webinars/overview){target=_blank}
 + Anwendungsfälle {#use-cases}
   + [Überblick](use-cases/use-cases-overview.md)
   + Geschäftsbereich {#lob}
@@ -137,7 +138,7 @@ ht-degree: 6%
   + [Word-Dokumente einschließlich Formularfelder in PDF-Dateien konvertieren](60-second/wordform.md)
   + [PDF mit wenigen Klicks erstellen](60-second/photo.md)
   + [PPT- in PDF-Dateien umwandeln - auf dem Smartphone.](60-second/phone.md)
-  + [Effizienteres PDF von Dateien mit wenigen Klicks](60-second/optimize.md)
+  + [Erstellen von effizienteren PDF-Dateien in einem einrasten](60-second/optimize.md)
   + [Papierdokument elektronisch unterschreiben](60-second/sign.md)
   + [Protect Ihrer PDF-Dateien mit einem Kennwort](60-second/protect.md)
   + [Schwärzung: Der richtige Weg](60-second/redaction.md)
