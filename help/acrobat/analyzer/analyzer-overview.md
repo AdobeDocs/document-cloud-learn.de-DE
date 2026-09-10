@@ -5,10 +5,10 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: b7d8f600864bafa0c45dfae4e1896180c06e514d
+source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 1%
+source-wordcount: '199'
+ht-degree: 2%
 
 ---
 
@@ -69,11 +69,11 @@ Erfahren Sie, wie Sie [Attribute](attributes.md) mit Analyzer in Acrobat Studio 
     <br>
   </td>
   <td>
-    <a href="/help/acrobat/analyzer/use-case/use-case-overview.md">
-      <img alt="Analyzer - Anwendungsfälle" src="../assets/analyzer_usecases.png" />
+    <a href="/help/acrobat/analyzer/use-cases/use-case-overview.md">
+      <img alt="Analyzer in Acrobat Studio-Anwendungsfällen" src="../assets/analyzer_usecases.png" />
     </a>
     <div>
-    &lt;a href="/help/acrobat/analyser/use-case/m-and-a-post-audit.md&gt;<strong>Nutzungsszenarien für Analyzer</strong></a>
+    <a href="/help/acrobat/analyzer/use-cases/use-case-overview.md"><strong>Analyzer in Acrobat Studio - Anwendungsfälle</strong></a>
     </div>
     Nutzungsszenarien, die zeigen, wie Organisationen Überprüfungsprozesse optimieren, Erkenntnisse gewinnen und Dokumenteninhalte in geschäftsfähige Daten umwandeln können
     <br>
