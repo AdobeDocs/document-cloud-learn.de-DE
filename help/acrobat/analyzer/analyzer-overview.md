@@ -34,7 +34,7 @@ Erfahren Sie, wie Sie [Attribute](attributes.md) mit Analyzer in Acrobat Studio 
 
 >[!TAB Erweiterte Funktionen entdecken]
 
-Erfahren Sie, wie Sie extrahierte Daten [exportieren, eine Sammlung freigeben, zwei Dokumente vergleichen und AI Assistant ](advanced.md) für schnelle Ad-hoc-Fragen verwenden können.
+Erfahren Sie, wie Sie extrahierte Daten [exportieren, eine Sammlung freigeben, zwei Dokumente vergleichen und AI Assistant &#x200B;](advanced.md) für schnelle Ad-hoc-Fragen verwenden können.
 
 >[!ENDTABS]
 
