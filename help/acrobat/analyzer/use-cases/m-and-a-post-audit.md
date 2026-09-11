@@ -1,13 +1,13 @@
 ---
 title: M&A-Prüfung nach Integration von Verträgen
-description: Erfahrt, wie Analyzer Unternehmen dabei unterstützen kann, eine M&A-Prüfung nach der Integration in Minuten statt in Wochen durchzuführen.
+description: Erfahrt, wie ihr mit Analyzer in Acrobat Studio in wenigen Minuten statt Wochen ein Audit für M&A-Verträge nach der Integration durchführen könnt
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22149
-source-git-commit: fbafd7f563aefc530cdd9d0e7d75a4e29ae8dceb
+source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---

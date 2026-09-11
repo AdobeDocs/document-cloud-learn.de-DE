@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 494aca2da9f3540264d81d60620a7a442a85ebc2
+source-git-commit: 099945973714aaa8e903af39ce50f92fb213ce1d
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: '733'
 ht-degree: 6%
 
 ---
@@ -89,7 +89,11 @@ ht-degree: 6%
   + [Erste Schritte](analyzer/get-started.md)
   + [Verwenden von Sammlungen](analyzer/collections.md)
   + [Arbeiten mit Attributen](analyzer/attributes.md)
-  + [M&amp;A-Prüfung nach Integration](analyzer/m-and-a-post-audit.md)
+  + Anwendungsfälle {#use-cases}
+    + [Überblick](/help/acrobat/analyzer/use-cases/use-case-overview.md)
+    + [M&amp;A-Prüfung nach Integration](analyzer/use-cases/m-and-a-post-audit.md)
+    + [Beschleunigung der Prüfung von Einnahmen und Prüfungen im Finanzsektor](analyzer/use-cases/accelerate-revenue.md)
+    + [Vollständige Transparenz und Überwachung von Datenschutzrisiken](analyzer/use-cases/data-privacy-risk.md)
   + [Schulungsvideos (in englischer Sprache)](https://experienceleague.adobe.com/en/docs/events/acrobat-analyser-webinars/overview){target=_blank}
 + Anwendungsfälle {#use-cases}
   + [Überblick](use-cases/use-cases-overview.md)
