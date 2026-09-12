@@ -16,32 +16,32 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 7f4316ba94749de4ee1edb28948c312674965553
+source-git-commit: 65870ba3fdc5fb312076fc4b538b10c133cfe378
 workflow-type: tm+mt
-source-wordcount: 467
+source-wordcount: 799
 ht-degree: 0%
 
 ---
 
 # KI-gestützter Überblick.
 
-Finde heraus, wie du mit KI deine PDF-Workflows transformieren kannst. Tools, die Aufgaben von Dokumenten vereinfachen und die Produktivität steigern.
+Entdecke, wie du deine PDF-Workflows mit KI transformieren. Tools, die Aufgaben von Dokumenten vereinfachen und die Produktivität steigern.
 
 ## Neue Funktionen
 
 >[!BEGINTABS]
 
->[!TAB Steigern Sie die Teameffizienz mit PDF Spaces]
-
-Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assistenten in [gemeinsam nutzbare, konversative Wissenszentren](../getting-started/pdf-spaces-legal.md).
-
 >[!TAB Was ist Acrobat Studio?]
 
 Erfahren Sie, wie Sie mit [Acrobat Studio](../getting-started/acrobat-studio.md) markensichere Inhalte erstellen, Einblicke gewinnen und komplexe Arbeiten optimieren können.
 
->[!TAB Entdecken Sie PDF-Erkenntnisse mit AI Assistant]
+>[!TAB Analyzer in Acrobat Studio]
 
-Erfahren Sie, wie Sie [PDF-Einblicke](../getting-started/ai-assistant.md) auf Ihrem PDF entdecken.
+Erfahren Sie, wie [Analyzer in Acrobat Studio](../analyzer/analyzer-overview.md) Geschäftsbenutzern dabei hilft, strukturierte, überprüfbare Erkenntnisse aus Zehntausenden unstrukturierter Dokumente zu extrahieren, um dokumentzentrierte Geschäftsprozesse zu automatisieren.
+
+>[!TAB Steigern Sie die Teameffizienz mit PDF Spaces]
+
+Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assistenten in [gemeinsam nutzbare, konversative Wissenszentren](../getting-started/pdf-spaces-legal.md).
 
 >[!ENDTABS]
 
@@ -49,6 +49,52 @@ Erfahren Sie, wie Sie [PDF-Einblicke](../getting-started/ai-assistant.md) auf Ih
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="What is Acrobat Studio?">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" title="Was ist Acrobat Studio?" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/ai-powered/media_1f6d6f7b7584d916a156a186267c3d3790ae9144a.png?width=400&format=webply&optimize=medium" alt="Was ist Acrobat Studio?"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" target="_self" rel="referrer" title="Was ist Acrobat Studio?">Was ist Acrobat Studio?</a>
+                    </p>
+                    <p class="is-size-6">Lernt, wie ihr mit Acrobat Studio markensichere Inhalte erstellt, Erkenntnisse gewinnt und komplexe Arbeiten optimiert.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Analyzer in Acrobat Studio">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/analyser/analyser-overview" title="Analyzer in Acrobat Studio" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/media_1659aa44f13bf62372a46a6a0eb7bc5839cfa59f0.webp?width=2000&format=webply&optimize=medium" alt="Analyzer in Acrobat Studio"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/analyser/analyser-overview" target="_self" rel="referrer" title="Analyzer in Acrobat Studio">Analyzer in Acrobat Studio</a>
+                    </p>
+                    <p class="is-size-6">Erfahren Sie, wie Analyzer in Acrobat Studio Geschäftsanwendern dabei hilft, strukturierte, überprüfbare Erkenntnisse aus Zehntausenden unstrukturierter Dokumente zu extrahieren</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/analyser/analyser-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Entdecken</span>
+                </a>
+            </div>
+        </div>
+    </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Discover PDF insights with AI Assistant">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
@@ -68,8 +114,8 @@ Erfahren Sie, wie Sie [PDF-Einblicke](../getting-started/ai-assistant.md) auf Ih
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
-                3
-            </a></div>
+                </a>
+            </div>
         </div>
     </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Boost team efficiency with PDF Spaces">
@@ -91,31 +137,8 @@ Erfahren Sie, wie Sie [PDF-Einblicke](../getting-started/ai-assistant.md) auf Ih
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
-                3
-            </a></div>
-        </div>
-    </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="What is Acrobat Studio?">
-        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
-            <div class="card-image">
-                <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio" title="Was ist Acrobat Studio?" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/ai-powered/media_1f6d6f7b7584d916a156a186267c3d3790ae9144a.png?width=400&format=webply&optimize=medium" alt="Was ist Acrobat Studio?"
-                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
-                    </a>
-                </figure>
+                </a>
             </div>
-            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
-                <div class="top-card-content">
-                    <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio" target="_self" rel="referrer" title="Was ist Acrobat Studio?">Was ist Acrobat Studio?</a>
-                    </p>
-                    <p class="is-size-6">Lerne, wie du mit Acrobat Studio markensichere Inhalte erstellst, Einblicke gewinnst und komplexe Arbeiten optimierst.</p>
-                </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
-                3
-            </a></div>
         </div>
     </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Edit graphics in a PDF">
@@ -137,8 +160,8 @@ Erfahren Sie, wie Sie [PDF-Einblicke](../getting-started/ai-assistant.md) auf Ih
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
-                3
-            </a></div>
+                </a>
+            </div>
         </div>
     </div>
     <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Stylize this PDF">
@@ -160,8 +183,8 @@ Erfahren Sie, wie Sie [PDF-Einblicke](../getting-started/ai-assistant.md) auf Ih
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
-                3
-            </a></div>
+                </a>
+            </div>
         </div>
     </div>
 </div>

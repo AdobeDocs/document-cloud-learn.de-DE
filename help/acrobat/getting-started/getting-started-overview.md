@@ -17,10 +17,10 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 473918bc827d68228d12b8c8107960feb0b7f35a
+source-git-commit: db9d5ade5504ac04927dc7459695fc5cddb96c7c
 workflow-type: tm+mt
-source-wordcount: 2909
-ht-degree: 1%
+source-wordcount: 2884
+ht-degree: 0%
 
 ---
 
@@ -32,6 +32,10 @@ In diesen kurzen Schritt-für-Schritt-Tutorials erfährst du, wie du Adobe Acrob
 
 >[!BEGINTABS]
 
+>[!TAB Was ist Acrobat Studio?]
+
+Erfahren Sie, wie Sie mit [Acrobat Studio](acrobat-studio.md) markensichere Inhalte erstellen, Einblicke gewinnen und komplexe Arbeiten optimieren können.
+
 >[!TAB Vom Papier zum PDF]
 
 Erfahren Sie, wie Sie [Papierdokumente](scan-and-ocr.md) in durchsuchbare und bearbeitbare PDF-Dateien umwandeln.
@@ -39,10 +43,6 @@ Erfahren Sie, wie Sie [Papierdokumente](scan-and-ocr.md) in durchsuchbare und be
 >[!TAB Steigern Sie die Teameffizienz mit PDF Spaces]
 
 Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assistenten in [gemeinsam nutzbare, konversative Wissenszentren](pdf-spaces-legal.md).
-
->[!TAB Was ist Acrobat Studio?]
-
-Erfahren Sie, wie Sie mit [Acrobat Studio](acrobat-studio.md) markensichere Inhalte erstellen, Einblicke gewinnen und komplexe Arbeiten optimieren können.
 
 >[!TAB Entdecken Sie PDF-Erkenntnisse mit AI Assistant]
 
