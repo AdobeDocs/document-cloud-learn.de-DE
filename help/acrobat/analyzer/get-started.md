@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie mit Analyzer in Acrobat Studio strukturierte, zitierte Daten aus großen Dokumentmengen extrahieren können. Anstatt Hunderte oder Tausende von Verträgen, Lieferantenvereinbarungen oder Compliance-Dokumenten gleichzeitig zu lesen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503110?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503118?captions=ger&quality=12&learn=on&hidetitle=true)
