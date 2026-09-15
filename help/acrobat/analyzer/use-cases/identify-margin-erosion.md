@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Die Projektmarge geht auf der Ebene der Hauptverträge nicht verloren. Es hat jeweils einen Unterauftrag verloren - in Änderungsaufträgen, die wuchsen, bevor irgendjemand die Rückforderung bezahlte, in RFIs, die leise in Verzugsforderungen alterten, und in Vertragsschutzaufträgen, die es nie in die Zeitung des Unterauftrags schafften. Wenn es in einem Bericht erscheint, ist das Geld bereits weg. Lernt, wie ihr Risiken einer versteckten Gewinnmargenminderung in Untervertragsvereinbarungen identifizieren könnt, indem ihr verpasste Änderungsaufträge, alternde Rentabilitätskoeffizienten und Vertragslücken erkennt, bevor sie die Rentabilität des Projekts beeinträchtigen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503514?captions=ger&quality=12&learn=on&hidetitle=true)
