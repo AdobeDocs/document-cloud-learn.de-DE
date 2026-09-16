@@ -2,13 +2,11 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: e99f150b636c45dd0f06959db110c2c3257c897e
+source-git-commit: 86c5e0581e09572a5ccc52cebbc5db4ad26eeba9
 workflow-type: tm+mt
-source-wordcount: '736'
+source-wordcount: '745'
 ht-degree: 6%
-
 ---
-
 
 # Acrobat Tutorials {#acrobat-learning}
 
@@ -95,6 +93,7 @@ ht-degree: 6%
     + [M&amp;A-Prüfung nach Integration](analyzer/use-cases/m-and-a-post-audit.md)
     + [Beschleunigung der Prüfung von Einnahmen und Prüfungen im Finanzsektor](analyzer/use-cases/accelerate-revenue.md)
     + [Vollständige Transparenz und Überwachung von Datenschutzrisiken](analyzer/use-cases/data-privacy-risk.md)
+    + [Verwaltung von Unteraufträgen zur Ermittlung der Erodierungsmargenquelle](analyzer/use-cases/identify-margin-erosion.md)
   + [Schulungsvideos (in englischer Sprache)](https://experienceleague.adobe.com/en/docs/events/acrobat-analyser-webinars/overview){target=_blank}
 + Anwendungsfälle {#use-cases}
   + [Überblick](use-cases/use-cases-overview.md)

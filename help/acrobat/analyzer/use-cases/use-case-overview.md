@@ -5,13 +5,11 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22591
-source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
+source-git-commit: 412de3823992cd69436f77c38b1bc1d32dbfbe1c
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '286'
 ht-degree: 0%
-
 ---
-
 # Analyzer in Acrobat Studio - Übersicht der Anwendungsfälle
 
 Erfahre, wie Teams mit Adobe Analyzer in Acrobat Studio wichtige Informationen aus umfangreichen Dokumentensammlungen extrahieren können. Entdeckt reale Nutzungsszenarien, die zeigen, wie Organisationen Überprüfungsprozesse optimieren, Einblicke gewinnen und Dokumenteninhalte in geschäftsfähige Daten umwandeln können.
@@ -20,13 +18,17 @@ Erfahre, wie Teams mit Adobe Analyzer in Acrobat Studio wichtige Informationen a
 
 >[!BEGINTABS]
 
->[!TAB Beschleunigung der Überprüfung von Umsatz und Audit im Finanzsektor]
+>[!TAB Erodierende Marge identifizieren]
+
+Erfahren Sie, wie Analyzer in Acrobat Studio dazu beiträgt, frühe Warnzeichen für [Margenverluste in Unterauftragnehmervereinbarungen zu erkennen](identify-margin-erosion.md) und Maßnahmen zu ergreifen, bevor die Kosten eskalieren.
+
+>[!TAB Beschleunigung der Überprüfung von Umsatz und Audit]
 
 Erfahren Sie, wie Analyzer in Acrobat Studio [Finance](accelerate-revenue.md) Teams dabei hilft, Vertragsdaten in großem Umfang zu extrahieren, zu überprüfen und zu validieren.
 
->[!TAB Umsetzen des Datenschutzrisikos in vollständige Transparenz und Überwachung]
+>[!TAB Risikoanalyse für den Datenschutz]
 
-Erfahren Sie, wie Analyzer in Acrobat Studio [Datenschutz](data-privacy-risk.md)-, Rechts- und Beschaffungsteams dabei unterstützt, wichtige DPA-Bedingungen in großem Umfang zu extrahieren, zu überwachen und zu validieren.
+Erfahren Sie, wie Analyzer in Acrobat Studio [Datenschutz-, Rechts- und Beschaffungsteams](data-privacy-risk.md) dabei unterstützt, wichtige DPA-Bedingungen in großem Umfang zu extrahieren, zu überwachen und zu validieren.
 
 >[!ENDTABS]
 
@@ -36,7 +38,7 @@ Erfahren Sie, wie Analyzer in Acrobat Studio [Datenschutz](data-privacy-risk.md)
 <tr>
   <td>
     <a href="m-and-a-post-audit.md">
-      <img alt="M&amp;A-Prüfung nach Integration" src="../../assets/m-and-a.jpg" />
+      <img alt="M&amp;A-Prüfung nach Integration" src="../../assets/analyzer_m-and-a.png" />
     </a>
     <div>
     <a href="m-and-a-post-audit.md"><strong>M&amp;A-Prüfung nach Integration des Vertrags</strong></a>
@@ -65,8 +67,13 @@ Erfahren Sie, wie Analyzer in Acrobat Studio [Datenschutz](data-privacy-risk.md)
     <br>
   </td>
   <td>
-    <img alt="Spacer" src="../../assets/Whitespacer.png" />
+    <a href="identify-margin-erosion.md">
+      <img alt="Verwaltung von Unteraufträgen zur Ermittlung der Erodierungsmargenquelle" src="../../assets/analyzer_margin-identification.png" />
+    </a>
     <div>
+    <a href="identify-margin-erosion.md"><strong>Untervertragsverwaltung zur Identifizierung der Erkennung der erodierenden Margenquelle</strong></a>
+    </div>
+    Erfahrt, wie Adobe Analyzer in Acrobat Studio dazu beiträgt, frühe Warnzeichen für Margenverluste in Unterauftragnehmervereinbarungen zu erkennen und Maßnahmen zu ergreifen, bevor die Kosten eskalieren
     <br>
   </td>
 </tr>
