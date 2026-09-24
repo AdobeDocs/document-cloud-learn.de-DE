@@ -22,14 +22,14 @@ topic_v2:
     internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: a8314b28169e684e8da204aa548b84b67e53c820
+source-git-commit: c27925fb47f6fb33bbf2606da4f0f57d02552b0d
 workflow-type: tm+mt
-source-wordcount: '2888'
+source-wordcount: '2995'
 ht-degree: 0%
 ---
 # Erste Schritte - Übersicht
 
-In diesen kurzen Schritt-für-Schritt-Tutorials erfährst du, wie du Adobe Acrobat einsetzen kannst. Von der Erstellung eines Dokuments bis hin zum Schützen oder [Bearbeiten Ihrer PDF-Dateien](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target="_blank"} - dieser Inhalt ist so konzipiert, dass Sie sich leichter in die PDF-Arbeitsabläufe einarbeiten können. Lesen Sie diese fachkundig kuratierte [Wiedergabeliste](https://experienceleague.adobe.com/de/playlists/acrobat-get-started-business-users), um mit Acrobat zu beginnen.
+In diesen kurzen Schritt-für-Schritt-Tutorials erfährst du, wie du Adobe Acrobat einsetzen kannst. Von der Erstellung eines Dokuments bis hin zum Schützen oder [Bearbeiten Ihrer PDF-Dateien](https://www.adobe.com/de/acrobat/online/pdf-editor.html){target="_blank"} - dieser Inhalt ist so konzipiert, dass Sie sich leichter in die PDF-Arbeitsabläufe einarbeiten können. Lesen Sie diese fachkundig kuratierte [Wiedergabeliste](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users), um mit Acrobat zu beginnen.
 
 ## Neue Funktionen
 
@@ -61,8 +61,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" title="Was ist Acrobat Studio?" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/media_12789c7c38d4d314c98ac632578aa46e427cdf603.webp?width=400&format=webply&optimize=medium" alt="Was ist Acrobat Studio?"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" title="Was ist Acrobat Studio?" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/media_12789c7c38d4d314c98ac632578aa46e427cdf603.webp?width=400&format=webply&optimize=medium" alt="Was ist Acrobat Studio?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -70,11 +70,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" target="_blank" rel="referrer" title="Was ist Acrobat Studio?">Was ist Acrobat Studio?</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" target="_blank" rel="referrer" title="Was ist Acrobat Studio?">Was ist Acrobat Studio?</a>
                     </p>
                     <p class="is-size-6">Lernt, wie ihr mit Acrobat Studio markensichere Inhalte erstellt, Erkenntnisse gewinnt und komplexe Arbeiten optimiert.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -84,8 +84,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" title="Grundlagen des Arbeitsbereichs" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/media_12a241a5a43185e5dc74133d75dbad2f4d3e1f13e.webp?width=400&format=webply&optimize=medium" alt="Grundlagen des Arbeitsbereichs"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" title="Grundlagen des Arbeitsbereichs" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/media_12a241a5a43185e5dc74133d75dbad2f4d3e1f13e.webp?width=400&format=webply&optimize=medium" alt="Grundlagen des Arbeitsbereichs"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -93,11 +93,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" target="_blank" rel="referrer" title="Grundlagen des Arbeitsbereichs">Grundlagen des Arbeitsbereichs</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" target="_blank" rel="referrer" title="Grundlagen des Arbeitsbereichs">Grundlagen des Arbeitsbereichs</a>
                     </p>
                     <p class="is-size-6">Grundlagen des Acrobat-Arbeitsbereichs</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/workspace-basics" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -107,8 +107,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/new-experience" title="Neues Erlebnis mit Acrobat" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/media_178831fd1a5ee792617ad1bc508c02ffee1efcdb8.webp?width=400&format=webply&optimize=medium" alt="Neues Erlebnis mit Acrobat"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/new-experience" title="Neues Erlebnis mit Acrobat" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/media_178831fd1a5ee792617ad1bc508c02ffee1efcdb8.webp?width=400&format=webply&optimize=medium" alt="Neues Erlebnis mit Acrobat"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -116,11 +116,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/new-experience" target="_blank" rel="referrer" title="Neues Erlebnis mit Acrobat">Neues Acrobat-Erlebnis</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/new-experience" target="_blank" rel="referrer" title="Neues Erlebnis mit Acrobat">Neues Acrobat-Erlebnis</a>
                     </p>
                     <p class="is-size-6">Das neue Erlebnis mit Acrobat kennenlernen</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/new-experience" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/new-experience" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -130,8 +130,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" title="Arbeiten mit Microsoft 365" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/media_112baad4951218929d9e12f9c296d0aabc290e7c9.webp?width=400&format=webply&optimize=medium" alt="Arbeiten mit Microsoft 365"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" title="Arbeiten mit Microsoft 365" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/media_112baad4951218929d9e12f9c296d0aabc290e7c9.webp?width=400&format=webply&optimize=medium" alt="Arbeiten mit Microsoft 365"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -139,11 +139,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" target="_blank" rel="referrer" title="Arbeiten mit Microsoft 365">Mit Microsoft 365 arbeiten</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" target="_blank" rel="referrer" title="Arbeiten mit Microsoft 365">Mit Microsoft 365 arbeiten</a>
                     </p>
                     <p class="is-size-6">Microsoft 365-PDF</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview#microsoft" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorials anzeigen</span>
                 </a>
             </div>
@@ -153,8 +153,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" title="Überall arbeiten - mit Acrobat Web" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/media_17cdd93ee17c8052102cd3082b5080cae657adfbd.webp?width=400&format=webply&optimize=medium" alt="Überall arbeiten - mit Acrobat Web"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" title="Überall arbeiten - mit Acrobat Web" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/media_17cdd93ee17c8052102cd3082b5080cae657adfbd.webp?width=400&format=webply&optimize=medium" alt="Überall arbeiten - mit Acrobat Web"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -162,11 +162,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" target="_blank" rel="referrer" title="Überall arbeiten - mit Acrobat Web">Überall arbeiten mit Acrobat Web</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" target="_blank" rel="referrer" title="Überall arbeiten - mit Acrobat Web">Überall arbeiten mit Acrobat Web</a>
                     </p>
                     <p class="is-size-6">Von überall aus arbeiten</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobatweb" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -176,8 +176,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" title="Unterwegs produktiv sein." target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/media_1479b3d5a9bbd94959ebb95a0042a6f6d870fa1f7.webp?width=400&format=webply&optimize=medium" alt="Unterwegs produktiv sein."
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" title="Unterwegs produktiv sein." target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/media_1479b3d5a9bbd94959ebb95a0042a6f6d870fa1f7.webp?width=400&format=webply&optimize=medium" alt="Unterwegs produktiv sein."
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -185,11 +185,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" target="_blank" rel="referrer" title="Unterwegs produktiv sein.">Produktivität unterwegs</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" target="_blank" rel="referrer" title="Unterwegs produktiv sein.">Produktivität unterwegs</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie direkt auf Ihrem Tablet oder Smartphone mehr tun können.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -206,8 +206,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant" title="Mit AI Assistant PDF-Erkenntnisse gewinnen" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/media_16b40a5c89df63b8d9116ee1733680b378915394a.png?width=400&format=webply&optimize=medium" alt="Mit AI Assistant PDF-Erkenntnisse gewinnen"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant" title="Mit AI Assistant PDF-Erkenntnisse gewinnen" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_16b40a5c89df63b8d9116ee1733680b378915394a.png?width=400&format=webply&optimize=medium" alt="Mit AI Assistant PDF-Erkenntnisse gewinnen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -215,11 +215,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant" target="_self" rel="referrer" title="Mit dem KI-Assistenten PDF-Erkenntnisse gewinnen">Entdecken Sie PDF-Erkenntnisse mit AI Assistant</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant" target="_self" rel="referrer" title="Mit dem KI-Assistenten PDF-Erkenntnisse gewinnen">Entdecken Sie PDF-Erkenntnisse mit AI Assistant</a>
                     </p>
                     <p class="is-size-6">Einblicke in PDF-Dateien mit dem KI-Assistenten gewinnen</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -229,8 +229,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" title="Mehr Team-Effizienz dank PDF Spaces" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1a0a666ba69346a3cb306b786f1b0681e09316801.png?width=400&format=webply&optimize=medium" alt="Mehr Team-Effizienz dank PDF Spaces"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" title="Mehr Team-Effizienz dank PDF Spaces" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1a0a666ba69346a3cb306b786f1b0681e09316801.png?width=400&format=webply&optimize=medium" alt="Mehr Team-Effizienz dank PDF Spaces"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -238,11 +238,34 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" target="_self" rel="referrer" title="Mehr Team-Effizienz dank PDF Spaces">Steigern Sie die Teameffizienz mit PDF Spaces</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" target="_self" rel="referrer" title="Mehr Team-Effizienz dank PDF Spaces">Steigern Sie die Teameffizienz mit PDF Spaces</a>
                     </p>
                     <p class="is-size-6">Lerne, wie du Sammlungen von Dateien und Websites in Wissensdatenbanken verwandelst, die sich untereinander austauschen können</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create a podcast">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" title="Podcasts erstellen" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/media_115e208368a60860fd06236cb04602a4fbd8fdebf.png?width=400&format=webply&optimize=medium" alt="Podcasts erstellen"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" target="_self" rel="referrer" title="Mehr Team-Effizienz dank PDF Spaces">Podcast erstellen</a>
+                    </p>
+                    <p class="is-size-6">Lerne, wie du KI-generierte Podcasts aus deinen Dokumenten und Forschungs-Materials erstellen kannst.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -259,8 +282,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/create/create-pdf" title="Erstellen einer PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/media_16f0a3abd52647334bb64fdf140cf94afd63188d2.png?width=400&format=webply&optimize=medium" alt="Erstellen einer PDF"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/create-pdf" title="Erstellen einer PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_16f0a3abd52647334bb64fdf140cf94afd63188d2.png?width=400&format=webply&optimize=medium" alt="Erstellen einer PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -268,11 +291,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/create/create-pdf" target="_self" rel="referrer" title="Erstellen einer PDF">PDF erstellen</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/create-pdf" target="_self" rel="referrer" title="Erstellen einer PDF">PDF erstellen</a>
                     </p>
                     <p class="is-size-6">PDF aus allen Dokumenttypen erstellen</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/create/create-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/create-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -282,8 +305,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/create/combine-to-pdf" title="Dateien auf einer einzigen PDF zusammenführen" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/media_11be639aeee441f5b0e2b4900730339cd1798a4b9.png?width=400&format=webply&optimize=medium" alt="Dateien auf einer einzigen PDF zusammenführen"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/combine-to-pdf" title="Dateien auf einer einzigen PDF zusammenführen" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_11be639aeee441f5b0e2b4900730339cd1798a4b9.png?width=400&format=webply&optimize=medium" alt="Dateien auf einer einzigen PDF zusammenführen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -291,11 +314,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/create/combine-to-pdf" target="_self" rel="referrer" title="Dateien auf einer einzigen PDF zusammenführen">Dateien zu einer einzigen PDF zusammenführen</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/combine-to-pdf" target="_self" rel="referrer" title="Dateien auf einer einzigen PDF zusammenführen">Dateien zu einer einzigen PDF zusammenführen</a>
                     </p>
                     <p class="is-size-6">Kombinieren Sie verschiedene Dateitypen nahtlos zu einer einzigen PDF</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/create/combine-to-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/combine-to-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -305,8 +328,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/create/organize" title="Organisieren von Seiten" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/media_17e55bdc9d65c0ae578fd3d6d32d1eb3bf3719714.png?width=400&format=webply&optimize=medium" alt="Organisieren von Seiten"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/organize" title="Organisieren von Seiten" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_17e55bdc9d65c0ae578fd3d6d32d1eb3bf3719714.png?width=400&format=webply&optimize=medium" alt="Organisieren von Seiten"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -314,11 +337,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/create/organize" target="_self" rel="referrer" title="Organisieren von Seiten">Seiten organisieren</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/organize" target="_self" rel="referrer" title="Organisieren von Seiten">Seiten organisieren</a>
                     </p>
                     <p class="is-size-6">Seiten nach Bedarf neu anordnen</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/create/organize" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/organize" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -328,8 +351,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/create/add-custom-page" title="Entwerfen einer neuen Seite" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/media_1f048322a16c3f2b9762347f0ea4e90b24dcd279e.png?width=400&format=webply&optimize=medium" alt="Entwerfen einer neuen Seite"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/add-custom-page" title="Entwerfen einer neuen Seite" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1f048322a16c3f2b9762347f0ea4e90b24dcd279e.png?width=400&format=webply&optimize=medium" alt="Entwerfen einer neuen Seite"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -337,11 +360,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/create/add-custom-page" target="_self" rel="referrer" title="Entwerfen einer neuen Seite">Neue Seite entwerfen</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/add-custom-page" target="_self" rel="referrer" title="Entwerfen einer neuen Seite">Neue Seite entwerfen</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie eine neue professionell aussehende Seite auf Ihrem PDF erstellen.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/create/add-custom-page" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/add-custom-page" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -351,8 +374,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/create/scan-and-ocr" title="Vom Papier zum PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/media_1b026238a32eb56a79f2826f8c588a2f4d83c93e5.png?width=400&format=webply&optimize=medium" alt="Vom Papier zum PDF"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/scan-and-ocr" title="Vom Papier zum PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1b026238a32eb56a79f2826f8c588a2f4d83c93e5.png?width=400&format=webply&optimize=medium" alt="Vom Papier zum PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -360,11 +383,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/create/scan-and-ocr" target="_self" rel="referrer" title="Vom Papier zum PDF">Vom Papier zum PDF</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/scan-and-ocr" target="_self" rel="referrer" title="Vom Papier zum PDF">Vom Papier zum PDF</a>
                     </p>
                     <p class="is-size-6">Scans oder Bilder in durchsuchbare, editierbare PDF-Dateien konvertieren</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/create/scan-and-ocr" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/create/scan-and-ocr" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Lesen</span>
                 </a>
             </div>
@@ -381,8 +404,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-pdf" title="Bearbeiten von Text auf einem PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/media_13401767164ccbafc5bcc35d34d2334fc961255e1.png?width=400&format=webply&optimize=medium" alt="Bearbeiten von Text auf einem PDF"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-pdf" title="Bearbeiten von Text auf einem PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_13401767164ccbafc5bcc35d34d2334fc961255e1.png?width=400&format=webply&optimize=medium" alt="Bearbeiten von Text auf einem PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -390,11 +413,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-pdf" target="_self" rel="referrer" title="Bearbeiten von Text auf einem PDF">Text auf einem PDF bearbeiten</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-pdf" target="_self" rel="referrer" title="Bearbeiten von Text auf einem PDF">Text auf einem PDF bearbeiten</a>
                     </p>
                     <p class="is-size-6">Wörter, Sätze und sogar ganze Seiten auf dem PDF bearbeiten</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -404,8 +427,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics" title="Bearbeiten von Grafiken auf einem PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/media_10cbcb294cdbd62dc9d8f6b2f5f5f160782370141.png?width=400&format=webply&optimize=medium" alt="Bearbeiten von Grafiken auf einem PDF"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics" title="Bearbeiten von Grafiken auf einem PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_10cbcb294cdbd62dc9d8f6b2f5f5f160782370141.png?width=400&format=webply&optimize=medium" alt="Bearbeiten von Grafiken auf einem PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -413,11 +436,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics" target="_self" rel="referrer" title="Bearbeiten von Grafiken auf einem PDF">Grafiken auf einem PDF bearbeiten</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics" target="_self" rel="referrer" title="Bearbeiten von Grafiken auf einem PDF">Grafiken auf einem PDF bearbeiten</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie Grafiken auf Ihrem PDF erstellen, bearbeiten und verbessern können.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -427,8 +450,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf" title="Stilisieren dieser PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/media_199eeb70612b1e3f04c00cbe3ebf7f4cc2016bcef.png?width=400&format=webply&optimize=medium" alt="Stilisieren dieser PDF"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf" title="Stilisieren dieser PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_199eeb70612b1e3f04c00cbe3ebf7f4cc2016bcef.png?width=400&format=webply&optimize=medium" alt="Stilisieren dieser PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -436,11 +459,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf" target="_self" rel="referrer" title="Stilisieren dieser PDF">Diesen PDF stilisieren</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf" target="_self" rel="referrer" title="Stilisieren dieser PDF">Diesen PDF stilisieren</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie professionell wirkende PDF erstellen</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -450,8 +473,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/auto-adjust-layout" title="Layout automatisch anpassen" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/media_1072b7b70b16efa68b4bd6bbc2152a4dd90bd6dfb.png?width=400&format=webply&optimize=medium" alt="Layout automatisch anpassen"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/auto-adjust-layout" title="Layout automatisch anpassen" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1072b7b70b16efa68b4bd6bbc2152a4dd90bd6dfb.png?width=400&format=webply&optimize=medium" alt="Layout automatisch anpassen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -459,11 +482,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/auto-adjust-layout" target="_self" rel="referrer" title="Layout automatisch anpassen">Layout automatisch anpassen</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/auto-adjust-layout" target="_self" rel="referrer" title="Layout automatisch anpassen">Layout automatisch anpassen</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie mehr über den neuen Bearbeitungsmodus, mit dem Inhalte umfließen</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/auto-adjust-layout" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/auto-adjust-layout" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -473,8 +496,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/export-pdf" title="PDF in verschiedene Dateiformate konvertieren" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/media_16383696f2610f1419050df7dca0b9dc77b94f836.png?width=400&format=webply&optimize=medium" alt="PDF in verschiedene Dateiformate konvertieren"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/export-pdf" title="PDF in verschiedene Dateiformate konvertieren" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_16383696f2610f1419050df7dca0b9dc77b94f836.png?width=400&format=webply&optimize=medium" alt="PDF in verschiedene Dateiformate konvertieren"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -482,11 +505,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/export-pdf" target="_self" rel="referrer" title="PDF in verschiedene Dateiformate konvertieren">PDF in andere Dateiformate konvertieren</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/export-pdf" target="_self" rel="referrer" title="PDF in verschiedene Dateiformate konvertieren">PDF in andere Dateiformate konvertieren</a>
                     </p>
                     <p class="is-size-6">Konvertieren Ihrer PDF-Dateien in verschiedene Dateiformate</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/export-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/export-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -503,8 +526,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/collaborate" title="In Echtzeit zusammenarbeiten." target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/media_1f5dd20f4df4fb7d2f5c80653268baf61e708a449.png?width=400&format=webply&optimize=medium" alt="In Echtzeit zusammenarbeiten."
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/collaborate" title="In Echtzeit zusammenarbeiten." target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1f5dd20f4df4fb7d2f5c80653268baf61e708a449.png?width=400&format=webply&optimize=medium" alt="In Echtzeit zusammenarbeiten."
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -512,11 +535,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/collaborate" target="_self" rel="referrer" title="In Echtzeit zusammenarbeiten.">In Echtzeit zusammenarbeiten</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/collaborate" target="_self" rel="referrer" title="In Echtzeit zusammenarbeiten.">In Echtzeit zusammenarbeiten</a>
                     </p>
                     <p class="is-size-6">Durch Zusammenarbeit in Echtzeit bringen Sie Ihre Projekte voran.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/collaborate" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/collaborate" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -526,8 +549,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/comment-on-pdf-files" title="Auf einem PDF kommentieren" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/media_116d7c4b645e8d4c4e4645df9cb83a36501431471.png?width=400&format=webply&optimize=medium" alt="Auf einem PDF kommentieren"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/comment-on-pdf-files" title="Auf einem PDF kommentieren" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_116d7c4b645e8d4c4e4645df9cb83a36501431471.png?width=400&format=webply&optimize=medium" alt="Auf einem PDF kommentieren"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -535,11 +558,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/comment-on-pdf-files" target="_self" rel="referrer" title="Auf einem PDF kommentieren">Kommentar zu einem PDF</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/comment-on-pdf-files" target="_self" rel="referrer" title="Auf einem PDF kommentieren">Kommentar zu einem PDF</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie Kommentare auf einem freigegebenen PDF mit nur einem Webbrowser hinzufügen.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/comment-on-pdf-files" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/collaborate/comment-on-pdf-files" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -556,8 +579,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/tools/create-fillable-forms" title="Ausfüllbares Formular erstellen" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/media_12789c7c38d4d314c98ac632578aa46e427cdf603.webp?width=400&format=webply&optimize=medium" alt="Ausfüllbares Formular erstellen"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/create-fillable-forms" title="Ausfüllbares Formular erstellen" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_12789c7c38d4d314c98ac632578aa46e427cdf603.webp?width=400&format=webply&optimize=medium" alt="Ausfüllbares Formular erstellen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -565,11 +588,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/tools/create-fillable-forms" target="_self" rel="referrer" title="Ausfüllbares Formular erstellen">Ausfüllbare Formulare erstellen</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/create-fillable-forms" target="_self" rel="referrer" title="Ausfüllbares Formular erstellen">Ausfüllbare Formulare erstellen</a>
                     </p>
                     <p class="is-size-6">Gescanntes Papier in ein ausfüllbares Formular umwandeln.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/tools/create-fillable-forms" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/create-fillable-forms" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Lesen</span>
                 </a>
             </div>
@@ -579,8 +602,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/tools/fill-and-sign" title="Fill &amp; Sign ein PDF-Formular" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/media_1e8d0607bd61f9cf6a5781801e8e075019fa10ce8.png?width=400&format=webply&optimize=medium" alt="Fill &amp; Sign ein PDF-Formular"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/fill-and-sign" title="Fill &amp; Sign ein PDF-Formular" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1e8d0607bd61f9cf6a5781801e8e075019fa10ce8.png?width=400&format=webply&optimize=medium" alt="Fill &amp; Sign ein PDF-Formular"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -588,11 +611,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/tools/fill-and-sign" target="_self" rel="referrer" title="Fill &amp; Sign ein PDF-Formular">Fill &amp; Sign für ein PDF-Formular </a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/fill-and-sign" target="_self" rel="referrer" title="Fill &amp; Sign ein PDF-Formular">Fill &amp; Sign für ein PDF-Formular </a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie ein PDF-Formular schnell und einfach ausfüllen und signieren können.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/tools/fill-and-sign" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/fill-and-sign" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -602,8 +625,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/tools/password-protect" title="Protect einer PDF-Datei mit einem Kennwort" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/tools/media_1eefc008204c134c1afab5202c2bcc024d8896c1c.png?width=400&format=webply&optimize=medium" alt="Protect einer PDF-Datei mit einem Kennwort"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/password-protect" title="Protect einer PDF-Datei mit einem Kennwort" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/media_1eefc008204c134c1afab5202c2bcc024d8896c1c.png?width=400&format=webply&optimize=medium" alt="Protect einer PDF-Datei mit einem Kennwort"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -611,11 +634,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/tools/password-protect" target="_self" rel="referrer" title="Protect einer PDF-Datei mit einem Kennwort">Protect einer PDF-Datei mit einem Kennwort</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/password-protect" target="_self" rel="referrer" title="Protect einer PDF-Datei mit einem Kennwort">Protect einer PDF-Datei mit einem Kennwort</a>
                     </p>
                     <p class="is-size-6">Erfahren Sie, wie Sie Ihrem PDF ein Kennwort hinzufügen</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/tools/password-protect" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/password-protect" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -625,8 +648,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/tools/signatures" title="Unterschriften einholen." target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/media_1d23992362b8a44ebfa1801c33d482df88e1865e1.png?width=400&format=webply&optimize=medium" alt="Unterschriften einholen."
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/signatures" title="Unterschriften einholen." target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1d23992362b8a44ebfa1801c33d482df88e1865e1.png?width=400&format=webply&optimize=medium" alt="Unterschriften einholen."
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -634,11 +657,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/tools/signatures" target="_self" rel="referrer" title="Unterschriften einholen.">Signaturen abrufen</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/signatures" target="_self" rel="referrer" title="Unterschriften einholen.">Signaturen abrufen</a>
                     </p>
                     <p class="is-size-6">Rechtsgültige elektronische Unterschriften einholen</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/tools/signatures" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/signatures" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
@@ -648,8 +671,8 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/tools/track" title="Dokumente verfolgen" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/media_1b0f65154db21a029cc4155f26ca8c24f5eeb71ef.png?width=400&format=webply&optimize=medium" alt="Dokumente verfolgen"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/track" title="Dokumente verfolgen" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1b0f65154db21a029cc4155f26ca8c24f5eeb71ef.png?width=400&format=webply&optimize=medium" alt="Dokumente verfolgen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -657,11 +680,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/tools/track" target="_self" rel="referrer" title="Dokumente verfolgen">Dokumente verfolgen</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/track" target="_self" rel="referrer" title="Dokumente verfolgen">Dokumente verfolgen</a>
                     </p>
                     <p class="is-size-6">Dokumente mit elektronischen Unterschriften verfolgen und verwalten</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/tools/track" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/tools/track" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
