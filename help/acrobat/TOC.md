@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 86c5e0581e09572a5ccc52cebbc5db4ad26eeba9
+source-git-commit: c27925fb47f6fb33bbf2606da4f0f57d02552b0d
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '764'
 ht-degree: 6%
 ---
 
@@ -24,6 +24,7 @@ ht-degree: 6%
   + Intelligenter arbeiten mit KI. {#ai}
     + [Mit AI Assistant PDF-Erkenntnisse gewinnen](getting-started/ai-assistant.md)
     + [Mehr Team-Effizienz dank PDF Spaces](getting-started/pdf-spaces-legal.md)
+    + [Podcasts erstellen](getting-started/podcast.md)
   + Erstellen und Organisieren {#create}
     + [Erstellen einer PDF](getting-started/create-pdf.md)
     + [Dateien zu einer einzigen PDF zusammenführen](getting-started/combine-to-pdf.md)
@@ -80,6 +81,7 @@ ht-degree: 6%
   + [Was ist Acrobat Studio?](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio)
   + [Mit AI Assistant PDF-Erkenntnisse gewinnen](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
   + [Mehr Team-Effizienz dank PDF Spaces](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+  + [Podcasts erstellen](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast)
   + [Bearbeiten von Grafiken auf einem PDF](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
   + [Stilisieren dieser PDF](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Analyzer in Acrobat Studio {#analyzer}
@@ -142,7 +144,7 @@ ht-degree: 6%
   + [Word-Dokumente einschließlich Formularfelder in PDF-Dateien konvertieren](60-second/wordform.md)
   + [PDF mit wenigen Klicks erstellen](60-second/photo.md)
   + [PPT- in PDF-Dateien umwandeln - auf dem Smartphone.](60-second/phone.md)
-  + [Erstellen von effizienteren PDF-Dateien in einem einrasten](60-second/optimize.md)
+  + [Effizienteres PDF von Dateien mit wenigen Klicks](60-second/optimize.md)
   + [Papierdokument elektronisch unterschreiben](60-second/sign.md)
   + [Protect Ihrer PDF-Dateien mit einem Kennwort](60-second/protect.md)
   + [Schwärzung: Der richtige Weg](60-second/redaction.md)

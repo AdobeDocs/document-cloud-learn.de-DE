@@ -9,20 +9,23 @@ exl-id: f2b2bf31-e9ec-4bda-8f89-d0f268f24c69
 TQID: https://experienceleague.adobe.com/yP0iQGUfN2Y1kRg5Bk781cY8kcia5XBfHFMWCbn7QIw
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 65870ba3fdc5fb312076fc4b538b10c133cfe378
+    internal-label: Insights
+source-git-commit: 054ca00c06987f28d976beb44121787c03bd5709
 workflow-type: tm+mt
-source-wordcount: 799
+source-wordcount: '920'
 ht-degree: 0%
-
 ---
-
 # KI-gestützter Überblick.
 
 Entdecke, wie du deine PDF-Workflows mit KI transformieren. Tools, die Aufgaben von Dokumenten vereinfachen und die Produktivität steigern.
@@ -30,6 +33,10 @@ Entdecke, wie du deine PDF-Workflows mit KI transformieren. Tools, die Aufgaben 
 ## Neue Funktionen
 
 >[!BEGINTABS]
+
+>[!TAB Podcast erstellen]
+
+Erfahren Sie, wie Sie KI-generierte [Podcasts](../getting-started/podcast.md) aus Ihren Dokumenten und Materials in Ihrem PDF erstellen.
 
 >[!TAB Was ist Acrobat Studio?]
 
@@ -67,7 +74,7 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
                     <p class="is-size-6">Lernt, wie ihr mit Acrobat Studio markensichere Inhalte erstellt, Erkenntnisse gewinnt und komplexe Arbeiten optimiert.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -113,7 +120,7 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
                     <p class="is-size-6">Erfahren Sie, wie Sie mit dem KI-Assistenten Erkenntnisse aus Ihren PDF-Dateien gewinnen</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -136,7 +143,30 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
                     <p class="is-size-6">Lerne, wie du Sammlungen von Dateien und Websites in Wissensdatenbanken verwandelst, die sich untereinander austauschen können</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create a podcast">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" title="Podcasts erstellen" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/media_115e208368a60860fd06236cb04602a4fbd8fdebf.png?width=400&format=webply&optimize=medium" alt="Podcasts erstellen"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" target="_self" rel="referrer" title="Mehr Team-Effizienz dank PDF Spaces">Podcast erstellen</a>
+                    </p>
+                    <p class="is-size-6">Lerne, wie du KI-generierte Podcasts aus deinen Dokumenten und Forschungs-Materials erstellen kannst.</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -159,7 +189,7 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
                     <p class="is-size-6">Erfahren Sie, wie Sie Grafiken auf Ihrem PDF erstellen, bearbeiten und verbessern können.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
@@ -182,7 +212,7 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
                     <p class="is-size-6">Erfahren Sie, wie Sie professionell wirkende PDF erstellen</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Tutorial anzeigen</span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
         </div>
