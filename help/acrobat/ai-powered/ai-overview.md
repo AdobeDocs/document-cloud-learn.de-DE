@@ -152,7 +152,7 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" title="Podcasts erstellen" target="_self" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" title="Podcasts erstellen" target="_self" rel="referrer">
                         <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/media_115e208368a60860fd06236cb04602a4fbd8fdebf.png?width=400&format=webply&optimize=medium" alt="Podcasts erstellen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -161,11 +161,11 @@ Verwandeln Sie Sammlungen von Dateien und Websites mit personalisierten KI-Assis
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" target="_self" rel="referrer" title="Mehr Team-Effizienz dank PDF Spaces">Podcast erstellen</a>
+                        <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" target="_self" rel="referrer" title="Mehr Team-Effizienz dank PDF Spaces">Podcast erstellen</a>
                     </p>
                     <p class="is-size-6">Lerne, wie du KI-generierte Podcasts aus deinen Dokumenten und Forschungs-Materials erstellen kannst.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Ansehen</span>
                 </a>
             </div>
