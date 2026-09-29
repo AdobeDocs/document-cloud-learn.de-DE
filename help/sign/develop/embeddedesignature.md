@@ -12,21 +12,25 @@ exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
 TQID: https://experienceleague.adobe.com/hpoT07uqXklt0yT3-oD6AW8mWcbGxqalTao-5lc6BCc
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Adobe Sign
 feature_v2:
   - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+    internal-label: Integrations
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+    internal-label: Intermediate
+source-git-commit: e56085c669f90be698e49f929786c0f639b397e8
 workflow-type: tm+mt
-source-wordcount: 917
+source-wordcount: '916'
 ht-degree: 1%
-
 ---
-
 # Integrierte Erlebnisse für elektronische Unterschriften und Dokumente erstellen
 
 Erfahrt, wie ihr mit Acrobat Sign-APIs Erlebnisse für elektronische Unterschriften und Dokumente in eure Web-Plattformen sowie in Content- und Dokumentenmanagementsysteme einbettet. Dieses praktische Tutorial besteht aus vier Teilen.
@@ -41,10 +45,10 @@ Im ersten Teil lernst du, wie du mit allem anfängst, was du für die Teile 2-4 
 * [Startcode](https://github.com/benvanderberg/adobe-sign-api-tutorial)
 * [VS-Code (oder Editor Ihrer Wahl)](https://code.visualstudio.com)
 * Python 3.x
-   * Mac - Homebrew
-   * Linux - Integriertes Installationsprogramm
-   * Windows - Chocolatey
-   * Alle — https://www.python.org/downloads/
+  * Mac - Homebrew
+  * Linux - Integriertes Installationsprogramm
+  * Windows - Chocolatey
+  * Alle — https://www.python.org/downloads/
 
 +++
 
@@ -98,13 +102,13 @@ Um Ihre erste Vereinbarung zu senden, sollten Sie wissen, wie Sie die API verwen
 
 1. Erstellen Sie ein temporäres Dokument und senden Sie es.
 
->[!NOTE]
->
->JSON-basierte Anforderungsaufrufe verfügen über die Optionen &quot;Model&quot; und &quot;Minimal Model Schema&quot;. Dadurch erhalten Sie Spezifikationen und einen minimalen Nutzlastsatz.
+   >[!NOTE]
+   >
+   >JSON-basierte Anforderungsaufrufe verfügen über die Optionen &quot;Model&quot; und &quot;Minimal Model Schema&quot;. Dadurch erhalten Sie Spezifikationen und einen minimalen Nutzlastsatz.
 
-![Screenshot der Erstellung eines temporären Dokuments](assets/embeddedesignature/embed_7.png)
+   ![Screenshot der Erstellung eines temporären Dokuments](assets/embeddedesignature/embed_7.png)
 
-Nachdem Sie eine Vereinbarung zum ersten Mal gesendet haben, können Sie die Logik hinzufügen. Es ist immer eine gute Idee, ein paar Helfer einzurichten, um Wiederholungen zu minimieren. Im Folgenden finden Sie einige Beispiele:
+Nachdem Sie eine Vereinbarung zum ersten Mal gesendet haben, können Sie die Logik hinzufügen. Es ist immer eine gute Idee, einige Helfer zu etablieren, um Wiederholungen zu minimieren. Im Folgenden finden Sie einige Beispiele:
 
 **Validierung**
 
@@ -163,13 +167,13 @@ Wenn alles zusammengestellt ist, ist die Lösung ziemlich einfach. Sie treffen e
 
 * [JS Events](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
 * Webhook-Ereignisse
-   * [REST-API](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhooks/createWebhook)
-   * [Webhooks in Acrobat Sign v6](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
+  * [REST-API](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhooks/createWebhook)
+  * [Webhooks in Acrobat Sign v6](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
 * [Anforderungs-E-Mails (mit Ereignissen) erneut aktivieren](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
 * [Zeitüberschreitung durch Wiederholung ersetzen](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
 * Benutzerdefinierte Erinnerungen
-   * Mit der ersten Erstellung
+  * Mit der ersten Erstellung
 
-     ![Screenshot der Navigation zu Power Automate](assets/embeddedesignature/embed_16.png)
+    ![Screenshot der Navigation zu Power Automate](assets/embeddedesignature/embed_16.png)
 
-   * Oder fügen Sie einen [in Bearbeitung](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant) hinzu.
+  * Oder fügen Sie einen [in Bearbeitung](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant) hinzu.
