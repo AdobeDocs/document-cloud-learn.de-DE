@@ -5,13 +5,11 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: 2b1a02675d17de53eddde51de43d54ab00d12c84
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 1%
-
+source-wordcount: '437'
+ht-degree: 0%
 ---
-
 # Analyzer in Acrobat Studio - Übersicht
 
 Analyzer in Acrobat Studio hilft Business-Anwendern, strukturierte, überprüfbare Erkenntnisse aus zehntausenden unstrukturierten Dokumenten zu extrahieren, um dokumentzentrierte Geschäftsprozesse zu automatisieren.
@@ -34,11 +32,17 @@ Erfahren Sie, wie Sie [Attribute](attributes.md) mit Analyzer in Acrobat Studio 
 
 >[!TAB Erweiterte Funktionen entdecken]
 
-Erfahren Sie, wie Sie extrahierte Daten [exportieren, eine Sammlung freigeben, zwei Dokumente vergleichen und AI Assistant &#x200B;](advanced.md) für schnelle Ad-hoc-Fragen verwenden können.
+Erfahren Sie, wie Sie [extrahierte Daten exportieren, eine Sammlung freigeben, zwei Dokumente vergleichen und AI Assistant](advanced.md) für schnelle Ad-hoc-Fragen verwenden.
+
+>[!TAB Anwendungsfälle in Aktion]
+
+Erfahren Sie mehr über echte [Anwendungsfälle](use-cases/use-case-overview.md) und wie verschiedene Teams Analyzer in Acrobat Studio nutzen, um intelligenter und schneller zu arbeiten.
 
 >[!ENDTABS]
 
-## Analyzer in Acrobat Studio - Tutorials
+## Essentials
+
+Grundlagen. Erfahren Sie, wie Sie Analyzer in Acrobat Studio verwenden, um Ihre Dokumente schnell zu verstehen, zusammenzufassen und mit ihnen zu interagieren.
 
 <table style="table-layout:fixed">
 <tr>
@@ -83,18 +87,66 @@ Erfahren Sie, wie Sie extrahierte Daten [exportieren, eine Sammlung freigeben, z
     <br>
   </td>
 </tr>
+</table>
+
+## Nutzungsszenarien in Aktion
+
+Beispiele aus der realen Welt. Erfahren Sie, wie verschiedene Teams Analyzer in Acrobat Studio nutzen, um intelligenter und schneller zu arbeiten.
+
+<table style="table-layout:fixed">
 <tr>
-   <td>
-    <a href="use-cases/use-case-overview.md">
-      <img alt="Analyzer in Acrobat Studio-Anwendungsfällen" src="../assets/analyzer_usecases.png" />
+  <td>
+    <a href="use-cases/m-and-a-post-audit.md">
+      <img alt="M&amp;A: Verträge nach einer Akquisition prüfen" src="../assets/analyzer_m-and-a.png" />
     </a>
     <div>
-    <a href="use-cases/use-case-overview.md"><strong>Analyzer in Acrobat Studio - Anwendungsfälle</strong></a>
+    <a href="use-cases/m-and-a-post-audit.md"><strong>M&amp;A: Verträge nach einer Akquisition überwachen</strong></a>
     </div>
-    Nutzungsszenarien, die zeigen, wie Organisationen Überprüfungsprozesse optimieren, Erkenntnisse gewinnen und Dokumenteninhalte in geschäftsfähige Daten umwandeln können
+    Erfahrt, wie M&amp;A-Teams umfangreiche Vertragssätze analysieren können, um wichtige Pflichten, Bedingungen und potenzielle Risiken in Minuten anstatt in Wochen zu identifizieren.
     <br>
   </td>
-    <td>
+  <td>
+    <a href="use-cases/accelerate-revenue.md">
+      <img alt="Finanzen: Verträge zur Umsatzanerkennung und -prüfung prüfen" src="../assets/analyzer_accelerate-revenue.png" />
+    </a>
+    <div>
+    <a href="use-cases/accelerate-revenue.md"><strong>Finanzen: Verträge für die Umsatzanerkennung und Audits prüfen</strong></a>
+    </div>
+    Findet heraus, wie Finanzteams sich auf Audits vorbereiten, die Umsatzgenerierung unterstützen und Rechnungslegungsrisiken schneller identifizieren können.
+    <br>
+  </td>
+  <td>
+    <a href="use-cases/data-privacy-risk.md">
+      <img alt="Datenschutz und Informationssicherheit: Datenschutzvereinbarungen überprüfen" src="../assets/analyzer_data-privacy.png" />
+    </a>
+    <div>
+    <a href="use-cases/data-privacy-risk.md"><strong>Datenschutz und Informationssicherheit: Datenschutzvereinbarungen überprüfen</strong></a>
+    </div>
+    Erfahrt, wie Datenschutz- und Informationssicherheitsteams Compliance-Lücken identifizieren und Verpflichtungen mit nachverfolgbaren Ergebnissen validieren können.
+    <br>
+  </td>
+  <td>
+    <a href="use-cases/identify-margin-erosion.md">
+      <img alt="Konstruktion: Nachschussrisiken in Unteraufträgen ermitteln" src="../assets/analyzer_margin-identification.png" />
+    </a>
+    <div>
+    <a href="use-cases/identify-margin-erosion.md"><strong>Aufbau: Nachschussrisiken in Unterverträgen ermitteln</strong></a>
+    </div>
+    Erfahrt, wie Bau- und Projektteams verpasste Änderungsaufträge, veraltete Rentabilitätskoeffizienten und Lücken beim Schutz von Unteraufträgen finden können, bevor sie die Margen beeinträchtigen.
+    <br>
+  </td>
+<tr>
+<td>
+    <a href="use-cases/vendor-risk.md">
+      <img alt="Audit zur Informationssicherheit: Kreditorenrisiko ermitteln" src="../assets/analyzer_vendor-risk.png" />
+    </a>
+    <div>
+    <a href="use-cases/vendor-risk.md"><strong>Überwachung der Informationssicherheit: Das Kreditorenrisiko wird ermittelt</strong></a>
+    </div>
+    Erfahren Sie, wie Sie das Informationssicherheitsrisiko anhand von Lieferantenverträgen proaktiv identifizieren können
+    <br>
+  </td>
+  <td>
     <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
@@ -104,10 +156,11 @@ Erfahren Sie, wie Sie extrahierte Daten [exportieren, eine Sammlung freigeben, z
     <div>
     <br>
   </td>
-   <td>
+  <td>
     <img alt="Spacer" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
+</tr>
 </tr>
 </table>

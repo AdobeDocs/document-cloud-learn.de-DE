@@ -1,20 +1,19 @@
 ---
-title: Vollständige Transparenz und Überwachung für Datenschutzrisiken
-description: Erfahrt, wie Adobe Analyzer in Acrobat Studio Datenschutz-, Rechts- und Beschaffungsteams dabei unterstützt, wichtige DPA-Bedingungen im benötigten Umfang zu extrahieren, zu überwachen und zu validieren
+title: Datenschutz- und Informationssicherheit - Überprüfen Sie die Datenschutzvereinbarungen
+description: Erfahrt, wie Datenschutz- und Informationssicherheitsteams Compliance-Lücken identifizieren und Verpflichtungen mit nachverfolgbaren Ergebnissen validieren können.
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22589
-source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '64'
 ht-degree: 0%
-
 ---
 
+# Datenschutz und Informationssicherheit: Datenschutzvereinbarungen überprüfen
 
-# Vollständige Transparenz und Überwachung von Datenschutzrisiken
+Wichtige Datenschutzbestimmungen in Anbietervereinbarungen und DPAs finden und überwachen. Erfahrt, wie Datenschutz- und Informationssicherheits-Teams mit Adobe Analyzer in Acrobat Studio Compliance-Lücken identifizieren und Verpflichtungen anhand nachverfolgbarer Ergebnisse validieren können.
 
-Datenschutzverpflichtungen werden oft in Hunderten von Anbietervereinbarungen verschachtelt, was es schwierig macht, Compliance-Lücken zu erkennen, bevor sie zu Geschäftsrisiken werden. Erfahrt, wie Adobe Analyzer in Acrobat Studio Datenschutz-, Rechts- und Beschaffungsteams dabei unterstützt, wichtige DPA-Bedingungen mit vollständig nachverfolgbaren Ergebnissen im benötigten Umfang zu extrahieren, zu überwachen und zu validieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503312?quality=12&learn=on&hidetitle=true)
