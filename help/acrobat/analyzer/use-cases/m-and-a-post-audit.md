@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Vertragsrisiken nach einer Fusion oder Übernahme ermitteln. Mit Adobe Analyzer in Acrobat Studio können M&amp;A-Teams große Vertragssätze analysieren, um wichtige Pflichten, Bedingungen und potenzielle Risiken in Minuten anstatt in Wochen zu identifizieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496335?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3496361?captions=ger&quality=12&learn=on&hidetitle=true)

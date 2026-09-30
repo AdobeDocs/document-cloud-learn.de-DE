@@ -16,4 +16,4 @@ ht-degree: 0%
 Identifizieren von Vertragsproblemen, die die Projektrentabilität verringern können Erfahrt, wie Bau- und Projektteams mit Adobe Analyzer in Acrobat Studio versäumte Änderungsaufträge, veraltete FIs und Lücken beim Schutz von Unterverträgen finden können, bevor sie sich auf die Margen auswirken.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3503507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503514?captions=ger&quality=12&learn=on&hidetitle=true)

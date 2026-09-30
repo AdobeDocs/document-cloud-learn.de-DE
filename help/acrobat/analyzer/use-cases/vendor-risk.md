@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Erfahrt, wie Adobe Analyzer in Acrobat Studio das Informationssicherheitsrisiko anhand von Lieferantenverträgen proaktiv identifizieren kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503853?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503860?captions=ger&quality=12&learn=on&hidetitle=true)
