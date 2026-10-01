@@ -1,20 +1,18 @@
 ---
-title: M&A-Prüfung nach Integration von Verträgen
-description: Erfahrt, wie ihr mit Analyzer in Acrobat Studio in wenigen Minuten statt Wochen ein Audit für M&A-Verträge nach der Integration durchführen könnt
+title: M&A - Prüfungsverträge nach einer Akquisition
+description: Erfahrt, wie M&A-Teams umfangreiche Vertragssätze analysieren können, um wichtige Pflichten, Bedingungen und potenzielle Risiken in Minuten anstatt in Wochen zu identifizieren.
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22149
-source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '73'
 ht-degree: 0%
-
 ---
 
+# M&amp;A: Verträge nach einer Akquisition prüfen
 
-# M&amp;A-Prüfung nach Integration
-
-Erfahrt, wie Adobe Analyzer in Acrobat Studio Unternehmen dabei helfen kann, ein M&amp;A-Audit nach der Integration durchzuführen - innerhalb von Minuten statt Wochen. Dabei werden mithilfe von GenAI wichtige Informationen extrahiert und festgestellt, welche Verträge das Risiko beinhalten.
+Vertragsrisiken nach einer Fusion oder Übernahme ermitteln. Mit Adobe Analyzer in Acrobat Studio können M&amp;A-Teams große Vertragssätze analysieren, um wichtige Pflichten, Bedingungen und potenzielle Risiken in Minuten anstatt in Wochen zu identifizieren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496361?captions=ger&quality=12&learn=on&hidetitle=true)

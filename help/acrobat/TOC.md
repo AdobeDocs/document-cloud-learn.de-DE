@@ -2,10 +2,10 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: c27925fb47f6fb33bbf2606da4f0f57d02552b0d
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '764'
-ht-degree: 6%
+source-wordcount: '767'
+ht-degree: 5%
 ---
 
 # Acrobat Tutorials {#acrobat-learning}
@@ -92,10 +92,11 @@ ht-degree: 6%
   + [Erweiterte Funktionen kennenlernen](analyzer/advanced.md)
   + Anwendungsfälle {#use-cases}
     + [Überblick](/help/acrobat/analyzer/use-cases/use-case-overview.md)
-    + [M&amp;A-Prüfung nach Integration](analyzer/use-cases/m-and-a-post-audit.md)
-    + [Beschleunigung der Prüfung von Einnahmen und Prüfungen im Finanzsektor](analyzer/use-cases/accelerate-revenue.md)
-    + [Vollständige Transparenz und Überwachung von Datenschutzrisiken](analyzer/use-cases/data-privacy-risk.md)
-    + [Verwaltung von Unteraufträgen zur Ermittlung der Erodierungsmargenquelle](analyzer/use-cases/identify-margin-erosion.md)
+    + [M&amp;A: Verträge nach einer Akquisition prüfen](analyzer/use-cases/m-and-a-post-audit.md)
+    + [Finanzen: Verträge zur Umsatzanerkennung und -prüfung prüfen](analyzer/use-cases/accelerate-revenue.md)
+    + [Datenschutz und Informationssicherheit: Datenschutzvereinbarungen überprüfen](analyzer/use-cases/data-privacy-risk.md)
+    + [Konstruktion: Nachschussrisiken in Unteraufträgen ermitteln](analyzer/use-cases/identify-margin-erosion.md)
+    + [Audit zur Informationssicherheit: Kreditorenrisiko ermitteln](analyzer/use-cases/vendor-risk.md)
   + [Schulungsvideos (in englischer Sprache)](https://experienceleague.adobe.com/en/docs/events/acrobat-analyser-webinars/overview){target=_blank}
 + Anwendungsfälle {#use-cases}
   + [Überblick](use-cases/use-cases-overview.md)
