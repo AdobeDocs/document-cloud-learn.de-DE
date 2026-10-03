@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Lerne, wie du mit Adobe Analyzer in Acrobat Studio komplexe Dokumente in klare Erkenntnisse verwandelst. Diese kurzen Tutorials erleichtern dir den Einstieg, zeigen erweiterte Funktionen auf und zeigen, wie du die Software in der Praxis einsetzt.
 
-[!BADGE Übersichtsvideo ansehen]{type=Informative url="https://video.tv.adobe.com/v/3503972"}
+[!BADGE Übersichtsvideo ansehen]{type=Informative url="https://video.tv.adobe.com/v/3503980?captions=ger"}
 
 ## Neue Funktionen
 
