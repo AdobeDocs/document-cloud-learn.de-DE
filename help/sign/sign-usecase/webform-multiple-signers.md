@@ -6,22 +6,25 @@ role: User
 level: Intermediate
 jira: KT-13596
 exl-id: c3da976d-df41-4632-ab9b-c3be3e4a7ffc
-TQID: https://experienceleague.adobe.com/sE49AJAwlu-aLW3TwVQqHICR1FSIn9JzcouxoLcIEak
+TQID: 'https://experienceleague.adobe.com/sE49AJAwlu-aLW3TwVQqHICR1FSIn9JzcouxoLcIEak'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Acrobat Sign
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+    internal-label: Intermediate
+source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
 workflow-type: tm+mt
-source-wordcount: 192
+source-wordcount: '192'
 ht-degree: 0%
-
 ---
-
 # Bewerbung für ein Regierungsdarlehen mit mehreren unbekannten Unterzeichnern
 
 Erfahren Sie, wie ein [Webformular](../sign-advanced-users/webform.md) für einen komplexen Arbeitsablauf für staatliche Kreditanträge verwendet wird, an dem mehrere unbekannte Teilnehmer beteiligt sind. Diese Formulare können in eine Website eingebettet oder als Link in einer E-Mail gesendet werden. Sie können auch auf jedem Gerät ausgefüllt werden, an jedem Ort, wodurch Prozesse und Service-Bereitstellung beschleunigt werden.
