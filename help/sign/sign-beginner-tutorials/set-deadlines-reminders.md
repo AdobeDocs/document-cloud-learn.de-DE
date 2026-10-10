@@ -34,5 +34,5 @@ Hier erfährst du, wie du in regelmäßigen Abständen E-Mails mit Erinnerungen 
 >
 >Bei Enterprise- und Business-Abos kann die Erinnerungsoption während des Sendevorgangs selektiv gelegt oder die konten- oder gruppenweite Automatisierung aktiviert werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411445?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425311?captions=ger&quality=12&learn=on&hidetitle=true)
 
