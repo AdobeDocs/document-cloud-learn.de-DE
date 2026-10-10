@@ -10,25 +10,30 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-TQID: https://experienceleague.adobe.com/oLA1KpsFqw0HDbAHJrI-ratPi-3YmAKDOLBTEvzuP0o
+TQID: 'https://experienceleague.adobe.com/oLA1KpsFqw0HDbAHJrI-ratPi-3YmAKDOLBTEvzuP0o'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Acrobat Sign
 feature_v2:
   - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+    internal-label: Integrations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+    internal-label: Intermediate
+source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
 workflow-type: tm+mt
-source-wordcount: 875
+source-wordcount: '875'
 ht-degree: 0%
-
 ---
-
 # Integrationen - Übersicht
 
 Sie können Acrobat Sign in anderen Anwendungen verwenden, die Ihre Organisation bereits verwendet, z. B. Microsoft, Salesforce, Workday und Marketo, um nur einige zu nennen. In diesen Anleitungen und Tutorials zur Integration erfahrt ihr, wie ihr eure Workflows für elektronische Unterschriften vereinfachen könnt.
@@ -48,7 +53,7 @@ Erfahren Sie, wie Sie [große Dokumente einrichten und Vereinbarungsdienste](sal
 
 Erfahren Sie, wie Sie Ihr Konto ganz einfach mit Salesforce verknüpfen können, um [automatische Updates](salesforce-automatic-updates.md) zu erhalten.
 
->[!TAB Integration der Registerkarte &quot; Dokumente&quot; für Microsoft Teams]
+>Integration der Registerkarte &quot;[!TAB Dokumente&quot; für Microsoft Teams]
 
 Erfahren Sie, wie Sie Dokumente direkt von der Registerkarte [Dokumente](acrobat-sign-teams-documents-tab.md) in [!DNL Microsoft Teams] zur Signatur senden.
 
@@ -127,7 +132,7 @@ Erfahren Sie, wie Sie Dokumente direkt von der Registerkarte [Dokumente](acrobat
     <div>
     <a href="documentautomation.md"><strong>Dokumentautomatisierung mit [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie die Connectors [!DNL Acrobat Sign] und [!DNL Adobe PDF Tools] für [!DNL Microsoft Power] Anwendungen aktivieren und verwenden</em>
+    <em>Erfahren Sie, wie Sie die [!DNL Acrobat Sign] und [!DNL Adobe PDF Tools] Verbindungen für [!DNL Microsoft Power] Anwendungen aktivieren und verwenden</em>
     <br>
   </td>
    <td>
@@ -169,7 +174,7 @@ Erfahren Sie, wie Sie Dokumente direkt von der Registerkarte [Dokumente](acrobat
     <div>
     <a href="simple-workflow-power-automate.md"><strong>Erstellen eines einfachen Workflows mit [!DNL Power Automate]</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie mithilfe von [!DNL Power Automate] Connectors einen einfachen Workflow erstellen</em>
+    <em>Erfahren Sie, wie Sie mit [!DNL Power Automate] Verbindungen einen einfachen Workflow erstellen</em>
     <br>
   </td>
   <td>
@@ -179,7 +184,7 @@ Erfahren Sie, wie Sie Dokumente direkt von der Registerkarte [Dokumente](acrobat
     <div>
     <a href="advanced-workflow-power-automate.md"><strong>Erstellen eines erweiterten Workflows mit Power Automate</strong></a>
     </div>
-    <em>Erfahren Sie, wie Sie mithilfe von [!DNL Power Automate] Connectors einen erweiterten Workflow erstellen</em>
+    <em>Erfahren Sie, wie Sie einen erweiterten Workflow mit [!DNL Power Automate] Verbindungen erstellen</em>
     <br>
   </td>
 <tr>
