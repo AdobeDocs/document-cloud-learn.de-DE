@@ -9,16 +9,14 @@ thumbnail: 33811.jpg
 exl-id: 8d882a5d-01b8-4cd4-b55f-2ef1e537dec5
 source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '68'
 ht-degree: 0%
-
 ---
-
 # Öffentliche Aufträge und Bestellformulare
 
 Ersetzen Sie die Papierverarbeitung schnell durch standardkonforme digitale Workflows inklusive Auditberichten. Erfahren Sie, wie Sie mit dem Designer-Tool für Acrobat Sign-Workflows den gesamten Prozess optimieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448060?quality=12&learn=on&hidetitle=true&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/33811?quality=12&learn=on&hidetitle=true)
 
 Wählen Sie diese Option, um eine schrittweise PDF-Rezeptur für Verträge und Anforderungsformulare herunterzuladen oder zu öffnen.
 
