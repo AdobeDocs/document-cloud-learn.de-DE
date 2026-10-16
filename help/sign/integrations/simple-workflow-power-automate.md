@@ -17,4 +17,4 @@ ht-degree: 0%
 Erfahren Sie, wie Mitglieder Ihres Unternehmens, die keine technischen Mitarbeiter sind, einfache Arbeitsabläufe erstellen können, die mithilfe der vordefinierten [!DNL Microsoft Power Automate]-Verbindungen, die kostenlos in Acrobat Sign enthalten sind, eine Verbindung zu anderen Systemen herstellen. Mit diesen automatisierten Dokumenten-Workflows können Sie häufige Prozesse beschleunigen und effizienter gestalten. Darüber hinaus reduzieren Sie den Zeitaufwand für Routineaufgaben und minimieren Fehler und Nachbearbeitung.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3424251?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437918?captions=ger&quality=12&learn=on&hidetitle=true)
