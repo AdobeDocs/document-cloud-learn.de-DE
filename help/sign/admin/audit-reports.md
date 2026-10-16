@@ -10,11 +10,9 @@ source-git-commit: f3017163d6edf5c2b3e3c6c6c388bf4c1f338084
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
-
 ---
-
 # Audit-Berichte
 
 Hier erfahren Sie, wie Sie auf Auditberichte zugreifen, diese verwenden und entsprechend den Anforderungen Ihres Unternehmens konfigurieren können. Jedes Dokument in Acrobat Sign durchläuft eine Reihe von Meilensteinen, die den Fortschritt einer Transaktion definieren. Diese Meilensteine werden für jede Transaktion in einem Audit-Bericht ausführlich dokumentiert.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448554?quality=12&learn=on&hidetitle=true&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3432661?quality=12&learn=on&hidetitle=true)
