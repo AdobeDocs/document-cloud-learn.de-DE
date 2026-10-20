@@ -41,7 +41,7 @@ Im ersten Teil lernst du, wie du mit allem anfängst, was du für die Teile 2-4 
 
 +++Details zum Abrufen von API-Zugangsberechtigungen anzeigen
 
-* [Acrobat Sign-Entwicklerkonto](https://www.adobe.com/acrobat/business/developer-form.html)
+* [Acrobat Sign-Entwicklerkonto](https://www.adobe.com/de/acrobat/business/developer-form.html)
 * [Startcode](https://github.com/benvanderberg/adobe-sign-api-tutorial)
 * [VS-Code (oder Editor Ihrer Wahl)](https://code.visualstudio.com)
 * Python 3.x

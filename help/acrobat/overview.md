@@ -31,7 +31,7 @@ Mit Adobe Acrobat, einer Lösung von Adobe Document Cloud, kannst du PDF-Dokumen
 
 >[!NOTE]
 >
->Der Zugriff auf die Funktionen ist von Ihrem Acrobat-Abo abhängig. Verwenden Sie den [Acrobat-Abo-Vergleich](https://www.adobe.com/acrobat/pricing.html), um die verfügbaren Funktionen zu ermitteln. Einige Funktionen werden in Phasen eingeführt und sind möglicherweise noch nicht für alle verfügbar.
+>Der Zugriff auf die Funktionen ist von Ihrem Acrobat-Abo abhängig. Verwenden Sie den [Acrobat-Abo-Vergleich](https://www.adobe.com/de/acrobat/pricing.html), um die verfügbaren Funktionen zu ermitteln. Einige Funktionen werden in Phasen eingeführt und sind möglicherweise noch nicht für alle verfügbar.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
