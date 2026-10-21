@@ -43,7 +43,7 @@ PDF-Inhalte sollten eindeutig sein und wie folgt strukturiert sein:
 * Hinzufügen eines verlinkten Inhaltsverzeichnisses für Dokumente mit mehr als 25 Seiten
 * [Texterkennung](https://experienceleague.adobe.com/de/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) für alle gescannten Dokumente ausführen
 * Mobile-optimierte PDF.
-Um das mobile Anzeigeerlebnis Ihres PDF zu überprüfen, öffnen Sie die Datei in der [Acrobat Reader-App](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) und aktivieren Sie den Liquid Mode. Fügen Sie bei Bedarf weitere Unterüberschriften hinzu, um die Navigation zu verbessern.
+Um das mobile Anzeigeerlebnis Ihres PDF zu überprüfen, öffnen Sie die Datei in der [Acrobat Reader-App](https://www.adobe.com/de/acrobat/mobile/acrobat-reader.html) und aktivieren Sie den Liquid Mode. Fügen Sie bei Bedarf weitere Unterüberschriften hinzu, um die Navigation zu verbessern.
 
   ![Screenshot des Liquid Mode in der mobilen Acrobat Reader-App](../assets/optimizeseo1.png)
 

@@ -40,7 +40,7 @@ Hier sind die [Demodateien](assets/03_FillSignScan.zip) für diese Übung.
 
 **Schritt 4:** Verwenden Sie die weiße Schaltfläche, um ein Foto aufzunehmen, und tippen Sie dann auf **[!UICONTROL Foto verwenden]**. Tippen Sie in der oberen rechten Ecke auf **[!UICONTROL Fertig]**.
 
-**Schritt 5:** Tippen Sie am unteren Rand der App auf das Werkzeug **[!UICONTROL Zuschneiden]** und verwenden Sie die Hilfslinien, um das Bild [zuzuschneiden](https://www.adobe.com/acrobat/online/crop-pdf.html). Tippen Sie anschließend auf **[!UICONTROL Fertig]**.
+**Schritt 5:** Tippen Sie am unteren Rand der App auf das Werkzeug **[!UICONTROL Zuschneiden]** und verwenden Sie die Hilfslinien, um das Bild [zuzuschneiden](https://www.adobe.com/de/acrobat/online/crop-pdf.html). Tippen Sie anschließend auf **[!UICONTROL Fertig]**.
 
 ![lokales Dokumentabbild](assets/localdoc.jpg)
 

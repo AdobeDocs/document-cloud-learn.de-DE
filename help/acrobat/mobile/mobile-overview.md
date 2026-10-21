@@ -87,14 +87,14 @@ Erstellen, füllen und [signieren Sie PDF](https://www.adobe.com/de/acrobat/onli
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-Laden Sie [Adobe Acrobat Reader mobile app](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target="_blank"} herunter, den kostenlosen globalen Standard für die zuverlässige Anzeige, Kommentierung und Unterzeichnung von PDF.
+Laden Sie [Adobe Acrobat Reader mobile app](https://www.adobe.com/de/acrobat/mobile/acrobat-reader.html){target="_blank"} herunter, den kostenlosen globalen Standard für die zuverlässige Anzeige, Kommentierung und Unterzeichnung von PDF.
 
-[Handbuch für Acrobat Reader für iOS für Mobilgeräte](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target="_blank"}
-[Acrobat Reader für Android - Handbuch für Mobilgeräte](https://www.adobe.com/devnet-docs/acrobat/android/en/){target="_blank"}
+[Handbuch für Acrobat Reader für iOS für Mobilgeräte](https://www.adobe.com/de/devnet-docs/acrobat/ios/en/){target="_blank"}
+[Acrobat Reader für Android - Handbuch für Mobilgeräte](https://www.adobe.com/de/devnet-docs/acrobat/android/en/){target="_blank"}
 
-Laden Sie die [mobile Adobe Scan-App](https://www.adobe.com/acrobat/mobile/scanner-app.html){target="_blank"} herunter, um ein beliebiges Papierdokument zu erfassen und in eine hochwertige PDF mit durchsuchbarem Text zu verwandeln.
+Laden Sie die [mobile Adobe Scan-App](https://www.adobe.com/de/acrobat/mobile/scanner-app.html){target="_blank"} herunter, um ein beliebiges Papierdokument zu erfassen und in eine hochwertige PDF mit durchsuchbarem Text zu verwandeln.
 
-[Handbuch für Adobe Scan für iOS für Mobilgeräte](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target="_blank"}
-[Adobe Scan für Android - Handbuch für Mobilgeräte](https://www.adobe.com/devnet-docs/adobescan/android/en/){target="_blank"}
+[Handbuch für Adobe Scan für iOS für Mobilgeräte](https://www.adobe.com/de/devnet-docs/adobescan/ios/en/){target="_blank"}
+[Adobe Scan für Android - Handbuch für Mobilgeräte](https://www.adobe.com/de/devnet-docs/adobescan/android/en/){target="_blank"}
 
-Laden Sie die [mobile Adobe Fill &amp; Sign-App](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target="_blank"} herunter, um Formulare überall und auf jedem Gerät auszufüllen, zu signieren und zu senden - mit nur Ihrem Finger oder einem Eingabestift.
+Laden Sie die [mobile Adobe Fill &amp; Sign-App](https://www.adobe.com/de/acrobat/mobile/fill-sign-pdfs.html){target="_blank"} herunter, um Formulare überall und auf jedem Gerät auszufüllen, zu signieren und zu senden - mit nur Ihrem Finger oder einem Eingabestift.

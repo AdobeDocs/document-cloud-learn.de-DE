@@ -55,11 +55,11 @@ Artikel mit wertvollen Einblicken und Best Practices für die Bereitstellung von
     <br>
   </td>
   <td>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank">
+    <a href="https://www.adobe.com/de/trust/document-cloud-security.html" target="_blank">
       <img alt="Adobe Trust Center" src="assets/Deploy_Trust.png" />
     </a>
     <div>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Adobe Trust Center</strong></a>
+    <a href="https://www.adobe.com/de/trust/document-cloud-security.html" target="_blank"><strong>Adobe Trust Center</strong></a>
     </div>
     <em>Erfahrt mehr über unsere fortlaufenden Bemühungen um Sicherheit, Rechtsgültigkeit und Standards für Acrobat Sign</em>
     <br>
