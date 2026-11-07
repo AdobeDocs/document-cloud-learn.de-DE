@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Hole Unterschriften aller Mitarbeiter effizient ein, z. B. für Richtlinienvereinbarungen oder Richtlinienaktualisierungen. Erfahren Sie, wie Sie ein Online-Webformular erstellen, das ausgefüllt **und** signiert werden kann, ohne etwas zu drucken oder per E-Mail zu versenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/33979?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506313?captions=ger&quality=12&learn=on&hidetitle=true)
 
 Wählen Sie diese Option, um ein schrittweises PDF-Rezept für Richtlinienvereinbarungen herunterzuladen oder zu öffnen.
 
