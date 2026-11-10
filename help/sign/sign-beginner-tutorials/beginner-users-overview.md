@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
+source-git-commit: f4a2ca705da9c9662c925702fd41d4f5fc494785
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '607'
 ht-degree: 22%
 ---
 # Übersicht über die ersten Schritte
@@ -37,21 +37,21 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
 
 >[!BEGINTABS]
 
+>[!TAB Dokumente und Vorlagen vor dem Senden bearbeiten]
+
+Erfahren Sie, wie Sie Text, Bilder und Vorlagen [bearbeiten, bevor Sie ](edit.md) direkt in Acrobat Sign senden.
+
 >[!TAB Verwendung von Kopie erstellen]
 
 Erfahren Sie, wie Sie mit [Kopie erstellen](../sign-beginner-tutorials/create-a-copy.md) eine vorhandene Vereinbarung duplizieren. Du kannst schnell anpassen, was geändert werden muss, und das Dokument in Sekunden erneut versenden. Keine Wiederherstellung von Grund auf.
 
 >[!TAB Dokument nach dem Senden ändern]
 
-Erfahren Sie, wie [ein Dokument &#x200B;](../sign-beginner-tutorials/manage-and-track.md) ändern kann, das bereits zur Signatur gesendet wurde.
+Erfahren Sie, wie [ein Dokument ](../sign-beginner-tutorials/manage-and-track.md) ändern kann, das bereits zur Signatur gesendet wurde.
 
 >[!TAB Vereinbarungen verwalten und verfolgen]
 
 Erfahren Sie, wie [Vereinbarungen verwalten und verfolgen](../sign-beginner-tutorials/manage-and-track.md), die zur Signatur gesendet wurden.
-
->[!TAB Ein Dokument elektronisch signieren]
-
-Erfahren Sie, wie einfach es ist, ein Dokument, das Ihnen mit Acrobat Sign gesendet wurde, [zu signieren](../sign-beginner-tutorials/electronically-sign-a-document.md).
 
 >[!ENDTABS]
 
@@ -183,6 +183,31 @@ Erfahren Sie, wie einfach es ist, ein Dokument, das Ihnen mit Acrobat Sign gesen
     Hier erfahren Sie, wie Sie eine Kopie erstellen verwenden, um eine vorhandene Vereinbarung zu duplizieren.
     <br>
     </td>
+    <td>
+     <a href="edit.md">
+      <img alt="Dokumente und Vorlagen vor dem Senden bearbeiten" src="../assets/edit.png" />
+    </a>
+    <div>
+    <a href="edit.md"><strong>Dokumente und Vorlagen vor dem Senden bearbeiten</strong></a>
+    </div>
+    Erfahren Sie, wie Sie Text, Bilder und Vorlagen vor dem Senden bearbeiten
+    <br>
+    </td>
+     <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Spacer" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
