@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: f4a2ca705da9c9662c925702fd41d4f5fc494785
+source-git-commit: 8bff0f338f32aec1065ec258e1507078631600dd
 workflow-type: tm+mt
-source-wordcount: '607'
+source-wordcount: '593'
 ht-degree: 22%
 ---
 # Übersicht über die ersten Schritte
@@ -39,7 +39,7 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
 
 >[!TAB Dokumente und Vorlagen vor dem Senden bearbeiten]
 
-Erfahren Sie, wie Sie Text, Bilder und Vorlagen [bearbeiten, bevor Sie &#x200B;](edit.md) direkt in Acrobat Sign senden.
+Erfahren Sie, wie Sie Text, Bilder und Vorlagen [bearbeiten, bevor Sie ](edit.md) direkt in Acrobat Sign senden.
 
 >[!TAB Verwendung von Kopie erstellen]
 
@@ -47,11 +47,7 @@ Erfahren Sie, wie Sie mit [Kopie erstellen](../sign-beginner-tutorials/create-a-
 
 >[!TAB Dokument nach dem Senden ändern]
 
-Erfahren Sie, wie [ein Dokument &#x200B;](../sign-beginner-tutorials/manage-and-track.md) ändern kann, das bereits zur Signatur gesendet wurde.
-
->[!TAB Vereinbarungen verwalten und verfolgen]
-
-Erfahren Sie, wie [Vereinbarungen verwalten und verfolgen](../sign-beginner-tutorials/manage-and-track.md), die zur Signatur gesendet wurden.
+Erfahren Sie, wie [ein Dokument ](../sign-beginner-tutorials/manage-and-track.md) ändern kann, das bereits zur Signatur gesendet wurde.
 
 >[!ENDTABS]
 
@@ -183,6 +179,8 @@ Erfahren Sie, wie [Vereinbarungen verwalten und verfolgen](../sign-beginner-tuto
     Hier erfahren Sie, wie Sie eine Kopie erstellen verwenden, um eine vorhandene Vereinbarung zu duplizieren.
     <br>
     </td>
+  </tr>
+  <tr>
     <td>
      <a href="edit.md">
       <img alt="Dokumente und Vorlagen vor dem Senden bearbeiten" src="../assets/edit.png" />
