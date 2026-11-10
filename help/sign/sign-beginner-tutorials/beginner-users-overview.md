@@ -39,7 +39,7 @@ Erfahre in diesen kurzen Schritt-für-Schritt-Tutorials, wie du Dokumente versen
 
 >[!TAB Dokumente und Vorlagen vor dem Senden bearbeiten]
 
-Erfahren Sie, wie Sie Text, Bilder und Vorlagen [bearbeiten, bevor Sie ](edit.md) direkt in Acrobat Sign senden.
+Erfahren Sie, wie Sie Text, Bilder und Vorlagen [bearbeiten, bevor Sie &#x200B;](edit.md) direkt in Acrobat Sign senden.
 
 >[!TAB Verwendung von Kopie erstellen]
 
@@ -47,7 +47,7 @@ Erfahren Sie, wie Sie mit [Kopie erstellen](../sign-beginner-tutorials/create-a-
 
 >[!TAB Dokument nach dem Senden ändern]
 
-Erfahren Sie, wie [ein Dokument ](../sign-beginner-tutorials/manage-and-track.md) ändern kann, das bereits zur Signatur gesendet wurde.
+Erfahren Sie, wie [ein Dokument &#x200B;](../sign-beginner-tutorials/manage-and-track.md) ändern kann, das bereits zur Signatur gesendet wurde.
 
 >[!TAB Vereinbarungen verwalten und verfolgen]
 

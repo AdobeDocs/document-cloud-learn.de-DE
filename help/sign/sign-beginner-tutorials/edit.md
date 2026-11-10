@@ -17,6 +17,6 @@ Ausführliche Informationen zu den Funktionen und Einschränkungen sind hier [ve
 
 >[!NOTE]
 >
->Die Dokumentbearbeitung muss von Ihrem Administrator aktiviert werden. Weitere Informationen finden Sie hier [](https://helpx.adobe.com/sign/web/settings-configuration/send-settings/edit-agreement.html).
+>Die Dokumentbearbeitung muss von Ihrem Administrator aktiviert werden. Weitere Informationen finden Sie hier [&#128279;](https://helpx.adobe.com/sign/web/settings-configuration/send-settings/edit-agreement.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3508107?quality=12&learn=on&hidetitle=true)
