@@ -13,10 +13,10 @@ ht-degree: 0%
 
 Änderungen in letzter Minute sind Teil jedes Workflows. In diesem Tutorial lernst du, wie du direkt in Acrobat Sign Dokumenteninhalte aktualisierst, Bilder ersetzt und Vorlagen korrigierst.
 
-Ausführliche Informationen zu den Funktionen und Einschränkungen sind hier [verfügbar](https://helpx.adobe.com/sign/web/authoring/edit-agreement/new.html).
+Ausführliche Informationen zu den Funktionen und Einschränkungen sind hier [verfügbar](https://helpx.adobe.com/de/sign/web/authoring/edit-agreement/new.html).
 
 >[!NOTE]
 >
->Die Dokumentbearbeitung muss von Ihrem Administrator aktiviert werden. Weitere Informationen finden Sie hier [&#128279;](https://helpx.adobe.com/sign/web/settings-configuration/send-settings/edit-agreement.html).
+>Die Dokumentbearbeitung muss von Ihrem Administrator aktiviert werden. Weitere Informationen finden Sie hier [&#128279;](https://helpx.adobe.com/de/sign/web/settings-configuration/send-settings/edit-agreement.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3508107?quality=12&learn=on&hidetitle=true)
