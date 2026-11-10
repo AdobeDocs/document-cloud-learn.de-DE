@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 6be89d2539d3a17a74f75460b58b924590e89d43
+source-git-commit: f4a2ca705da9c9662c925702fd41d4f5fc494785
 workflow-type: tm+mt
-source-wordcount: '700'
+source-wordcount: '706'
 ht-degree: 13%
 ---
 
@@ -36,6 +36,7 @@ ht-degree: 13%
     + [Wiederverwendbare Vorlage erstellen](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=de)
     + [Erforderliche Auswahlen durch Kontrollkästchengruppen führen](sign-beginner-tutorials/checkbox-groups.md)
     + [Wann eignet sich die Option Kopie erstellen?](sign-beginner-tutorials/create-a-copy.md)
+    + [Dokumente und Vorlagen vor dem Senden bearbeiten](sign-beginner-tutorials/edit.md)
   + Unterschreiben {#getting-started-signing}
     + [Dokumente elektronisch unterschreiben](sign-beginner-tutorials/electronically-sign-a-document.md)
     + [Ein Dokument ausfüllen und unterschreiben](sign-beginner-tutorials/fill-and-sign.md)
