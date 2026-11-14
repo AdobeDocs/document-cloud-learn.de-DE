@@ -17,4 +17,4 @@ ht-degree: 0%
 >
 >Die Dokumentbearbeitung muss von Ihrem Administrator aktiviert werden. Weitere Informationen finden Sie hier [&#128279;](https://helpx.adobe.com/de/sign/web/settings-configuration/send-settings/edit-agreement.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/3508107?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3508114?captions=ger&quality=12&learn=on&hidetitle=true)
